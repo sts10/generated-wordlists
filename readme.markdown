@@ -20,6 +20,22 @@ Longest shared prefix     : 10
 Unique character prefix   : 11
 ```
 
+`lists/short.txt` is a short list with words that have unique three-character prefixes and the shortest edit distance between any two words is 3 characters. 
+```text
+List length               : 954
+Mean word length          : 8.58
+Length of shortest word   : 5 (xylem)
+Length of longest word    : 10 (yesteryear)
+Free of prefix words      : true
+Entropy per word          : 9.8978
+Assumed entropy per letter: 1.9796
+Above brute force line    : true
+Above Shannon line        : true
+Shortest edit distance    : 3
+Longest shared prefix     : 2
+Unique character prefix   : 3
+```
+
 `lists/1password-replacement.txt`: A suggested replacement for [1Password](https://1password.com/)'s word list. Note that it is 53 words _shorter_ than [the list 1Password used in 2021](https://1password.com/txt/agwordlist.txt).
 ```text
 List length               : 18123
