@@ -5,7 +5,7 @@ A repository for word lists I've generated.
 ## About the word lists
 
 `basic.txt`: A long word list using common English words [based on Google Ngram data](https://github.com/sts10/common_word_list_maker).
-List length               : 18210
+List length               : 18209
 Mean word length          : 7.69
 Length of shortest word   : 4 (ably)
 Length of longest word    : 11 (worshipping)
