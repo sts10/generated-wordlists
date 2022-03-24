@@ -4,7 +4,7 @@ A repository for word lists I've generated using Google Ngram data to favor comm
 
 ## About the word lists
 
-`lists/basic.txt`: A long word list 
+lists/[basic.txt](lists/basic.txt): A long word list 
 ```text
 List length               : 18209
 Mean word length          : 7.69
