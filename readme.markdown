@@ -49,6 +49,9 @@ Unique character prefix   : 5
 ## Tools I use to generate word lists
 
 - [Common Word List Maker](https://github.com/sts10/common_word_list_maker): Scrapes Google Books Ngram data to create a long word list 
-- [Tidy](https://github.com/sts10/tidy): A command-line utility for editing word lists
+- [Tidy](https://github.com/sts10/tidy): A command-line utility for editing word lists. Also print attributes of word lists, such as those printed above.
 - [Homophones](https://github.com/sts10/homophones/tree/main/homophone-lists): A list of English homophones, and method for producing more lists of English homophones
 
+## Requests? Suggestions? 
+
+Happy to make word lists given reasonable parameters! Just create an Issue.
