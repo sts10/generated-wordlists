@@ -36,21 +36,21 @@ Longest shared prefix     : 7
 Unique character prefix   : 8
 ```
 
-<!-- **[diceware.txt](lists/diceware.txt)**: A new list for using with diceware. Like [the EFF long list](https://www.eff.org/dice), it is free of prefix words. -->
-<!-- ```text -->
-<!-- List length               : 7776 -->
-<!-- Mean word length          : 6.93 -->
-<!-- Length of shortest word   : 5 (aback) -->
-<!-- Length of longest word    : 9 (yesterday) -->
-<!-- Free of prefix words      : true -->
-<!-- Entropy per word          : 12.9248 -->
-<!-- Assumed entropy per letter: 2.5850 -->
-<!-- Above brute force line    : true -->
-<!-- Above Shannon line        : true -->
-<!-- Shortest edit distance    : 1 -->
-<!-- Longest shared prefix     : 4 -->
-<!-- Unique character prefix   : 5 -->
-<!-- ``` -->
+**[diceware.txt](lists/diceware.txt)**: A new list for using with diceware. Like [the EFF long list](https://www.eff.org/dice), it is free of prefix words and the word lengths range from 3 to 9 characters.
+```text
+List length               : 7776
+Mean word length          : 7.20
+Length of shortest word   : 3 (ego)
+Length of longest word    : 9 (youngster)
+Free of prefix words      : true
+Entropy per word          : 12.9248
+Assumed entropy per letter: 4.3083
+Above brute force line    : true
+Above Shannon line        : false
+Shortest edit distance    : 1
+Longest shared prefix     : 8
+Unique character prefix   : 9
+```
 
 **[short.txt](lists/short.txt)** is a short list with words that have unique three-character prefixes and the shortest edit distance between any two words is 3 characters. It's also free of prefix words. These attributes of the list are meant to emulate [the EFF short lists](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases).
 ```text
