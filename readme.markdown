@@ -6,13 +6,13 @@ A repository for word lists I've generated. Some lists are based on Google Ngram
 
 **[basic.txt](lists/basic.txt)**: A long word list based on common words in Google Ngram data
 ```text
-List length               : 18209
+List length               : 18206
 Mean word length          : 7.69
 Length of shortest word   : 4 (ably)
 Length of longest word    : 11 (worshipping)
 Free of prefix words      : false
-Entropy per word          : 14.1524
-Assumed entropy per letter: 3.5381
+Entropy per word          : 14.1521
+Assumed entropy per letter: 3.5380
 Above brute force line    : true
 Above Shannon line        : false
 Shortest edit distance    : 1
@@ -39,7 +39,7 @@ Unique character prefix   : 8
 **[diceware.txt](lists/diceware.txt)**: A new list for using with diceware. Like [the EFF long list](https://www.eff.org/dice), it is free of prefix words and the word lengths range from 3 to 9 characters.
 ```text
 List length               : 7776
-Mean word length          : 7.20
+Mean word length          : 7.21
 Length of shortest word   : 3 (ego)
 Length of longest word    : 9 (youngster)
 Free of prefix words      : true
@@ -70,14 +70,14 @@ Unique character prefix   : 3
 
 **[wikilist.txt](lists/wikilist.txt)** is based on [word frequency from Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/blob/master/results/enwiki-20190320-words-frequency.txt) rather than Google Ngram data. (Thanks to [Aaron Toponce](https://fosstodon.org/@atoponce) for pointing me to this list.)
 ```text
-List length               : 17920
-Mean word length          : 7.31
+List length               : 17511
+Mean word length          : 7.30
 Length of shortest word   : 3 (ace)
 Length of longest word    : 11 (worshippers)
 Free of prefix words      : false
-Entropy per word          : 14.1293
-Assumed entropy per letter: 4.7098
-Above brute force line    : false
+Entropy per word          : 14.0960
+Assumed entropy per letter: 4.6987
+Above brute force line    : true
 Above Shannon line        : false
 Shortest edit distance    : 1
 Longest shared prefix     : 10

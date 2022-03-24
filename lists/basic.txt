@@ -1867,7 +1867,6 @@ boost
 boosted
 booster
 boosting
-boot
 booth
 booths
 boots
@@ -12923,7 +12922,6 @@ readers
 readership
 readily
 readiness
-reading
 readings
 reaffirm
 reaffirmed
@@ -15390,7 +15388,6 @@ stanza
 stanzas
 staple
 staples
-star
 starboard
 starch
 stares
