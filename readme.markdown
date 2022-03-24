@@ -54,13 +54,13 @@ Unique character prefix   : 5
 
 **[short.txt](lists/short.txt)** is a short list with words that have unique three-character prefixes and the shortest edit distance between any two words is 3 characters. It's also free of prefix words. The attributes of the list are meant to emulate [the EFF short lists](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases).
 ```text
-List length               : 954
+List length               : 953
 Mean word length          : 8.58
 Length of shortest word   : 5 (xylem)
 Length of longest word    : 10 (yesteryear)
 Free of prefix words      : true
-Entropy per word          : 9.8978
-Assumed entropy per letter: 1.9796
+Entropy per word          : 9.8963
+Assumed entropy per letter: 1.9793
 Above brute force line    : true
 Above Shannon line        : true
 Shortest edit distance    : 3
