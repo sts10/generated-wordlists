@@ -74,7 +74,7 @@ Unique character prefix   : 3
 - [Tidy](https://github.com/sts10/tidy): A command-line utility for editing word lists. Can also print notable attributes of word lists, such as those printed above.
 - [Homophones](https://github.com/sts10/homophones/tree/main/homophone-lists): A list of English homophones, and a method for producing more lists of English homophones
 
-## Disclosures
+## Disclaimers
 
 While I've attempted to remove offensive words from these lists, since I haven't checked them by hand there may be some left. Apologies! Feel free to create an Issue or Pull Request removing the offensive word(s).
 
