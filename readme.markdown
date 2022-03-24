@@ -1,10 +1,10 @@
 # Generated word lists
 
-A repository for word lists I've generated. 
+A repository for word lists I've generated using Google Ngram data to favor commonly used English words.
 
 ## About the word lists
 
-`lists/basic.txt`: A long word list using common English words [based on Google Ngram data](https://github.com/sts10/common_word_list_maker).
+`lists/basic.txt`: A long word list 
 ```text
 List length               : 18209
 Mean word length          : 7.69
@@ -20,7 +20,7 @@ Longest shared prefix     : 10
 Unique character prefix   : 11
 ```
 
-`lists/1password-replacement.txt`: A suggested replacement for 1Password's word list.
+`lists/1password-replacement.txt`: A suggested replacement for [1Password](https://1password.com/)'s word list
 ```text
 List length               : 18123
 Mean word length          : 6.34
