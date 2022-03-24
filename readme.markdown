@@ -1,10 +1,10 @@
 # Generated word lists
 
-A repository for word lists I've generated using Google Ngram data to favor commonly used English words.
+A repository for word lists I've generated. Some lists are based on Google Ngram data, while others are based on [word frequency on Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/blob/master/results/enwiki-20190320-words-frequency.txt).
 
 ## About the word lists
 
-**[basic.txt](lists/basic.txt)**: A long word list 
+**[basic.txt](lists/basic.txt)**: A long word list based on common words in Google Ngram data
 ```text
 List length               : 18209
 Mean word length          : 7.69
@@ -20,15 +20,15 @@ Longest shared prefix     : 10
 Unique character prefix   : 11
 ```
 
-**[1password-replacement.txt](lists/1password-replacement.txt)**: A suggested replacement for [1Password](https://1password.com/)'s word list. It has the same minimum and maximum word length, though note that it is 53 words _shorter_ than [the list 1Password was using in 2021](https://1password.com/txt/agwordlist.txt).
+**[1password-replacement.txt](lists/1password-replacement.txt)**: A suggested replacement for [1Password](https://1password.com/)'s word list, based on common words in Google Ngram data. It has the same minimum and maximum word length, though note that it is 55 words _shorter_ than [the list 1Password was using in 2021](https://1password.com/txt/agwordlist.txt).
 ```text
-List length               : 18123
+List length               : 18121
 Mean word length          : 6.34
 Length of shortest word   : 3 (ace)
 Length of longest word    : 8 (zucchini)
 Free of prefix words      : false
-Entropy per word          : 14.1455
-Assumed entropy per letter: 4.7152
+Entropy per word          : 14.1454
+Assumed entropy per letter: 4.7151
 Above brute force line    : false
 Above Shannon line        : false
 Shortest edit distance    : 1
@@ -36,21 +36,21 @@ Longest shared prefix     : 7
 Unique character prefix   : 8
 ```
 
-**[diceware.txt](lists/diceware.txt)**: A new list for using with diceware. Like [the EFF long list](https://www.eff.org/dice), it is free of prefix words.
-```text
-List length               : 7776
-Mean word length          : 6.93
-Length of shortest word   : 5 (aback)
-Length of longest word    : 9 (yesterday)
-Free of prefix words      : true
-Entropy per word          : 12.9248
-Assumed entropy per letter: 2.5850
-Above brute force line    : true
-Above Shannon line        : true
-Shortest edit distance    : 1
-Longest shared prefix     : 4
-Unique character prefix   : 5
-```
+<!-- **[diceware.txt](lists/diceware.txt)**: A new list for using with diceware. Like [the EFF long list](https://www.eff.org/dice), it is free of prefix words. -->
+<!-- ```text -->
+<!-- List length               : 7776 -->
+<!-- Mean word length          : 6.93 -->
+<!-- Length of shortest word   : 5 (aback) -->
+<!-- Length of longest word    : 9 (yesterday) -->
+<!-- Free of prefix words      : true -->
+<!-- Entropy per word          : 12.9248 -->
+<!-- Assumed entropy per letter: 2.5850 -->
+<!-- Above brute force line    : true -->
+<!-- Above Shannon line        : true -->
+<!-- Shortest edit distance    : 1 -->
+<!-- Longest shared prefix     : 4 -->
+<!-- Unique character prefix   : 5 -->
+<!-- ``` -->
 
 **[short.txt](lists/short.txt)** is a short list with words that have unique three-character prefixes and the shortest edit distance between any two words is 3 characters. It's also free of prefix words. These attributes of the list are meant to emulate [the EFF short lists](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases).
 ```text
