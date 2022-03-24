@@ -4,7 +4,7 @@ A repository for word lists I've generated.
 
 ## About the word lists
 
-`basic.txt`: A long word list using common English words [based on Google Ngram data](https://github.com/sts10/common_word_list_maker).
+`lists/basic.txt`: A long word list using common English words [based on Google Ngram data](https://github.com/sts10/common_word_list_maker).
 List length               : 18209
 Mean word length          : 7.69
 Length of shortest word   : 4 (ably)
@@ -18,7 +18,7 @@ Shortest edit distance    : 1
 Longest shared prefix     : 10
 Unique character prefix   : 11
 
-`1password-replacement.txt`: A suggested replacement for 1Password's word list.
+`lists/1password-replacement.txt`: A suggested replacement for 1Password's word list.
 List length               : 18123
 Mean word length          : 6.34
 Length of shortest word   : 3 (ace)
@@ -32,7 +32,7 @@ Shortest edit distance    : 1
 Longest shared prefix     : 7
 Unique character prefix   : 8
 
-`diceware.txt`: A new list for using with diceware, notably free of prefix words.
+`lists/diceware.txt`: A new list for using with diceware, notably free of prefix words.
 List length               : 7776
 Mean word length          : 6.93
 Length of shortest word   : 5 (aback)
@@ -51,6 +51,12 @@ Unique character prefix   : 5
 - [Common Word List Maker](https://github.com/sts10/common_word_list_maker): Scrapes Google Books Ngram data to create a long word list 
 - [Tidy](https://github.com/sts10/tidy): A command-line utility for editing word lists. Also print attributes of word lists, such as those printed above.
 - [Homophones](https://github.com/sts10/homophones/tree/main/homophone-lists): A list of English homophones, and method for producing more lists of English homophones
+
+## On licensing/usage
+
+This project and its word lists are licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/). See LICENSE file for more information.
+
+The Google Books Ngram data compilation I used "is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)" ([source](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)). This project has no association with Google, nor does Google endorse this project. 
 
 ## Requests? Suggestions? 
 
