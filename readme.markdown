@@ -20,7 +20,7 @@ Longest shared prefix     : 10
 Unique character prefix   : 11
 ```
 
-**[1password-replacement.txt](lists/1password-replacement.txt)**: A suggested replacement for [1Password](https://1password.com/)'s word list. It has the same minimum and maximum word length, though note that it is 53 words _shorter_ than [the list 1Password as using in 2021](https://1password.com/txt/agwordlist.txt).
+**[1password-replacement.txt](lists/1password-replacement.txt)**: A suggested replacement for [1Password](https://1password.com/)'s word list. It has the same minimum and maximum word length, though note that it is 53 words _shorter_ than [the list 1Password was using in 2021](https://1password.com/txt/agwordlist.txt).
 ```text
 List length               : 18123
 Mean word length          : 6.34
