@@ -68,6 +68,22 @@ Longest shared prefix     : 2
 Unique character prefix   : 3
 ```
 
+**[wikilist.txt](lists/wikilist.txt)** is based on [word frequency from Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/blob/master/results/enwiki-20190320-words-frequency.txt) rather than Google Ngram data. (Thanks to [Aaron Toponce](https://fosstodon.org/@atoponce) for pointing me to this list.)
+```text
+List length               : 17920
+Mean word length          : 7.31
+Length of shortest word   : 3 (ace)
+Length of longest word    : 11 (worshippers)
+Free of prefix words      : false
+Entropy per word          : 14.1293
+Assumed entropy per letter: 4.7098
+Above brute force line    : false
+Above Shannon line        : false
+Shortest edit distance    : 1
+Longest shared prefix     : 10
+Unique character prefix   : 11
+```
+
 ## Tools I used to generate these word lists
 
 - [Common Word List Maker](https://github.com/sts10/common_word_list_maker): Scrapes Google Books Ngram data to create a long word list
