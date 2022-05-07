@@ -36,7 +36,7 @@ Longest shared prefix     : 7
 Unique character prefix   : 8
 ```
 
-**[diceware.txt](lists/diceware.txt)**: A new list for using with diceware. Like [the EFF long list](https://www.eff.org/dice), it is free of prefix words, though it has words longer than 9 charmers, unlike the EFF long list. The version in this repo has the corresponding dice rolls next to each word, followed by a tab.
+**[diceware.txt](lists/diceware.txt)**: A new list for using with diceware. Like [the EFF long list](https://www.eff.org/dice), it is free of prefix words, though it has words longer than 9 characters, unlike the EFF long list. The version in this repo has the corresponding dice rolls preceding each word, followed by a tab. 
 ```text
 List length               : 7776
 Mean word length          : 7.83
