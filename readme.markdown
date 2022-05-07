@@ -20,15 +20,15 @@ Longest shared prefix     : 10
 Unique character prefix   : 11
 ```
 
-**[1password-replacement.txt](lists/1password-replacement.txt)**: A suggested replacement for [1Password](https://1password.com/)'s word list, based on common words in Google Ngram data. It has the same minimum and maximum word length, though note that it is 55 words _shorter_ than [the list 1Password was using in 2021](https://1password.com/txt/agwordlist.txt).
+**[1password-replacement.txt](lists/1password-replacement.txt)**: A suggested replacement for [1Password](https://1password.com/)'s word list, based on common words in Google Ngram data. It has the same minimum and maximum word length, though has a few more words than [the list 1Password was using in 2021](https://1password.com/txt/agwordlist.txt).
 ```text
-List length               : 18121
+List length               : 18181
 Mean word length          : 6.34
 Length of shortest word   : 3 (ace)
 Length of longest word    : 8 (zucchini)
 Free of prefix words      : false
-Entropy per word          : 14.1454
-Assumed entropy per letter: 4.7151
+Entropy per word          : 14.1501
+Assumed entropy per letter: 4.7167
 Above brute force line    : false
 Above Shannon line        : false
 Shortest edit distance    : 1
