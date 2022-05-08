@@ -6,13 +6,13 @@ A repository for word lists I've generated. Some lists are based on Google Ngram
 
 **[basic.txt](lists/basic.txt)**: A long word list based on common words in Google Ngram data
 ```text
-List length               : 18652
+List length               : 18562
 Mean word length          : 7.66
 Length of shortest word   : 3 (can)
 Length of longest word    : 11 (worshipping)
 Free of prefix words      : false
-Entropy per word          : 14.1870
-Assumed entropy per letter: 4.7290
+Entropy per word          : 14.1801
+Assumed entropy per letter: 4.7267
 Above brute force line    : false
 Above Shannon line        : false
 Shortest edit distance    : 1
@@ -20,15 +20,15 @@ Longest shared prefix     : 10
 Unique character prefix   : 11
 ```
 
-**[1password-replacement.txt](lists/1password-replacement.txt)**: A suggested replacement for [1Password](https://1password.com/)'s word list, based on common words in Google Ngram data. It has the same minimum and maximum word length, though has 207 more words than [the list 1Password was using in 2021](https://1password.com/txt/agwordlist.txt).
+**[1password-replacement.txt](lists/1password-replacement.txt)**: A suggested replacement for [1Password](https://1password.com/)'s word list, based on common words in Google Ngram data. It has the same minimum and maximum word length, though has 9 fewer words than [the list 1Password was using in 2021](https://1password.com/txt/agwordlist.txt).
 ```text
-List length               : 18383
-Mean word length          : 6.35
+List length               : 18167
+Mean word length          : 6.36
 Length of shortest word   : 3 (ace)
 Length of longest word    : 8 (zucchini)
 Free of prefix words      : false
-Entropy per word          : 14.1661
-Assumed entropy per letter: 4.7220
+Entropy per word          : 14.1490
+Assumed entropy per letter: 4.7163
 Above brute force line    : false
 Above Shannon line        : false
 Shortest edit distance    : 1
