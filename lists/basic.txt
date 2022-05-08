@@ -427,7 +427,9 @@ ailments
 aimed
 aiming
 aims
+airbag
 airborne
+airbrush
 aircraft
 aired
 airfield
@@ -444,6 +446,7 @@ akin
 alarm
 alarmed
 alarming
+alarmist
 alarms
 alas
 albeit
@@ -488,6 +491,7 @@ alive
 alkali
 alkaline
 alkaloids
+all
 allegation
 allegations
 allege
@@ -633,6 +637,7 @@ amplify
 amplitude
 amplitudes
 amply
+amputate
 amused
 amusement
 amusements
@@ -642,6 +647,7 @@ anaemia
 anaerobic
 anaesthesia
 anaesthetic
+anagram
 analgesia
 analgesic
 analgesics
@@ -905,6 +911,7 @@ approves
 approving
 approximate
 apricot
+april
 apron
 aptitude
 aptly
@@ -1044,6 +1051,7 @@ ascribed
 ashamed
 ashes
 ashram
+asia
 aside
 asking
 asks
@@ -1318,6 +1326,7 @@ awfully
 awhile
 awkward
 awkwardly
+awl
 awoke
 axes
 axial
@@ -1330,6 +1339,7 @@ axons
 azimuth
 babel
 baby
+babysit
 bachelor
 backbone
 backdrop
@@ -1353,6 +1363,7 @@ bacterium
 badger
 badly
 baffled
+bagel
 baggage
 bagpipe
 bags
@@ -1388,6 +1399,7 @@ banding
 bands
 bandwidth
 bane
+bang
 banged
 banish
 banished
@@ -1467,6 +1479,7 @@ basis
 basket
 basketball
 baskets
+bassoon
 batches
 bath
 bathe
@@ -1492,6 +1505,7 @@ battleship
 battleships
 battling
 bayonet
+bazooka
 beacon
 bead
 beaded
@@ -1516,6 +1530,7 @@ beatings
 beauties
 beautiful
 beautifully
+beaver
 became
 beckoned
 become
@@ -1530,6 +1545,7 @@ beds
 bedside
 bedtime
 beef
+beefy
 beer
 beers
 beetles
@@ -1619,6 +1635,7 @@ bereaved
 bereavement
 bereft
 berries
+berserk
 beset
 beside
 besides
@@ -1770,6 +1787,7 @@ blinds
 blink
 blinked
 blinking
+blip
 bliss
 blissful
 blisters
@@ -1806,6 +1824,7 @@ bluntly
 blur
 blurred
 blurring
+blurt
 blurted
 blush
 blushed
@@ -1857,6 +1876,7 @@ bony
 booked
 bookend
 booking
+bookish
 bookkeeping
 booklet
 booklets
@@ -2106,6 +2126,7 @@ buffered
 buffering
 buffers
 buffet
+buffoon
 buggy
 bugs
 builder
@@ -2132,6 +2153,7 @@ bulls
 bully
 bullying
 bulwark
+bumble
 bumped
 bumping
 bumps
@@ -2175,6 +2197,7 @@ burst
 bursting
 bursts
 burying
+busboy
 buses
 bush
 bushel
@@ -2211,6 +2234,7 @@ bypass
 bypassed
 bypassing
 bystanders
+cabal
 cabbage
 cabin
 cabinet
@@ -2414,6 +2438,7 @@ carvings
 cascade
 cascades
 cascading
+cashew
 cashier
 casing
 casino
@@ -2509,6 +2534,7 @@ celebrity
 celestial
 celibacy
 cellars
+cellist
 cello
 cellular
 cellulose
@@ -2652,6 +2678,7 @@ cheerfully
 cheering
 cheers
 cheeses
+cheetah
 chemical
 chemically
 chemicals
@@ -2693,6 +2720,7 @@ chimp
 chimpanzee
 chimpanzees
 chip
+chipmunk
 chipped
 chips
 chisel
@@ -2736,6 +2764,7 @@ chuckle
 chuckled
 chunk
 chunks
+church
 churches
 churchmen
 churchyard
@@ -3627,11 +3656,13 @@ cornered
 corners
 cornerstone
 corning
+corny
 corollary
 corona
 coronary
 coronation
 coroner
+coronet
 corpora
 corporal
 corporate
@@ -3861,6 +3892,7 @@ cropped
 cropping
 crops
 cross
+crossbow
 crossed
 crosses
 crossings
@@ -3869,7 +3901,9 @@ crossroads
 crouch
 crouched
 crouching
+crouton
 crow
+crowbar
 crowd
 crowded
 crowding
@@ -4549,6 +4583,7 @@ deterred
 deterrence
 deterrent
 detested
+detonate
 detonation
 detour
 detoxify
@@ -4760,6 +4795,7 @@ disarray
 disaster
 disasters
 disastrous
+disavow
 disband
 disbanded
 disbelief
@@ -4927,6 +4963,7 @@ distant
 distaste
 distasteful
 distended
+distill
 distilled
 distinctly
 distinguish
@@ -5053,12 +5090,14 @@ donkey
 donkeys
 donor
 donors
+doom
 doomed
 doorbell
 doors
 doorstep
 doorway
 doorways
+dope
 doped
 doping
 dorm
@@ -5238,6 +5277,7 @@ duly
 dumb
 dumbbell
 dummies
+dummy
 dump
 dumped
 dumping
@@ -5257,6 +5297,8 @@ duress
 during
 dusk
 dusky
+dustbin
+dustpan
 duties
 dutiful
 dutifully
@@ -5777,6 +5819,7 @@ entrances
 entrants
 entrap
 entrapment
+entrench
 entrenched
 entries
 entropy
@@ -7223,6 +7266,7 @@ garrison
 garrisons
 gaseous
 gases
+gaslight
 gasoline
 gasp
 gasped
@@ -7668,10 +7712,12 @@ gull
 gulls
 gully
 gulped
+gumbo
 gums
 gun
 gunfight
 gunfire
+gunk
 gunners
 gunpowder
 guns
@@ -7914,6 +7960,7 @@ heighten
 heightened
 heights
 heiress
+heirloom
 heirs
 heist
 held
@@ -8317,6 +8364,7 @@ ignore
 ignored
 ignores
 ignoring
+illegal
 illegally
 illiteracy
 illiterate
@@ -10499,6 +10547,7 @@ miscarriage
 mischief
 mischievous
 misconduct
+miscount
 misdemeanor
 miserable
 miserably
@@ -10877,6 +10926,7 @@ neon
 nephew
 nepotism
 neptune
+nerve
 nervous
 nest
 net
@@ -10892,6 +10942,7 @@ nickel
 nickname
 niece
 night
+nightcap
 nightly
 nimble
 nineteen
@@ -11237,6 +11288,7 @@ orientated
 orientation
 oriented
 orienting
+origami
 origin
 originality
 originally
@@ -11268,6 +11320,7 @@ osmotic
 ostensible
 ostensibly
 ostrich
+other
 others
 otherwise
 ottoman
@@ -11483,6 +11536,7 @@ pancreas
 pancreatic
 pander
 panel
+panelist
 panels
 pang
 pangs
@@ -12335,6 +12389,7 @@ potent
 potential
 potentially
 potentials
+potluck
 potter
 potters
 pottery
@@ -12343,6 +12398,7 @@ poultry
 pound
 pounded
 pounding
+pout
 poverty
 powder
 powdered
@@ -12912,6 +12968,7 @@ pull
 pulled
 pulley
 pulling
+pullover
 pulls
 pulmonary
 pulp
@@ -14051,6 +14108,7 @@ richest
 richly
 richness
 rick
+ricochet
 ridden
 riddle
 riddled
@@ -14202,6 +14260,7 @@ routines
 routing
 rover
 roving
+rowboat
 rowing
 royalist
 royalties
@@ -14494,6 +14553,7 @@ scream
 screamed
 screaming
 screams
+screed
 screen
 screened
 screening
@@ -15063,6 +15123,7 @@ singular
 singularity
 singularly
 sinister
+sinkhole
 sinking
 sinned
 sins
@@ -17226,6 +17287,7 @@ trimester
 trimmed
 trimming
 trinity
+trinket
 trio
 trip
 tripartite
@@ -17636,6 +17698,7 @@ unspoken
 unstable
 unsteady
 unsuitable
+unsung
 unsupported
 unsure
 untenable
@@ -17661,6 +17724,7 @@ unwittingly
 unworthy
 unwritten
 unyielding
+unzip
 upbringing
 upcoming
 update
