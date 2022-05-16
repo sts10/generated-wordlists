@@ -63,4 +63,4 @@ Also, I make no guarantees about the security of passphrases generated with word
 
 ## On licensing/usage
 
-The Google Books Ngram data compilation I used to construct the new word list "is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)" ([source](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)). This project has no association with Agile Bits/1Password or Google, nor, to my knowledge, does either company endorse this project. See LICENSE file for more information on how this project is licensed.
+The Google Books Ngram data compilation I used to construct the new word list "is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)" ([source](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)). This project has no association with Agile Bits/1Password or Google, nor, to my knowledge, does either company endorse this project. See LICENSE file in parent directory for more information on how this project is licensed.
