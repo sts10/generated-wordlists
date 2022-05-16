@@ -30,7 +30,7 @@ hideous fearless upkeep expected destitute dose
 decomposed invasion synapses concessions rates ensuing 
 ```
 
-**[1password-replacement.txt](lists/1password-replacement.txt)**: A suggested replacement for [1Password](https://1password.com/)'s word list, based on common words in Google Ngram data. It has the same minimum and maximum word length as [the list 1Password was using in 2021](https://1password.com/txt/agwordlist.txt), plus adds 55 extra words.
+**[1password-replacement.txt](lists/1password-replacement/1password-replacement.txt)**: A suggested replacement for [1Password](https://1password.com/)'s word list, based on common words in Google Ngram data. It has the same minimum and maximum word length as [the list 1Password was using in 2021](https://1password.com/txt/agwordlist.txt), plus adds 55 extra words. You can view lists of the words I added and removed from the 2021 1Password list in `lists/1password-replacement/` directory.
 ```text
 List length               : 18231 words
 Mean word length          : 6.36 characters
