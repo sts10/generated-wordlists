@@ -2,7 +2,7 @@
 
 This repository contains a proposed replacement word list for the password manager 1Password. I, Sam Schlinkert, created this new word list, primarily by [scraping publicly available Google Books Ngram data](https://github.com/sts10/common_word_list_maker) and then doing additional edits.
 
-I am publishing this list in hopes that AgileBits, the company that owns 1Password, wants to adopt it for 1Password's passphrase generator. I only ask that I get credit for creating the word list in a way that I can refer to publicly.
+I am publishing this list in hopes that AgileBits, the company that owns 1Password, wants to adopt it for 1Password's passphrase generator. 
 
 Of course nothing is stopping others from using this list for other purposes, assuming they adhere to the attached LICENSE.
 
@@ -20,7 +20,7 @@ Entropy per word          : 14.1541
 
 ## Which words were removed? Which were added?
 
-You can see a list of exact cuts and additions in this repo.
+You can see a list of exact cuts and additions in this directory/repo.
 
 Some of the words on the current 1Password list but not on the new list include: loch, avioinc, coquina, nodulose, vide, wold, quean.
 
@@ -64,7 +64,3 @@ Also, I make no guarantees about the security of passphrases generated with word
 ## On licensing/usage
 
 The Google Books Ngram data compilation I used to construct the new word list "is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)" ([source](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)). This project has no association with Agile Bits/1Password or Google, nor, to my knowledge, does either company endorse this project. See LICENSE file for more information on how this project is licensed.
-
-## More lists
-
-I've created a handful of other word lists, which can be found in [a separate repository](https://github.com/sts10/generated-wordlists).

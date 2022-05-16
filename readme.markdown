@@ -6,32 +6,36 @@ A repository for word lists I've generated. Some lists are based on Google Ngram
 
 **[basic.txt](lists/basic.txt)**: A long word list based on common words in Google Ngram data
 ```text
-List length               : 18626
-Mean word length          : 7.66
-Length of shortest word   : 3 (all)
-Length of longest word    : 11 (worshipping)
+List length               : 18626 words
+Mean word length          : 7.66 characters
+Length of shortest word   : 3 characters (all)
+Length of longest word    : 11 characters (worshipping)
 Free of prefix words      : false
-Entropy per word          : 14.1850
-Assumed entropy per letter: 4.7283
+Entropy per word          : 14.185 bits
+Efficiency per character  : 1.852 bits
+Assumed entropy per char  : 4.728 bits
 Above brute force line    : false
 Above Shannon line        : false
 Shortest edit distance    : 1
+Mean edit distance        : 7.469
 Longest shared prefix     : 10
 Unique character prefix   : 11
 ```
 
-**[1password-replacement.txt](lists/1password-replacement.txt)**: A suggested replacement for [1Password](https://1password.com/)'s word list, based on common words in Google Ngram data. It has the same minimum and maximum word length as [the list 1Password was using in 2021](https://1password.com/txt/agwordlist.txt), plus adds 55 extra words.
+**[1password-replacement.txt](lists/1password-replacement/1password-replacement.txt)**: A suggested replacement for [1Password](https://1password.com/)'s word list, based on common words in Google Ngram data. It has the same minimum and maximum word length as [the list 1Password was using in 2021](https://1password.com/txt/agwordlist.txt), plus adds 55 extra words. You can view lists of the words I added and removed from the 2021 1Password list in `lists/1password-replacement/` directory.
 ```text
-List length               : 18231
-Mean word length          : 6.36
-Length of shortest word   : 3 (ace)
-Length of longest word    : 8 (zucchini)
+List length               : 18231 words
+Mean word length          : 6.36 characters
+Length of shortest word   : 3 characters (ace)
+Length of longest word    : 8 characters (zucchini)
 Free of prefix words      : false
-Entropy per word          : 14.1541
-Assumed entropy per letter: 4.7180
+Entropy per word          : 14.154 bits
+Efficiency per character  : 2.227 bits
+Assumed entropy per char  : 4.718 bits
 Above brute force line    : false
 Above Shannon line        : false
 Shortest edit distance    : 1
+Mean edit distance        : 6.188
 Longest shared prefix     : 7
 Unique character prefix   : 8
 ```
