@@ -141,6 +141,10 @@ The words for some of these generated word lists come from Google Books Ngram da
 
 I'll note here that at least one list in this project was derived from [this Wikipedia word frequency project](https://github.com/IlyaSemenov/wikipedia-word-frequency/), which uses the MIT license. I offer this list under the same license as the other word lists in this project.
 
+## Related projects
+
+As a proof-of-concept, I made some [word lists optimized for inputting on smart TVs](https://github.com/sts10/remote-words).
+
 ## Requests? Suggestions? 
 
 Happy to make word lists given reasonable parameters! Just create an Issue.
