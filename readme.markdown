@@ -6,28 +6,28 @@ A repository for word lists I've generated. Some lists are based on Google Ngram
 
 **[basic.txt](lists/basic.txt)**: A long word list based on common words in Google Ngram data
 ```text
-List length               : 18626 words
-Mean word length          : 7.66 characters
+List length               : 18695 words
+Mean word length          : 7.65 characters
 Length of shortest word   : 3 characters (all)
-Length of longest word    : 11 characters (worshipping)
+Length of longest word    : 12 characters (conservative)
 Free of prefix words      : false
-Entropy per word          : 14.185 bits
-Efficiency per character  : 1.852 bits
-Assumed entropy per char  : 4.728 bits
+Entropy per word          : 14.190 bits
+Efficiency per character  : 1.855 bits
+Assumed entropy per char  : 4.730 bits
 Above brute force line    : false
 Above Shannon line        : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.469
+Mean edit distance        : 7.466
 Longest shared prefix     : 10
 Unique character prefix   : 11
 
 Pseudorandomly generated sample words
 -------------------------------------
-summon penal guitar causing absentee populated 
-quantified minimally flicker darkly alliance consul 
-forecasts filtering patterning foil flesh intestines 
-hideous fearless upkeep expected destitute dose 
-decomposed invasion synapses concessions rates ensuing 
+french culturally hastened meditation moments achieves 
+declares battled strut heck allocate blooms 
+legendary lakes envied bullets fern sparrows 
+poisoning obliterated wrinkled monsoon ornate proteins 
+lipid excite short camping pollster rigged 
 ```
 
 **[1password-replacement.txt](lists/1password-replacement/1password-replacement.txt)**: A suggested replacement for [1Password](https://1password.com/)'s word list, based on common words in Google Ngram data. It has the same minimum and maximum word length as [the list 1Password was using in 2021](https://1password.com/txt/agwordlist.txt), plus adds 55 extra words. You can view lists of the words I added and removed from the 2021 1Password list in `lists/1password-replacement/` directory. See [the list's own README for more information](lists/1password-replacement/readme.markdown) on this list.
