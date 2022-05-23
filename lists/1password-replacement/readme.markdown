@@ -50,6 +50,36 @@ mishap-ruled-racism-samples-interim-flooding
 
 This new list is based on [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html). [I used](https://github.com/sts10/common_word_list_maker) the 2012 dataset to compile a list of the most frequently appearing words between 1975 and 2012. Then, using [a separate tool I wrote](https://github.com/sts10/tidy), I cut this list down, removing "rare" or strange words, profane words, and words shorter than 3 characters and longer than 8 characters until it was just longer than the current 1Password list.
 
+### Assumed use-cases of passphrases 
+
+Let's consider _**when**_ a password manager user might want to use a passphrase rather than a password like `96W8vaCHCR':XXj,xhJ6`. I based my work around three use-cases (loosely ranked by importance/priority): 
+
+1. When creating a master password that the user will have to memorize and type frequently.
+2. When creating an account where they'll enter the password in a situation where they can not auto-fill or copy it from a 1Password app (for example: a smart TV or computers where they don't have 1Password installed). I think of this as a case where the user needs to hold their password in their minds for a few seconds.
+3. When creating an account they anticipate they may have to read the password over a voice channel.
+
+For the first use-case, I wanted to make a list that prioritized words that were "story-able". By "story-able", I mean words that most users will be able to construct a story with. Inspired by [the "Password Strength" xkcd comic](https://xkcd.com/936/?correct=horse&battery=staple), I think users memorize passphrases by creating a little story for themselves. 
+
+![Correct horse battery stapler comic](https://imgs.xkcd.com/comics/password_strength.png)
+
+This guided my choice to use Google Books data -- these are words that literally make up the stories of English-speaking people.
+
+While this "story-ability" would help with assumption #2, I argue that words that are good for holding in your mind temporarily are words that are what I'd call "mentally pronounceable" (shout-out to [Reddit user out0focus for crystallizing this for me](https://www.reddit.com/r/1Password/comments/ur4otq/comment/i8x040c/?utm_source=reddit&utm_medium=web2x&context=3)), by which I simply mean that you can hold them in your mind as a _word_ rather than a collection of letters. To make this more concrete, imagine carrying `entendre goyim ormolu waggish` (four words I'm cutting from the 1Password list) vs. `doubling striker adverbs guided` (four words I'm adding).
+
+Re: assumption #3, while I didn't optimize my list for (phonetically) pronounceable words, I think that the methodology I used (striving to use "common" words) works toward this goal.
+
+## More reasons why 1Password may want to switch to this list
+
+While the above section on use-cases presents some broad reasons this list may be attractive as a new 1Password word list, I'll touch on a few specific points here.
+
+### The "re-roll" problem
+
+When I [posted this list to 1Password's subreddit](https://www.reddit.com/r/1Password/comments/ur4otq/proposed_new_word_list/), a few users mentioned how, when using the current 1Password list, they would "re-roll" for a new passphrase if they got a "weird" word in their original passphrase. This has the mathematical effect of making their passphrases weaker, since it effectively shortens the word list, and thus decreases the amount of entropy each word gives. (In practice, this would necessitate an attacker to skip these uncommon words in their attacks, which doesn't seem too improbable?) It's much better to replace these "skip" words in the word list, bringing the "real-world" amount of entropy-per-word more in-line with the theoretical figure, which we can easily calculate and base security guidance on.
+
+### Auto-correct
+
+If a word in a passphrase is very uncommon, it may even be auto-corrected by some applications you might pasted/type it in to. `quean` may be a good example of this. (Granted, if an interface has auto-correct working, it likely is NOT a place a secure passphrase should be entered, but that's a different issue.)
+
 ## Tools and resources I used to generate these word lists
 
 - [Common Word List Maker](https://github.com/sts10/common_word_list_maker): Scrapes Google Books Ngram data to create a long word list of frequently appearing words
