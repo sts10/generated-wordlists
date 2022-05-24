@@ -50,6 +50,8 @@ mishap-ruled-racism-samples-interim-flooding
 
 This new list is based on [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html). [I used](https://github.com/sts10/common_word_list_maker) the 2012 dataset to compile a list of the most frequently appearing words between 1975 and 2012. Then, using [a separate tool I wrote](https://github.com/sts10/tidy), I cut this list down, removing "rare" or strange words, profane words, and words shorter than 3 characters and longer than 8 characters until it was just longer than the current 1Password list.
 
+Thank you to the users who replied to [a Reddit post about this list](https://www.reddit.com/r/1Password/comments/ur4otq/proposed_new_word_list/) for helping me think through these notes further than I had.
+
 ### Assumed use-cases of passphrases 
 
 Let's consider _**when**_ a password manager user might want to use a passphrase rather than a password like `96W8vaCHCR':XXj,xhJ6`. I based my work around three use-cases (loosely ranked by importance/priority): 
@@ -62,9 +64,9 @@ For the first use-case, I wanted to make a list that prioritized words that were
 
 ![Correct horse battery stapler comic](https://imgs.xkcd.com/comics/password_strength.png)
 
-This guided my choice to use Google Books data -- these are words that literally make up the stories of English-speaking people.
+This guided my choice to use Google Books data -- these are words that literally make up the stories of English-speaking people. Whether certain parts of speech, like nouns, some balanced mix of parts of speech, or other categorizations of words, like singular nouns, are generally more "story-able" than others is a question to explore further.
 
-While this "story-ability" would help with assumption #2, I argue that words that are good for holding in your mind temporarily are words that are what I'd call "mentally pronounceable" (shout-out to [Reddit user out0focus for crystallizing this for me](https://www.reddit.com/r/1Password/comments/ur4otq/comment/i8x040c/?utm_source=reddit&utm_medium=web2x&context=3)), by which I simply mean that you can hold them in your mind as a _word_ rather than a collection of letters. To make this more concrete, imagine carrying `entendre goyim ormolu waggish` (four words I'm cutting from the 1Password list) vs. `doubling striker adverbs guided` (four words I'm adding).
+While this "story-ability" will help with assumption #2, I argue that words that are good for holding in your mind temporarily are words that are what I'd call "mentally pronounceable" (shout-out to [Reddit user out0focus for crystallizing this for me](https://www.reddit.com/r/1Password/comments/ur4otq/comment/i8x040c/?utm_source=reddit&utm_medium=web2x&context=3)), by which I simply mean that you can hold them in your mind as a _word_ rather than a collection of letters. I think how easy a word is to spell is closely related to this -- perhaps "mental pronounceable" is the ease of "taking in" a word, and spell-ability is the ease of (re-)producing it (entering it into the interface). To make this more concrete, imagine carrying `entendre goyim ormolu waggish` (four words I'm cutting from the 1Password list) vs. `doubling striker adverbs guided` (four words I'm adding). 
 
 Re: assumption #3, while I didn't optimize my list for (phonetically) pronounceable words, I think that the methodology I used (striving to use "common" words) works toward this goal.
 
