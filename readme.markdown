@@ -84,6 +84,32 @@ indicates scrutiny belongs managed crowds researchers
 
 If you want a 7,776-word diceware list that _does_ include prefix words, there's [diceware-including-prefix.txt](lists/diceware-including-prefix.txt). Just be sure to use a character or space between words in your passphrase!
 
+**[prefix-free.txt](lists/prefix-free.txt)** is a long list free of prefix words.
+```text
+List length               : 16606 words
+Mean word length          : 8.30 characters
+Length of shortest word   : 4 characters (able)
+Length of longest word    : 18 characters (telecommunications)
+Free of prefix words      : true
+Entropy per word          : 14.019 bits
+Efficiency per character  : 1.689 bits
+Assumed entropy per char  : 3.505 bits
+Above brute force line    : true
+Above Shannon line        : false
+Shortest edit distance    : 1
+Mean edit distance        : 8.100
+Longest shared prefix     : 15
+Unique character prefix   : 16
+
+Pseudorandomly generated sample words
+-------------------------------------
+ineligible detecting arching cohesiveness intensities botanist 
+counsels acquiring carol comparability contested opal 
+stations buckle cruelty amphibious arctic instituting 
+confessor amalgamation computational healthy washing investigators 
+stuck randomly pins friendships cassettes heaped 
+```
+
 **[short.txt](lists/short.txt)** is a short list with words that have unique three-character prefixes and the shortest edit distance between any two words is 3 characters. It's also free of prefix words. These attributes of the list are meant to emulate [the EFF short lists](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases).
 ```text
 List length               : 1030
