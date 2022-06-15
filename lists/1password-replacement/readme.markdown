@@ -8,14 +8,16 @@ Of course nothing is stopping others from using this list for other purposes, as
 
 ## Attributes of the new list
 
-This new word list has the same minimum and maximum word length as the list 1Password was using in 2021 (3 and 8). My understanding is the list 1Password currently uses is 18,176 words long. This list has 18,231 words, ensuring that each word gives slightly more entropy than the current list. 
+This new word list has the same minimum and maximum word length as the list 1Password was using in 2021 (3 and 8). My understanding is the list 1Password currently uses is 18,176 words long. This list has 18,230 words, ensuring that each word gives slightly more entropy than the current list. 
 
 ```
-List length               : 18231
-Mean word length          : 6.36
-Length of shortest word   : 3 (ace)
-Length of longest word    : 8 (zucchini)
-Entropy per word          : 14.1541
+List length               : 18230 words
+Mean word length          : 6.36 characters
+Length of shortest word   : 3 characters (ace)
+Length of longest word    : 8 characters (zucchini)
+Free of prefix words      : false
+Entropy per word          : 14.154 bits
+Efficiency per character  : 2.227 bits
 ```
 
 ## Which words were removed? Which were added?
