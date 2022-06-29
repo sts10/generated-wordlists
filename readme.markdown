@@ -139,6 +139,34 @@ confessor amalgamation computational healthy washing investigators
 stuck randomly pins friendships cassettes heaped 
 ```
 
+**[suffix-free.txt](lists/suffix-free.txt)** is a long list free of suffix words.
+```text
+Attributes of list
+----------------------
+List length               : 16693 words
+Mean word length          : 8.25 characters
+Length of shortest word   : 3 characters (ads)
+Length of longest word    : 15 characters (vulnerabilities)
+Free of prefix words      : true
+Free of suffix words      : false
+Entropy per word          : 14.027 bits
+Efficiency per character  : 1.699 bits
+Assumed entropy per char  : 4.676 bits
+Above brute force line    : true
+Above Shannon line        : false
+Shortest edit distance    : 1
+Longest shared prefix     : 14
+Unique character prefix   : 15
+
+Pseudorandomly generated sample passphrases
+-------------------------------------------
+avarice emigrants glandular cylindrical quarry cocked 
+spindle adipose furnishes statements randomly avoidance 
+ingested proceeded equality hierarchies criteria engines 
+importers sensations shyness pellets walked jimmy 
+rims haunted ruffled signed limp stonewall 
+```
+
 **[short.txt](lists/short.txt)** is a short list with words that have unique three-character prefixes and the shortest edit distance between any two words is 3 characters. It's also free of prefix words. These attributes of the list are meant to emulate [the EFF short lists](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases).
 ```text
 List length               : 1030
