@@ -101,7 +101,9 @@ If you want a 7,776-word diceware list that _does_ include prefix words, there's
 </details>
 
 <details>
-<summary>Suffix-free Diceware: A new list for using with diceware without suffix words</summary>
+<summary>
+### Suffix-free Diceware: A new list for using with diceware without suffix words
+</summary>
 
 **[diceware-suffix-free.txt](lists/diceware-suffix-free.txt)**: A new list for using with diceware. Rather than being free of prefix words, like the EFF long list, it is free of _suffix_ words. It's my contention that being free of suffix words provides the same security guarantees -- namely, being able to concatenate words in a passphrase without a delimiter -- as a prefix-word-free list. However, use at your own risk.
 
