@@ -4,7 +4,8 @@ A repository for word lists I've generated. Some lists are based on Google Ngram
 
 ## About the word lists
 
-**[basic.txt](lists/basic.txt)**: A long word list based on common words in Google Ngram data
+<details>
+<summary>**[basic.txt](lists/basic.txt)**: A long word list based on common words in Google Ngram data</summary>
 ```text
 List length               : 18694 words
 Mean word length          : 7.65 characters
@@ -30,6 +31,7 @@ brilliance interfering grateful invoking blossoms carcinogens
 paper boasted footage wayward judging reacting 
 tenderly settles prominently clandestine battering docket 
 ```
+</details>
 
 **[1password-replacement.txt](lists/1password-replacement/1password-replacement.txt)**: A suggested replacement for [1Password](https://1password.com/)'s word list, based on common words in Google Ngram data. It has the same minimum and maximum word length as [the list 1Password was using in 2021](https://1password.com/txt/agwordlist.txt), plus adds 54 extra words. You can view lists of the words I added and removed from the 2021 1Password list in `lists/1password-replacement/` directory. See [the list's own README for more information](lists/1password-replacement/readme.markdown) on this list.
 ```text
