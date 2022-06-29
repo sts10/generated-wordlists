@@ -84,6 +84,35 @@ indicates scrutiny belongs managed crowds researchers
 
 If you want a 7,776-word diceware list that _does_ include prefix words, there's [diceware-including-prefix.txt](lists/diceware-including-prefix.txt). Just be sure to use a character or space between words in your passphrase!
 
+**[diceware-suffix-free.txt](lists/diceware-suffix-free.txt)**: A new list for using with diceware. Rather than being free of prefix words, like the EFF long list, it is free of _suffix_ words. It's my contention that being free of suffix words provides the same security guarantees -- namely, being able to concatenate words in a passphrase without a delimiter -- as a prefix-word-free list. However, use at your own risk.
+
+```text
+Attributes of list
+----------------------
+List length               : 7776 words
+Mean word length          : 7.08 characters
+Length of shortest word   : 3 characters (add)
+Length of longest word    : 10 characters (worthwhile)
+Free of prefix words      : false
+Free of suffix words      : true
+Entropy per word          : 12.925 bits
+Efficiency per character  : 1.825 bits
+Assumed entropy per char  : 4.308 bits
+Above brute force line    : true
+Above Shannon line        : false
+Shortest edit distance    : 1
+Longest shared prefix     : 9
+Unique character prefix   : 10
+
+Pseudorandomly generated sample passphrases
+-------------------------------------------
+writers ethic yet pockets lobby talk 
+water stated daily trash sublime spelling 
+undergoing drinking distinct scientists exposition chart 
+remark suite joined sea fetal steal 
+victor advocated unfair opponents enable overhead 
+```
+
 **[prefix-free.txt](lists/prefix-free.txt)** is a long list free of prefix words.
 ```text
 List length               : 16606 words
