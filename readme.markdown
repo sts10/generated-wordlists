@@ -37,7 +37,7 @@ tenderly settles prominently clandestine battering docket
 </details>
 
 <details>
-<summary><h3>1Password Replacement Word List: A suggest replacement for 1Password's word list</h3></summary>
+<summary><h3>1Password Replacement Word List: A suggested replacement for 1Password's word list</h3></summary>
 
 **[1password-replacement.txt](lists/1password-replacement/1password-replacement.txt)**: A suggested replacement for [1Password](https://1password.com/)'s word list, based on common words in Google Ngram data. It has the same minimum and maximum word length as [the list 1Password was using in 2021](https://1password.com/txt/agwordlist.txt), plus adds 54 extra words. You can view lists of the words I added and removed from the 2021 1Password list in `lists/1password-replacement/` directory. See [the list's own README for more information](lists/1password-replacement/readme.markdown) on this list.
 ```text
