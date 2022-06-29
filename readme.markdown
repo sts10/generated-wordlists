@@ -5,7 +5,7 @@ A repository for word lists I've generated. Some lists are based on Google Ngram
 ## About the word lists
 
 <details>
-<summary><h3>Basic list: A long word list based on common words in Google Ngram data</h3></summary>
+<summary><h3>Basic List: A long word list based on common words in Google Ngram data</h3></summary>
 
 **[basic.txt](lists/basic.txt)**
 
