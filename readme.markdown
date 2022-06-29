@@ -5,7 +5,7 @@ A repository for word lists I've generated. Some lists are based on Google Ngram
 ## About the word lists
 
 <details>
-<summary>basic.txt: A long word list based on common words in Google Ngram data</summary>
+<summary>Basic list: A long word list based on common words in Google Ngram data</summary>
 
 **[basic.txt](lists/basic.txt)**
 
@@ -36,6 +36,9 @@ tenderly settles prominently clandestine battering docket
 ```
 </details>
 
+<details>
+<summary>1Password Replacement Word List: A suggest replacement for 1Password's word list</summary>
+
 **[1password-replacement.txt](lists/1password-replacement/1password-replacement.txt)**: A suggested replacement for [1Password](https://1password.com/)'s word list, based on common words in Google Ngram data. It has the same minimum and maximum word length as [the list 1Password was using in 2021](https://1password.com/txt/agwordlist.txt), plus adds 54 extra words. You can view lists of the words I added and removed from the 2021 1Password list in `lists/1password-replacement/` directory. See [the list's own README for more information](lists/1password-replacement/readme.markdown) on this list.
 ```text
 List length               : 18230 words
@@ -62,6 +65,10 @@ acorn lashes wrinkle smoother hosting pullover
 rider lilies hertz district caresses vagrants 
 grimes papyri maternal turkey dish anger
 ```
+</details>
+
+<details>
+<summary>Diceware: A new list for using with diceware.</summary>
 
 **[diceware.txt](lists/diceware.txt)**: A new list for using with diceware. Like [the EFF long list](https://www.eff.org/dice), it is free of prefix words, though it has words longer than 9 characters, unlike the EFF long list. The version in this repo has the corresponding dice rolls preceding each word, followed by a tab. The EFF has [instructions for how to use dice and lists like this one to generate passphrases](https://www.eff.org/dice).
 ```text
@@ -91,6 +98,10 @@ circles inclusion marketing reluctantly bureaucracy presently
 ```
 
 If you want a 7,776-word diceware list that _does_ include prefix words, there's [diceware-including-prefix.txt](lists/diceware-including-prefix.txt). Just be sure to use a character or space between words in your passphrase!
+</details>
+
+<details>
+<summary>Suffix-free Diceware: A new list for using with diceware without suffix words</summary>
 
 **[diceware-suffix-free.txt](lists/diceware-suffix-free.txt)**: A new list for using with diceware. Rather than being free of prefix words, like the EFF long list, it is free of _suffix_ words. It's my contention that being free of suffix words provides the same security guarantees -- namely, being able to concatenate words in a passphrase without a delimiter -- as a prefix-word-free list. However, use at your own risk.
 
@@ -118,6 +129,10 @@ undergoing drinking distinct scientists exposition chart
 remark suite joined sea fetal steal 
 victor advocated unfair opponents enable overhead 
 ```
+</details>
+
+<details>
+<summary>Prefix Free: Long list free of prefix words.</summary>
 
 **[prefix-free.txt](lists/prefix-free.txt)** is a long list free of prefix words.
 ```text
@@ -145,6 +160,10 @@ forefront ardent eccentricity extraneous staked charred
 carcinogens militarism universals fanning communicates whereabouts 
 repealed hedged legendary psychical thereof briefs 
 ```
+</details>
+
+<details>
+<summary>Suffix Free: A long list free of suffix words</summary>
 
 **[suffix-free.txt](lists/suffix-free.txt)** is a long list free of suffix words. I think this would be a good one to use as a wordlist for [the KeePassXC password manager](https://keepassxc.org/), but I'm not sure. Use at your own risk. A 7-word passphrase from this list provides 98.19 bits of entropy, compared to KeePassXC's default list (the EFF long list), from which a 7-word passphrase provides 90.47 bits.
 ```text
@@ -171,6 +190,10 @@ ingested proceeded equality hierarchies criteria engines
 importers sensations shyness pellets walked jimmy 
 rims haunted ruffled signed limp stonewall 
 ```
+</details>
+
+<details>
+<summary>Short: A short word list of 1030 words</summary>
 
 **[short.txt](lists/short.txt)** is a short list with words that have unique three-character prefixes and the shortest edit distance between any two words is 3 characters. It's also free of prefix words. These attributes of the list are meant to emulate [the EFF short lists](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases).
 ```text
@@ -198,6 +221,10 @@ sleepless mcmahon knoxville justinian tennyson haphazard
 cutaneous september appetites awareness lobbyists eritrea 
 glucose ithaca baptized obesity superego aircraft 
 ```
+</details>
+
+<details>
+<summary>Wikilist: A word list based on word frequency from Wikipedia</summary>
 
 **[wikilist.txt](lists/wikilist.txt)** is based on [word frequency from Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/blob/master/results/enwiki-20190320-words-frequency.txt) rather than Google Ngram data. (Thanks to [Aaron Toponce](https://fosstodon.org/@atoponce) for pointing me to this list.)
 ```text
@@ -225,6 +252,7 @@ cad presenter pays tennis keyboard tutor
 coward sages opens aperture fossil custodian 
 negative sectors afflicted bout ramps honeycomb
 ```
+</details>
 
 ## Methodology
 
