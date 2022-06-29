@@ -37,7 +37,7 @@ tenderly settles prominently clandestine battering docket
 </details>
 
 <details>
-<summary><h3>1Password Replacement Word List: A suggested replacement for 1Password's word list</h3></summary>
+<summary><h3>1Password Replacement Word List</h3></summary>
 
 **[1password-replacement.txt](lists/1password-replacement/1password-replacement.txt)**: A suggested replacement for [1Password](https://1password.com/)'s word list, based on common words in Google Ngram data. It has the same minimum and maximum word length as [the list 1Password was using in 2021](https://1password.com/txt/agwordlist.txt), plus adds 54 extra words. You can view lists of the words I added and removed from the 2021 1Password list in `lists/1password-replacement/` directory. See [the list's own README for more information](lists/1password-replacement/readme.markdown) on this list.
 ```text
@@ -101,7 +101,7 @@ If you want a 7,776-word diceware list that _does_ include prefix words, there's
 </details>
 
 <details>
-<summary><h3>Suffix-free Diceware: A new list for using with diceware without suffix words</h3></summary>
+<summary><h3>Suffix-free Diceware: A new diceware list without suffix words</h3></summary>
 
 **[diceware-suffix-free.txt](lists/diceware-suffix-free.txt)**: A new list for using with diceware. Rather than being free of prefix words, like the EFF long list, it is free of _suffix_ words. It's my contention that being free of suffix words provides the same security guarantees -- namely, being able to concatenate words in a passphrase without a delimiter -- as a prefix-word-free list. However, use at your own risk.
 
@@ -132,7 +132,7 @@ victor advocated unfair opponents enable overhead
 </details>
 
 <details>
-<summary><h3>Prefix Free: Long list free of prefix words.</h3></summary>
+<summary><h3>Prefix Free: A long list free of prefix words.</h3></summary>
 
 **[prefix-free.txt](lists/prefix-free.txt)** is a long list free of prefix words.
 ```text
@@ -193,7 +193,7 @@ rims haunted ruffled signed limp stonewall
 </details>
 
 <details>
-<summary><h3>Short: A short word list of 1030 words</h3></summary>
+<summary><h3>Short: A short word list of 1,030 words</h3></summary>
 
 **[short.txt](lists/short.txt)** is a short list with words that have unique three-character prefixes and the shortest edit distance between any two words is 3 characters. It's also free of prefix words. These attributes of the list are meant to emulate [the EFF short lists](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases).
 ```text
