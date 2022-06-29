@@ -139,7 +139,7 @@ confessor amalgamation computational healthy washing investigators
 stuck randomly pins friendships cassettes heaped 
 ```
 
-**[suffix-free.txt](lists/suffix-free.txt)** is a long list free of suffix words.
+**[suffix-free.txt](lists/suffix-free.txt)** is a long list free of suffix words. I think this would be a good one to use as a wordlist for [the KeePassXC password manager](https://keepassxc.org/), but I'm not sure. Use at your own risk.
 ```text
 Attributes of list
 ----------------------
