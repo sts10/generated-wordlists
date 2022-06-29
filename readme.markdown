@@ -6,6 +6,7 @@ A repository for word lists I've generated. Some lists are based on Google Ngram
 
 <details>
 <summary>**[basic.txt](lists/basic.txt)**: A long word list based on common words in Google Ngram data</summary>
+
 ```text
 List length               : 18694 words
 Mean word length          : 7.65 characters
