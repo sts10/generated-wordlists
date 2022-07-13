@@ -300,7 +300,7 @@ I'll also note that this issue is similar to the risk of getting the same exact 
 - [Common Word List Maker](https://github.com/sts10/common_word_list_maker): Scrapes Google Books Ngram data to create a long word list
 - [Tidy](https://github.com/sts10/tidy): A command-line utility for editing word lists. Can also print notable attributes of word lists, such as those printed above.
 - [Homophones](https://github.com/sts10/homophones/tree/main/homophone-lists): A list of English homophones, and a method for producing more lists of English homophones
-- This study of [word frequency on Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/)
+- [This study of word frequencies on Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/)
 
 ## Disclaimers
 
