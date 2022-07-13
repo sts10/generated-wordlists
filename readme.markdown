@@ -165,30 +165,31 @@ repealed hedged legendary psychical thereof briefs
 <details>
 <summary><h3>Suffix Free: A long list free of suffix words</h3></summary>
 
-**[suffix-free.txt](lists/suffix-free.txt)** is a long list free of suffix words. I think this would be a good one to use as a wordlist for [the KeePassXC password manager](https://keepassxc.org/), but I'm not sure. Use at your own risk. A 7-word passphrase from this list provides 98.19 bits of entropy, compared to KeePassXC's default list (the EFF long list), from which a 7-word passphrase provides 90.47 bits.
+**[suffix-free.txt](lists/suffix-free.txt)** is a long list free of suffix words. I think this would be a good one to use as a wordlist for [the KeePassXC password manager](https://keepassxc.org/), but I'm not sure. Use at your own risk. A 7-word passphrase from this list provides 98.26 bits of entropy, compared to the EFF long list (KeePassXC's default list), from which a 7-word passphrase provides 90.47 bits.
 ```text
-List length               : 16693 words
-Mean word length          : 8.25 characters
-Length of shortest word   : 3 characters (ads)
+List length               : 16815 words
+Mean word length          : 8.02 characters
+Length of shortest word   : 3 characters (add)
 Length of longest word    : 15 characters (vulnerabilities)
-Free of prefix words      : true
-Free of suffix words      : false
-Entropy per word          : 14.027 bits
-Efficiency per character  : 1.699 bits
-Assumed entropy per char  : 4.676 bits
+Free of prefix words      : false
+Free of suffix words      : true
+Entropy per word          : 14.037 bits
+Efficiency per character  : 1.750 bits
+Assumed entropy per char  : 4.679 bits
 Above brute force line    : true
 Above Shannon line        : false
 Shortest edit distance    : 1
+Mean edit distance        : 7.954
 Longest shared prefix     : 14
 Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-avarice emigrants glandular cylindrical quarry cocked 
-spindle adipose furnishes statements randomly avoidance 
-ingested proceeded equality hierarchies criteria engines 
-importers sensations shyness pellets walked jimmy 
-rims haunted ruffled signed limp stonewall 
+adopting skeletons suitability silence tempered breathe 
+seventies benevolent dining psychologically fortifications aggrieved 
+predator shaft paternity resists instinctive coldly 
+packs poisons indebtedness dislocation arrival sockets 
+disarray midday industry defenders sculptors enclosed 
 ```
 </details>
 
