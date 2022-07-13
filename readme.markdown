@@ -289,11 +289,11 @@ If a word in a passphrase is very uncommon, it may even be auto-corrected by som
 
 ### The similar-words problem
 
-Some of these lists contains very similar words, such as "tabs" and "tab" and/or "suggested", "suggesting", and "suggestions". I don't think this effect entropy-per-word calculations. But I could see how it would be awkward to get two similar words in the same passphrase.
+Some of these lists contains very similar words, such as "tabs" and "tab" and/or "suggested", "suggesting", and "suggestions". I don't think this effects entropy-per-word calculations. 
 
-However, I _think_ the chances of this are pretty small. If we assumed a hypothetical 18,000 word list that was just 9,000 words and their plurals, I think the odds of getting at least one "awkward double" in a 4-word passphrase is `(1/18000) * (2/18000) * (3/18000)`, which is a really small number. But check my math!
+But I could see how it would be awkward to get two similar words in the same randomly generated passphrase. However, I _think_ the chances of this are pretty small. If we assumed a hypothetical 18,000 word list that was just 9,000 words and their plurals, I think the odds of getting at least one "awkward double" in a 4-word passphrase is `(1/18000) * (2/18000) * (3/18000)`, which is a really small number. But check my math!
 
-I'll also not that this issue is similar to the risk of getting the same exact word in a passphrase, which we can't help without changing how we generate the passphrases in a way that lowers the entropy of the resulting passphrase.
+I'll also note that this issue is similar to the risk of getting the same exact word in a passphrase, which we can't help without changing how we generate the passphrases in a way that lowers the entropy of the resulting passphrase.
 
 ## Tools and resources I used to generate these word lists
 
