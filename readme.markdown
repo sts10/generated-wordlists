@@ -1,6 +1,6 @@
 # Generated word lists
 
-A repository for word lists I've generated. Some lists are based on Google Ngram data, while others are based on [word frequency on Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/blob/master/results/enwiki-20190320-words-frequency.txt).
+A repository for word lists I've generated. Some lists are based on Google Ngram data, while others are based on [word frequency data from (English) Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/blob/master/results/enwiki-20190320-words-frequency.txt).
 
 ## About the word lists
 
@@ -14,13 +14,14 @@ List length               : 18694 words
 Mean word length          : 7.65 characters
 Length of shortest word   : 3 characters (all)
 Length of longest word    : 12 characters (conservative)
-Free of prefix words      : false
-Free of suffix words      : false
+Free of prefix words?     : false
+Free of suffix words?     : false
+Uniquely decodable?       : false
 Entropy per word          : 14.190 bits
 Efficiency per character  : 1.855 bits
 Assumed entropy per char  : 4.730 bits
-Above brute force line    : false
-Above Shannon line        : false
+Above brute force line?   : false
+Above Shannon line?       : false
 Shortest edit distance    : 1
 Mean edit distance        : 7.466
 Longest shared prefix     : 10
@@ -41,17 +42,19 @@ tenderly settles prominently clandestine battering docket
 
 **[1password-replacement.txt](lists/1password-replacement/1password-replacement.txt)**: A suggested replacement for [1Password](https://1password.com/)'s word list, based on common words in Google Ngram data. It has the same minimum and maximum word length as [the list 1Password was using in 2021](https://1password.com/txt/agwordlist.txt), plus adds 54 extra words. You can view lists of the words I added and removed from the 2021 1Password list in `lists/1password-replacement/` directory. See [the list's own README for more information](lists/1password-replacement/readme.markdown) on this list.
 ```text
+
 List length               : 18230 words
 Mean word length          : 6.36 characters
 Length of shortest word   : 3 characters (ace)
 Length of longest word    : 8 characters (zucchini)
-Free of prefix words      : false
-Free of suffix words      : false
+Free of prefix words?     : false
+Free of suffix words?     : false
+Uniquely decodable?       : false
 Entropy per word          : 14.154 bits
 Efficiency per character  : 2.227 bits
 Assumed entropy per char  : 4.718 bits
-Above brute force line    : false
-Above Shannon line        : false
+Above brute force line?   : false
+Above Shannon line?       : false
 Shortest edit distance    : 1
 Mean edit distance        : 6.188
 Longest shared prefix     : 7
@@ -76,13 +79,14 @@ List length               : 7776 words
 Mean word length          : 7.83 characters
 Length of shortest word   : 4 characters (aged)
 Length of longest word    : 11 characters (withholding)
-Free of prefix words      : true
-Free of suffix words      : false
+Free of prefix words?     : true
+Free of suffix words?     : false
+Uniquely decodable?       : true
 Entropy per word          : 12.925 bits
 Efficiency per character  : 1.650 bits
 Assumed entropy per char  : 3.231 bits
-Above brute force line    : true
-Above Shannon line        : false
+Above brute force line?   : true
+Above Shannon line?       : false
 Shortest edit distance    : 1
 Mean edit distance        : 7.559
 Longest shared prefix     : 10
@@ -103,21 +107,23 @@ If you want a 7,776-word diceware list that _does_ include prefix words, there's
 <details>
 <summary><h3>Suffix-free Diceware: A new diceware list without suffix words</h3></summary>
 
-**[diceware-suffix-free.txt](lists/diceware-suffix-free.txt)**: A new list for using with diceware. Rather than being free of prefix words, like the EFF long list, it is free of _suffix_ words. It's my contention that being free of suffix words provides the same security guarantees -- namely, being able to concatenate words in a passphrase without a delimiter -- as a prefix-word-free list. However, use at your own risk.
+**[diceware-suffix-free.txt](lists/diceware-suffix-free.txt)**: A new list for using with diceware. Rather than being free of prefix words, like the EFF long list, it is free of _suffix_ words. The list is uniquely decodable, so words from it can be safely concatenated without a separator, just like the EFF long list.
 
 ```text
 List length               : 7776 words
 Mean word length          : 7.08 characters
 Length of shortest word   : 3 characters (add)
 Length of longest word    : 10 characters (worthwhile)
-Free of prefix words      : false
-Free of suffix words      : true
+Free of prefix words?     : false
+Free of suffix words?     : true
+Uniquely decodable?       : true
 Entropy per word          : 12.925 bits
-Efficiency per character  : 1.825 bits
+Efficiency per character  : 1.824 bits
 Assumed entropy per char  : 4.308 bits
-Above brute force line    : true
-Above Shannon line        : false
+Above brute force line?   : true
+Above Shannon line?       : false
 Shortest edit distance    : 1
+Mean edit distance        : 6.985
 Longest shared prefix     : 9
 Unique character prefix   : 10
 
@@ -140,13 +146,14 @@ List length               : 16606 words
 Mean word length          : 8.30 characters
 Length of shortest word   : 4 characters (able)
 Length of longest word    : 18 characters (telecommunications)
-Free of prefix words      : true
-Free of suffix words      : false
+Free of prefix words?     : true
+Free of suffix words?     : false
+Uniquely decodable?       : true
 Entropy per word          : 14.019 bits
 Efficiency per character  : 1.689 bits
 Assumed entropy per char  : 3.505 bits
-Above brute force line    : true
-Above Shannon line        : false
+Above brute force line?   : true
+Above Shannon line?       : false
 Shortest edit distance    : 1
 Mean edit distance        : 8.100
 Longest shared prefix     : 15
@@ -165,19 +172,20 @@ repealed hedged legendary psychical thereof briefs
 <details>
 <summary><h3>Suffix Free: A long list free of suffix words</h3></summary>
 
-**[suffix-free.txt](lists/suffix-free.txt)** is a long list free of suffix words. I think this would be a good one to use as a wordlist for [the KeePassXC password manager](https://keepassxc.org/), but I'm not sure. Use at your own risk. A 7-word passphrase from this list provides 98.26 bits of entropy, compared to the EFF long list (KeePassXC's default list), from which a 7-word passphrase provides 90.47 bits.
+**[suffix-free.txt](lists/suffix-free.txt)** is a long list that is uniquely decodable (it is free of suffix words). I think this would be a good one to use as a wordlist for [the KeePassXC password manager](https://keepassxc.org/), however use at your own risk. A 7-word passphrase from this list provides 98.26 bits of entropy, compared to the EFF long list (KeePassXC's default list), from which a 7-word passphrase provides 90.47 bits.
 ```text
 List length               : 16815 words
 Mean word length          : 8.02 characters
 Length of shortest word   : 3 characters (add)
 Length of longest word    : 15 characters (vulnerabilities)
-Free of prefix words      : false
-Free of suffix words      : true
+Free of prefix words?     : false
+Free of suffix words?     : true
+Uniquely decodable?       : true
 Entropy per word          : 14.037 bits
 Efficiency per character  : 1.750 bits
 Assumed entropy per char  : 4.679 bits
-Above brute force line    : true
-Above Shannon line        : false
+Above brute force line?   : true
+Above Shannon line?       : false
 Shortest edit distance    : 1
 Mean edit distance        : 7.954
 Longest shared prefix     : 14
@@ -196,19 +204,20 @@ disarray midday industry defenders sculptors enclosed
 <details>
 <summary><h3>Short: A short word list of 1,030 words</h3></summary>
 
-**[short.txt](lists/short.txt)** is a short list with words that have unique three-character prefixes and the shortest edit distance between any two words is 3 characters. It's also free of prefix words. These attributes of the list are meant to emulate [the EFF short lists](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases).
+**[short.txt](lists/short.txt)** is a short list with words that have unique three-character prefixes and the shortest edit distance between any two words is 3 characters. It's also uniquely decodeable -- it's actually free of prefix words and suffix words. These attributes of the list are meant to emulate [the EFF short lists](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases).
 ```text
 List length               : 1030 words
 Mean word length          : 8.46 characters
 Length of shortest word   : 5 characters (yusuf)
 Length of longest word    : 12 characters (totalitarian)
-Free of prefix words      : true
-Free of suffix words      : true
+Free of prefix words?     : true
+Free of suffix words?     : true
+Uniquely decodable?       : true
 Entropy per word          : 10.008 bits
 Efficiency per character  : 1.183 bits
 Assumed entropy per char  : 2.002 bits
-Above brute force line    : true
-Above Shannon line        : true
+Above brute force line?   : true
+Above Shannon line?       : true
 Shortest edit distance    : 3
 Mean edit distance        : 8.046
 Longest shared prefix     : 2
@@ -227,19 +236,20 @@ glucose ithaca baptized obesity superego aircraft
 <details>
 <summary><h3>Wikilist: A word list based on word frequency from Wikipedia</h3></summary>
 
-**[wikilist.txt](lists/wikilist.txt)** is based on [word frequency from Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/blob/master/results/enwiki-20190320-words-frequency.txt) rather than Google Ngram data. (Thanks to [Aaron Toponce](https://fosstodon.org/@atoponce) for pointing me to this list.)
+**[wikilist.txt](lists/wikilist.txt)** is based on [word frequency from English-language Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/blob/master/results/enwiki-20190320-words-frequency.txt) rather than Google Ngram data. (Thanks to [Aaron Toponce](https://fosstodon.org/@atoponce) for pointing me to this list.)
 ```text
 List length               : 17511 words
 Mean word length          : 7.30 characters
 Length of shortest word   : 3 characters (ace)
 Length of longest word    : 11 characters (worshippers)
-Free of prefix words      : false
-Free of suffix words      : false
+Free of prefix words?     : false
+Free of suffix words?     : false
+Uniquely decodable?       : false
 Entropy per word          : 14.096 bits
 Efficiency per character  : 1.932 bits
 Assumed entropy per char  : 4.699 bits
-Above brute force line    : true
-Above Shannon line        : false
+Above brute force line?   : true
+Above Shannon line?       : false
 Shortest edit distance    : 1
 Mean edit distance        : 7.243
 Longest shared prefix     : 10
