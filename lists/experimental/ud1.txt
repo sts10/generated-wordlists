@@ -4846,7 +4846,6 @@ discerned
 discernible
 discerning
 discernment
-discharge
 discharged
 discharges
 discharging
@@ -10570,6 +10569,7 @@ obliquely
 obliterated
 oblivion
 oblivious
+oblong
 obnoxious
 obscene
 obscenity
@@ -11257,7 +11257,6 @@ pellet
 pellets
 pelvic
 pelvis
-penal
 penalties
 penalty
 penance
@@ -12322,6 +12321,7 @@ prosecutions
 prosecutor
 prosecutors
 prospect
+prospecting
 prospective
 prospects
 prospectus
@@ -13507,6 +13507,7 @@ robots
 robust
 robustness
 rocked
+rocker
 rocket
 rockets
 rocking
@@ -13605,7 +13606,6 @@ rusty
 ruthless
 rye
 sabotage
-sack
 sacks
 sacrament
 sacramental
