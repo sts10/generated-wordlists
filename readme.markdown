@@ -10,63 +10,63 @@ A repository for word lists I've generated. Some lists are based on Google Ngram
 **[basic.txt](lists/basic.txt)**
 
 ```text
-List length               : 18694 words
+List length               : 18670 words
 Mean word length          : 7.65 characters
 Length of shortest word   : 3 characters (all)
 Length of longest word    : 12 characters (conservative)
 Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : false
-Entropy per word          : 14.190 bits
+Entropy per word          : 14.188 bits
 Efficiency per character  : 1.855 bits
-Assumed entropy per char  : 4.730 bits
+Assumed entropy per char  : 4.729 bits
 Above brute force line?   : false
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.466
+Mean edit distance        : 7.465
 Longest shared prefix     : 10
 Unique character prefix   : 11
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-constables stipulate emery combined office mythology 
-result drama ancillary catalytic legends stew 
-brilliance interfering grateful invoking blossoms carcinogens 
-paper boasted footage wayward judging reacting 
-tenderly settles prominently clandestine battering docket 
+elbows benchmarks dissension grains mango presumption 
+weakness smelting disband fulfills sweetheart keeper 
+emptying perfume patiently homestead suggest blame 
+supine similar indications donor covenant boiled 
+exterior daffodil optimized embraces crutches audiovisual
 ```
 </details>
 
 <details>
 <summary><h3>1Password Replacement Word List</h3></summary>
 
-**[1password-replacement.txt](lists/1password-replacement/1password-replacement.txt)**: A suggested replacement for [1Password](https://1password.com/)'s word list, based on common words in Google Ngram data. It has the same minimum and maximum word length as [the list 1Password was using in 2021](https://1password.com/txt/agwordlist.txt), plus adds 54 extra words. You can view lists of the words I added and removed from the 2021 1Password list in `lists/1password-replacement/` directory. See [the list's own README for more information](lists/1password-replacement/readme.markdown) on this list.
+**[1password-replacement.txt](lists/1password-replacement/1password-replacement.txt)**: A suggested replacement for [1Password](https://1password.com/)'s word list, based on common words in Google Ngram data. It has the same minimum and maximum word length as [the list 1Password was using in 2021](https://1password.com/txt/agwordlist.txt), plus adds 32 extra words. You can view lists of the words I added and removed from the 2021 1Password list in `lists/1password-replacement/` directory. See [the list's own README for more information](lists/1password-replacement/readme.markdown) on this list.
 ```text
-
-List length               : 18230 words
+List length               : 18208 words
 Mean word length          : 6.36 characters
 Length of shortest word   : 3 characters (ace)
 Length of longest word    : 8 characters (zucchini)
 Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : false
-Entropy per word          : 14.154 bits
+Entropy per word          : 14.152 bits
 Efficiency per character  : 2.227 bits
-Assumed entropy per char  : 4.718 bits
+Assumed entropy per char  : 4.717 bits
 Above brute force line?   : false
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 6.188
+Mean edit distance        : 6.187
 Longest shared prefix     : 7
 Unique character prefix   : 8
+Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-relieved lung heating alone risk medal 
-rude fixation ranch furnace walkway bun 
-acorn lashes wrinkle smoother hosting pullover 
-rider lilies hertz district caresses vagrants 
-grimes papyri maternal turkey dish anger
+state perfumes televise boast driver moot 
+slope caress flavors ravines cutbacks user 
+stimulus furlough inherent codes concept judicial 
+damper domes confirm workmen littered aspect 
+dislike cling fronting regard black drama
 ```
 </details>
 

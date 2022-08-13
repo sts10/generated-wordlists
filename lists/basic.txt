@@ -385,7 +385,6 @@ afternoons
 again
 against
 aged
-ageing
 agencies
 agency
 agenda
@@ -648,7 +647,6 @@ amusement
 amusements
 amusing
 anaconda
-anaemia
 anaerobic
 anaesthesia
 anaesthetic
@@ -660,7 +658,6 @@ analog
 analogies
 analogous
 analogs
-analogue
 analogues
 analogy
 analysis
@@ -936,7 +933,6 @@ arbitrators
 arbor
 arcade
 arch
-archaeology
 archaic
 archangel
 archbishop
@@ -5811,7 +5807,6 @@ enrichment
 enroll
 enrolled
 enrollment
-enrolment
 ensemble
 ensembles
 enshrined
@@ -6667,7 +6662,6 @@ filings
 filled
 filler
 fillers
-fillet
 filling
 fills
 film
@@ -7196,9 +7190,7 @@ frustration
 frying
 fuel
 fueled
-fuelled
 fuels
-fulfil
 fulfill
 fulfilled
 fulfilling
@@ -9302,7 +9294,6 @@ joystick
 jubilee
 judge
 judged
-judgement
 judgements
 judges
 judging
@@ -10329,7 +10320,6 @@ mechanistic
 mechanized
 medals
 media
-mediaeval
 medial
 median
 mediate
@@ -10657,7 +10647,6 @@ modal
 modeled
 modeling
 modelled
-modelling
 models
 modem
 modems
@@ -10739,7 +10728,6 @@ mono
 monograph
 monographs
 monolithic
-monologue
 monopolies
 monopolist
 monopoly
@@ -11336,7 +11324,6 @@ organizes
 organizing
 organs
 orient
-orientated
 orientation
 oriented
 orienting
@@ -12217,7 +12204,6 @@ plot
 plots
 plotted
 plotting
-plough
 ploughing
 plow
 plowed
@@ -12445,7 +12431,6 @@ potential
 potentially
 potentials
 potluck
-potter
 potters
 pottery
 pouch
@@ -12466,7 +12451,6 @@ powers
 practicable
 practical
 practically
-practice
 practiced
 practices
 practicing
@@ -12623,7 +12607,6 @@ presumptive
 presuppose
 presupposed
 presupposes
-pretence
 pretend
 pretended
 pretending
@@ -12785,7 +12768,6 @@ progeny
 prognosis
 prognostic
 program
-programme
 programmed
 programmer
 programmers
@@ -15226,7 +15208,6 @@ skewer
 skid
 skies
 skiing
-skilful
 skill
 skilled
 skillet
@@ -16305,7 +16286,6 @@ sulfur
 sulfuric
 sulk
 sullen
-sulphur
 sultan
 summaries
 summarily
@@ -16849,7 +16829,6 @@ thatcher
 thaw
 theater
 theaters
-theatre
 theatres
 theatrical
 theft
@@ -17269,10 +17248,7 @@ traveled
 traveler
 travelers
 traveling
-travelled
-traveller
 travellers
-travelling
 travels
 traverse
 traversed

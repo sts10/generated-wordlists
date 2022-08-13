@@ -263,7 +263,9 @@ amra
 amy
 ana
 anadem
+anaemia
 anaglyph
+analogue
 analyse
 anapest
 anaphora
@@ -1615,6 +1617,7 @@ corvette
 coryza
 cosmogon
 cossack
+cosy
 cotta
 couchant
 couldest
@@ -1947,6 +1950,7 @@ dhow
 diabolic
 diachron
 diadem
+dialogue
 diapason
 diarist
 diarrhea
@@ -2510,6 +2514,7 @@ filet
 filigree
 filipina
 filipino
+fillet
 fillip
 filly
 filmdom
@@ -2678,6 +2683,7 @@ fortuity
 forwent
 foss
 foulard
+fount
 foursome
 fovea
 foveae
@@ -2727,6 +2733,7 @@ fuchsia
 fuddle
 fugal
 fuji
+fulfil
 fullback
 fulsome
 fum
@@ -2981,6 +2988,7 @@ greek
 greg
 gremlin
 grenada
+grey
 gridiron
 gripe
 grippe
@@ -3383,6 +3391,7 @@ ides
 idiocy
 idolater
 idolator
+idyll
 iffy
 ignominy
 iguana
@@ -3918,6 +3927,7 @@ libra
 libretti
 libya
 libyan
+licence
 licit
 lido
 lief
@@ -4459,6 +4469,7 @@ mullein
 mullet
 mulligan
 mullion
+mum
 mummer
 mummery
 mummify
@@ -5323,6 +5334,7 @@ pliancy
 pliant
 plod
 plop
+plough
 plover
 plowboy
 plowman
@@ -5421,10 +5433,12 @@ potpie
 potsherd
 potshot
 pottage
+potter
 poult
 poultice
 pow
 powwow
+practice
 practise
 praetor
 prague
@@ -5456,6 +5470,7 @@ presage
 presidio
 pressman
 presto
+pretence
 preterit
 pretoria
 prickle
@@ -6178,6 +6193,7 @@ sixgun
 skat
 skeet
 skein
+skilful
 skimp
 skimpy
 skinful
@@ -6204,6 +6220,7 @@ slavic
 slaw
 sleaze
 sleazy
+sledge
 sleight
 sleuth
 slicker
@@ -6481,6 +6498,7 @@ suffuse
 suiting
 sulfa
 sulky
+sulphur
 sultana
 sultry
 sumac
@@ -6692,6 +6710,7 @@ thane
 that
 thataway
 the
+theatre
 theatric
 thee
 thegn
