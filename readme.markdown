@@ -270,30 +270,30 @@ negative sectors afflicted bout ramps honeycomb
 
 **[ud1.txt](lists/experimental/ud1.txt)** is a long, uniquely decodable list, based on Google Ngram data. It was made uniquely decodable [via a process I created](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html), and thus is **EXPERIMENTAL**. Use with caution.
 ```text
-List length               : 17763 words
-Mean word length          : 8.01 characters
+List length               : 17559 words
+Mean word length          : 8.00 characters
 Length of shortest word   : 3 characters (add)
 Length of longest word    : 15 characters (vulnerabilities)
 Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : true
-Entropy per word          : 14.117 bits
-Efficiency per character  : 1.763 bits
-Assumed entropy per char  : 4.706 bits
-Above brute force line?   : false
+Entropy per word          : 14.100 bits
+Efficiency per character  : 1.762 bits
+Assumed entropy per char  : 4.700 bits
+Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.944
+Mean edit distance        : 7.939
 Longest shared prefix     : 14
 Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-occur designating conserving periodicals teaspoon divorced 
-secret quote inventor affixed fluffy slug 
-stressed determined element sparingly doctor pink 
-dark glanced piper coincide bartender handling 
-crusades criminals cello actively sophisticated mono
+voucher carton disintegration blocks governed appendix 
+edible archaeologist endured loads balancing registered 
+goldsmith caller cursing kicked revelation coaching 
+eliciting drama probe tweed benefiting molar 
+seismic moisture publishers holiness penal spur
 ```
 </details>
 
