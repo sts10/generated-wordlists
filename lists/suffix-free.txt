@@ -33,6 +33,7 @@ aboriginal
 aborigines
 abortions
 abound
+about
 above
 abrasion
 abrasive
@@ -41,7 +42,6 @@ abridged
 abroad
 abrupt
 abruptly
-abscess
 absence
 absences
 absent
@@ -92,6 +92,7 @@ accepted
 accepting
 accepts
 access
+accessed
 accessibility
 accessing
 accession
@@ -120,6 +121,7 @@ accomplishment
 accomplishments
 accord
 accordance
+accorded
 according
 accordingly
 accords
@@ -244,7 +246,6 @@ adhesion
 adhesive
 adiabatic
 adipose
-adj
 adjacent
 adjective
 adjectives
@@ -337,6 +338,12 @@ advice
 advisable
 advise
 advised
+adviser
+advisers
+advises
+advising
+advisor
+advisors
 advisory
 advocacy
 advocate
@@ -345,6 +352,7 @@ advocates
 advocating
 aeration
 aerial
+aerodynamic
 aeronautics
 aerosol
 aerospace
@@ -395,7 +403,6 @@ afterward
 afterwards
 again
 against
-ageing
 agencies
 agency
 agenda
@@ -409,6 +416,7 @@ aggression
 aggressive
 aggressively
 aggressiveness
+aggressor
 aggrieved
 agitated
 agitation
@@ -522,6 +530,7 @@ alphabetical
 alpine
 already
 alright
+also
 altar
 altars
 alter
@@ -605,7 +614,6 @@ amuse
 amused
 amusement
 amusing
-anaemia
 anaerobic
 anaesthesia
 analgesia
@@ -614,7 +622,6 @@ analgesics
 analog
 analogies
 analogous
-analogue
 analogues
 analogy
 analyses
@@ -749,6 +756,7 @@ antiquity
 antislavery
 antisocial
 antithesis
+antithetical
 antitrust
 anxieties
 anxiety
@@ -874,7 +882,6 @@ arcade
 archaeological
 archaeologist
 archaeologists
-archaeology
 archaic
 archbishop
 archetypal
@@ -1299,6 +1306,7 @@ baking
 balancing
 balcony
 bald
+bales
 ballad
 ballads
 ballast
@@ -1445,6 +1453,7 @@ beautifully
 beauty
 beaux
 became
+because
 beck
 beckoned
 become
@@ -1459,6 +1468,7 @@ bedtime
 bee
 beech
 beef
+been
 beer
 beers
 bees
@@ -1822,7 +1832,6 @@ bouquet
 bourbon
 bourgeois
 bourgeoisie
-bout
 bovine
 bowed
 bower
@@ -2237,7 +2246,6 @@ careless
 carelessly
 carelessness
 cares
-caress
 caretaker
 cargo
 caribou
@@ -2297,7 +2305,6 @@ cat
 catalog
 cataloging
 catalogs
-catalogue
 catalogues
 cataloguing
 catalysis
@@ -2324,6 +2331,7 @@ category
 cater
 catering
 caterpillar
+catfish
 cathedral
 catheter
 catheters
@@ -2336,7 +2344,6 @@ causal
 causality
 causation
 causative
-cause
 caused
 causes
 causing
@@ -2663,6 +2670,7 @@ clarified
 clarifies
 clarify
 clarifying
+clarinet
 clarity
 clash
 clashes
@@ -4489,6 +4497,7 @@ diagnosis
 diagnostic
 diagnostics
 diagonal
+diagonally
 diagram
 diagrams
 dialect
@@ -4496,7 +4505,6 @@ dialectic
 dialects
 dialed
 dialog
-dialogue
 dialogues
 dialysis
 diameter
@@ -4611,6 +4619,7 @@ directories
 directors
 directory
 directs
+dirk
 dirt
 dirty
 disabilities
@@ -4652,7 +4661,6 @@ discerned
 discernible
 discerning
 discernment
-discharge
 discharged
 discharges
 discharging
@@ -4958,6 +4966,7 @@ donations
 donkey
 donor
 donors
+doom
 doomed
 doorstep
 doorway
@@ -5141,6 +5150,7 @@ dynasties
 dynasty
 dysfunction
 dysfunctional
+dyslexia
 eagerly
 eagerness
 eagle
@@ -5303,6 +5313,7 @@ embarrass
 embarrassed
 embarrassing
 embarrassment
+embassies
 embassy
 embedded
 embedding
@@ -5424,7 +5435,6 @@ encouraging
 encroachment
 encrypted
 encryption
-encyclopaedia
 encyclopedia
 endanger
 endangered
@@ -5439,7 +5449,6 @@ endocrine
 endorse
 endorsed
 endorsement
-endowed
 endowment
 endowments
 endurance
@@ -5447,6 +5456,7 @@ endure
 endured
 enduring
 enemies
+enemy
 energetic
 energetically
 energies
@@ -5513,7 +5523,6 @@ enrichment
 enroll
 enrolled
 enrollment
-enrolment
 ensemble
 enshrined
 enslaved
@@ -5690,7 +5699,6 @@ etiology
 etiquette
 etymology
 eucalyptus
-eugenics
 euphoria
 euro
 euthanasia
@@ -5918,6 +5926,7 @@ exploded
 exploding
 exploit
 exploitation
+exploitative
 exploited
 exploiting
 exploits
@@ -6199,7 +6208,6 @@ festival
 festivals
 festive
 festivities
-fetal
 fetch
 fetched
 fetus
@@ -6335,7 +6343,6 @@ flanked
 flanking
 flanks
 flannel
-flap
 flapping
 flaps
 flare
@@ -6626,6 +6633,7 @@ frantic
 frantically
 fraternal
 fraternity
+frauds
 fraudulent
 fraught
 fray
@@ -6704,7 +6712,6 @@ fuel
 fueled
 fuels
 fugitive
-fulfil
 fulfill
 fulfilling
 fulfillment
@@ -6916,6 +6923,7 @@ gigantic
 giggled
 gilded
 gill
+gills
 gilt
 ginger
 girdle
@@ -7113,7 +7121,6 @@ greeted
 greeting
 greetings
 grew
-grey
 grid
 grids
 grief
@@ -7394,7 +7401,6 @@ height
 heightened
 heights
 heir
-heirs
 helicopter
 helicopters
 helium
@@ -8255,6 +8261,7 @@ inscribed
 inscription
 inscriptions
 insect
+insecticide
 insecticides
 insects
 insecure
@@ -8715,7 +8722,6 @@ joyous
 jubilee
 judge
 judged
-judgement
 judgements
 judges
 judging
@@ -8751,6 +8757,7 @@ justify
 justifying
 juvenile
 juveniles
+juxtaposed
 juxtaposition
 karma
 keel
@@ -9055,7 +9062,6 @@ librarian
 librarians
 libraries
 library
-licence
 licences
 license
 licensed
@@ -9224,6 +9230,7 @@ lowest
 lowland
 lowlands
 loyal
+loyalist
 loyalists
 loyalties
 loyalty
@@ -9302,6 +9309,7 @@ mails
 mainframe
 mainland
 mainly
+mainstay
 mainstream
 maintain
 maintained
@@ -9327,6 +9335,7 @@ malice
 malicious
 malignancy
 malignant
+malls
 malnutrition
 malpractice
 malt
@@ -9845,7 +9854,6 @@ mode
 model
 modeled
 modelled
-modelling
 models
 modem
 modems
@@ -9876,7 +9884,6 @@ modulation
 module
 modules
 modulus
-moist
 moisture
 molar
 molasses
@@ -9919,7 +9926,6 @@ mono
 monograph
 monographs
 monolithic
-monologue
 monopolies
 monopolistic
 monopoly
@@ -9998,7 +10004,6 @@ mourn
 mournful
 mourning
 mouse
-moustache
 mouth
 mouthed
 mouths
@@ -10332,7 +10337,6 @@ organizing
 organs
 orient
 oriental
-orientated
 orientation
 orientations
 oriented
@@ -10519,7 +10523,6 @@ paintings
 paints
 palace
 palaces
-palate
 palazzo
 pale
 palette
@@ -10665,6 +10668,7 @@ pastry
 pasture
 pastures
 patches
+patchwork
 patent
 patented
 patents
@@ -10768,7 +10772,6 @@ pellet
 pellets
 pelvic
 pelvis
-penal
 penalties
 penalty
 penance
@@ -11084,6 +11087,7 @@ plaque
 plaques
 plasma
 plaster
+plastered
 plastic
 plasticity
 plastics
@@ -11130,7 +11134,6 @@ plot
 plots
 plotted
 plotting
-plough
 plow
 pluck
 plucked
@@ -11155,7 +11158,6 @@ pneumatic
 pneumonia
 pocket
 pockets
-pod
 podium
 pods
 poem
@@ -11228,6 +11230,7 @@ polytechnic
 pomp
 ponder
 pondered
+pondering
 ponies
 pony
 pool
@@ -11324,7 +11327,6 @@ potentialities
 potentiality
 potentially
 potentials
-potter
 pottery
 pouch
 poultry
@@ -11508,7 +11510,6 @@ presupposed
 presupposes
 presupposition
 presuppositions
-pretence
 pretend
 pretended
 pretending
@@ -11670,7 +11671,6 @@ prognosis
 prognostic
 program
 programmable
-programme
 programmed
 programmer
 programmers
@@ -11800,6 +11800,7 @@ prosthesis
 prosthetic
 prostitutes
 prostitution
+prostrate
 protagonist
 protagonists
 protect
@@ -13023,7 +13024,6 @@ rusty
 ruthless
 rye
 sabotage
-sack
 sacks
 sacrament
 sacramental
@@ -13779,7 +13779,6 @@ skewed
 ski
 skies
 skiing
-skilful
 skill
 skillet
 skillful
@@ -14335,7 +14334,6 @@ statute
 statutes
 statutory
 staunch
-stay
 stayed
 staying
 stays
@@ -14363,7 +14361,6 @@ steering
 stein
 stemmed
 stemming
-stench
 stepfather
 stepmother
 steppe
@@ -14436,7 +14433,6 @@ stopped
 stopping
 stops
 storage
-storey
 storm
 stormed
 storms
@@ -14718,7 +14714,6 @@ sulfide
 sulfur
 sulfuric
 sullen
-sulphur
 sultan
 summaries
 summarize
@@ -15180,10 +15175,10 @@ thatcher
 thaw
 theater
 theaters
-theatre
 theatres
 theatrical
 theft
+theirs
 thematic
 theme
 themes
@@ -15568,10 +15563,7 @@ traveled
 traveler
 travelers
 traveling
-travelled
-traveller
 travellers
-travelling
 travels
 traverse
 traversed
@@ -15639,6 +15631,7 @@ trip
 tripartite
 triple
 triplet
+tripod
 triumph
 triumphant
 triumphantly
@@ -15740,6 +15733,7 @@ twist
 twisted
 twisting
 twists
+two
 twofold
 typescript
 typewriter
@@ -16145,7 +16139,7 @@ vanishing
 vanity
 vanquished
 vapor
-var
+vapors
 variability
 variable
 variables

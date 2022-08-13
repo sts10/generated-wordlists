@@ -58,7 +58,6 @@ Shortest edit distance    : 1
 Mean edit distance        : 6.187
 Longest shared prefix     : 7
 Unique character prefix   : 8
-Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
@@ -76,29 +75,29 @@ dislike cling fronting regard black drama
 **[diceware.txt](lists/diceware.txt)**: A new list for using with diceware. Like [the EFF long list](https://www.eff.org/dice), it is free of prefix words, though it has words longer than 9 characters, unlike the EFF long list. The version in this repo has the corresponding dice rolls preceding each word, followed by a tab. The EFF has [instructions for how to use dice and lists like this one to generate passphrases](https://www.eff.org/dice).
 ```text
 List length               : 7776 words
-Mean word length          : 7.83 characters
-Length of shortest word   : 4 characters (aged)
+Mean word length          : 7.61 characters
+Length of shortest word   : 3 characters (ads)
 Length of longest word    : 11 characters (withholding)
 Free of prefix words?     : true
 Free of suffix words?     : false
 Uniquely decodable?       : true
 Entropy per word          : 12.925 bits
-Efficiency per character  : 1.650 bits
-Assumed entropy per char  : 3.231 bits
+Efficiency per character  : 1.698 bits
+Assumed entropy per char  : 4.308 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.559
+Mean edit distance        : 7.431
 Longest shared prefix     : 10
 Unique character prefix   : 11
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-zero annoyed paralysis prophetic pursuing implemented 
-repairs relating withdrawal rewards empires oval 
-relates obstacles validity provoked fury salesman 
-smiles fears hereby relational rapidly discounted 
-circles inclusion marketing reluctantly bureaucracy presently 
+pointing ineffective faults tongues worse filtering 
+things equations applies programming hose stressful 
+escaping privacy tribal composed grinned cannon 
+battalion coordinator stimulation terrible lending elected 
+yelled motifs carpet married wars wheeler 
 ```
 
 If you want a 7,776-word diceware list that _does_ include prefix words, there's [diceware-including-prefix.txt](lists/diceware-including-prefix.txt). Just be sure to use a character or space between words in your passphrase!
@@ -111,29 +110,27 @@ If you want a 7,776-word diceware list that _does_ include prefix words, there's
 
 ```text
 List length               : 7776 words
-Mean word length          : 7.08 characters
+Mean word length          : 7.10 characters
 Length of shortest word   : 3 characters (add)
 Length of longest word    : 10 characters (worthwhile)
 Free of prefix words?     : false
 Free of suffix words?     : true
-Uniquely decodable?       : true
 Entropy per word          : 12.925 bits
-Efficiency per character  : 1.824 bits
+Efficiency per character  : 1.820 bits
 Assumed entropy per char  : 4.308 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 6.985
 Longest shared prefix     : 9
 Unique character prefix   : 10
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-writers ethic yet pockets lobby talk 
-water stated daily trash sublime spelling 
-undergoing drinking distinct scientists exposition chart 
-remark suite joined sea fetal steal 
-victor advocated unfair opponents enable overhead 
+colonel canon physician wonder uterine show 
+computers toxicity scholar steering catching latitude 
+packages smoked jail embodied alien lazy 
+affirmed seminar pride autonomy sacred improve 
+baron wind airway total maiden bones
 ```
 </details>
 
@@ -142,30 +139,31 @@ victor advocated unfair opponents enable overhead
 
 **[prefix-free.txt](lists/prefix-free.txt)** is a long list free of prefix words.
 ```text
-List length               : 16606 words
-Mean word length          : 8.30 characters
-Length of shortest word   : 4 characters (able)
-Length of longest word    : 18 characters (telecommunications)
+List length               : 16719 words
+Mean word length          : 8.28 characters
+Length of shortest word   : 3 characters (ads)
+Length of longest word    : 15 characters (vulnerabilities)
 Free of prefix words?     : true
 Free of suffix words?     : false
 Uniquely decodable?       : true
-Entropy per word          : 14.019 bits
-Efficiency per character  : 1.689 bits
-Assumed entropy per char  : 3.505 bits
+Entropy per word          : 14.029 bits
+Efficiency per character  : 1.694 bits
+Assumed entropy per char  : 4.676 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 8.100
-Longest shared prefix     : 15
-Unique character prefix   : 16
+Mean edit distance        : 8.085
+Longest shared prefix     : 14
+Unique character prefix   : 15
+Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-flint inflationary corresponds deterministic disappointing incisive 
-recorders undoing modifying furthering crashes merrily 
-forefront ardent eccentricity extraneous staked charred 
-carcinogens militarism universals fanning communicates whereabouts 
-repealed hedged legendary psychical thereof briefs 
+eliciting knitted intoxicated embellished binds ruled 
+expulsion obscurity considerable extremities standby murdering 
+longings cautioned whirlwind converging crashes demonstrations 
+appellation inexorable revisited folders pony inhalation 
+planters promiscuity contaminants appointments callus leech
 ```
 </details>
 
@@ -174,7 +172,7 @@ repealed hedged legendary psychical thereof briefs
 
 **[suffix-free.txt](lists/suffix-free.txt)** is a long list that is uniquely decodable (it is free of suffix words). I think this would be a good one to use as a wordlist for [the KeePassXC password manager](https://keepassxc.org/), however use at your own risk. A 7-word passphrase from this list provides 98.26 bits of entropy, compared to the EFF long list (KeePassXC's default list), from which a 7-word passphrase provides 90.47 bits.
 ```text
-List length               : 16815 words
+List length               : 16809 words
 Mean word length          : 8.02 characters
 Length of shortest word   : 3 characters (add)
 Length of longest word    : 15 characters (vulnerabilities)
@@ -190,14 +188,15 @@ Shortest edit distance    : 1
 Mean edit distance        : 7.954
 Longest shared prefix     : 14
 Unique character prefix   : 15
+Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-adopting skeletons suitability silence tempered breathe 
-seventies benevolent dining psychologically fortifications aggrieved 
-predator shaft paternity resists instinctive coldly 
-packs poisons indebtedness dislocation arrival sockets 
-disarray midday industry defenders sculptors enclosed 
+scratch chickens conceive shattered patterning antique 
+extensively layman atheist potato seventeen additional 
+caretaker immutable heartily comedy fulfilment ultimate 
+concave applicability downwards unoccupied prewar behave 
+capitalists sorry cushion denoting criteria divination
 ```
 </details>
 
