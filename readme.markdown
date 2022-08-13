@@ -268,7 +268,7 @@ negative sectors afflicted bout ramps honeycomb
 <details>
 <summary><h3>UD1: A long, uniquely decodable word list</h3></summary>
 
-**[ud1.txt](lists/experimental/ud1.txt)** is a long, uniquely decodable list, based on Google Ngram data. It was made uniquely decodable [via a process I created](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html), and thus is **EXPERIMENTAL**. Use with caution.
+**[ud1.txt](lists/experimental/ud1.txt)** is a long, uniquely decodable list, based on Google Ngram data. It was made uniquely decodable [via a process I created](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html) and thus I mark it as **EXPERIMENTAL**. Use with caution.
 ```text
 List length               : 17559 words
 Mean word length          : 8.00 characters
