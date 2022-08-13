@@ -264,6 +264,8 @@ negative sectors afflicted bout ramps honeycomb
 ```
 </details>
 
+### Experimental lists
+
 <details>
 <summary><h3>UD1: A long, uniquely decodable word list</h3></summary>
 
@@ -293,6 +295,38 @@ edible archaeologist endured loads balancing registered
 goldsmith caller cursing kicked revelation coaching 
 eliciting drama probe tweed benefiting molar 
 seismic moisture publishers holiness penal spur
+```
+</details>
+
+<details>
+<summary><h3>UD Diceware: A diceware list that is uniquely decodable</h3></summary>
+
+**[diceware-ud.txt](lists/experimental/diceware-ud.txt)** is a uniquely decodable list for use with diceware. The words are based on Google Ngram data. It was made uniquely decodable [via a process I created](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html) and thus I mark it as **EXPERIMENTAL**. Use with caution.
+```text
+List length               : 7776 words
+Mean word length          : 7.06 characters
+Length of shortest word   : 3 characters (add)
+Length of longest word    : 10 characters (worthwhile)
+Free of prefix words?     : false
+Free of suffix words?     : false
+Uniquely decodable?       : true
+Entropy per word          : 12.925 bits
+Efficiency per character  : 1.832 bits
+Assumed entropy per char  : 4.308 bits
+Above brute force line?   : true
+Above Shannon line?       : false
+Shortest edit distance    : 1
+Mean edit distance        : 6.961
+Longest shared prefix     : 9
+Unique character prefix   : 10
+
+Pseudorandomly generated sample passphrases
+-------------------------------------------
+researcher moderately therein altered texture snakes 
+discursive shortage persist demon truly expectancy 
+spending archives reliable oppression weekly variance 
+legs enzymes stages resembles terminate enquiry 
+upward unwilling develop accorded exhibited bilateral 
 ```
 </details>
 
