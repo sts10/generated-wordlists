@@ -3,6 +3,11 @@
 A repository for word lists I've generated. Some lists are based on Google Ngram data, while others are based on [word frequency data from (English) Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/blob/master/results/enwiki-20190320-words-frequency.txt).
 
 ## About the word lists
+
+Detailed information about most of the lists in this repository is available below. The main differences are in list length, whether they're uniquely decodable, and whether they have corresponding dice roll values in them.
+
+If you're feeling adventurous, I'd point you to [UD1](lists/experimental/ud1.txt) and [ud-diceware](lists/experimental/ud-diceware.txt).
+
 <!--
 |                       | length | Uniquely decodable? | Diceware compatible? |
 |-----------------------|--------|---------------------|----------------------|
@@ -17,30 +22,31 @@ A repository for word lists I've generated. Some lists are based on Google Ngram
 **[basic.txt](lists/basic.txt)**
 
 ```text
-List length               : 18284 words
-Mean word length          : 7.53 characters
+List length               : 18230 words
+Mean word length          : 7.54 characters
 Length of shortest word   : 3 characters (ace)
 Length of longest word    : 12 characters (workstations)
 Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : false
-Entropy per word          : 14.158 bits
-Efficiency per character  : 1.880 bits
-Assumed entropy per char  : 4.719 bits
+Entropy per word          : 14.154 bits
+Efficiency per character  : 1.877 bits
+Assumed entropy per char  : 4.718 bits
 Above brute force line?   : false
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.504
+Mean edit distance        : 7.507
 Longest shared prefix     : 11
 Unique character prefix   : 12
+Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-conducted turned reaches secretly desirable situated 
-researcher agony strapped watching recovery emphasis 
-sentimental telephone snatched selection flute leads 
-orchestral comedies limitation excessive apostles disagreement 
-mentally slowly testifies biological sequencing productive 
+committing physicians restaurant owed vegetable give 
+enveloped lifestyle conversation aloft chanting rolled 
+fever circulation penchant drawings emery vulnerable 
+masculine shoreline sure acidic academic assertive 
+auspices faction width aquatic succinctly alleys
 ```
 </details>
 
