@@ -10,30 +10,30 @@ A repository for word lists I've generated. Some lists are based on Google Ngram
 **[basic.txt](lists/basic.txt)**
 
 ```text
-List length               : 18626 words
-Mean word length          : 7.66 characters
-Length of shortest word   : 3 characters (awl)
-Length of longest word    : 12 characters (conservative)
+List length               : 18291 words
+Mean word length          : 7.53 characters
+Length of shortest word   : 3 characters (ace)
+Length of longest word    : 12 characters (workstations)
 Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : false
-Entropy per word          : 14.185 bits
-Efficiency per character  : 1.852 bits
-Assumed entropy per char  : 4.728 bits
+Entropy per word          : 14.159 bits
+Efficiency per character  : 1.880 bits
+Assumed entropy per char  : 4.720 bits
 Above brute force line?   : false
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.469
-Longest shared prefix     : 10
-Unique character prefix   : 11
+Mean edit distance        : 7.504
+Longest shared prefix     : 11
+Unique character prefix   : 12
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-starter selector unionized inactivity parser clearance 
-fats terminals enhances thirties toxicity fleet 
-temperature demolition signified veal ventilator plead 
-patriotic detector watching temperance commando angle 
-truncate galaxy summation bacterial finder rides 
+habitual respectfully likes enabled looming irregularity 
+east transcend enhances influences square arm 
+self processing client watered capitol spite 
+bribery postpartum utopian finance plum gowns 
+adjudication inductance trolley inventor retiring kinetic 
 ```
 </details>
 
@@ -288,11 +288,11 @@ Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-exhibits considerations attentively cowardice gleaming popped 
-homes briefly visionary additives densely fingerprint 
-existing implementations fluidity telling sacred carpenter 
-questionnaire unchanged wisdom makeup benefiting ventilated 
-stuffed decorate frenzy computers warp combat 
+counselor anomalous mold equip fourth canteen 
+prop dealer buzz interactions exacerbated peroxide 
+happenings detach preached pile tapped officer 
+compulsion progressives confers deaths blush republicans 
+gymnastics mammal soldier brackets defending ancestral 
 ```
 </details>
 
@@ -309,23 +309,22 @@ Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : true
 Entropy per word          : 12.925 bits
-Efficiency per character  : 1.831 bits
+Efficiency per character  : 1.832 bits
 Assumed entropy per char  : 4.308 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 6.962
+Mean edit distance        : 6.961
 Longest shared prefix     : 9
 Unique character prefix   : 10
-Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-inevitably coin enabled murdered brook adulthood 
-verified fulfilled cement speeches sheriff offenses 
-death parade coordinate emission virtually boundary 
-handed attained preferable scrutiny arise types 
-divide degrees hereditary appeal rat federation 
+talk premises soup par shoulder graphic 
+frequency silence candle proposes salad pie 
+assigned drained policies sprang overcome famine 
+listening perhaps dreams home extension interstate 
+granting fashion ammonia tort guidance horrible 
 ```
 </details>
 

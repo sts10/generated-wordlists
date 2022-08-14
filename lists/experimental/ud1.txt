@@ -1003,7 +1003,6 @@ arrogant
 arrows
 arsenal
 arsenic
-artefacts
 arterial
 arteries
 artery
@@ -4290,6 +4289,7 @@ defeated
 defeating
 defeats
 defect
+defection
 defective
 defects
 defend
@@ -7771,7 +7771,6 @@ heroine
 heroism
 heron
 herring
-herself
 hertz
 hesitant
 hesitate
@@ -7809,7 +7808,6 @@ highways
 hike
 hiking
 hillside
-himself
 hinder
 hindered
 hindrance
@@ -8108,7 +8106,6 @@ illuminated
 illuminates
 illuminating
 illumination
-illus
 illusion
 illusions
 illusory
@@ -9837,7 +9834,6 @@ marketplace
 marking
 markings
 markup
-marquis
 marred
 marriages
 marries
@@ -12319,6 +12315,7 @@ prosecutions
 prosecutor
 prosecutors
 prospect
+prospecting
 prospective
 prospects
 prospectus
@@ -13506,6 +13503,7 @@ robots
 robust
 robustness
 rocked
+rocker
 rocket
 rockets
 rocking
@@ -15020,6 +15018,7 @@ stereotyping
 sterile
 sterility
 sterilization
+sterilized
 sterling
 sternly
 steroid
@@ -15035,6 +15034,7 @@ stiff
 stiffened
 stiffly
 stiffness
+stifle
 stifled
 stifling
 stigma
