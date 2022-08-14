@@ -1224,6 +1224,7 @@ audiovisual
 audit
 audited
 auditing
+audition
 auditor
 auditorium
 auditors
@@ -6356,7 +6357,6 @@ farthest
 fascinated
 fascinating
 fascination
-fascism
 fashion
 fashionable
 fashioned
@@ -13348,6 +13348,7 @@ retina
 retinal
 retire
 retired
+retirees
 retirement
 retiring
 retorted
@@ -13602,6 +13603,7 @@ rusty
 ruthless
 rye
 sabotage
+sacked
 sacks
 sacrament
 sacramental
@@ -14428,6 +14430,7 @@ slash
 slashed
 slaughtered
 slaves
+slay
 sleek
 sleeping
 sleeps
@@ -15717,7 +15720,6 @@ taxonomic
 taxonomy
 taxpayer
 taxpayers
-tbsp
 tea
 teach
 teacher
@@ -15869,7 +15871,6 @@ theirs
 thematic
 theme
 themes
-themselves
 thence
 theologian
 theologians
@@ -16380,7 +16381,6 @@ truthfully
 truths
 trying
 tsar
-tsp
 tube
 tuberculosis
 tubes

@@ -139,62 +139,62 @@ baron wind airway total maiden bones
 
 **[prefix-free.txt](lists/prefix-free.txt)** is a long list free of prefix words.
 ```text
-List length               : 16715 words
-Mean word length          : 8.28 characters
+List length               : 16126 words
+Mean word length          : 8.26 characters
 Length of shortest word   : 3 characters (ads)
 Length of longest word    : 15 characters (vulnerabilities)
 Free of prefix words?     : true
 Free of suffix words?     : false
 Uniquely decodable?       : true
-Entropy per word          : 14.029 bits
-Efficiency per character  : 1.694 bits
-Assumed entropy per char  : 4.676 bits
+Entropy per word          : 13.977 bits
+Efficiency per character  : 1.691 bits
+Assumed entropy per char  : 4.659 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 8.085
+Mean edit distance        : 8.074
 Longest shared prefix     : 14
 Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-reporters instructed reminded transported microfilm accusative 
-vexed gambling awaiting levies epileptic assures 
-arcane gratification motherhood fatalities irregularity oscillating 
-untoward mainline appreciated levelling rules vocabularies 
-bayou shrinks fret productions decoding mainland 
+patients entailed pregnancy inviting whips caries 
+surgically fiscal consignment imperfections resorted bribes 
+verily divisions predicted enhanced resorts sinking 
+groaning fluffy translations reiterated escaping mandated 
+spouses organizing menus rooms combinations basing
 ```
 </details>
 
 <details>
 <summary><h3>Suffix Free: A long list free of suffix words</h3></summary>
 
-**[suffix-free.txt](lists/suffix-free.txt)** is a long list that is uniquely decodable (it is free of suffix words). I think this would be a good one to use as a wordlist for [the KeePassXC password manager](https://keepassxc.org/), however use at your own risk. A 7-word passphrase from this list provides 98.26 bits of entropy, compared to the EFF long list (KeePassXC's default list), from which a 7-word passphrase provides 90.47 bits.
+**[suffix-free.txt](lists/suffix-free.txt)** is a long list that is uniquely decodable (it is free of suffix words). I think this would be a good one to use as a wordlist for [the KeePassXC password manager](https://keepassxc.org/), however use at your own risk. A 7-word passphrase from this list provides 98.2 bits of entropy, compared to the EFF long list (KeePassXC's default list), from which a 7-word passphrase provides 90.47 bits.
 ```text
-List length               : 16806 words
+List length               : 16785 words
 Mean word length          : 8.02 characters
 Length of shortest word   : 3 characters (add)
 Length of longest word    : 15 characters (vulnerabilities)
 Free of prefix words?     : false
 Free of suffix words?     : true
 Uniquely decodable?       : true
-Entropy per word          : 14.037 bits
-Efficiency per character  : 1.750 bits
-Assumed entropy per char  : 4.679 bits
+Entropy per word          : 14.035 bits
+Efficiency per character  : 1.749 bits
+Assumed entropy per char  : 4.678 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.954
+Mean edit distance        : 7.953
 Longest shared prefix     : 14
 Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-health twist save scandal adverse peach 
-drinking inflicted submitting prosper moreover smoothed 
-booth recital priority inconvenient miraculously surrounded 
-departments smelled proctor wartime upset lacked 
-crucifixion outstretched genealogical objective dwelling entrants 
+comedy hormonal fascism armies displaying electronically 
+facilitating township connectivity adjectives taxis horizon 
+basilica feather secret prevent heartland language 
+panels instruments belongs guidelines terminates supervising 
+convict impose footnotes directories injurious pendulum 
 ```
 </details>
 

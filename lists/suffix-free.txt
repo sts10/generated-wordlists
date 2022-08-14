@@ -16,6 +16,7 @@ aberrant
 aberration
 aberrations
 abide
+abiding
 abject
 abnormal
 abnormalities
@@ -32,7 +33,6 @@ abolitionists
 aboriginal
 aborigines
 abound
-about
 above
 abrasion
 abrasive
@@ -351,7 +351,6 @@ advocates
 advocating
 aeration
 aerial
-aerodynamic
 aeronautics
 aerosol
 aerospace
@@ -415,7 +414,6 @@ aggression
 aggressive
 aggressively
 aggressiveness
-aggressor
 aggrieved
 agitated
 agitation
@@ -529,7 +527,6 @@ alphabetical
 alpine
 already
 alright
-also
 altar
 altars
 alter
@@ -755,7 +752,6 @@ antiquity
 antislavery
 antisocial
 antithesis
-antithetical
 antitrust
 anxieties
 anxiety
@@ -951,7 +947,6 @@ arrogant
 arrows
 arsenal
 arsenic
-artefacts
 arterial
 arteries
 artery
@@ -1452,7 +1447,6 @@ beautifully
 beauty
 beaux
 became
-because
 beck
 beckoned
 become
@@ -1467,14 +1461,12 @@ bedtime
 bee
 beech
 beef
-been
 beer
 beers
 bees
 beet
 beetle
 beetles
-before
 beforehand
 beg
 began
@@ -1567,7 +1559,6 @@ betrays
 bets
 better
 betting
-between
 beverage
 beverages
 beware
@@ -1805,7 +1796,6 @@ boss
 bosses
 botanical
 botany
-both
 bother
 bothered
 bothering
@@ -1831,6 +1821,7 @@ bouquet
 bourbon
 bourgeois
 bourgeoisie
+bout
 bovine
 bowed
 bower
@@ -2094,6 +2085,7 @@ butter
 butterflies
 butterfly
 button
+buttons
 buy
 buyer
 buyers
@@ -2245,6 +2237,7 @@ careless
 carelessly
 carelessness
 cares
+caress
 caretaker
 cargo
 caribou
@@ -2330,7 +2323,6 @@ category
 cater
 catering
 caterpillar
-catfish
 cathedral
 catheter
 catheters
@@ -2343,6 +2335,7 @@ causal
 causality
 causation
 causative
+cause
 caused
 causes
 causing
@@ -2669,7 +2662,6 @@ clarified
 clarifies
 clarify
 clarifying
-clarinet
 clarity
 clash
 clashes
@@ -3081,6 +3073,7 @@ complied
 compliment
 complimentary
 compliments
+comply
 complying
 component
 components
@@ -3655,7 +3648,6 @@ couched
 cough
 coughed
 coughing
-could
 council
 councillors
 councils
@@ -3787,7 +3779,6 @@ criterion
 critic
 critical
 critically
-criticism
 criticisms
 criticize
 criticized
@@ -4018,6 +4009,7 @@ dear
 dearest
 dearly
 dearth
+death
 deaths
 debatable
 debate
@@ -4307,6 +4299,7 @@ deployment
 deportation
 deported
 deposed
+deposit
 deposited
 deposition
 depositions
@@ -4374,6 +4367,7 @@ designers
 designing
 designs
 desirability
+desire
 desired
 desires
 desiring
@@ -4400,6 +4394,7 @@ destined
 destinies
 destiny
 destitute
+destroy
 destroyed
 destroyer
 destroyers
@@ -4496,7 +4491,6 @@ diagnosis
 diagnostic
 diagnostics
 diagonal
-diagonally
 diagram
 diagrams
 dialect
@@ -4618,7 +4612,6 @@ directories
 directors
 directory
 directs
-dirk
 dirt
 dirty
 disabilities
@@ -4660,6 +4653,7 @@ discerned
 discernible
 discerning
 discernment
+discharge
 discharged
 discharges
 discharging
@@ -5149,7 +5143,6 @@ dynasties
 dynasty
 dysfunction
 dysfunctional
-dyslexia
 eagerly
 eagerness
 eagle
@@ -5312,7 +5305,6 @@ embarrass
 embarrassed
 embarrassing
 embarrassment
-embassies
 embassy
 embedded
 embedding
@@ -5636,7 +5628,6 @@ errand
 erratic
 erroneous
 erroneously
-error
 erstwhile
 erupted
 eruption
@@ -5925,7 +5916,6 @@ exploded
 exploding
 exploit
 exploitation
-exploitative
 exploited
 exploiting
 exploits
@@ -6206,6 +6196,7 @@ festival
 festivals
 festive
 festivities
+fetal
 fetch
 fetched
 fetus
@@ -6301,7 +6292,6 @@ fireworks
 firing
 firmly
 firmness
-first
 firsthand
 firstly
 fiscal
@@ -6341,6 +6331,7 @@ flanked
 flanking
 flanks
 flannel
+flap
 flapping
 flaps
 flare
@@ -6631,7 +6622,6 @@ frantic
 frantically
 fraternal
 fraternity
-frauds
 fraudulent
 fraught
 fray
@@ -6872,6 +6862,7 @@ genome
 genomes
 genre
 genres
+gentile
 gentle
 gentleman
 gentlemen
@@ -6921,7 +6912,6 @@ gigantic
 giggled
 gilded
 gill
-gills
 gilt
 ginger
 girdle
@@ -7448,7 +7438,6 @@ heroine
 heroism
 heron
 herring
-herself
 hertz
 hesitant
 hesitate
@@ -7485,7 +7474,6 @@ highways
 hike
 hiking
 hillside
-himself
 hinder
 hindered
 hindrance
@@ -7774,7 +7762,6 @@ illuminated
 illuminates
 illuminating
 illumination
-illus
 illusion
 illusions
 illusory
@@ -8259,7 +8246,6 @@ inscribed
 inscription
 inscriptions
 insect
-insecticide
 insecticides
 insects
 insecure
@@ -8697,6 +8683,7 @@ jimmy
 job
 jobs
 jogging
+john
 join
 joins
 jointly
@@ -8755,7 +8742,6 @@ justify
 justifying
 juvenile
 juveniles
-juxtaposed
 juxtaposition
 karma
 keel
@@ -9228,7 +9214,6 @@ lowest
 lowland
 lowlands
 loyal
-loyalist
 loyalists
 loyalties
 loyalty
@@ -9307,7 +9292,6 @@ mails
 mainframe
 mainland
 mainly
-mainstay
 mainstream
 maintain
 maintained
@@ -9333,7 +9317,6 @@ malice
 malicious
 malignancy
 malignant
-malls
 malnutrition
 malpractice
 malt
@@ -9440,7 +9423,6 @@ marketplace
 marking
 markings
 markup
-marquis
 marred
 marriages
 marries
@@ -9930,6 +9912,7 @@ monopoly
 monotonous
 monotony
 monoxide
+monsieur
 monsoon
 monster
 monsters
@@ -10065,7 +10048,6 @@ music
 musical
 musician
 musicians
-must
 mustache
 mustard
 muster
@@ -10368,6 +10350,7 @@ ostensibly
 osteoporosis
 otherwise
 ottoman
+ourselves
 outbreak
 outbreaks
 outburst
@@ -10420,6 +10403,7 @@ outweigh
 outweighed
 ovarian
 ovaries
+ovary
 ovens
 overall
 overboard
@@ -10666,7 +10650,6 @@ pastry
 pasture
 pastures
 patches
-patchwork
 patent
 patented
 patents
@@ -11085,7 +11068,6 @@ plaque
 plaques
 plasma
 plaster
-plastered
 plastic
 plasticity
 plastics
@@ -11156,6 +11138,7 @@ pneumatic
 pneumonia
 pocket
 pockets
+pod
 podium
 pods
 poem
@@ -11228,7 +11211,6 @@ polytechnic
 pomp
 ponder
 pondered
-pondering
 ponies
 pony
 pool
@@ -11272,7 +11254,6 @@ portrayal
 portrayed
 portraying
 portrays
-posit
 positioned
 positioning
 positive
@@ -11344,7 +11325,6 @@ practically
 practiced
 practices
 practicing
-practised
 practising
 practitioner
 practitioners
@@ -11798,7 +11778,6 @@ prosthesis
 prosthetic
 prostitutes
 prostitution
-prostrate
 protagonist
 protagonists
 protect
@@ -11812,6 +11791,7 @@ protects
 protein
 proteins
 protest
+protestant
 protestants
 protested
 protesters
@@ -12433,6 +12413,7 @@ reinforces
 reinforcing
 reins
 reiterated
+reject
 rejected
 rejecting
 rejection
@@ -13746,7 +13727,6 @@ sinusoidal
 sipped
 sipping
 sir
-sire
 siren
 sirens
 sister
@@ -13882,6 +13862,7 @@ smiles
 smiling
 smoke
 smoked
+smoker
 smokers
 smoking
 smoky
@@ -14332,6 +14313,7 @@ statute
 statutes
 statutory
 staunch
+stay
 stayed
 staying
 stays
@@ -14359,6 +14341,7 @@ steering
 stein
 stemmed
 stemming
+stench
 stepfather
 stepmother
 steppe
@@ -14504,6 +14487,7 @@ strikingly
 string
 stringent
 strings
+strip
 stripe
 striped
 stripes
@@ -14980,6 +14964,7 @@ tagged
 tags
 tailor
 tailored
+tainted
 takeoff
 takeover
 takers
@@ -15035,7 +15020,6 @@ taxonomic
 taxonomy
 taxpayer
 taxpayers
-tbsp
 tea
 teach
 teacher
@@ -15141,6 +15125,7 @@ terrifying
 territorial
 territories
 territory
+terror
 terrorism
 terrorists
 terrors
@@ -15173,14 +15158,13 @@ thatcher
 thaw
 theater
 theaters
-theatres
 theatrical
+thee
 theft
 theirs
 thematic
 theme
 themes
-themselves
 thence
 theologian
 theologians
@@ -15561,7 +15545,6 @@ traveled
 traveler
 travelers
 traveling
-travellers
 travels
 traverse
 traversed
@@ -15625,11 +15608,9 @@ trimmed
 trimming
 trinity
 trio
-trip
 tripartite
 triple
 triplet
-tripod
 triumph
 triumphant
 triumphantly
@@ -15652,7 +15633,6 @@ trough
 troupe
 trousers
 trout
-troy
 truce
 trucks
 truly
@@ -15673,7 +15653,6 @@ truthful
 truths
 trying
 tsar
-tsp
 tub
 tube
 tuberculosis
@@ -15731,7 +15710,6 @@ twist
 twisted
 twisting
 twists
-two
 twofold
 typescript
 typewriter
@@ -16137,7 +16115,6 @@ vanishing
 vanity
 vanquished
 vapor
-vapors
 variability
 variable
 variables
@@ -16152,7 +16129,6 @@ variety
 various
 variously
 varnish
-vary
 varying
 vase
 vases
@@ -16475,6 +16451,7 @@ weaknesses
 wealthier
 wealthy
 weaning
+weapon
 weaponry
 weapons
 wearily
@@ -16665,6 +16642,7 @@ wolf
 wolves
 woman
 womanhood
+womb
 women
 won
 wonder
@@ -16758,6 +16736,7 @@ wrought
 yacht
 yanked
 yarn
+yeah
 year
 yearbook
 yearly
