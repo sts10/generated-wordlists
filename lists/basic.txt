@@ -443,7 +443,6 @@ aide
 aided
 aides
 aiding
-aids
 ail
 ailing
 ailments
@@ -591,6 +590,7 @@ alumni
 always
 amalgam
 amalgamation
+amateur
 amateurs
 amazed
 amazement
@@ -663,7 +663,6 @@ analogies
 analogous
 analogues
 analogy
-analyses
 analysis
 analyst
 analysts
@@ -1340,7 +1339,6 @@ awkwardly
 awoke
 axe
 axes
-axial
 axiom
 axioms
 axis
@@ -1857,6 +1855,7 @@ boats
 bob
 bobby
 bodies
+bodily
 body
 bog
 bohemian
@@ -1873,6 +1872,7 @@ bolster
 bolt
 bolted
 bolts
+bomb
 bombardment
 bombed
 bomber
@@ -1881,6 +1881,7 @@ bond
 bonded
 bonding
 bonds
+bone
 bones
 bonnet
 bonus
@@ -2499,7 +2500,6 @@ cater
 catering
 caterpillar
 cathedral
-catheter
 catheters
 cathode
 cation
@@ -2555,6 +2555,7 @@ cellulose
 cement
 cemented
 cemeteries
+cemetery
 censor
 censorship
 censure
@@ -3560,7 +3561,6 @@ constancy
 constant
 constantly
 constants
-constipation
 constituency
 constituent
 constituents
@@ -3945,6 +3945,7 @@ crane
 cranes
 cranial
 crank
+crash
 crashed
 crashes
 crashing
@@ -3991,7 +3992,9 @@ crib
 cricket
 cried
 cries
+crime
 crimes
+criminal
 criminals
 criminology
 crimson
@@ -6426,7 +6429,6 @@ farthest
 fascinated
 fascinating
 fascination
-fascism
 fashion
 fashionable
 fashioned
@@ -6462,6 +6464,7 @@ favorite
 favorites
 favors
 fax
+fear
 feared
 fearful
 fearing
@@ -7444,7 +7447,6 @@ got
 gotten
 gourmet
 gout
-gov
 govern
 governance
 governed
@@ -7455,7 +7457,6 @@ governments
 governor
 governors
 governs
-govt
 gown
 gowns
 grab
@@ -10374,7 +10375,6 @@ methods
 meticulous
 meticulously
 metric
-metrical
 metrics
 metro
 metropolis
@@ -12245,7 +12245,6 @@ practice
 practiced
 practices
 practicing
-practising
 practitioner
 pragmatic
 pragmatics
@@ -14015,6 +14014,7 @@ rosemary
 roses
 roster
 rosy
+rot
 rotary
 rotate
 rotated
@@ -14193,6 +14193,7 @@ sandwich
 sandwiches
 sandy
 sane
+sang
 sanitary
 sanitation
 sanity
@@ -14877,7 +14878,6 @@ since
 sincere
 sincerely
 sincerity
-sine
 sinful
 sing
 singer
@@ -15809,7 +15809,6 @@ styles
 stylish
 stylistic
 stylized
-sub
 subclass
 subcommittee
 subconscious
@@ -16311,7 +16310,6 @@ taxonomic
 taxonomy
 taxpayer
 taxpayers
-tbsp
 tea
 teach
 teacher
@@ -16483,7 +16481,6 @@ thaw
 theater
 theaters
 theatrical
-thee
 theft
 theirs
 thematic
@@ -16513,7 +16510,6 @@ thereby
 therefore
 therefrom
 therein
-thereof
 thereupon
 thermal
 thermally
@@ -17045,7 +17041,6 @@ truths
 try
 trying
 tsar
-tsp
 tub
 tube
 tuberculosis
@@ -17929,7 +17924,6 @@ web
 webs
 website
 websites
-wed
 wedding
 weddings
 wedge
@@ -17992,7 +17986,6 @@ whereas
 whereby
 wherefore
 wherein
-whereof
 whereupon
 wherever
 whether
