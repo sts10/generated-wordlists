@@ -303,7 +303,6 @@ adrenaline
 adultery
 adulthood
 adults
-adv
 advance
 advanced
 advancement
@@ -349,7 +348,6 @@ advocating
 aerial
 aeronautics
 aerosol
-aerospace
 aesthetic
 aesthetics
 afar
@@ -387,7 +385,6 @@ affords
 afghan
 afloat
 aforementioned
-aforesaid
 afraid
 afterlife
 aftermath
@@ -721,7 +718,6 @@ anthropological
 anthropologist
 anthropologists
 anthropology
-anti
 antibiotic
 antibiotics
 antibodies
@@ -842,7 +838,6 @@ appropriations
 approve
 approves
 approving
-approx
 approximate
 approximated
 approximately
@@ -937,7 +932,6 @@ arrogant
 arrows
 arsenal
 arsenic
-arterial
 arteries
 artery
 arthritis
@@ -1026,7 +1020,6 @@ assistants
 assisted
 assisting
 assists
-assoc
 associate
 associated
 associates
@@ -1571,7 +1564,6 @@ billings
 billion
 billions
 bills
-billy
 binary
 bind
 binder
@@ -2373,7 +2365,6 @@ certificates
 certification
 certified
 certify
-cervical
 cesarean
 cessation
 chain
@@ -2487,7 +2478,6 @@ chests
 chew
 chewed
 chewing
-chi
 chick
 chicken
 chickens
@@ -3889,7 +3879,6 @@ dagger
 daily
 dairy
 daisy
-dale
 damage
 damaged
 damages
@@ -4578,7 +4567,6 @@ disasters
 disastrous
 disbanded
 disbelief
-disc
 discard
 discarded
 discern
@@ -5598,7 +5586,6 @@ ethnically
 ethnicity
 ethnology
 ethos
-etiology
 etiquette
 euphoria
 euro
@@ -6531,7 +6518,6 @@ freedoms
 freeing
 freelance
 freely
-freeman
 freer
 freeway
 freeze
@@ -7133,6 +7119,7 @@ handwritten
 handy
 hang
 hangs
+hank
 haphazard
 happen
 happened
@@ -7265,6 +7252,7 @@ height
 heightened
 heights
 heir
+heirs
 helicopter
 helicopters
 helium
@@ -7297,6 +7285,7 @@ herbal
 herbicides
 herbs
 herder
+hereafter
 hereditary
 heredity
 heresy
@@ -7323,7 +7312,6 @@ heterogeneous
 heuristic
 heuristics
 hexagonal
-hey
 heyday
 hid
 hidden
@@ -7393,7 +7381,6 @@ holidays
 holiness
 holistic
 hollow
-holocaust
 homage
 home
 homeland
@@ -8136,7 +8123,6 @@ insistence
 insistent
 insisting
 insists
-insofar
 insoluble
 insolvency
 insomnia
@@ -8497,7 +8483,6 @@ iterations
 iterative
 itinerant
 itinerary
-itself
 ivory
 jack
 jacket
@@ -8538,7 +8523,6 @@ jimmy
 job
 jobs
 jogging
-john
 join
 joins
 jointly
@@ -8614,7 +8598,6 @@ keyboard
 keyed
 keyword
 keywords
-khan
 kibbutz
 kick
 kicked
@@ -8672,7 +8655,6 @@ knocking
 knot
 knots
 knotted
-know
 knowing
 knowingly
 knowledgeable
@@ -9125,7 +9107,6 @@ magnified
 magnitude
 magnitudes
 magnum
-maharaja
 mahatma
 mahogany
 maid
@@ -10226,8 +10207,6 @@ outward
 outwardly
 outweigh
 ovarian
-ovaries
-ovary
 ovens
 overall
 overboard
@@ -11040,7 +11019,6 @@ poorest
 poorly
 pop
 popcorn
-pope
 popes
 popped
 popping
@@ -11429,7 +11407,6 @@ producers
 product
 productivity
 products
-prof
 profane
 profess
 professed
@@ -11933,7 +11910,6 @@ realize
 realized
 realizes
 realizing
-really
 realm
 realms
 reap
@@ -12100,7 +12076,6 @@ reef
 reefs
 reel
 reelection
-ref
 referee
 referenced
 referendum
@@ -13252,7 +13227,6 @@ shadowy
 shady
 shaft
 shafts
-shah
 shaken
 shaker
 shakes
@@ -13789,7 +13763,6 @@ souvenir
 souvenirs
 sovereign
 sovereignty
-soviets
 sow
 sowing
 sown
@@ -14899,7 +14872,6 @@ textiles
 texture
 textured
 textures
-thank
 thanked
 thankful
 thanking
@@ -14911,7 +14883,6 @@ theater
 theaters
 theatrical
 theft
-theirs
 thematic
 theme
 themes
@@ -14934,9 +14905,6 @@ therapeutic
 therapies
 therapist
 therapists
-thereafter
-thereby
-therefore
 therefrom
 therein
 thereupon
@@ -14976,7 +14944,6 @@ thorn
 thorns
 thorough
 thoroughly
-thou
 thought
 thoughtful
 thoughtfully
@@ -15018,7 +14985,6 @@ thrusting
 thumb
 thumbs
 thunder
-thus
 thwart
 thwarted
 thyme
@@ -15202,7 +15168,6 @@ tram
 trampled
 tranquil
 tranquillity
-trans
 transaction
 transactions
 transatlantic
@@ -15719,10 +15684,8 @@ unsuitable
 unsure
 untenable
 unthinkable
-until
 untimely
 untitled
-unto
 untold
 untouched
 untrained
@@ -15786,7 +15749,6 @@ user
 usher
 ushered
 utensils
-uterine
 utilitarian
 utilitarianism
 utilities
@@ -15849,11 +15811,13 @@ variants
 variation
 variations
 varied
+varies
 varieties
 variety
 various
 variously
 varnish
+vary
 varying
 vase
 vases
@@ -16021,7 +15985,6 @@ vitamin
 vitamins
 vivid
 vividly
-viz
 vocabulary
 vocational
 vogue
@@ -16091,7 +16054,6 @@ wander
 wandered
 wandering
 waning
-want
 wanting
 wanton
 wants
@@ -16272,9 +16234,7 @@ wholesale
 wholesalers
 wholesome
 wholly
-whom
 whose
-why
 wicked
 wickedness
 widely
@@ -16480,8 +16440,6 @@ younger
 youngest
 youngster
 youngsters
-yours
-yourself
 youth
 youthful
 youths

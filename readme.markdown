@@ -87,31 +87,31 @@ dislike cling fronting regard black drama
 
 **[diceware.txt](lists/diceware.txt)**: A new list for using with diceware. Like [the EFF long list](https://www.eff.org/dice), it is free of prefix words, though it has words longer than 9 characters, unlike the EFF long list. The version in this repo has the corresponding dice rolls preceding each word, followed by a tab. The EFF has [instructions for how to use dice and lists like this one to generate passphrases](https://www.eff.org/dice).
 ```text
-
 List length               : 7776 words
-Mean word length          : 7.61 characters
+Mean word length          : 7.62 characters
 Length of shortest word   : 3 characters (ads)
 Length of longest word    : 11 characters (withholding)
 Free of prefix words?     : true
 Free of suffix words?     : false
 Uniquely decodable?       : true
 Entropy per word          : 12.925 bits
-Efficiency per character  : 1.697 bits
+Efficiency per character  : 1.696 bits
 Assumed entropy per char  : 4.308 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.432
+Mean edit distance        : 7.434
 Longest shared prefix     : 10
 Unique character prefix   : 11
+Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-tennis pork agency tedious heroine circulation 
-symposium properties suspects cereal enacted conferred 
-teens sighed compelled chosen fascination attacked 
-grief intensified wonderful retains anxiety sheath 
-regain friendships involuntary irritation institutes concerned 
+bidding minimal frog unrealistic surveyed pigment 
+pioneering largely mundane orderly assertions banned 
+subscribers throne independent following considering doors 
+asthma hollow calf raids warren zen 
+honestly likes agrees confused unreliable away 
 ```
 
 If you want a 7,776-word diceware list that _does_ include prefix words, there's [diceware-including-prefix.txt](lists/diceware-including-prefix.txt). Just be sure to use a character or space between words in your passphrase!
@@ -124,29 +124,30 @@ If you want a 7,776-word diceware list that _does_ include prefix words, there's
 
 ```text
 List length               : 7776 words
-Mean word length          : 7.10 characters
+Mean word length          : 7.12 characters
 Length of shortest word   : 3 characters (add)
 Length of longest word    : 10 characters (worthwhile)
 Free of prefix words?     : false
 Free of suffix words?     : true
 Uniquely decodable?       : true
 Entropy per word          : 12.925 bits
-Efficiency per character  : 1.820 bits
+Efficiency per character  : 1.816 bits
 Assumed entropy per char  : 4.308 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 6.993
+Mean edit distance        : 7.000
 Longest shared prefix     : 9
 Unique character prefix   : 10
+Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-winds seeming desire data regression flock 
-definite alike piety frequent wholesale ordering 
-answered traced hastily maritime informed understood 
-tucker alarm abused scaling superb former 
-fact throws procedure evoked latter hard 
+zoning invitation generate tomb archaic sofa 
+explains tourism slowly evaluated corporate resentment 
+uranium damp economies vicious apartheid indicators 
+buyers trusts fingers glucose concluding pop 
+seized arrange woven costly invested forever
 ```
 </details>
 
@@ -185,32 +186,33 @@ absorbing formulas vols reunification unnoticed atlas
 <details>
 <summary><h3>Suffix Free: A long list free of suffix words</h3></summary>
 
-**[suffix-free.txt](lists/suffix-free.txt)** is a long list that is uniquely decodable (it is free of suffix words). I think this would be a good one to use as a wordlist for [the KeePassXC password manager](https://keepassxc.org/), however use at your own risk. A 7-word passphrase from this list provides 98.2 bits of entropy, compared to the EFF long list (KeePassXC's default list), from which a 7-word passphrase provides 90.47 bits.
+**[suffix-free.txt](lists/suffix-free.txt)** is a long list that is uniquely decodable (it is free of suffix words). I think this would be a good one to use as a wordlist for [the KeePassXC password manager](https://keepassxc.org/), however use at your own risk. A 7-word passphrase from this list provides about 98 bits of entropy, compared to the EFF long list (KeePassXC's default list), from which a 7-word passphrase provides about 90.5 bits.
 ```text
-List length               : 16500 words
-Mean word length          : 8.01 characters
+List length               : 16458 words
+Mean word length          : 8.02 characters
 Length of shortest word   : 3 characters (add)
 Length of longest word    : 15 characters (vulnerabilities)
 Free of prefix words?     : false
 Free of suffix words?     : true
 Uniquely decodable?       : true
-Entropy per word          : 14.010 bits
-Efficiency per character  : 1.749 bits
-Assumed entropy per char  : 4.670 bits
+Entropy per word          : 14.007 bits
+Efficiency per character  : 1.747 bits
+Assumed entropy per char  : 4.669 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.943
+Mean edit distance        : 7.946
 Longest shared prefix     : 14
 Unique character prefix   : 15
+Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-refinement summons cherished symbolized tighter postal 
-theme emigrated indifferent bedside simultaneous errand 
-slash wider supposing swelled stimulate convincing 
-revolutions continually relatively unchanged enquiry yelled 
-unfamiliar impact forsaken remnants turmoil joyful 
+antecedent disclosing persistence mistaken coordinator gypsum 
+barbarians emigrated attended allowances twists possession 
+insisting stokes conspiracy invisible plastics provoked 
+laborious yet technological incarceration heady predominate 
+scanner discharging heavily fragmentary oxidized saint 
 ```
 </details>
 
