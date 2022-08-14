@@ -280,29 +280,29 @@ maharaja studio inspecting greenhouse orthodox raging
 **[ud1.txt](lists/experimental/ud1.txt)** is a long, uniquely decodable list, based on Google Ngram data. It was made uniquely decodable [via a process I created](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html) and thus I mark it as **EXPERIMENTAL**. Use with caution.
 ```text
 List length               : 17559 words
-Mean word length          : 8.00 characters
+Mean word length          : 8.01 characters
 Length of shortest word   : 3 characters (add)
 Length of longest word    : 15 characters (vulnerabilities)
 Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : true
 Entropy per word          : 14.100 bits
-Efficiency per character  : 1.762 bits
+Efficiency per character  : 1.761 bits
 Assumed entropy per char  : 4.700 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.938
+Mean edit distance        : 7.940
 Longest shared prefix     : 14
 Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-siege packages taut smiles biology drinking 
-projections transmitting plating fuzzy assay impartiality 
-repulsion roman imagines granting gardens alienated 
-wider maize corollary hunter correction understandably 
-stationery knotted geometrical abscesses wondering receives 
+borderline levelled impact rusty resembled past 
+peacock allocating record consternation yanked equalization 
+outdoors midnight promoted tunneling snake antibodies 
+toughness shortened images gloomy pinto tendency 
+plateau rejecting pinch lyric vertex editorial
 ```
 </details>
 
@@ -319,7 +319,7 @@ Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : true
 Entropy per word          : 12.925 bits
-Efficiency per character  : 1.832 bits
+Efficiency per character  : 1.830 bits
 Assumed entropy per char  : 4.308 bits
 Above brute force line?   : true
 Above Shannon line?       : false
@@ -330,11 +330,11 @@ Unique character prefix   : 10
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-agrees turbulent monkey flights quotation customs 
-generated obvious loop poles leap spiritual 
-flags jewelry super elite fields peace 
-tan possibly declined leaves decides confession 
-situated stay disk gate settlers plea 
+detached dire frost hereafter disease income 
+overview effort chiefs feathers sketches complex 
+campus statute enrolled inevitable bob breaks 
+reformed requires reprinted electrodes withdrawn paste 
+wealth guided weaknesses attempt law guards 
 ```
 </details>
 
