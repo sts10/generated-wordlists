@@ -288,11 +288,11 @@ Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-counselor anomalous mold equip fourth canteen 
-prop dealer buzz interactions exacerbated peroxide 
-happenings detach preached pile tapped officer 
-compulsion progressives confers deaths blush republicans 
-gymnastics mammal soldier brackets defending ancestral 
+particulars arsenal responsiveness disappointing credit metrical 
+whereof strategy stacking featuring hitch motivates 
+invest sine fractions movie bedroom ecstasy 
+removable beck fallacy prejudice towels pleases 
+infected degraded bike pinpoint cultivators hostel 
 ```
 </details>
 
