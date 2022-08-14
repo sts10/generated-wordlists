@@ -26,7 +26,6 @@ Shortest edit distance    : 1
 Mean edit distance        : 7.469
 Longest shared prefix     : 10
 Unique character prefix   : 11
-Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
@@ -156,7 +155,6 @@ Shortest edit distance    : 1
 Mean edit distance        : 8.085
 Longest shared prefix     : 14
 Unique character prefix   : 15
-Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
@@ -189,7 +187,6 @@ Shortest edit distance    : 1
 Mean edit distance        : 7.954
 Longest shared prefix     : 14
 Unique character prefix   : 15
-Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
@@ -254,7 +251,6 @@ Shortest edit distance    : 1
 Mean edit distance        : 7.261
 Longest shared prefix     : 10
 Unique character prefix   : 11
-Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
@@ -289,15 +285,14 @@ Shortest edit distance    : 1
 Mean edit distance        : 7.939
 Longest shared prefix     : 14
 Unique character prefix   : 15
-Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-acoustics adverbs invade dollar spatially erase 
-inhibit archive economies incentive integrates conceptual 
-insist pertinent misses ceremonies steadily folks 
-connector pencil vagueness bracket dunes refinery 
-iodine disastrous alphabet removing stud minimizing 
+exhibits considerations attentively cowardice gleaming popped 
+homes briefly visionary additives densely fingerprint 
+existing implementations fluidity telling sacred carpenter 
+questionnaire unchanged wisdom makeup benefiting ventilated 
+stuffed decorate frenzy computers warp combat 
 ```
 </details>
 
@@ -319,18 +314,18 @@ Assumed entropy per char  : 4.308 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 6.963
+Mean edit distance        : 6.962
 Longest shared prefix     : 9
 Unique character prefix   : 10
 Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-spend hire hurry occur million businesses 
-collective wounds financing assign repertoire uranium 
-unlikely depths cerebral substrate splendid grew 
-guaranteed reviews herd understood fellow thigh 
-sessions coarse valley theme revision affiliated 
+inevitably coin enabled murdered brook adulthood 
+verified fulfilled cement speeches sheriff offenses 
+death parade coordinate emission virtually boundary 
+handed attained preferable scrutiny arise types 
+divide degrees hereditary appeal rat federation 
 ```
 </details>
 

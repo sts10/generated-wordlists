@@ -3928,6 +3928,7 @@ creek
 creeks
 creep
 creeping
+cremation
 creole
 crept
 crescent
@@ -3948,7 +3949,6 @@ criterion
 critic
 critical
 critically
-criticism
 criticisms
 criticize
 criticized
@@ -10567,6 +10567,7 @@ obliquely
 obliterated
 oblivion
 oblivious
+oblong
 obnoxious
 obscene
 obscenity
@@ -11366,6 +11367,7 @@ persisting
 persists
 persona
 personage
+personages
 personalities
 personality
 personalized
@@ -11864,7 +11866,6 @@ practically
 practiced
 practices
 practicing
-practised
 practising
 practitioner
 practitioners
@@ -15861,7 +15862,6 @@ thatcher
 thaw
 theater
 theaters
-theatres
 theatrical
 thee
 theft
@@ -16267,10 +16267,10 @@ traveled
 traveler
 travelers
 traveling
-travellers
 travels
 traverse
 traversed
+traversing
 treacherous
 treachery
 tread
