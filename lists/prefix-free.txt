@@ -32,7 +32,6 @@ abolitionists
 abominable
 aboriginal
 aborigines
-abortions
 abound
 about
 above
@@ -600,7 +599,6 @@ amplify
 amplitudes
 amply
 amputation
-amt
 amused
 amusements
 amusing
@@ -5830,7 +5828,6 @@ fascinated
 fascinating
 fascination
 fascism
-fascists
 fashionable
 fashioned
 fashioning
@@ -16698,7 +16695,6 @@ younger
 youngest
 youngsters
 yourself
-yourselves
 youthful
 youths
 yrs

@@ -10,30 +10,31 @@ A repository for word lists I've generated. Some lists are based on Google Ngram
 **[basic.txt](lists/basic.txt)**
 
 ```text
-List length               : 18670 words
-Mean word length          : 7.65 characters
-Length of shortest word   : 3 characters (all)
+List length               : 18626 words
+Mean word length          : 7.66 characters
+Length of shortest word   : 3 characters (awl)
 Length of longest word    : 12 characters (conservative)
 Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : false
-Entropy per word          : 14.188 bits
-Efficiency per character  : 1.855 bits
-Assumed entropy per char  : 4.729 bits
+Entropy per word          : 14.185 bits
+Efficiency per character  : 1.852 bits
+Assumed entropy per char  : 4.728 bits
 Above brute force line?   : false
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.465
+Mean edit distance        : 7.469
 Longest shared prefix     : 10
 Unique character prefix   : 11
+Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-elbows benchmarks dissension grains mango presumption 
-weakness smelting disband fulfills sweetheart keeper 
-emptying perfume patiently homestead suggest blame 
-supine similar indications donor covenant boiled 
-exterior daffodil optimized embraces crutches audiovisual
+starter selector unionized inactivity parser clearance 
+fats terminals enhances thirties toxicity fleet 
+temperature demolition signified veal ventilator plead 
+patriotic detector watching temperance commando angle 
+truncate galaxy summation bacterial finder rides 
 ```
 </details>
 
@@ -139,7 +140,7 @@ baron wind airway total maiden bones
 
 **[prefix-free.txt](lists/prefix-free.txt)** is a long list free of prefix words.
 ```text
-List length               : 16719 words
+List length               : 16715 words
 Mean word length          : 8.28 characters
 Length of shortest word   : 3 characters (ads)
 Length of longest word    : 15 characters (vulnerabilities)
@@ -159,11 +160,11 @@ Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-eliciting knitted intoxicated embellished binds ruled 
-expulsion obscurity considerable extremities standby murdering 
-longings cautioned whirlwind converging crashes demonstrations 
-appellation inexorable revisited folders pony inhalation 
-planters promiscuity contaminants appointments callus leech
+reporters instructed reminded transported microfilm accusative 
+vexed gambling awaiting levies epileptic assures 
+arcane gratification motherhood fatalities irregularity oscillating 
+untoward mainline appreciated levelling rules vocabularies 
+bayou shrinks fret productions decoding mainland 
 ```
 </details>
 
@@ -172,7 +173,7 @@ planters promiscuity contaminants appointments callus leech
 
 **[suffix-free.txt](lists/suffix-free.txt)** is a long list that is uniquely decodable (it is free of suffix words). I think this would be a good one to use as a wordlist for [the KeePassXC password manager](https://keepassxc.org/), however use at your own risk. A 7-word passphrase from this list provides 98.26 bits of entropy, compared to the EFF long list (KeePassXC's default list), from which a 7-word passphrase provides 90.47 bits.
 ```text
-List length               : 16809 words
+List length               : 16806 words
 Mean word length          : 8.02 characters
 Length of shortest word   : 3 characters (add)
 Length of longest word    : 15 characters (vulnerabilities)
@@ -192,11 +193,11 @@ Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-scratch chickens conceive shattered patterning antique 
-extensively layman atheist potato seventeen additional 
-caretaker immutable heartily comedy fulfilment ultimate 
-concave applicability downwards unoccupied prewar behave 
-capitalists sorry cushion denoting criteria divination
+health twist save scandal adverse peach 
+drinking inflicted submitting prosper moreover smoothed 
+booth recital priority inconvenient miraculously surrounded 
+departments smelled proctor wartime upset lacked 
+crucifixion outstretched genealogical objective dwelling entrants 
 ```
 </details>
 
@@ -237,30 +238,31 @@ glucose ithaca baptized obesity superego aircraft
 
 **[wikilist.txt](lists/wikilist.txt)** is based on [word frequency from English-language Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/blob/master/results/enwiki-20190320-words-frequency.txt) rather than Google Ngram data. (Thanks to [Aaron Toponce](https://fosstodon.org/@atoponce) for pointing me to this list.)
 ```text
-List length               : 17511 words
-Mean word length          : 7.30 characters
+List length               : 17217 words
+Mean word length          : 7.33 characters
 Length of shortest word   : 3 characters (ace)
 Length of longest word    : 11 characters (worshippers)
 Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : false
-Entropy per word          : 14.096 bits
-Efficiency per character  : 1.932 bits
-Assumed entropy per char  : 4.699 bits
+Entropy per word          : 14.072 bits
+Efficiency per character  : 1.921 bits
+Assumed entropy per char  : 4.691 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.243
+Mean edit distance        : 7.261
 Longest shared prefix     : 10
 Unique character prefix   : 11
+Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-spiritual lobbyist ethics works doing curling 
-condemning greenish literacy oddly thirds implies 
-cad presenter pays tennis keyboard tutor 
-coward sages opens aperture fossil custodian 
-negative sectors afflicted bout ramps honeycomb
+oyster guru cavities inevitably idol licenses 
+projected spawn pickup delicious pitch family 
+fifty ark discrepancy stretch depict bull 
+wedge dean miners operatic meek torsion 
+garment pair destitute recite compete principally 
 ```
 </details>
 
@@ -287,14 +289,15 @@ Shortest edit distance    : 1
 Mean edit distance        : 7.939
 Longest shared prefix     : 14
 Unique character prefix   : 15
+Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-voucher carton disintegration blocks governed appendix 
-edible archaeologist endured loads balancing registered 
-goldsmith caller cursing kicked revelation coaching 
-eliciting drama probe tweed benefiting molar 
-seismic moisture publishers holiness penal spur
+acoustics adverbs invade dollar spatially erase 
+inhibit archive economies incentive integrates conceptual 
+insist pertinent misses ceremonies steadily folks 
+connector pencil vagueness bracket dunes refinery 
+iodine disastrous alphabet removing stud minimizing 
 ```
 </details>
 
@@ -311,22 +314,23 @@ Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : true
 Entropy per word          : 12.925 bits
-Efficiency per character  : 1.832 bits
+Efficiency per character  : 1.831 bits
 Assumed entropy per char  : 4.308 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 6.961
+Mean edit distance        : 6.963
 Longest shared prefix     : 9
 Unique character prefix   : 10
+Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-researcher moderately therein altered texture snakes 
-discursive shortage persist demon truly expectancy 
-spending archives reliable oppression weekly variance 
-legs enzymes stages resembles terminate enquiry 
-upward unwilling develop accorded exhibited bilateral 
+spend hire hurry occur million businesses 
+collective wounds financing assign repertoire uranium 
+unlikely depths cerebral substrate splendid grew 
+guaranteed reviews herd understood fellow thigh 
+sessions coarse valley theme revision affiliated 
 ```
 </details>
 
