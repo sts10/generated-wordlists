@@ -81,6 +81,7 @@ dislike cling fronting regard black drama
 
 **[diceware.txt](lists/diceware.txt)**: A new list for using with diceware. Like [the EFF long list](https://www.eff.org/dice), it is free of prefix words, though it has words longer than 9 characters, unlike the EFF long list. The version in this repo has the corresponding dice rolls preceding each word, followed by a tab. The EFF has [instructions for how to use dice and lists like this one to generate passphrases](https://www.eff.org/dice).
 ```text
+
 List length               : 7776 words
 Mean word length          : 7.61 characters
 Length of shortest word   : 3 characters (ads)
@@ -89,22 +90,22 @@ Free of prefix words?     : true
 Free of suffix words?     : false
 Uniquely decodable?       : true
 Entropy per word          : 12.925 bits
-Efficiency per character  : 1.698 bits
+Efficiency per character  : 1.697 bits
 Assumed entropy per char  : 4.308 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.431
+Mean edit distance        : 7.432
 Longest shared prefix     : 10
 Unique character prefix   : 11
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-pointing ineffective faults tongues worse filtering 
-things equations applies programming hose stressful 
-escaping privacy tribal composed grinned cannon 
-battalion coordinator stimulation terrible lending elected 
-yelled motifs carpet married wars wheeler 
+tennis pork agency tedious heroine circulation 
+symposium properties suspects cereal enacted conferred 
+teens sighed compelled chosen fascination attacked 
+grief intensified wonderful retains anxiety sheath 
+regain friendships involuntary irritation institutes concerned 
 ```
 
 If you want a 7,776-word diceware list that _does_ include prefix words, there's [diceware-including-prefix.txt](lists/diceware-including-prefix.txt). Just be sure to use a character or space between words in your passphrase!
@@ -122,22 +123,24 @@ Length of shortest word   : 3 characters (add)
 Length of longest word    : 10 characters (worthwhile)
 Free of prefix words?     : false
 Free of suffix words?     : true
+Uniquely decodable?       : true
 Entropy per word          : 12.925 bits
 Efficiency per character  : 1.820 bits
 Assumed entropy per char  : 4.308 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
+Mean edit distance        : 6.993
 Longest shared prefix     : 9
 Unique character prefix   : 10
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-colonel canon physician wonder uterine show 
-computers toxicity scholar steering catching latitude 
-packages smoked jail embodied alien lazy 
-affirmed seminar pride autonomy sacred improve 
-baron wind airway total maiden bones
+winds seeming desire data regression flock 
+definite alike piety frequent wholesale ordering 
+answered traced hastily maritime informed understood 
+tucker alarm abused scaling superb former 
+fact throws procedure evoked latter hard 
 ```
 </details>
 
@@ -242,30 +245,30 @@ glucose ithaca baptized obesity superego aircraft
 
 **[wikilist.txt](lists/wikilist.txt)** is based on [word frequency from English-language Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/blob/master/results/enwiki-20190320-words-frequency.txt) rather than Google Ngram data. (Thanks to [Aaron Toponce](https://fosstodon.org/@atoponce) for pointing me to this list.)
 ```text
-List length               : 17217 words
-Mean word length          : 7.33 characters
+List length               : 17864 words
+Mean word length          : 7.36 characters
 Length of shortest word   : 3 characters (ace)
 Length of longest word    : 11 characters (worshippers)
 Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : false
-Entropy per word          : 14.072 bits
-Efficiency per character  : 1.921 bits
-Assumed entropy per char  : 4.691 bits
-Above brute force line?   : true
+Entropy per word          : 14.125 bits
+Efficiency per character  : 1.920 bits
+Assumed entropy per char  : 4.708 bits
+Above brute force line?   : false
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.261
+Mean edit distance        : 7.299
 Longest shared prefix     : 10
 Unique character prefix   : 11
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-oyster guru cavities inevitably idol licenses 
-projected spawn pickup delicious pitch family 
-fifty ark discrepancy stretch depict bull 
-wedge dean miners operatic meek torsion 
-garment pair destitute recite compete principally 
+weaver sparkling assignments suspects gathering physicist 
+weave tread gone outnumbered incorrectly basins 
+kissing tendency graves titanic defensive emperor 
+colleagues disbanded contexts marine tagged rarely 
+maharaja studio inspecting greenhouse orthodox raging 
 ```
 </details>
 
