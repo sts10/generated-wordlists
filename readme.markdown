@@ -257,30 +257,30 @@ glucose ithaca baptized obesity superego aircraft
 
 **[wikilist.txt](lists/wikilist.txt)** is based on [word frequency from English-language Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/blob/master/results/enwiki-20190320-words-frequency.txt) rather than Google Ngram data. (Thanks to [Aaron Toponce](https://fosstodon.org/@atoponce) for pointing me to this list.)
 ```text
-List length               : 15302 words
-Mean word length          : 7.26 characters
+List length               : 17559 words
+Mean word length          : 7.32 characters
 Length of shortest word   : 3 characters (ace)
-Length of longest word    : 11 characters (withdrawing)
+Length of longest word    : 11 characters (worshippers)
 Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : false
-Entropy per word          : 13.901 bits
-Efficiency per character  : 1.914 bits
-Assumed entropy per char  : 4.634 bits
+Entropy per word          : 14.100 bits
+Efficiency per character  : 1.926 bits
+Assumed entropy per char  : 4.700 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.213
+Mean edit distance        : 7.260
 Longest shared prefix     : 10
 Unique character prefix   : 11
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-scouting mutants televisions suspended techno topological 
-timetable amazon animation holistic soundtrack telegraph 
-skyscraper nominated respective dignity electorates conceal 
-cone harmless federated drained burst racers 
-deployments leak strategist action dwindled midlands 
+swimmers enforcing paranoia wheeled broadcast veil 
+enthusiasm declining gondola accord embellished remission 
+economy civilians battled rocker protested renewal 
+bottom evangelist matches stays problematic increased 
+clusters ourselves minimalist denial rifles embankment 
 ```
 </details>
 
