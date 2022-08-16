@@ -14,7 +14,7 @@ Detailed information about most of the lists in this repository is available bel
 |                       | length | Uniquely decodable? | Diceware compatible? |
 |-----------------------|--------|---------------------|----------------------|
 | basic.txt             | 18291  | ❌                  | ❌                   |
-| UD1                   | 17559  | ✅                  | ❌                   |
+| UD1                   | 17576  | ✅                  | ❌                   |
 | UD Diceware           | 7776   | ✅                  | ✅                   |
 | 1Password replacement | 18208  | ❌                  | ❌                   |
 -->
