@@ -6,11 +6,9 @@ A repository for word lists I've generated. Some lists are based on Google Ngram
 
 Detailed information about most of the lists in this repository is available below. The main differences are in list length, whether they're uniquely decodable, and whether they have corresponding dice roll values in them.
 
-**If you just want a plain, long word list**, I'd point you to [basic.txt](lists/basic.txt) or [the 1Password replacement list](lists/1password-replacement/readme.markdown) I made.
-
-If you want to **[use dice](https://www.eff.org/dice) to create your passphrases**, I'd suggest [diceware-suffix-free.txt](lists/diceware-suffix-free.txt).
-
-If you're **feeling adventurous**, I'd point you to [UD1](lists/experimental/ud1.txt) and [ud-diceware](lists/experimental/ud-diceware.txt).
+* **If you just want a plain, long word list**, I'd point you to [basic.txt](lists/basic.txt) or [the 1Password replacement list](lists/1password-replacement/readme.markdown) I made.
+* If you want to **[use dice](https://www.eff.org/dice) to create your passphrases**, I'd suggest [diceware-suffix-free.txt](lists/diceware-suffix-free.txt).
+* If you're **feeling adventurous**, I'd point you to [UD1](lists/experimental/ud1.txt), or for using with dice, [ud-diceware](lists/experimental/ud-diceware.txt).
 
 <!--
 |                       | length | Uniquely decodable? | Diceware compatible? |
