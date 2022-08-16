@@ -521,6 +521,7 @@ alleviation
 alleys
 alliance
 alliances
+alligator
 allocate
 allocated
 allocating
@@ -842,6 +843,7 @@ appearing
 appears
 appease
 appellant
+appellants
 appellate
 appended
 appendices
@@ -1571,7 +1573,6 @@ believer
 believers
 believes
 believing
-bell
 belle
 belligerent
 bellows
@@ -1731,6 +1732,7 @@ blasphemy
 blast
 blasted
 blasting
+blasts
 blatant
 blaze
 blazed
@@ -3451,7 +3453,6 @@ conquest
 conquests
 conscience
 conscientious
-consciousness
 conscription
 consecrated
 consecration
@@ -4864,6 +4865,7 @@ disclosure
 disclosures
 disco
 discomfort
+disconcerting
 disconnect
 disconnected
 discontent
@@ -5165,8 +5167,10 @@ donor
 donors
 doom
 doomed
+doorbell
 doorstep
 doorway
+doorways
 doped
 doping
 dormant
@@ -5541,6 +5545,7 @@ embassies
 embassy
 embedded
 embedding
+embellished
 emblem
 emblems
 embodied
@@ -6151,6 +6156,7 @@ experts
 expiration
 expire
 expired
+expires
 explain
 explaining
 explains
@@ -6694,6 +6700,7 @@ fluctuate
 fluctuating
 fluctuation
 fluctuations
+flue
 fluency
 fluid
 fluidity
@@ -7305,6 +7312,7 @@ goodness
 goods
 goodwill
 goose
+gopher
 gore
 gorge
 gorgeous
@@ -7958,6 +7966,7 @@ housewife
 housewives
 housework
 housing
+hover
 hovered
 hovering
 however
@@ -8869,6 +8878,7 @@ intractable
 intranet
 intravenous
 intravenously
+intricacies
 intricate
 intrigue
 intrigued
@@ -9272,7 +9282,6 @@ larynx
 laser
 lasers
 lastly
-lasts
 latch
 lately
 latency
@@ -9685,6 +9694,7 @@ magnification
 magnificence
 magnificent
 magnified
+magnifying
 magnitude
 magnitudes
 magnum
@@ -10957,6 +10967,7 @@ oysters
 ozone
 pacemaker
 pacific
+pacifist
 package
 packaged
 packages
@@ -11012,6 +11023,7 @@ pancreatic
 pane
 panel
 panels
+panes
 pang
 panic
 panicked
@@ -11054,6 +11066,7 @@ paralysis
 paralyzed
 parameter
 parameters
+paramilitary
 paramount
 paranoia
 paranoid
@@ -11781,6 +11794,7 @@ populous
 porcelain
 porch
 pork
+pornographic
 porosity
 porous
 portable
@@ -12331,7 +12345,6 @@ prosperous
 prostate
 prosthesis
 prosthetic
-prostitutes
 prostitution
 prostrate
 protagonist
@@ -12643,6 +12656,7 @@ rapidity
 rapidly
 rapids
 rapport
+rapprochement
 rapture
 rare
 rarely
@@ -12970,7 +12984,6 @@ regrets
 regretted
 regulars
 regulate
-regulated
 regulates
 regulating
 regulations
@@ -14014,6 +14027,7 @@ sentiment
 sentimental
 sentiments
 sentinel
+sentry
 separate
 separated
 separately
@@ -15201,6 +15215,7 @@ struggled
 struggles
 struggling
 strung
+stub
 stubborn
 stubbornly
 stucco
@@ -15237,6 +15252,7 @@ subclass
 subcommittee
 subconscious
 subcontinent
+subcontractor
 subcontractors
 subculture
 subcutaneous
@@ -16381,6 +16397,7 @@ trustworthy
 truth
 truthful
 truthfully
+truthfulness
 truths
 trying
 tsar
@@ -16515,6 +16532,7 @@ unconditional
 unconditionally
 unconscious
 unconsciously
+unconsciousness
 uncontrollable
 uncontrolled
 unconventional
@@ -16707,6 +16725,7 @@ unrealistic
 unreasonable
 unreasonably
 unrecognized
+unregulated
 unrelated
 unreliable
 unresolved
@@ -17322,9 +17341,7 @@ wholesale
 wholesalers
 wholesome
 wholly
-whom
 whose
-why
 wick
 wicked
 wickedness

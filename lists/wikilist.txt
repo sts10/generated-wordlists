@@ -473,6 +473,7 @@ alligator
 allocate
 allocated
 allocation
+allocations
 allotment
 allotments
 allotted
@@ -629,6 +630,7 @@ angered
 angers
 angle
 angled
+anglers
 angles
 angrily
 angry
@@ -1559,6 +1561,7 @@ beryl
 beside
 besides
 besieged
+besieging
 best
 bestowed
 bests
@@ -1682,6 +1685,7 @@ blasting
 blasts
 blaze
 blazers
+blazing
 bleach
 bleak
 bleed
@@ -2096,6 +2100,7 @@ bunker
 bunkers
 bunny
 bunting
+buoy
 buoyancy
 burden
 bureau
@@ -3711,6 +3716,7 @@ crafting
 crafts
 craftsman
 craftsmen
+crag
 crane
 cranes
 cranial
@@ -4883,6 +4889,7 @@ drawings
 drawn
 draws
 dread
+dreadful
 dream
 dreamed
 dreamer
@@ -6686,6 +6693,7 @@ fury
 fuse
 fused
 fuselage
+fuses
 fusion
 futile
 future
@@ -7715,6 +7723,7 @@ hurts
 husband
 husbandry
 husbands
+hush
 huskies
 hussars
 hustle
@@ -10996,6 +11005,7 @@ party
 pass
 passage
 passages
+passageway
 passed
 passenger
 passengers
@@ -11939,6 +11949,7 @@ prize
 prized
 prizes
 pro
+proactive
 probability
 probable
 probably
@@ -13483,6 +13494,7 @@ rotunda
 rouge
 rough
 roughly
+roulette
 round
 roundabout
 rounded
@@ -13723,6 +13735,7 @@ scarce
 scarcely
 scarcity
 scare
+scarecrow
 scared
 scarf
 scarlet
@@ -14309,6 +14322,7 @@ sills
 silly
 silt
 silver
+silvers
 silverware
 similar
 similarity
@@ -15098,6 +15112,7 @@ stops
 storage
 store
 stored
+storefront
 stores
 stories
 storing
@@ -15598,6 +15613,7 @@ tackle
 tackled
 tackles
 tackling
+taco
 tactic
 tactical
 tactics
@@ -16695,6 +16711,7 @@ urge
 urged
 urgency
 urgent
+urgently
 urges
 urging
 urn

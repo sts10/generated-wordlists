@@ -255,14 +255,14 @@ glucose ithaca baptized obesity superego aircraft
 
 **[wikilist.txt](lists/wikilist.txt)** is based on [word frequency from English-language Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/blob/master/results/enwiki-20190320-words-frequency.txt) rather than Google Ngram data. (Thanks to [Aaron Toponce](https://fosstodon.org/@atoponce) for pointing me to this list.)
 ```text
-List length               : 17559 words
+List length               : 17576 words
 Mean word length          : 7.32 characters
 Length of shortest word   : 3 characters (ace)
 Length of longest word    : 11 characters (worshippers)
 Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : false
-Entropy per word          : 14.100 bits
+Entropy per word          : 14.101 bits
 Efficiency per character  : 1.926 bits
 Assumed entropy per char  : 4.700 bits
 Above brute force line?   : true
@@ -274,11 +274,11 @@ Unique character prefix   : 11
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-swimmers enforcing paranoia wheeled broadcast veil 
-enthusiasm declining gondola accord embellished remission 
-economy civilians battled rocker protested renewal 
-bottom evangelist matches stays problematic increased 
-clusters ourselves minimalist denial rifles embankment 
+booster say emigrating boxers attributes standout 
+intelligent revived solvents crests whalers researching 
+pertinent lap density garment asbestos confusing 
+eyes repressive dismissed suffixes pity miniseries 
+tighter taco density ethos downs leadership 
 ```
 </details>
 
@@ -289,30 +289,30 @@ clusters ourselves minimalist denial rifles embankment
 
 **[ud1.txt](lists/experimental/ud1.txt)** is a long, uniquely decodable list, based on Google Ngram data. It was made uniquely decodable [via a process I created](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html) and thus I mark it as **EXPERIMENTAL**. Use with caution.
 ```text
-List length               : 17559 words
+List length               : 17576 words
 Mean word length          : 8.01 characters
 Length of shortest word   : 3 characters (add)
 Length of longest word    : 15 characters (vulnerabilities)
 Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : true
-Entropy per word          : 14.100 bits
+Entropy per word          : 14.101 bits
 Efficiency per character  : 1.761 bits
 Assumed entropy per char  : 4.700 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.940
+Mean edit distance        : 7.942
 Longest shared prefix     : 14
 Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-borderline levelled impact rusty resembled past 
-peacock allocating record consternation yanked equalization 
-outdoors midnight promoted tunneling snake antibodies 
-toughness shortened images gloomy pinto tendency 
-plateau rejecting pinch lyric vertex editorial
+privately metaphorical tutorial unsettling flats interchangeable 
+definitive radon impure uncles shoppers basins 
+shrunk receivable freeing meeting stacking provocation 
+repay retrospective soups forging cues butch 
+captives syndicate miss propensity alleging onions 
 ```
 </details>
 
