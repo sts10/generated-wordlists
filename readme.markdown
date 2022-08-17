@@ -116,7 +116,7 @@ asthma hollow calf raids warren zen
 honestly likes agrees confused unreliable away 
 ```
 
-If you want a 7,776-word diceware list that _does_ include prefix words, there's [diceware-including-prefix.txt](lists/diceware-including-prefix.txt). Just be sure to use a character or space between words in your passphrase!
+If you want a 7,776-word diceware list that is **not** uniquely decodable, there's [diceware-not-ud.txt](lists/diceware-not-ud.txt). Just be sure to use a character or space between words in your passphrases!
 </details>
 
 <details>
