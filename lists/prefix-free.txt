@@ -295,7 +295,6 @@ aerobic
 aerodynamic
 aeronautics
 aerosol
-aerospace
 aesthetically
 aesthetics
 afar
@@ -328,7 +327,6 @@ affords
 afghan
 afloat
 aforementioned
-aforesaid
 afraid
 afterlife
 aftermath
@@ -835,7 +833,6 @@ arrows
 arsenal
 arsenic
 arson
-arterial
 arteries
 artery
 arthritis
@@ -1251,6 +1248,7 @@ beauties
 beautifully
 beauty
 beaux
+beaver
 became
 beckoned
 becomes
@@ -1369,7 +1367,6 @@ billed
 billings
 billions
 bills
-billy
 binary
 binder
 binding
@@ -1531,7 +1528,7 @@ borderline
 borders
 boredom
 boring
-borne
+born
 boron
 borough
 borrowed
@@ -2048,7 +2045,6 @@ certificates
 certification
 certified
 certify
-cervical
 cesarean
 cessation
 chained
@@ -2311,6 +2307,7 @@ clients
 cliffs
 climates
 climatic
+climax
 climbed
 climbers
 climbing
@@ -3053,6 +3050,7 @@ corrosion
 corrosive
 corrugated
 corrupted
+corruption
 cortex
 cosmetics
 cosmic
@@ -3147,6 +3145,7 @@ crates
 craving
 crawled
 crawling
+crazy
 cream
 created
 creates
@@ -3180,6 +3179,7 @@ crimes
 criminals
 criminology
 crimson
+crippled
 crises
 crisis
 crisp
@@ -3327,7 +3327,6 @@ dagger
 daily
 dairy
 daisy
-dale
 damaged
 damages
 damaging
@@ -4116,6 +4115,7 @@ dominant
 dominated
 dominates
 dominating
+domination
 dominions
 domino
 donated
@@ -4594,6 +4594,7 @@ enjoying
 enjoyment
 enjoys
 enlarged
+enlargement
 enlarging
 enlightened
 enlightening
@@ -4760,7 +4761,6 @@ ethnically
 ethnicity
 ethnology
 ethos
-etiology
 etiquette
 etymology
 eucalyptus
@@ -5043,13 +5043,16 @@ faculty
 faded
 fades
 fading
+failed
 failings
 fails
 failures
 faintly
+fairies
 fairly
 fairness
 fairs
+fairy
 faithfully
 faithfulness
 faiths
@@ -5571,7 +5574,6 @@ freedoms
 freeing
 freelance
 freely
-freeman
 freer
 frees
 freeway
@@ -5865,7 +5867,6 @@ goats
 goddesses
 godly
 gods
-goes
 going
 golden
 goldsmith
@@ -5883,7 +5884,6 @@ gorgeous
 gorilla
 gospels
 gossip
-gotten
 gourmet
 gout
 governance
@@ -6286,6 +6286,7 @@ hesitated
 hesitation
 heterogeneity
 heterogeneous
+heterosexual
 heuristics
 hew
 hexagonal
@@ -6352,7 +6353,6 @@ holiness
 holistic
 hollow
 holly
-holocaust
 holy
 homage
 homeland
@@ -6491,6 +6491,7 @@ hurts
 husbandry
 husbands
 hushed
+husky
 huts
 hybrids
 hydraulic
@@ -6989,7 +6990,6 @@ insistence
 insistent
 insisting
 insists
-insofar
 insoluble
 insolvency
 insolvent
@@ -7277,7 +7277,6 @@ iterations
 iterative
 itinerant
 itinerary
-itself
 ivory
 ivy
 jackets
@@ -7310,7 +7309,6 @@ jimmy
 jobs
 jockey
 jogging
-john
 joined
 joining
 joins
@@ -7383,17 +7381,19 @@ keyboard
 keyed
 keystone
 keywords
-khan
 kibbutz
 kicked
+kicking
 kicks
 kidding
 kidnapped
 kidnapping
 kidneys
 kids
+killed
 killers
 killings
+kills
 kiln
 kilograms
 kilometers
@@ -7580,7 +7580,6 @@ lecturers
 lectures
 lecturing
 ledger
-lee
 leftist
 legacies
 legacy
@@ -7612,6 +7611,7 @@ lenses
 lent
 leopard
 leprosy
+lesbians
 lesions
 lessee
 lessened
@@ -7730,6 +7730,7 @@ liquidated
 liquidation
 liquidity
 liquids
+liquor
 lire
 lisp
 listed
@@ -7867,12 +7868,14 @@ luminosity
 luminous
 lumps
 lunar
+lunatic
 luncheon
 lunches
 lungs
 lured
 lurking
 lush
+lust
 luxuries
 luxurious
 luxury
@@ -7908,7 +7911,6 @@ magnified
 magnifying
 magnitudes
 magnum
-maharaja
 mahatma
 mahogany
 maidens
@@ -8019,6 +8021,7 @@ margarine
 marginally
 margins
 maria
+marijuana
 marina
 mariner
 marines
@@ -8350,6 +8353,7 @@ misses
 missiles
 missing
 missionaries
+missionary
 missions
 mistakenly
 mistakes
@@ -8749,6 +8753,7 @@ ophthalmic
 ophthalmology
 opinions
 opioid
+opium
 opponents
 opportunistic
 opportunities
@@ -8882,8 +8887,6 @@ outwards
 outweighed
 oval
 ovarian
-ovaries
-ovary
 ovens
 overall
 overboard
@@ -9210,6 +9213,7 @@ pendulum
 penetrated
 penetrates
 penetrating
+penetration
 penguin
 penicillin
 peninsular
@@ -10075,7 +10079,6 @@ prosperous
 prostate
 prosthesis
 prosthetic
-prostitutes
 prostitution
 prostrate
 protagonists
@@ -10248,6 +10251,7 @@ quartz
 quasi
 quay
 queens
+queer
 quenched
 quenching
 queried
@@ -10410,7 +10414,6 @@ realization
 realized
 realizes
 realizing
-really
 realms
 realty
 reappeared
@@ -10696,6 +10699,7 @@ relying
 remainder
 remained
 remaining
+remains
 remand
 remarkable
 remarkably
@@ -11084,7 +11088,6 @@ rocky
 rodents
 rods
 roe
-rogers
 rogue
 roles
 rolled
@@ -11573,6 +11576,7 @@ sewers
 sewing
 sewn
 sexuality
+sexy
 shabby
 shack
 shaded
@@ -11583,7 +11587,6 @@ shadows
 shadowy
 shady
 shafts
-shah
 shaken
 shaker
 shakes
@@ -11610,7 +11613,7 @@ sharply
 sharpness
 shattered
 shattering
-shave
+shaved
 shaving
 shawl
 shearing
@@ -11658,6 +11661,7 @@ shoemaker
 shoes
 shone
 shook
+shooting
 shoots
 shopkeepers
 shoppers
@@ -11849,6 +11853,7 @@ slammed
 slamming
 slander
 slang
+slant
 slapped
 slapping
 slashed
@@ -11874,7 +11879,7 @@ slides
 sliding
 slightest
 slightly
-slim
+slime
 sling
 slipped
 slippers
@@ -11899,6 +11904,7 @@ slumped
 slums
 slung
 sly
+smack
 smaller
 smallest
 smallpox
@@ -12052,7 +12058,6 @@ southwestern
 souvenirs
 sovereigns
 sovereignty
-soviets
 sowing
 sown
 soybeans
@@ -13016,7 +13021,6 @@ thaw
 theaters
 theatrical
 theft
-theirs
 thematic
 themes
 thence
@@ -13033,9 +13037,6 @@ therapeutic
 therapies
 therapists
 therapy
-thereafter
-thereby
-therefore
 therefrom
 therein
 thereupon
@@ -13104,7 +13105,6 @@ thrusting
 thrusts
 thumbs
 thunder
-thus
 thwarted
 thyme
 thymus
@@ -13184,7 +13184,6 @@ tonic
 tonight
 tonnage
 tons
-tony
 took
 toolbar
 toolbox
@@ -13759,7 +13758,6 @@ unsuitable
 unsure
 untenable
 unthinkable
-until
 untimely
 untitled
 untold
@@ -13823,7 +13821,6 @@ ushered
 using
 usually
 utensils
-uterine
 utilitarianism
 utilities
 utility
@@ -14004,6 +14001,7 @@ violated
 violates
 violating
 violations
+violence
 violently
 violet
 violin
@@ -14039,7 +14037,6 @@ vitality
 vitally
 vitamins
 vividly
-viz
 vocabulary
 vocal
 vocational
@@ -14074,6 +14071,7 @@ vowed
 vowels
 vows
 voyages
+vulgar
 vulnerabilities
 vulnerability
 vulnerable
@@ -14272,9 +14270,7 @@ wholeness
 wholesalers
 wholesome
 wholly
-whom
 whose
-why
 wickedness
 wicker
 widely
@@ -14455,7 +14451,6 @@ yonder
 younger
 youngest
 youngsters
-yourself
 youthful
 youths
 zealous

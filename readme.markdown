@@ -24,31 +24,30 @@ Detailed information about most of the lists in this repository is available bel
 **[basic.txt](lists/basic.txt)**
 
 ```text
-List length               : 18230 words
+List length               : 18250 words
 Mean word length          : 7.54 characters
 Length of shortest word   : 3 characters (ace)
 Length of longest word    : 12 characters (workstations)
 Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : false
-Entropy per word          : 14.154 bits
-Efficiency per character  : 1.877 bits
-Assumed entropy per char  : 4.718 bits
+Entropy per word          : 14.156 bits
+Efficiency per character  : 1.879 bits
+Assumed entropy per char  : 4.719 bits
 Above brute force line?   : false
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.507
+Mean edit distance        : 7.504
 Longest shared prefix     : 11
 Unique character prefix   : 12
-Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-committing physicians restaurant owed vegetable give 
-enveloped lifestyle conversation aloft chanting rolled 
-fever circulation penchant drawings emery vulnerable 
-masculine shoreline sure acidic academic assertive 
-auspices faction width aquatic succinctly alleys
+friendships reversed deriving logging quotas fright 
+pausing slipped junta baseline arbitrary town 
+widening academies visibility debut accompany tester 
+unrestrained horrified impurities seeking disguised itinerary 
+circling convergence leather gelatin important smaller 
 ```
 </details>
 
@@ -105,15 +104,14 @@ Shortest edit distance    : 1
 Mean edit distance        : 7.434
 Longest shared prefix     : 10
 Unique character prefix   : 11
-Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-bidding minimal frog unrealistic surveyed pigment 
-pioneering largely mundane orderly assertions banned 
-subscribers throne independent following considering doors 
-asthma hollow calf raids warren zen 
-honestly likes agrees confused unreliable away 
+cataloging buyers bamboo sued sporting starting 
+mothers pretending litigation despair merits gastric 
+tore farming counted peripheral bullets going 
+wished formulas deaths courtyard circulation friendly 
+indeed preacher reacting spots teaspoon foundations 
 ```
 
 If you want a 7,776-word diceware list that is **not** uniquely decodable, there's [diceware-not-ud.txt](lists/diceware-not-ud.txt). Just be sure to use a character or space between words in your passphrases!
@@ -138,17 +136,17 @@ Assumed entropy per char  : 4.308 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 6.995
+Mean edit distance        : 6.996
 Longest shared prefix     : 9
 Unique character prefix   : 10
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-attending impairment broader recording won green 
-seeking sugar assay cake obedience democrats 
-assumed enjoyment stamp omitted abilities undergo 
-defines relatively carbonate conducting deposits moon 
-colleges young validity little worthwhile splitting 
+textbook concurrent membranes obedience elbow flying 
+routine estimated secure steering eighth sober 
+insights clothing summer blanket bid forgot 
+cancel sweet agrarian conviction assumed gesture 
+grim economic reef molecules slides send 
 ```
 </details>
 
@@ -157,30 +155,30 @@ colleges young validity little worthwhile splitting
 
 **[prefix-free.txt](lists/prefix-free.txt)** is a long list free of prefix words.
 ```text
-List length               : 14472 words
+List length               : 14467 words
 Mean word length          : 8.22 characters
 Length of shortest word   : 3 characters (ads)
 Length of longest word    : 15 characters (vulnerabilities)
 Free of prefix words?     : true
 Free of suffix words?     : false
 Uniquely decodable?       : true
-Entropy per word          : 13.821 bits
-Efficiency per character  : 1.682 bits
+Entropy per word          : 13.820 bits
+Efficiency per character  : 1.681 bits
 Assumed entropy per char  : 4.607 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 8.037
+Mean edit distance        : 8.038
 Longest shared prefix     : 14
 Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-internalized wade covers rampant curiosity willed 
-deviant curriculum peters cloak reigned proximity 
-drives gaining escalation individuals renaissance exposition 
-biopsy geothermal watchful fastest gelatin justices 
-absorbing formulas vols reunification unnoticed atlas 
+mayors catalyzed consulting feminists cables collegiate 
+earrings misuse polarization financed geopolitical toxins 
+antigens cerebellum smiled polyethylene sharper comprehension 
+conversions addressing warranty lava rheumatic guarded 
+pelvis distinguishing indeterminate enforcing aorta spurious 
 ```
 </details>
 
@@ -189,31 +187,30 @@ absorbing formulas vols reunification unnoticed atlas
 
 **[suffix-free.txt](lists/suffix-free.txt)** is a long list that is uniquely decodable (it is free of suffix words). I think this would be a good one to use as a wordlist for [the KeePassXC password manager](https://keepassxc.org/), however use at your own risk. A 7-word passphrase from this list provides about 98 bits of entropy, compared to the EFF long list (KeePassXC's default list), from which a 7-word passphrase provides about 90.5 bits.
 ```text
-List length               : 16458 words
+List length               : 16750 words
 Mean word length          : 8.02 characters
 Length of shortest word   : 3 characters (add)
 Length of longest word    : 15 characters (vulnerabilities)
 Free of prefix words?     : false
 Free of suffix words?     : true
 Uniquely decodable?       : true
-Entropy per word          : 14.007 bits
-Efficiency per character  : 1.747 bits
-Assumed entropy per char  : 4.669 bits
+Entropy per word          : 14.032 bits
+Efficiency per character  : 1.749 bits
+Assumed entropy per char  : 4.677 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.946
+Mean edit distance        : 7.952
 Longest shared prefix     : 14
 Unique character prefix   : 15
-Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-antecedent disclosing persistence mistaken coordinator gypsum 
-barbarians emigrated attended allowances twists possession 
-insisting stokes conspiracy invisible plastics provoked 
-laborious yet technological incarceration heady predominate 
-scanner discharging heavily fragmentary oxidized saint 
+tumors articulated alert villains intensified guilds 
+finances hoop false empress milestone potentiality 
+viceroy shading landscapes topographical unforeseen planners 
+approving afterlife smoothed seaside strangely keyword 
+swings disks exerts voter temples townships 
 ```
 </details>
 
