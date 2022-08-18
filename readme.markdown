@@ -307,11 +307,11 @@ Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-odors senseless transformers devotee disk assertions 
-bovine lecturers unfinished enact minimize demonstrate 
-alluvial indulge directional freeze indoors pluck 
-ownership wearily conservatism dizziness sedimentary transfer 
-flare undergo investigator exalted radioactivity stubborn 
+reviewed postgraduate trees incomplete tinged creole 
+whisper dwelling bracelet plastics sympathetically interpreters 
+inherited fancies dot inflammatory malformations sputum 
+pang cyclical baking onions shipbuilding cohorts 
+actively lecturing surviving tackle cease imagines 
 ```
 </details>
 
@@ -333,17 +333,17 @@ Assumed entropy per char  : 4.308 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 6.961
+Mean edit distance        : 6.962
 Longest shared prefix     : 9
 Unique character prefix   : 10
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-ticket historical permits biography skin unlikely 
-financed castle propaganda phenomena scored bend 
-statistics mediation centuries lens dominate money 
-colorful collector mental deer implements bees 
-smoothly arthritis prevents solo sovereign services 
+moisture prosperity frank contract court horizontal 
+delays amplitude garments preserved string pricing 
+profession letting villa pictures copied behalf 
+creek stare guys village allergic excluding 
+patronage relates markers combine accurately clan 
 ```
 </details>
 

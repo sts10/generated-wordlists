@@ -3791,6 +3791,7 @@ corrosive
 corrugated
 corrupt
 corrupted
+corruption
 cortex
 cosmetic
 cosmetics
@@ -5160,6 +5161,7 @@ dominate
 dominated
 dominates
 dominating
+domination
 dominion
 dominions
 domino
@@ -5636,7 +5638,6 @@ enacted
 enacting
 enactment
 enamel
-encampment
 encapsulated
 encapsulation
 encephalitis
@@ -6187,6 +6188,7 @@ explorer
 explorers
 explores
 exploring
+explosion
 explosions
 explosive
 explosives
@@ -6414,7 +6416,6 @@ feasible
 feast
 feasts
 feather
-feathered
 feathers
 feature
 featured
@@ -6814,7 +6815,6 @@ forestry
 forests
 forever
 foreword
-forfeit
 forfeited
 forfeiture
 forge
@@ -7036,6 +7036,7 @@ fundamentals
 funded
 funding
 funds
+funeral
 funerals
 fungal
 fungi
@@ -7283,7 +7284,6 @@ gloom
 gloomy
 glories
 glorified
-glorify
 glorious
 glory
 gloss
@@ -7547,7 +7547,6 @@ habitual
 habitually
 hacienda
 hacker
-hacking
 haemorrhage
 haggard
 hail
@@ -7641,6 +7640,7 @@ hastened
 hastily
 hasty
 hatch
+hatched
 hatching
 hate
 hated
@@ -8038,6 +8038,7 @@ husbandry
 husbands
 hush
 hushed
+husky
 huts
 hybrid
 hybrids
@@ -8324,7 +8325,6 @@ incidents
 incipient
 incised
 incision
-incisions
 inclination
 inclinations
 incline
@@ -9527,6 +9527,7 @@ liquidated
 liquidation
 liquidity
 liquids
+liquor
 lire
 lisp
 listen
@@ -9945,7 +9946,6 @@ maxims
 maximum
 maybe
 mayo
-mayonnaise
 mayor
 mayors
 maze
@@ -11170,7 +11170,6 @@ patches
 patchwork
 patent
 patented
-patently
 patents
 paternal
 paternalism
@@ -11376,7 +11375,6 @@ perpetuate
 perpetuated
 perpetuating
 perplexed
-perplexing
 persecuted
 persecution
 perseverance
@@ -12939,6 +12937,7 @@ refrigeration
 refrigerator
 refs
 refuge
+refugee
 refugees
 refund
 refusal
@@ -13079,6 +13078,7 @@ remain
 remainder
 remained
 remaining
+remains
 remand
 remark
 remarkable
@@ -15890,7 +15890,6 @@ thankfully
 thanking
 thanks
 thanksgiving
-thatched
 thatcher
 thaw
 theater
@@ -15990,6 +15989,7 @@ thrilled
 thrilling
 thrive
 thriving
+throat
 throats
 throbbing
 thrombosis
@@ -17020,7 +17020,6 @@ villages
 villain
 villains
 villas
-vindicated
 vindication
 vinegar
 vines
@@ -17114,6 +17113,7 @@ vowels
 vows
 voyage
 voyages
+vulgar
 vulnerabilities
 vulnerability
 vulnerable
