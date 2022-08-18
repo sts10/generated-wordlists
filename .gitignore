@@ -3,3 +3,5 @@ reject-words/
 scratch_lists
 scratch_lists/
 generation-notes.markdown
+justfile
+.justfile
