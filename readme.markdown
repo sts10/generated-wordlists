@@ -126,30 +126,29 @@ If you want a 7,776-word diceware list that is **not** uniquely decodable, there
 
 ```text
 List length               : 7776 words
-Mean word length          : 7.12 characters
+Mean word length          : 7.11 characters
 Length of shortest word   : 3 characters (add)
 Length of longest word    : 10 characters (worthwhile)
 Free of prefix words?     : false
 Free of suffix words?     : true
 Uniquely decodable?       : true
 Entropy per word          : 12.925 bits
-Efficiency per character  : 1.816 bits
+Efficiency per character  : 1.818 bits
 Assumed entropy per char  : 4.308 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.000
+Mean edit distance        : 6.995
 Longest shared prefix     : 9
 Unique character prefix   : 10
-Kraft-McMillan inequality : satisfied
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-zoning invitation generate tomb archaic sofa 
-explains tourism slowly evaluated corporate resentment 
-uranium damp economies vicious apartheid indicators 
-buyers trusts fingers glucose concluding pop 
-seized arrange woven costly invested forever
+attending impairment broader recording won green 
+seeking sugar assay cake obedience democrats 
+assumed enjoyment stamp omitted abilities undergo 
+defines relatively carbonate conducting deposits moon 
+colleges young validity little worthwhile splitting 
 ```
 </details>
 
@@ -290,29 +289,29 @@ tighter taco density ethos downs leadership
 **[ud1.txt](lists/experimental/ud1.txt)** is a long, uniquely decodable list, based on Google Ngram data. It was made uniquely decodable [via a process I created](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html) and thus I mark it as **EXPERIMENTAL**. Use with caution.
 ```text
 List length               : 17576 words
-Mean word length          : 8.01 characters
+Mean word length          : 8.00 characters
 Length of shortest word   : 3 characters (add)
 Length of longest word    : 15 characters (vulnerabilities)
 Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : true
 Entropy per word          : 14.101 bits
-Efficiency per character  : 1.761 bits
+Efficiency per character  : 1.763 bits
 Assumed entropy per char  : 4.700 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.942
+Mean edit distance        : 7.936
 Longest shared prefix     : 14
 Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-privately metaphorical tutorial unsettling flats interchangeable 
-definitive radon impure uncles shoppers basins 
-shrunk receivable freeing meeting stacking provocation 
-repay retrospective soups forging cues butch 
-captives syndicate miss propensity alleging onions 
+odors senseless transformers devotee disk assertions 
+bovine lecturers unfinished enact minimize demonstrate 
+alluvial indulge directional freeze indoors pluck 
+ownership wearily conservatism dizziness sedimentary transfer 
+flare undergo investigator exalted radioactivity stubborn 
 ```
 </details>
 
@@ -340,11 +339,11 @@ Unique character prefix   : 10
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-detached dire frost hereafter disease income 
-overview effort chiefs feathers sketches complex 
-campus statute enrolled inevitable bob breaks 
-reformed requires reprinted electrodes withdrawn paste 
-wealth guided weaknesses attempt law guards 
+ticket historical permits biography skin unlikely 
+financed castle propaganda phenomena scored bend 
+statistics mediation centuries lens dominate money 
+colorful collector mental deer implements bees 
+smoothly arthritis prevents solo sovereign services 
 ```
 </details>
 
@@ -356,9 +355,9 @@ Other lists in this repo use this study of [word frequency on Wikipedia](https:/
 
 ### Assumed use-cases of passphrases 
 
-Let's consider _**when**_ a password manager user might want to use a passphrase rather than a password like `96W8vaCHCR':XXj,xhJ6`. I based my work around three use-cases (loosely ranked by importance/priority): 
+Let's consider _**when**_ a user might want to use a passphrase rather than a password like `96W8vaCHCR':XXj,xhJ6`. I based my work around three use-cases (loosely ranked by importance/priority): 
 
-1. When creating a master password that the user will have to memorize and type frequently.
+1. When creating a master password for a password manager or an encrypted drive that the user will have to memorize.
 2. When creating an account where they'll enter the password in a situation where they can not auto-fill or copy it from a password manager (for example: a smart TV or computers where they don't have access to their password database). I think of this as a case where the user needs to hold their password in their minds for a few seconds.
 3. When creating an account they anticipate they may have to read the password over a voice channel.
 
