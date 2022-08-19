@@ -213,10 +213,11 @@ infarction proposed conceptualized conserved huddled fundamentally
 ```
 </details>
 
+<!--
 <details>
 <summary><h3>Short: A short word list of 1,030 words</h3></summary>
 
-**[short.txt](lists/short.txt)** is a short list with words that have unique three-character prefixes and the shortest edit distance between any two words is 3 characters. It's also uniquely decodeable -- it's actually free of prefix words and suffix words. These attributes of the list are meant to emulate [the EFF short lists](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases).
+**[short.txt](lists/short.txt)** is a short list with words that have unique three-character prefixes and the shortest edit distance between any two words is 3 characters. It's also uniquely decodable -- it's actually free of prefix words and suffix words. These attributes of the list are meant to emulate [the EFF short lists](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases).
 ```text
 List length               : 1030 words
 Mean word length          : 8.46 characters
@@ -244,7 +245,7 @@ cutaneous september appetites awareness lobbyists eritrea
 glucose ithaca baptized obesity superego aircraft 
 ```
 </details>
-
+-->
 <details>
 <summary><h3>Wikilist: A word list based on word frequency from Wikipedia</h3></summary>
 
