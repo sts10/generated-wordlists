@@ -4343,7 +4343,6 @@ editing
 editions
 editorials
 editors
-eds
 educated
 educating
 educational
@@ -5625,7 +5624,6 @@ frustrated
 frustrating
 frustrations
 frying
-ftp
 fueled
 fuels
 fugitives
@@ -6445,7 +6443,6 @@ hovered
 hovering
 however
 howling
-hrs
 hub
 huddled
 hues
@@ -7372,7 +7369,6 @@ keenly
 keepers
 keeping
 keeps
-ken
 kept
 kernels
 kerosene
@@ -7543,7 +7539,6 @@ laymen
 layouts
 lays
 lazy
-lbs
 leaching
 leadership
 leading
@@ -8151,7 +8146,6 @@ mediums
 meek
 meetings
 meets
-meg
 melancholy
 melanoma
 mellow
@@ -8525,7 +8519,6 @@ mover
 moves
 movies
 moving
-mph
 much
 mucous
 mucus
@@ -11138,7 +11131,6 @@ rows
 royalist
 royalties
 royalty
-rpm
 rubbed
 rubber
 rubbing

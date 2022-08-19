@@ -946,6 +946,7 @@ area
 areas
 arena
 arenas
+argon
 arguably
 argue
 argued
@@ -1811,7 +1812,6 @@ boasting
 boasts
 boating
 boats
-bob
 bobby
 bodily
 bog
@@ -2273,6 +2273,7 @@ canine
 cannabis
 cannon
 canoe
+canoes
 canon
 canonical
 canons
@@ -5638,6 +5639,7 @@ enacted
 enacting
 enactment
 enamel
+encampment
 encapsulated
 encapsulation
 encephalitis
@@ -5894,7 +5896,6 @@ escorted
 escrow
 esophagus
 esoteric
-esp
 especial
 especially
 espionage
@@ -6416,6 +6417,7 @@ feasible
 feast
 feasts
 feather
+feathered
 feathers
 feature
 featured
@@ -6815,6 +6817,7 @@ forestry
 forests
 forever
 foreword
+forfeit
 forfeited
 forfeiture
 forge
@@ -7002,7 +7005,6 @@ frustration
 frustrations
 fry
 frying
-ftp
 fuel
 fueled
 fuels
@@ -7977,7 +7979,6 @@ hovering
 however
 howl
 howling
-hrs
 hub
 huddled
 hue
@@ -8325,6 +8326,7 @@ incidents
 incipient
 incised
 incision
+incisions
 inclination
 inclinations
 incline
@@ -9330,7 +9332,6 @@ laymen
 layout
 layouts
 lazy
-lbs
 leach
 leaching
 leader
@@ -9946,6 +9947,7 @@ maxims
 maximum
 maybe
 mayo
+mayonnaise
 mayor
 mayors
 maze
@@ -10012,7 +10014,6 @@ meet
 meeting
 meetings
 meets
-meg
 melancholy
 melanoma
 mellow
@@ -10568,7 +10569,6 @@ obey
 obeyed
 obeying
 obituary
-obj
 object
 objected
 objection
@@ -11170,6 +11170,7 @@ patches
 patchwork
 patent
 patented
+patently
 patents
 paternal
 paternalism
@@ -11375,6 +11376,7 @@ perpetuate
 perpetuated
 perpetuating
 perplexed
+perplexing
 persecuted
 persecution
 perseverance
@@ -11710,7 +11712,6 @@ poisons
 poked
 poker
 poking
-pol
 polar
 polarity
 polarization
@@ -13582,7 +13583,6 @@ royal
 royalist
 royalties
 royalty
-rpm
 rubbed
 rubber
 rubbing
@@ -17020,6 +17020,7 @@ villages
 villain
 villains
 villas
+vindicated
 vindication
 vinegar
 vines
@@ -17084,7 +17085,6 @@ vocational
 vogue
 voiced
 voicing
-vol
 volatile
 volatility
 volcanic

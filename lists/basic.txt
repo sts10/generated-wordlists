@@ -416,6 +416,7 @@ aggressive
 aggressively
 aggrieved
 agile
+agility
 aging
 agitated
 agitation
@@ -1401,6 +1402,7 @@ banana
 bananas
 band
 bandage
+bandages
 banded
 bandits
 bands
@@ -1842,7 +1844,6 @@ boasts
 boat
 boating
 boats
-bob
 bobby
 bodies
 bodily
@@ -2045,6 +2046,7 @@ brig
 brigade
 brigades
 bright
+brightened
 brighter
 brightest
 brightly
@@ -2580,6 +2582,7 @@ certificate
 certificates
 certified
 certify
+cesarean
 cessation
 chain
 chained
@@ -3101,6 +3104,7 @@ comb
 combat
 combatants
 combating
+combed
 combination
 combinations
 combine
@@ -3475,6 +3479,7 @@ conjugate
 conjugated
 conjugation
 conjunction
+conjure
 connect
 connected
 connecting
@@ -3835,6 +3840,7 @@ cotton
 couch
 couched
 cough
+coughed
 coughing
 council
 councillors
@@ -5418,6 +5424,7 @@ eaten
 eating
 eats
 ebb
+ebony
 eccentric
 eccentricity
 echo
@@ -5459,7 +5466,6 @@ editor
 editorial
 editorials
 editors
-eds
 educate
 educated
 educating
@@ -5919,6 +5925,7 @@ erroneous
 erroneously
 error
 errors
+erstwhile
 erupted
 eruption
 eruptions
@@ -5934,7 +5941,6 @@ escaping
 escorted
 esophagus
 esoteric
-esp
 especial
 especially
 espionage
@@ -6284,6 +6290,7 @@ extracted
 extracting
 extraction
 extracts
+extradition
 extraneous
 extravagance
 extravagant
@@ -6387,6 +6394,7 @@ famine
 famous
 famously
 fan
+fanatical
 fancied
 fanciful
 fancy
@@ -6693,6 +6701,7 @@ flapping
 flaps
 flare
 flared
+flares
 flash
 flashed
 flashes
@@ -7098,7 +7107,6 @@ frustration
 frustrations
 fry
 frying
-ftp
 fuel
 fueled
 fuels
@@ -7243,7 +7251,6 @@ gelatin
 gels
 gem
 gems
-gen
 gender
 gene
 genealogical
@@ -7702,6 +7709,7 @@ handlers
 handles
 handling
 hands
+handshake
 handsome
 handwriting
 handwritten
@@ -8139,7 +8147,6 @@ hovering
 however
 howl
 howling
-hrs
 hub
 huddled
 hue
@@ -8520,7 +8527,6 @@ incubation
 incumbent
 incur
 incurred
-ind
 indebted
 indebtedness
 indecent
@@ -9215,7 +9221,6 @@ keeper
 keepers
 keeping
 keeps
-ken
 kept
 kernel
 kernels
@@ -9394,7 +9399,6 @@ lasted
 lasting
 lastly
 lasts
-lat
 latch
 late
 lately
@@ -9446,8 +9450,6 @@ layout
 layouts
 lays
 lazy
-lbs
-lea
 leach
 leaching
 lead
@@ -9937,6 +9939,7 @@ magnificent
 magnified
 magnitude
 magnitudes
+magnum
 mahatma
 mahogany
 maid
@@ -10219,7 +10222,6 @@ mechanism
 mechanisms
 mechanistic
 mechanized
-med
 medal
 medals
 media
@@ -10250,7 +10252,6 @@ meet
 meeting
 meetings
 meets
-meg
 melancholy
 melanoma
 melodic
@@ -10348,6 +10349,7 @@ meters
 methane
 methanol
 method
+methodical
 methodology
 methods
 meticulous
@@ -10465,6 +10467,7 @@ miracle
 miracles
 miraculous
 miraculously
+mirage
 mirror
 mirrored
 mirrors
@@ -10713,7 +10716,6 @@ moves
 movie
 movies
 moving
-mph
 much
 mucous
 mucus
@@ -10819,7 +10821,6 @@ obey
 obeyed
 obeying
 obituary
-obj
 object
 objected
 objection
@@ -11012,7 +11013,6 @@ opposition
 oppressed
 oppression
 oppressive
-opt
 opted
 optic
 optical
@@ -11700,6 +11700,7 @@ perturbed
 pervades
 pervasive
 perverse
+perverted
 pesos
 pessimism
 pessimistic
@@ -11713,6 +11714,7 @@ peter
 peters
 petite
 petition
+petitioned
 petitioner
 petitioners
 petitions
@@ -12030,7 +12032,6 @@ poke
 poked
 poker
 poking
-pol
 polar
 polarity
 polarization
@@ -14032,7 +14033,6 @@ royal
 royalist
 royalties
 royalty
-rpm
 rub
 rubbed
 rubber
@@ -14759,6 +14759,7 @@ shrub
 shrubs
 shrug
 shrugged
+shrunk
 shudder
 shuddered
 shuffle
@@ -14960,6 +14961,7 @@ slang
 slant
 slap
 slapped
+slapping
 slash
 slate
 slaughter
@@ -15875,6 +15877,7 @@ suburban
 suburbs
 subversion
 subversive
+subvert
 subway
 succeed
 succeeded
@@ -16576,7 +16579,6 @@ thumbs
 thunder
 thwart
 thwarted
-thy
 thyme
 thymus
 thyroid
@@ -16665,7 +16667,6 @@ tolerate
 tolerated
 toleration
 toll
-tom
 tomato
 tomatoes
 tomb
@@ -17701,7 +17702,6 @@ voices
 voicing
 void
 voids
-vol
 volatile
 volatility
 volcanic
