@@ -1088,6 +1088,7 @@ awhile
 awkwardly
 awoke
 axes
+axial
 axioms
 axis
 axle
@@ -1346,6 +1347,7 @@ bewilderment
 beyond
 biased
 biases
+bible
 biblical
 bibliographical
 bibliographies
@@ -1398,6 +1400,7 @@ birthday
 birthplace
 births
 biscuits
+bisexual
 bishops
 bison
 bites
@@ -2553,6 +2556,7 @@ compatible
 compatriots
 compelled
 compelling
+compels
 compendium
 compensated
 compensating
@@ -2768,6 +2772,7 @@ congruence
 congruent
 conical
 conjecture
+conjugal
 conjugated
 conjugation
 conjunction
@@ -2832,6 +2837,7 @@ constantly
 constants
 constellations
 consternation
+constipation
 constituencies
 constituency
 constituents
@@ -3146,7 +3152,7 @@ craving
 crawled
 crawling
 crazy
-cream
+creamy
 created
 creates
 creating
@@ -3318,7 +3324,8 @@ cylindrical
 cynical
 cynicism
 cypress
-cyst
+cystic
+cysts
 cytoplasm
 czar
 dab
@@ -3327,9 +3334,11 @@ dagger
 daily
 dairy
 daisy
+dale
 damaged
 damages
 damaging
+dame
 damp
 dams
 danced
@@ -3784,6 +3793,7 @@ didactic
 died
 diesel
 dietary
+dieter
 diets
 differed
 differences
@@ -3948,6 +3958,7 @@ disillusioned
 disillusionment
 disintegration
 disinterested
+diskette
 disks
 disliked
 dislikes
@@ -4763,6 +4774,7 @@ ethos
 etiquette
 etymology
 eucalyptus
+eugenics
 euphoria
 euro
 euthanasia
@@ -5065,6 +5077,7 @@ fallow
 falls
 falsehood
 falsely
+falsity
 faltered
 famed
 familial
@@ -5100,6 +5113,8 @@ farthest
 fascinated
 fascinating
 fascination
+fascism
+fascists
 fashionable
 fashioned
 fashions
@@ -5385,7 +5400,7 @@ flushing
 flute
 fluttered
 fluttering
-flux
+fluxes
 flyer
 flying
 foam
@@ -5573,6 +5588,7 @@ freedoms
 freeing
 freelance
 freely
+freeman
 freer
 frees
 freeway
@@ -6121,6 +6137,7 @@ harbors
 hardcover
 hardened
 hardening
+harder
 hardest
 hardly
 hardness
@@ -6513,6 +6530,7 @@ hypotheses
 hypothesis
 hypothesized
 hypothetical
+hysterectomy
 hysteresis
 hysteria
 hysterical
@@ -7575,6 +7593,7 @@ lecturers
 lectures
 lecturing
 ledger
+lee
 leftist
 legacies
 legacy
@@ -7867,6 +7886,7 @@ lunatic
 luncheon
 lunches
 lungs
+lupus
 lured
 lurking
 lush
@@ -8315,6 +8335,7 @@ ministers
 ministries
 ministry
 minorities
+minority
 minors
 mint
 minus
@@ -8744,6 +8765,7 @@ operatives
 operators
 ophthalmic
 ophthalmology
+opiate
 opinions
 opioid
 opium
@@ -8774,6 +8796,7 @@ optional
 options
 opus
 oracles
+oral
 oranges
 oration
 oratory
@@ -8880,6 +8903,8 @@ outwards
 outweighed
 oval
 ovarian
+ovaries
+ovary
 ovens
 overall
 overboard
@@ -9572,6 +9597,7 @@ politically
 politicians
 politico
 politics
+polity
 pollen
 pollination
 polling
@@ -11055,6 +11081,7 @@ rivalries
 rivalry
 rivals
 riverside
+roach
 roadside
 roadway
 roamed
@@ -11252,6 +11279,7 @@ sans
 sapphire
 sarcasm
 sarcastic
+sarcoma
 sash
 satanic
 satellites
@@ -11567,6 +11595,9 @@ sewage
 sewers
 sewing
 sewn
+sexes
+sexism
+sexist
 sexuality
 sexy
 shabby
@@ -12050,6 +12081,7 @@ southwestern
 souvenirs
 sovereigns
 sovereignty
+soviets
 sowing
 sown
 soybeans
@@ -12326,6 +12358,7 @@ stemmed
 stemming
 stems
 stench
+stent
 stepfather
 stepmother
 stepped
@@ -13813,6 +13846,7 @@ ushered
 using
 usually
 utensils
+uterine
 utilitarianism
 utilities
 utility
@@ -14032,6 +14066,7 @@ vividly
 vocabulary
 vocal
 vocational
+vodka
 vogue
 voiced
 voices

@@ -24,29 +24,29 @@ Detailed information about most of the lists in this repository is available bel
 **[basic.txt](lists/basic.txt)**
 ```text
 List length               : 18250 words
-Mean word length          : 7.54 characters
+Mean word length          : 7.53 characters
 Length of shortest word   : 3 characters (ace)
 Length of longest word    : 12 characters (workstations)
 Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : false
 Entropy per word          : 14.156 bits
-Efficiency per character  : 1.877 bits
+Efficiency per character  : 1.879 bits
 Assumed entropy per char  : 4.719 bits
 Above brute force line?   : false
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.506
+Mean edit distance        : 7.500
 Longest shared prefix     : 11
 Unique character prefix   : 12
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-china perceptible become emphasizes wrinkles remedial 
-clergyman farthest party perfect herbal tattoo 
-versus mythology spelled triad dizziness forging 
-rosy adolescence missions illegitimate westerners encode 
-extradition academia mobilized extending dizziness fluid 
+imitation predicting vacuum regards unresponsive opportunity 
+assumed profession tangible pondered sprinkle equipped 
+hear brokerage replica challenges argument basal 
+courageous facet fit editorial applications yellow 
+sharks delusions immaculate clearing reproduction worry 
 ```
 </details>
 
@@ -88,29 +88,29 @@ dislike cling fronting regard black drama
 **[diceware.txt](lists/diceware.txt)**: A new list for using with diceware. Like [the EFF long list](https://www.eff.org/dice), it is free of prefix words, though it has words longer than 9 characters, unlike the EFF long list. The version in this repo has the corresponding dice rolls preceding each word, followed by a tab. The EFF has [instructions for how to use dice and lists like this one to generate passphrases](https://www.eff.org/dice).
 ```text
 List length               : 7776 words
-Mean word length          : 7.62 characters
+Mean word length          : 7.61 characters
 Length of shortest word   : 3 characters (ads)
 Length of longest word    : 11 characters (withholding)
 Free of prefix words?     : true
 Free of suffix words?     : false
 Uniquely decodable?       : true
 Entropy per word          : 12.925 bits
-Efficiency per character  : 1.696 bits
+Efficiency per character  : 1.697 bits
 Assumed entropy per char  : 4.308 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.435
+Mean edit distance        : 7.430
 Longest shared prefix     : 10
 Unique character prefix   : 11
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-weaver perfection cereal bored combat regularly 
-teaspoon carried organs requests unity forty 
-pentagon bachelor egalitarian lions certainty resources 
-located admits determines transported traders toys 
-writes traveled bounds haste dye outlook 
+bulletin genetics doors persuasion photography initiation 
+oxford trustees elaboration sheath demanding sized 
+blues prostate multiple exodus satellites highest 
+lowering additive pilgrimage painfully rivalry machinery 
+pregnant conversely variety metro fond feast 
 ```
 
 If you want a 7,776-word diceware list that is **not** uniquely decodable, there's [diceware-not-ud.txt](lists/diceware-not-ud.txt). Just be sure to use a character or space between words in your passphrases!
@@ -130,22 +130,22 @@ Free of prefix words?     : false
 Free of suffix words?     : true
 Uniquely decodable?       : true
 Entropy per word          : 12.925 bits
-Efficiency per character  : 1.817 bits
+Efficiency per character  : 1.819 bits
 Assumed entropy per char  : 4.308 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 6.996
+Mean edit distance        : 6.992
 Longest shared prefix     : 9
 Unique character prefix   : 10
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-coated anterior tough organizing baptism domains 
-beyond history furniture daring cheek angry 
-contest console showing hang shelf varies 
-awakened margins remove thematic sigh shorter 
-hundred pressures parents mainland breed conditions
+sentences fringe emerge black clinic output 
+streams sober motifs steal alpha mock 
+banks terminated selling captured bowl breach 
+ethics straw combines purity mechanical alongside 
+strings simulation oriental poem imminent foliage 
 ```
 </details>
 
@@ -154,30 +154,30 @@ hundred pressures parents mainland breed conditions
 
 **[prefix-free.txt](lists/prefix-free.txt)** is a long list free of prefix words.
 ```text
-List length               : 14459 words
+List length               : 14494 words
 Mean word length          : 8.22 characters
 Length of shortest word   : 3 characters (ads)
 Length of longest word    : 15 characters (vulnerabilities)
 Free of prefix words?     : true
 Free of suffix words?     : false
 Uniquely decodable?       : true
-Entropy per word          : 13.820 bits
-Efficiency per character  : 1.680 bits
-Assumed entropy per char  : 4.607 bits
+Entropy per word          : 13.823 bits
+Efficiency per character  : 1.682 bits
+Assumed entropy per char  : 4.608 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 8.039
+Mean edit distance        : 8.036
 Longest shared prefix     : 14
 Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-dill capturing sponge carpets invites proliferation 
-cuttings examining ascent screened laboratory maneuvers 
-publishing punk investors assumes hexagonal chattering 
-hedging applying motherhood dentists efficiencies paradoxically 
-progressives fascination furnishes erosion commonwealth duchess
+acculturation introductions canine cheers mace simplifies 
+genetics satire enthusiasm mundane bending horrors 
+habitats adapter commentaries resourceful trays shrinkage 
+during mindful precipitation demographics compounds annihilation 
+stringent proportionality literary everlasting downhill golden 
 ```
 </details>
 
@@ -187,30 +187,31 @@ progressives fascination furnishes erosion commonwealth duchess
 **[suffix-free.txt](lists/suffix-free.txt)** is a long list that is uniquely decodable (it is free of suffix words). I think this would be a good one to use as a wordlist for [the KeePassXC password manager](https://keepassxc.org/), however use at your own risk. A 7-word passphrase from this list provides about 98 bits of entropy, compared to the EFF long list (KeePassXC's default list), from which a 7-word passphrase provides about 90.5 bits.
 ```text
 List length               : 16750 words
-Mean word length          : 8.03 characters
+Mean word length          : 8.02 characters
 Length of shortest word   : 3 characters (add)
 Length of longest word    : 15 characters (vulnerabilities)
 Free of prefix words?     : false
 Free of suffix words?     : true
 Uniquely decodable?       : true
 Entropy per word          : 14.032 bits
-Efficiency per character  : 1.748 bits
+Efficiency per character  : 1.750 bits
 Assumed entropy per char  : 4.677 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.953
+Mean edit distance        : 7.946
 Longest shared prefix     : 14
 Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-failings duel translucent geology projects hurricanes 
-persistence mass brainstorming desolation emulate dispense 
-prevented flattering consolation immovable blocking countries 
-readiness target suicidal complicity apportionment indispensable 
-infarction proposed conceptualized conserved huddled fundamentally 
+pathological uncle mummy obliged sullen pupil 
+caregivers constrain chat unclean gentry differs 
+shrubs actress concomitant indictment fox swiftly 
+radon egalitarian trio discriminated princely closes 
+teamwork supplanted afar chauffeur strengthen doped 
 ```
+
 </details>
 
 <!--
@@ -293,22 +294,22 @@ Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : true
 Entropy per word          : 14.101 bits
-Efficiency per character  : 1.762 bits
+Efficiency per character  : 1.763 bits
 Assumed entropy per char  : 4.700 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.937
+Mean edit distance        : 7.932
 Longest shared prefix     : 14
 Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-channel anecdotes wandered fiat thesaurus jargon 
-amongst apartment cooperating lunches bullock ranked 
-obscenity funded thence exalted contractors aerial 
-parry renowned attain updates stabbed allowing 
-expel premises thirties warning differing laundry 
+postmaster venerable enslavement wishes centralization supplements 
+cropped cleared accurately tint condominium queer 
+abuses unemployment flourish aversion fractures pastry 
+phosphorus grizzly latest canvas turmoil aborigines 
+resurgence explicit initiates lawn recipe terminals 
 ```
 </details>
 
@@ -325,22 +326,54 @@ Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : true
 Entropy per word          : 12.925 bits
-Efficiency per character  : 1.830 bits
+Efficiency per character  : 1.832 bits
 Assumed entropy per char  : 4.308 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 6.961
+Mean edit distance        : 6.956
 Longest shared prefix     : 9
 Unique character prefix   : 10
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-plates flash cutting describing graduated characters 
-primitive candles civilized adoption eliminate tackle 
-employment curriculum instinct intricate barrel trinity 
-kilometers coats result fantastic sequences mutation 
-against privacy important technical reminder continuum
+desires magic registers plaintiff pastor scripts 
+acres stiff smaller patron borders arid 
+herd saturation meet shaped hearings decide 
+dense pursuing sober stay sacrifices conceptual 
+films allegedly ranges solid rats arrival 
+```
+</details>
+
+<details>
+<summary><h3>UD2: A 40,000-word, uniquely decodable word list</h3></summary>
+
+**[ud2.txt](lists/experimental/ud2.txt)** is a uniquely decodable list, based on Google Ngram data and [Niceware](https://github.com/diracdeltas/niceware) v. 4.0 list. It is free of some common homophones and British spellings of certain words. It was made uniquely decodable [via a process I created](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html) and thus I mark it as **EXPERIMENTAL**. Use with caution.
+```text
+List length               : 40000 words
+Mean word length          : 8.64 characters
+Length of shortest word   : 3 characters (ago)
+Length of longest word    : 18 characters (transubstantiation)
+Free of prefix words?     : false
+Free of suffix words?     : false
+Uniquely decodable?       : true
+Entropy per word          : 15.288 bits
+Efficiency per character  : 1.769 bits
+Assumed entropy per char  : 5.096 bits
+Above brute force line?   : false
+Above Shannon line?       : false
+Shortest edit distance    : 1
+Mean edit distance        : 8.420
+Longest shared prefix     : 17
+Unique character prefix   : 18
+
+Pseudorandomly generated sample passphrases
+-------------------------------------------
+slapping ogle pork simultaneously scruffier gloving 
+greying lonelier appliance corrugated dandelion spatial 
+dampening enfranchise teats literally unregenerate construing 
+blinks binders multitasking envoy scholarship chairpersons 
+daunting horrendous presage serializing quilt unaltered 
 ```
 </details>
 

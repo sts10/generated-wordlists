@@ -40,6 +40,7 @@ abridged
 abroad
 abrupt
 abruptly
+abscess
 absence
 absent
 absenteeism
@@ -301,6 +302,7 @@ adorned
 adrenal
 adrenaline
 ads
+adult
 adultery
 adulthood
 adults
@@ -416,7 +418,6 @@ aggressive
 aggressively
 aggrieved
 agile
-agility
 aging
 agitated
 agitation
@@ -640,7 +641,6 @@ ample
 amplified
 amplifier
 amplifiers
-amplify
 amplitude
 amplitudes
 amply
@@ -1062,11 +1062,11 @@ asphalt
 aspiration
 aspirations
 aspire
-aspired
 aspirin
 aspiring
 assassin
 assassinated
+assault
 assaulted
 assaults
 assay
@@ -1138,7 +1138,6 @@ astonished
 astonishing
 astonishment
 astounding
-astral
 astray
 astrology
 astronauts
@@ -1332,6 +1331,7 @@ awkwardly
 awoke
 axe
 axes
+axial
 axiom
 axioms
 axis
@@ -1402,11 +1402,11 @@ banana
 bananas
 band
 bandage
-bandages
 banded
 bandits
 bands
 bandwidth
+bang
 banged
 banished
 bank
@@ -1673,6 +1673,7 @@ beyond
 bias
 biased
 biases
+bible
 biblical
 bibliography
 biceps
@@ -1734,6 +1735,7 @@ birthplace
 births
 biscuit
 biscuits
+bisexual
 bishop
 bishops
 bison
@@ -2046,7 +2048,6 @@ brig
 brigade
 brigades
 bright
-brightened
 brighter
 brightest
 brightly
@@ -2582,7 +2583,6 @@ certificate
 certificates
 certified
 certify
-cesarean
 cessation
 chain
 chained
@@ -2665,7 +2665,6 @@ chaste
 chastity
 chat
 chatter
-chattering
 chatting
 chauffeur
 cheap
@@ -2862,7 +2861,6 @@ classed
 classes
 classic
 classical
-classically
 classics
 classified
 classify
@@ -3104,7 +3102,6 @@ comb
 combat
 combatants
 combating
-combed
 combination
 combinations
 combine
@@ -3219,6 +3216,7 @@ compatible
 compel
 compelled
 compelling
+compels
 compendium
 compensate
 compensated
@@ -3475,11 +3473,11 @@ congruence
 congruent
 conical
 conjecture
+conjugal
 conjugate
 conjugated
 conjugation
 conjunction
-conjure
 connect
 connected
 connecting
@@ -3552,6 +3550,7 @@ constancy
 constant
 constantly
 constants
+constipation
 constituency
 constituent
 constituents
@@ -3840,7 +3839,6 @@ cotton
 couch
 couched
 cough
-coughed
 coughing
 council
 councillors
@@ -3947,6 +3945,7 @@ crawled
 crawling
 crazy
 cream
+creamy
 create
 created
 creates
@@ -4171,6 +4170,8 @@ cynical
 cynicism
 cypress
 cyst
+cystic
+cysts
 cytoplasm
 czar
 dab
@@ -4180,11 +4181,13 @@ dagger
 daily
 dairy
 daisy
+dale
 dam
 damage
 damaged
 damages
 damaging
+dame
 damp
 dams
 dance
@@ -4203,7 +4206,6 @@ dared
 daring
 dark
 darkened
-darkening
 darker
 darkest
 darkly
@@ -5085,9 +5087,9 @@ disturbed
 disturbing
 ditch
 ditches
-diuretic
 diuretics
 diurnal
+dive
 diver
 diverge
 divergence
@@ -5095,7 +5097,6 @@ divergent
 divers
 diverse
 diversified
-diversify
 diversion
 diversity
 divert
@@ -5183,6 +5184,7 @@ door
 doors
 doorstep
 doorway
+dope
 doped
 doping
 dormant
@@ -5424,9 +5426,7 @@ eaten
 eating
 eats
 ebb
-ebony
 eccentric
-eccentricity
 echo
 echoed
 echoes
@@ -5765,7 +5765,6 @@ engines
 engraved
 engraving
 engravings
-engrossed
 engulfed
 enhance
 enhanced
@@ -5925,7 +5924,6 @@ erroneous
 erroneously
 error
 errors
-erstwhile
 erupted
 eruption
 eruptions
@@ -5985,6 +5983,7 @@ ethnicity
 ethnology
 ethos
 etiquette
+eugenics
 euphoria
 euro
 euthanasia
@@ -6290,7 +6289,6 @@ extracted
 extracting
 extraction
 extracts
-extradition
 extraneous
 extravagance
 extravagant
@@ -6383,6 +6381,7 @@ falls
 false
 falsehood
 falsely
+falsity
 fame
 famed
 familial
@@ -6394,7 +6393,6 @@ famine
 famous
 famously
 fan
-fanatical
 fancied
 fanciful
 fancy
@@ -6421,6 +6419,8 @@ farthest
 fascinated
 fascinating
 fascination
+fascism
+fascist
 fashion
 fashionable
 fashioned
@@ -6701,7 +6701,6 @@ flapping
 flaps
 flare
 flared
-flares
 flash
 flashed
 flashes
@@ -6799,6 +6798,7 @@ flutter
 fluttered
 fluttering
 flux
+fluxes
 fly
 flying
 foam
@@ -6834,7 +6834,6 @@ following
 follows
 folly
 fond
-fondly
 fondness
 font
 fonts
@@ -7029,6 +7028,7 @@ frantic
 frantically
 fraternal
 fraternity
+fraud
 fraudulent
 fraught
 fray
@@ -7042,6 +7042,7 @@ freedoms
 freeing
 freelance
 freely
+freeman
 freer
 freeway
 freeze
@@ -7692,7 +7693,6 @@ hamburger
 hamlet
 hammer
 hammered
-hamper
 hampered
 hand
 handbook
@@ -7709,7 +7709,6 @@ handlers
 handles
 handling
 hands
-handshake
 handsome
 handwriting
 handwritten
@@ -7738,6 +7737,7 @@ hard
 harden
 hardened
 hardening
+harder
 hardest
 hardly
 hardness
@@ -8279,6 +8279,7 @@ ignored
 ignores
 ignoring
 ill
+illegal
 illegally
 illegitimate
 illicit
@@ -9244,8 +9245,11 @@ kidnapping
 kidney
 kidneys
 kids
+kill
 killed
+killer
 killers
+killing
 killings
 kills
 kiln
@@ -9497,12 +9501,12 @@ leaving
 lecture
 lectured
 lecturer
-lecturers
 lectures
 lecturing
 led
 ledge
 ledger
+lee
 left
 leftist
 leg
@@ -9713,7 +9717,6 @@ listing
 listings
 lists
 lit
-lite
 liter
 literacy
 literal
@@ -9892,6 +9895,7 @@ luncheon
 lunches
 lung
 lungs
+lupus
 lure
 lured
 lurking
@@ -9917,6 +9921,7 @@ macintosh
 macro
 macros
 macroscopic
+mad
 madam
 madame
 mademoiselle
@@ -9939,7 +9944,6 @@ magnificent
 magnified
 magnitude
 magnitudes
-magnum
 mahatma
 mahogany
 maid
@@ -10277,7 +10281,6 @@ memorial
 memorials
 memories
 memorize
-memorized
 memory
 memos
 men
@@ -10349,7 +10352,6 @@ meters
 methane
 methanol
 method
-methodical
 methodology
 methods
 meticulous
@@ -10458,6 +10460,7 @@ ministries
 ministry
 minor
 minorities
+minority
 minors
 mint
 minus
@@ -10467,7 +10470,6 @@ miracle
 miracles
 miraculous
 miraculously
-mirage
 mirror
 mirrored
 mirrors
@@ -10569,6 +10571,7 @@ modulation
 module
 modules
 modulus
+moist
 moisture
 molar
 molasses
@@ -10754,7 +10757,6 @@ murderers
 murdering
 murderous
 murders
-murky
 murmur
 murmured
 muscle
@@ -11016,7 +11018,6 @@ oppressive
 opted
 optic
 optical
-optically
 optics
 optimal
 optimism
@@ -11031,6 +11032,7 @@ optional
 options
 opus
 oracle
+oral
 orange
 oranges
 orator
@@ -11163,6 +11165,8 @@ outwardly
 outweigh
 oval
 ovarian
+ovaries
+ovary
 oven
 ovens
 overall
@@ -11194,7 +11198,6 @@ overnight
 overpowering
 override
 overriding
-overruled
 overrun
 overseas
 oversee
@@ -11562,6 +11565,7 @@ pellets
 pelvic
 pelvis
 pen
+penal
 penalties
 penalty
 penance
@@ -11628,11 +11632,11 @@ peril
 perilous
 perils
 perimeter
+period
 periodic
 periodical
 periodically
 periodicals
-periodicity
 periodontal
 periods
 peripheral
@@ -11696,11 +11700,9 @@ pertaining
 pertains
 pertinent
 perturbation
-perturbed
 pervades
 pervasive
 perverse
-perverted
 pesos
 pessimism
 pessimistic
@@ -11714,7 +11716,6 @@ peter
 peters
 petite
 petition
-petitioned
 petitioner
 petitioners
 petitions
@@ -11882,6 +11883,7 @@ placebo
 placed
 placement
 placements
+placenta
 placental
 places
 placid
@@ -12060,6 +12062,7 @@ politician
 politicians
 politico
 politics
+polity
 poll
 pollen
 polling
@@ -12096,6 +12099,7 @@ poorest
 poorly
 pop
 popcorn
+pope
 popes
 popped
 popping
@@ -12227,7 +12231,6 @@ practices
 practicing
 practitioner
 pragmatic
-pragmatics
 pragmatism
 prairie
 prairies
@@ -12309,7 +12312,6 @@ preferred
 preferring
 prefers
 prefix
-prefixes
 pregnancies
 pregnancy
 pregnant
@@ -12817,7 +12819,6 @@ purchasing
 pure
 purely
 purest
-purgatory
 purge
 purged
 purification
@@ -12955,7 +12956,6 @@ radiology
 radios
 radiotherapy
 radius
-radon
 raft
 rag
 rage
@@ -12978,7 +12978,6 @@ rain
 rainbow
 rained
 rainfall
-rainforest
 raining
 rains
 rainy
@@ -13264,6 +13263,7 @@ reference
 referenced
 references
 referendum
+referent
 referential
 referral
 referrals
@@ -13435,7 +13435,6 @@ religions
 religious
 religiously
 relinquish
-relinquished
 relish
 relocated
 relocation
@@ -13818,7 +13817,6 @@ revisited
 revival
 revive
 revived
-reviving
 revocation
 revoke
 revoked
@@ -13988,7 +13986,6 @@ rooting
 roots
 rope
 ropes
-rosary
 rose
 rosemary
 roses
@@ -14086,6 +14083,7 @@ rusty
 ruthless
 rye
 sabotage
+sack
 sacks
 sacrament
 sacramental
@@ -14147,7 +14145,6 @@ salt
 salted
 salts
 salty
-salutary
 salute
 salvage
 salvation
@@ -14181,6 +14178,7 @@ sans
 sap
 sarcasm
 sarcastic
+sarcoma
 sash
 sat
 satellite
@@ -14210,7 +14208,6 @@ saving
 savings
 savior
 saviour
-savvy
 saw
 sawyer
 say
@@ -14585,6 +14582,10 @@ sewage
 sewer
 sewing
 sewn
+sex
+sexes
+sexism
+sexist
 sexual
 sexuality
 sexy
@@ -14700,6 +14701,7 @@ shoemaker
 shoes
 shone
 shook
+shoot
 shooting
 shoots
 shop
@@ -14759,7 +14761,6 @@ shrub
 shrubs
 shrug
 shrugged
-shrunk
 shudder
 shuddered
 shuffle
@@ -14826,7 +14827,6 @@ silicate
 silicon
 silicone
 silk
-silky
 sill
 silly
 silt
@@ -14961,7 +14961,6 @@ slang
 slant
 slap
 slapped
-slapping
 slash
 slate
 slaughter
@@ -15075,7 +15074,6 @@ soar
 soared
 soaring
 sob
-sobbed
 sobbing
 sober
 sobs
@@ -15209,6 +15207,8 @@ souvenir
 souvenirs
 sovereign
 sovereignty
+soviet
+soviets
 sow
 sowing
 sown
@@ -15563,6 +15563,7 @@ stemmed
 stemming
 stems
 stench
+stent
 step
 stepfather
 stepmother
@@ -15737,6 +15738,7 @@ strive
 strives
 striving
 strode
+stroke
 stroked
 strokes
 stroll
@@ -15794,6 +15796,7 @@ styles
 stylish
 stylistic
 stylized
+sub
 subclass
 subcommittee
 subconscious
@@ -15877,7 +15880,6 @@ suburban
 suburbs
 subversion
 subversive
-subvert
 subway
 succeed
 succeeded
@@ -15958,7 +15960,6 @@ summit
 summon
 summoned
 summons
-sumptuous
 sums
 sun
 sundry
@@ -16454,6 +16455,7 @@ textual
 texture
 textured
 textures
+thank
 thanked
 thankful
 thanking
@@ -16552,7 +16554,6 @@ threefold
 threshold
 thresholds
 threw
-thrice
 thrift
 thrill
 thrilled
@@ -16655,6 +16656,7 @@ toe
 toes
 together
 toil
+toilet
 toilets
 token
 tokens
@@ -16677,6 +16679,7 @@ ton
 tonal
 tone
 tones
+tongue
 tongues
 tonic
 tonight
@@ -17033,7 +17036,6 @@ tumbled
 tumbling
 tumor
 tumors
-tumult
 tuna
 tundra
 tune
@@ -17192,7 +17194,6 @@ undisputed
 undisturbed
 undivided
 undo
-undocumented
 undone
 undoubtedly
 undue
@@ -17225,7 +17226,6 @@ unforeseen
 unfortunate
 unfounded
 unfriendly
-unfulfilled
 unhappiness
 unhappy
 unhealthy
@@ -17289,7 +17289,6 @@ unnatural
 unnecessary
 unnoticed
 unofficial
-unorthodox
 unpaid
 unparalleled
 unpleasant
@@ -17303,7 +17302,6 @@ unravel
 unreal
 unrealistic
 unreasonable
-unreasonably
 unrecognized
 unrelated
 unreliable
@@ -17409,6 +17407,7 @@ using
 usual
 usually
 utensils
+uterine
 utilitarian
 utilities
 utility
@@ -17695,6 +17694,7 @@ vocabulary
 vocal
 vocation
 vocational
+vodka
 vogue
 voice
 voiced
