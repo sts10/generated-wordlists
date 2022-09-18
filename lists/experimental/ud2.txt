@@ -15735,10 +15735,8 @@ grenades
 grenadier
 grenadiers
 grep
-greyer
 greyhound
 greyhounds
-greying
 greyish
 gribble
 grid
@@ -16129,6 +16127,7 @@ halibut
 halitosis
 hallelujah
 hallmark
+hallmarked
 hallmarks
 hallowing
 hallucinate
@@ -38369,6 +38368,7 @@ vampire
 vampires
 vandalism
 vandalized
+vandalizing
 vandals
 vanguard
 vanilla

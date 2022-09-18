@@ -369,11 +369,11 @@ Unique character prefix   : 18
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-slapping ogle pork simultaneously scruffier gloving 
-greying lonelier appliance corrugated dandelion spatial 
-dampening enfranchise teats literally unregenerate construing 
-blinks binders multitasking envoy scholarship chairpersons 
-daunting horrendous presage serializing quilt unaltered 
+bestows decadent descents impersonal supporters creep 
+chatted geranium renegades popularized affiliate pianists 
+queasily payee detectives scream forked sidetracked 
+escalated proctor swastikas discriminant sorcerers truncating 
+quenches stampeded discrediting authorizes croaked pierce 
 ```
 </details>
 
