@@ -351,29 +351,29 @@ films allegedly ranges solid rats arrival
 **[ud2.txt](lists/experimental/ud2.txt)** is a uniquely decodable list, based on Google Ngram data and [Niceware](https://github.com/diracdeltas/niceware) v. 4.0 list. It is free of some common homophones and British spellings of certain words. It was made uniquely decodable [via a process I created](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html) and thus I mark it as **EXPERIMENTAL**. Use with caution.
 ```text
 List length               : 40000 words
-Mean word length          : 8.64 characters
-Length of shortest word   : 3 characters (ago)
+Mean word length          : 8.56 characters
+Length of shortest word   : 3 characters (add)
 Length of longest word    : 18 characters (transubstantiation)
 Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : true
 Entropy per word          : 15.288 bits
-Efficiency per character  : 1.769 bits
+Efficiency per character  : 1.787 bits
 Assumed entropy per char  : 5.096 bits
 Above brute force line?   : false
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 8.420
+Mean edit distance        : 8.375
 Longest shared prefix     : 17
 Unique character prefix   : 18
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-bestows decadent descents impersonal supporters creep 
-chatted geranium renegades popularized affiliate pianists 
-queasily payee detectives scream forked sidetracked 
-escalated proctor swastikas discriminant sorcerers truncating 
-quenches stampeded discrediting authorizes croaked pierce 
+militant encryption ligature watchmaker instituting pectoral 
+heartless soapbox narrowly restate fireflies occupants 
+cornflakes violation bugler leaven performing overexposed 
+pecan enlargements fulfils accrues wreaths pulpit 
+expounds sundaes brisker husk inheritor hogan 
 ```
 </details>
 
