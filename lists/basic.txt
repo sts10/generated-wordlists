@@ -7341,7 +7341,6 @@ gigantic
 giggled
 gilded
 gill
-gilt
 gin
 ginger
 girdle
@@ -14145,6 +14144,7 @@ salt
 salted
 salts
 salty
+salutary
 salute
 salvage
 salvation
