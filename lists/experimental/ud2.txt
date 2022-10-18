@@ -15,7 +15,6 @@ abbess
 abbey
 abbeys
 abbot
-abbr
 abbrev
 abbreviate
 abbreviated
@@ -28,6 +27,7 @@ abdication
 abdomen
 abdomens
 abdominal
+abduct
 abducted
 abducting
 abduction
@@ -80,7 +80,9 @@ aborting
 abortionist
 abortionists
 abound
+abounded
 abounding
+abounds
 above
 abraded
 abrasion
@@ -273,7 +275,6 @@ accrue
 accrued
 accrues
 accruing
-acct
 acculturation
 accumulate
 accumulated
@@ -457,6 +458,7 @@ adjacent
 adjectival
 adjective
 adjectives
+adjoin
 adjoined
 adjoining
 adjoins
@@ -3162,7 +3164,6 @@ berth
 berthed
 berthing
 berths
-beryl
 beryllium
 beseech
 beseeched
@@ -5929,7 +5930,6 @@ circumvents
 circus
 circuses
 cirrhosis
-cis
 cistern
 cisterns
 citadel
@@ -20146,7 +20146,6 @@ knotted
 knottier
 knottiest
 knotting
-knotty
 know
 knowledgeable
 knowledgeably
@@ -23275,6 +23274,7 @@ nationwide
 naturalism
 naturalize
 naughtiest
+naughty
 nauseam
 nauseate
 nautical

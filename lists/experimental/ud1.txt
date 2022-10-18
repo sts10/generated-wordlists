@@ -2759,7 +2759,6 @@ circumstantial
 circumvent
 circus
 cirrhosis
-cis
 citadel
 citations
 cites
@@ -14901,6 +14900,7 @@ spying
 squad
 squadron
 squadrons
+squads
 square
 squared
 squarely
