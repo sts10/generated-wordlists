@@ -8067,7 +8067,6 @@ hypotheses
 hypothesis
 hypothesized
 hypothetical
-hysteresis
 hysteria
 hysterical
 iceberg
@@ -16747,6 +16746,7 @@ unsettled
 unsettling
 unsigned
 unskilled
+unsolved
 unspeakable
 unspecified
 unspoken

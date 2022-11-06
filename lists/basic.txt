@@ -2812,7 +2812,6 @@ circumstance
 circumvent
 circus
 cirrhosis
-cis
 citadel
 citation
 citations
@@ -8231,7 +8230,6 @@ hypotheses
 hypothesis
 hypothesized
 hypothetical
-hysteresis
 hysteria
 hysterical
 ice
@@ -10756,6 +10754,7 @@ murderers
 murdering
 murderous
 murders
+murky
 murmur
 murmured
 muscle
@@ -11636,6 +11635,7 @@ periodic
 periodical
 periodically
 periodicals
+periodicity
 periodontal
 periods
 peripheral

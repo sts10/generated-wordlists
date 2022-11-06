@@ -9751,6 +9751,7 @@ devices
 deviling
 devilish
 devilishly
+devilry
 devils
 devious
 deviousness
@@ -17531,7 +17532,6 @@ hypothetical
 hypothetically
 hysterectomies
 hysterectomy
-hysteresis
 hysteria
 hysteric
 hysterical
