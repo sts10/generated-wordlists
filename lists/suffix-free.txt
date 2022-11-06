@@ -2616,7 +2616,6 @@ circumstantial
 circumvent
 circus
 cirrhosis
-cis
 citadel
 citations
 cites
@@ -2679,6 +2678,7 @@ cleaners
 cleaning
 cleanliness
 cleanse
+cleansed
 cleansing
 cleanup
 clearance
@@ -7697,7 +7697,6 @@ hypotheses
 hypothesis
 hypothesized
 hypothetical
-hysteresis
 hysteria
 hysterical
 iceberg
@@ -9133,6 +9132,7 @@ loans
 loaves
 lobby
 lobbying
+lobbyists
 lobes
 lobster
 local

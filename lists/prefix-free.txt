@@ -2232,7 +2232,6 @@ circumstantial
 circumvent
 circus
 cirrhosis
-cis
 citadel
 citations
 cited
@@ -5823,7 +5822,6 @@ gigantic
 giggled
 gilded
 gills
-gilt
 ginger
 girdle
 girlfriend
@@ -6531,7 +6529,6 @@ hypothesis
 hypothesized
 hypothetical
 hysterectomy
-hysteresis
 hysteria
 hysterical
 iceberg
