@@ -51,7 +51,7 @@ sharks delusions immaculate clearing reproduction worry
 </details>
 
 <details>
-<summary><h3>1Password Replacement Word List</h3></summary>
+<summary><h3>Proposed New 1Password Word List</h3></summary>
 
 **[1password-replacement.txt](lists/1password-replacement/1password-replacement.txt)**: A suggested replacement for [1Password](https://1password.com/)'s word list, based on common words in Google Ngram data. It has the same minimum and maximum word length as [the list 1Password was using in 2021](https://1password.com/txt/agwordlist.txt), plus adds 32 extra words. You can view lists of the words I added and removed from the 2021 1Password list in `lists/1password-replacement/` directory. See [the list's own README for more information](lists/1password-replacement/readme.markdown) on this list.
 ```text
@@ -83,7 +83,7 @@ dislike cling fronting regard black drama
 </details>
 
 <details>
-<summary><h3>Diceware: A new list for using with diceware.</h3></summary>
+<summary><h3>Diceware: A new list for using with diceware</h3></summary>
 
 **[diceware.txt](lists/diceware.txt)**: A new list for using with diceware. Like [the EFF long list](https://www.eff.org/dice), it is free of prefix words, though it has words longer than 9 characters, unlike the EFF long list. The version in this repo has the corresponding dice rolls preceding each word, followed by a tab. The EFF has [instructions for how to use dice and lists like this one to generate passphrases](https://www.eff.org/dice).
 ```text
@@ -150,7 +150,7 @@ strings simulation oriental poem imminent foliage
 </details>
 
 <details>
-<summary><h3>Prefix Free: A long list free of prefix words.</h3></summary>
+<summary><h3>Prefix Free: A 14k list free of prefix words</h3></summary>
 
 **[prefix-free.txt](lists/prefix-free.txt)** is a long list free of prefix words.
 ```text
@@ -250,39 +250,39 @@ glucose ithaca baptized obesity superego aircraft
 <details>
 <summary><h3>Wikilist: A word list based on word frequency from Wikipedia</h3></summary>
 
-**[wikilist.txt](lists/wikilist.txt)** is based on [word frequency from English-language Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/blob/master/results/enwiki-20190320-words-frequency.txt) rather than Google Ngram data. (Thanks to [Aaron Toponce](https://fosstodon.org/@atoponce) for pointing me to this list.)
+**[wikilist.txt](lists/wikilist.txt)** is based on [word frequency from English-language Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/) rather than Google Ngram data. (Thanks to [Aaron Toponce](https://fosstodon.org/@atoponce) for pointing me to this list.)
 ```text
 List length               : 17576 words
-Mean word length          : 7.32 characters
+Mean word length          : 7.31 characters
 Length of shortest word   : 3 characters (ace)
 Length of longest word    : 11 characters (worshippers)
 Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : false
 Entropy per word          : 14.101 bits
-Efficiency per character  : 1.926 bits
+Efficiency per character  : 1.928 bits
 Assumed entropy per char  : 4.700 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.260
+Mean edit distance        : 7.252
 Longest shared prefix     : 10
 Unique character prefix   : 11
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-booster say emigrating boxers attributes standout 
-intelligent revived solvents crests whalers researching 
-pertinent lap density garment asbestos confusing 
-eyes repressive dismissed suffixes pity miniseries 
-tighter taco density ethos downs leadership 
+hermitage however lid prematurely tribute tied 
+snack womb connector income instruct estuaries 
+central buildup pull middle malignant art 
+tinged dubbed ubiquitous invasion premieres electrified 
+mice review senses generals mixture wettest 
 ```
 </details>
 
 ### Experimental lists
 
 <details>
-<summary><h3>UD1: A long, uniquely decodable word list</h3></summary>
+<summary><h3>UD1: A 17k-word, uniquely decodable word list</h3></summary>
 
 **[ud1.txt](lists/experimental/ud1.txt)** is a long, uniquely decodable list, based on Google Ngram data. It was made uniquely decodable [via a process I created](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html) and thus I mark it as **EXPERIMENTAL**. Use with caution.
 ```text
@@ -377,11 +377,45 @@ expounds sundaes brisker husk inheritor hogan
 ```
 </details>
 
+<details>
+<summary><h3>UDWiki: A uniquely-decodable list from Wikipedia word frequency data</h3></summary>
+
+**[ud_wikilist.txt](lists/experimental/ud_wikilist.txt)** is a uniquely decodable list, based on [Wikipedia word frequency data](https://github.com/IlyaSemenov/wikipedia-word-frequency/). It was made uniquely decodable [via a process I created](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html) and thus I mark it as **EXPERIMENTAL**. Use with caution.
+```text
+List length               : 17576 words
+Mean word length          : 7.93 characters
+Length of shortest word   : 3 characters (add)
+Length of longest word    : 15 characters (vulnerabilities)
+Free of prefix words?     : false
+Free of suffix words?     : false
+Uniquely decodable?       : true
+Entropy per word          : 14.101 bits
+Efficiency per character  : 1.777 bits
+Assumed entropy per char  : 4.700 bits
+Above brute force line?   : true
+Above Shannon line?       : false
+Shortest edit distance    : 1
+Mean edit distance        : 7.864
+Longest shared prefix     : 14
+Unique character prefix   : 15
+
+Pseudorandomly generated sample passphrases
+-------------------------------------------
+knights landscapes potable protect infect backstage 
+inefficient clues removable anticipating coarse autoimmune 
+generators roles cassettes tub therapeutics canonized 
+anatomical fraternities jeep inclined plasma photos 
+foods dossier cutters symphonies southward shrunk
+```
+</details>
+
 ## Methodology
 
-For the lists based on [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html), I [scraped](https://github.com/sts10/common_word_list_maker) the 2012 dataset and made a list of the most frequently appearing 100,000 words between 1975 and 2012. Then, using [a separate tool I wrote](https://github.com/sts10/tidy), I cut this list down into various sizes to create the word lists included in this repo.
+For the lists based on [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html), I [scraped](https://github.com/sts10/common_word_list_maker) the 2012 dataset and made [a list of the most frequently appearing 100,000 words between 1975 and 2012](https://github.com/sts10/common_word_list_maker/blob/main/word_list_raw.txt). 
 
-Other lists in this repo use this study of [word frequency on Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/) as an initial input/corpus. 
+Other lists in this repo use this [word frequency data from Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/) as an initial input/corpus. 
+
+In all cases, I then used [a separate tool I wrote called Tidy](https://github.com/sts10/tidy) to cut these long lists down into various sizes to create the word lists included in this repo.
 
 ### Assumed use-cases of passphrases 
 
