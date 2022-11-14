@@ -1,6 +1,6 @@
 # Generated word lists
 
-A repository for word lists I've generated. Some lists are based on Google Ngram data, while others are based on [word frequency data from (English) Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/blob/master/results/enwiki-20190320-words-frequency.txt).
+A repository for word lists I've generated. Some lists are based on [Google Ngram data](https://github.com/sts10/common_word_list_maker), while others are based on [word frequency data from (English) Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/).
 
 ## About the word lists
 
