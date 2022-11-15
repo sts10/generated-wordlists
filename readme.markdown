@@ -462,7 +462,7 @@ I'll also note that this issue is similar to the risk of getting the same exact 
 
 While I've attempted to remove offensive words from these lists, since I haven't checked them by hand there may be some left. Apologies. Feel free to create an Issue or Pull Request removing offensive word(s).
 
-Also, I make no guarantees about the security of passphrases using these lists. Please check their safety yourself before using in situations that require secure passphrases.
+Also, I make no guarantees about the security of passphrases generated from these lists, nor the promised amount of entropy, which is theoretical. Please check their safety yourself before using in situations that require secure passphrases. And the method of choosing words from these lists must be sufficiently random to ensure promised security.
 
 ## On licensing/usage
 
