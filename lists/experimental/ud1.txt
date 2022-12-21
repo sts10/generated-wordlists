@@ -1497,6 +1497,7 @@ beacon
 bead
 beads
 beak
+beaker
 beam
 beamed
 beaming
@@ -1518,7 +1519,6 @@ beauties
 beautiful
 beautifully
 beauty
-beaux
 beaver
 became
 beck
@@ -3982,7 +3982,6 @@ crossroads
 crouch
 crouched
 crowd
-crowding
 crowds
 crown
 crowned
@@ -8711,7 +8710,6 @@ instruments
 insufficiency
 insufficient
 insufficiently
-insular
 insulated
 insulating
 insulation
@@ -10908,6 +10906,7 @@ overcoat
 overcome
 overcoming
 overcrowded
+overcrowding
 overdose
 overdue
 overflow
@@ -11292,6 +11291,7 @@ penetration
 penguin
 penicillin
 peninsula
+peninsular
 penitentiary
 penned
 pennies

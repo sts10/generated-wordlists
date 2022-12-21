@@ -1502,7 +1502,6 @@ beau
 beautiful
 beautifully
 beauty
-beaux
 beaver
 beavers
 became
@@ -11279,6 +11278,7 @@ pediatric
 pediatrics
 pedigree
 pediment
+peek
 peel
 peer
 peerage
