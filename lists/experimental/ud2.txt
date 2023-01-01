@@ -9751,7 +9751,6 @@ devices
 deviling
 devilish
 devilishly
-devilry
 devils
 devious
 deviousness
@@ -19855,6 +19854,7 @@ juggled
 juggler
 jugglers
 juggling
+jugs
 jugular
 juice
 juices
