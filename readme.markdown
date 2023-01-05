@@ -474,7 +474,7 @@ I'll note here that at least one list in this project was derived from [this Wik
 
 ## Related projects
 
-As a proof-of-concept, I made some [word lists optimized for inputting on smart TVs](https://github.com/sts10/remote-words).
+In a separate project, I made some [word lists optimized for inputting into smart TVs](https://github.com/sts10/remote-words).
 
 ## Requests? Suggestions? 
 
