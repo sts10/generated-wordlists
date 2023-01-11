@@ -444,7 +444,7 @@ When I [posted one of my lists to 1Password's subreddit](https://www.reddit.com/
 
 If a word in a passphrase is very uncommon, it may even be auto-corrected by some applications you might pasted/type it in to. `quean` may be a good example of this. (Granted, if an interface has auto-correct working, it likely is NOT a place a secure passphrase should be entered, but that's a different issue.)
 
-## Prefix codes, suffix codes, and uniquely decodable codes
+## What does it mean if a list is "uniquely decodable"?
 
 If a word list is "uniquely decodable" that means that words from the list can be combined with a delimiter (e.g. "unwovenpreviousslanderpopcorngreedilyepiphany").
 
