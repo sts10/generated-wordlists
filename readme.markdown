@@ -444,6 +444,16 @@ When I [posted one of my lists to 1Password's subreddit](https://www.reddit.com/
 
 If a word in a passphrase is very uncommon, it may even be auto-corrected by some applications you might pasted/type it in to. `quean` may be a good example of this. (Granted, if an interface has auto-correct working, it likely is NOT a place a secure passphrase should be entered, but that's a different issue.)
 
+## Prefix codes, suffix codes, and uniquely decodable codes
+
+If a word list is "uniquely decodable" that means that words from the list can be combined with a delimiter (e.g. "unwovenpreviousslanderpopcorngreedilyepiphany").
+
+As a brief example, if a list has "boy", "hood", and "boyhood" on it, users who specified they wanted two words worth of randomness (entropy) might end up with "boyhood", which an attacker guessing single words would try. Removing the word "boy", which makes the remaining list uniquely decodable, prevents this possibility from occurring. 
+
+Some of the lists in this repository are uniquely decodable, while others are not. The lists marked "experiemtnal" are so marked because I used a method adapted from [the Sardinas–Patterson algorithm](https://en.wikipedia.org/wiki/Sardinas%E2%80%93Patterson_algorithm) to make them uniquely decodable that I have named "Schlinkert pruning." You can learn more about uniquely decodable codes and Schlinkert pruning from [this blog post](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html). Use at your own risk!
+
+Other lists in this repo were made uniquely decodable by more established methods, namely removing all [prefix words](https://en.wikipedia.org/wiki/Prefix_code) or removing all suffix words.
+
 ### The similar-words problem
 
 Some of these lists contains very similar words, such as "tabs" and "tab" and/or "suggested", "suggesting", and "suggestions". I don't think this affects entropy-per-word calculations. 
