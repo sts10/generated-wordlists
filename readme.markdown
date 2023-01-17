@@ -450,7 +450,7 @@ If a word list is "uniquely decodable" that means that words from the list can b
 
 As a brief example, if a list has "boy", "hood", and "boyhood" on it, users who specified they wanted two words worth of randomness (entropy) might end up with "boyhood", which an attacker guessing single words would try. Removing the word "boy", which makes the remaining list uniquely decodable, prevents this possibility from occurring. 
 
-Some of the lists in this repository are uniquely decodable, while others are not. The lists marked "experiemtnal" are so marked because I used a method adapted from [the Sardinas–Patterson algorithm](https://en.wikipedia.org/wiki/Sardinas%E2%80%93Patterson_algorithm) to make them uniquely decodable that I have named "Schlinkert pruning." You can learn more about uniquely decodable codes and Schlinkert pruning from [this blog post](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html). Use at your own risk!
+Some of the lists in this repository are uniquely decodable, while others are not. The lists marked "experimental" are so marked because I used a method adapted from [the Sardinas–Patterson algorithm](https://en.wikipedia.org/wiki/Sardinas%E2%80%93Patterson_algorithm) to make them uniquely decodable that I have named "Schlinkert pruning." You can learn more about uniquely decodable codes and Schlinkert pruning from [this blog post](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html). Use at your own risk!
 
 Other lists in this repo were made uniquely decodable by more established methods, namely removing all [prefix words](https://en.wikipedia.org/wiki/Prefix_code) or removing all suffix words.
 
