@@ -3400,6 +3400,7 @@ bison
 bistro
 bites
 bitmap
+bitterer
 bitterest
 bitterly
 bitterness
@@ -16232,10 +16233,6 @@ hackneyed
 hackneying
 hacksaw
 haddock
-haemoglobin
-haemophilia
-haemorrhages
-haemorrhoids
 haggard
 haggle
 haggling
@@ -19106,6 +19103,7 @@ interjects
 interlace
 interlaced
 interlacing
+interlard
 interlarding
 interleave
 interleaved
@@ -37636,6 +37634,7 @@ ungrudging
 unguarded
 ungulate
 ungulates
+unhand
 unhanding
 unhappier
 unhappiest
@@ -39480,6 +39479,7 @@ winnings
 winnowed
 winnowing
 winsomely
+winsomer
 wintered
 wintergreen
 winterier
