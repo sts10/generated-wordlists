@@ -7062,6 +7062,7 @@ furnishings
 furniture
 furs
 further
+furthering
 furthermore
 fury
 fuss
@@ -7549,7 +7550,6 @@ habitual
 habitually
 hacienda
 hacker
-haemorrhage
 haggard
 hail
 hailed
@@ -12029,6 +12029,7 @@ preserved
 preserves
 preserving
 preset
+preside
 presided
 presidency
 president
@@ -13260,7 +13261,6 @@ resentment
 reservations
 reservoir
 reservoirs
-reside
 residence
 residences
 resides

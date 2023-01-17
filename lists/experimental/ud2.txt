@@ -9751,6 +9751,7 @@ devices
 deviling
 devilish
 devilishly
+devilry
 devils
 devious
 deviousness
@@ -16233,7 +16234,6 @@ hacksaw
 haddock
 haemoglobin
 haemophilia
-haemorrhage
 haemorrhages
 haemorrhoids
 haggard
