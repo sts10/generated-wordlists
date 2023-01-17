@@ -155,7 +155,7 @@ strings simulation oriental poem imminent foliage
 
 **[prefix-free.txt](lists/prefix-free.txt)** is a long list free of prefix words.
 ```text
-List length               : 14494 words
+List length               : 14489 words
 Mean word length          : 8.22 characters
 Length of shortest word   : 3 characters (ads)
 Length of longest word    : 15 characters (vulnerabilities)
@@ -163,7 +163,7 @@ Free of prefix words?     : true
 Free of suffix words?     : false
 Uniquely decodable?       : true
 Entropy per word          : 13.823 bits
-Efficiency per character  : 1.682 bits
+Efficiency per character  : 1.681 bits
 Assumed entropy per char  : 4.608 bits
 Above brute force line?   : true
 Above Shannon line?       : false
@@ -174,11 +174,11 @@ Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-acculturation introductions canine cheers mace simplifies 
-genetics satire enthusiasm mundane bending horrors 
-habitats adapter commentaries resourceful trays shrinkage 
-during mindful precipitation demographics compounds annihilation 
-stringent proportionality literary everlasting downhill golden 
+occupies loops labyrinth pew builders morality 
+brilliantly locales tidings prodigious envious stamina 
+violence packaged fractured whispers formaldehyde acclaimed 
+disappointed born certify invasions percussion welsh 
+banquet genres unauthorized dying conducive intensified 
 ```
 </details>
 
