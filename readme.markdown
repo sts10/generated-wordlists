@@ -11,8 +11,8 @@ Detailed information about most of the lists in this repository is available bel
 * If you just want **a plain, long word list**, I'd point you to [basic.txt](lists/basic.txt) or [the 1Password replacement list](lists/1password-replacement/readme.markdown) I made.
 * If you want to **[use dice](https://www.eff.org/dice) to create your passphrases**, I'd suggest [diceware-suffix-free.txt](lists/diceware-suffix-free.txt).
 * If you're **feeling adventurous**, I'd point you to [UD1](lists/experimental/ud1.txt) or [UDWiki](lists/experimental/ud_wikilist.txt); or if you're going to be using with dice, [diceware-ud](lists/experimental/diceware-ud.txt).
-* If you want the very long list, [UD2](lists/experimental/ud2.txt) is 40,000 words, which gives 15.29 bits of entropy per word.
-* If you're looking to make passphrases that you'll frequently be inputting on smart TVs and/or similar devices, I'd point you to [another repo of mine](https://github.com/sts10/remote-words).
+* If you want the **very long** list, [UD2](lists/experimental/ud2.txt) is 40,000 words, which gives 15.29 bits of entropy per word.
+* If you're looking to make passphrases that you'll frequently be inputting on **smart TVs** and/or similar devices, I'd point you to [another repo of mine](https://github.com/sts10/remote-words).
 
 <!--
 |                       | length | Uniquely decodable? | Diceware compatible? |
