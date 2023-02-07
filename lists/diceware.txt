@@ -286,7 +286,7 @@
 12264	amino
 12265	ammonia
 12266	ammunition
-12311	amongst
+12311	among
 12312	amorphous
 12313	amounted
 12314	amounts
