@@ -13622,6 +13622,7 @@ fetching
 feted
 fetishes
 fetishism
+fetishist
 fetishistic
 fettering
 fetters
@@ -20164,7 +20165,6 @@ krypton
 kudos
 label
 labeling
-labelling
 labels
 labium
 laboratories
@@ -23447,6 +23447,7 @@ nonphysical
 nonplused
 nonplusing
 nonplussed
+nonplussing
 nonpolitical
 nonproductive
 nonprofessional
@@ -27139,7 +27140,6 @@ programing
 programmable
 programmer
 programmers
-programmes
 progress
 progressed
 progresses
@@ -30685,6 +30685,7 @@ scary
 scathing
 scathingly
 scatological
+scatted
 scatter
 scatterbrained
 scattered
@@ -38220,7 +38221,6 @@ urination
 urologists
 urology
 usability
-useable
 useful
 usefully
 usefulness

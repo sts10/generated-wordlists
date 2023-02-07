@@ -7682,6 +7682,7 @@ headlong
 headmaster
 headquarters
 heads
+headway
 heady
 heal
 healed
@@ -7740,6 +7741,7 @@ hello
 helm
 helmet
 helmets
+helms
 help
 helped
 helper
@@ -9224,8 +9226,6 @@ knuckles
 label
 labeled
 labeling
-labelled
-labelling
 labels
 labor
 laboratories
@@ -12216,7 +12216,6 @@ programmable
 programmed
 programmer
 programmers
-programmes
 programming
 programs
 progress
@@ -14667,6 +14666,7 @@ soothe
 soothing
 sophisticated
 sophistication
+sophomore
 soprano
 sorcery
 sordid

@@ -9308,8 +9308,6 @@ lab
 label
 labeled
 labeling
-labelled
-labelling
 labels
 labor
 laboratories
@@ -12554,7 +12552,6 @@ programmable
 programmed
 programmer
 programmers
-programmes
 programming
 programs
 progress
@@ -12818,6 +12815,7 @@ purchasing
 pure
 purely
 purest
+purgatory
 purge
 purged
 purification
@@ -14208,6 +14206,7 @@ saving
 savings
 savior
 saviour
+savvy
 saw
 sawyer
 say
@@ -17289,6 +17288,7 @@ unnatural
 unnecessary
 unnoticed
 unofficial
+unorthodox
 unpaid
 unparalleled
 unpleasant

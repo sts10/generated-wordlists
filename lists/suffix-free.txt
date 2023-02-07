@@ -1957,6 +1957,7 @@ brothers
 brought
 brown
 browning
+browns
 browse
 browser
 browsers
@@ -8814,8 +8815,6 @@ knuckles
 label
 labeled
 labeling
-labelled
-labelling
 labels
 labor
 laboratories
@@ -11643,7 +11642,6 @@ programmable
 programmed
 programmer
 programmers
-programmes
 programming
 programs
 progress
@@ -13794,6 +13792,7 @@ sliced
 slices
 slick
 slid
+slider
 slides
 sliding
 slight
@@ -14186,6 +14185,7 @@ spur
 spurious
 spurred
 spurs
+sputum
 spy
 spying
 squad

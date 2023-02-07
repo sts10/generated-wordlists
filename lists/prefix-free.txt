@@ -7444,8 +7444,6 @@ knows
 knuckles
 labeled
 labeling
-labelled
-labelling
 labels
 laboratories
 laboratory
@@ -9998,7 +9996,6 @@ prognostic
 programmable
 programmed
 programmers
-programmes
 programming
 programs
 progressed

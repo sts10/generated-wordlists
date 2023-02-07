@@ -2620,6 +2620,7 @@ cheerful
 cheering
 cheers
 cheese
+cheeses
 cheetah
 chef
 chefs
@@ -4587,6 +4588,7 @@ disguise
 disguised
 disgust
 disgusted
+disgusting
 dish
 dishes
 disk
@@ -6328,6 +6330,7 @@ flowing
 flown
 flows
 flu
+fluency
 fluent
 fluid
 fluids
@@ -8628,8 +8631,6 @@ lab
 label
 labeled
 labeling
-labelled
-labelling
 labels
 labor
 laboratory
@@ -12033,7 +12034,6 @@ program
 programmed
 programmer
 programmers
-programmes
 programming
 programs
 progress

@@ -439,6 +439,7 @@ akin
 alarm
 alarmed
 alarms
+alas
 albatross
 albeit
 album
@@ -8958,8 +8959,6 @@ kosher
 label
 labeled
 labeling
-labelled
-labelling
 labels
 labor
 laboratories
@@ -11901,6 +11900,7 @@ precipitation
 precise
 precisely
 precision
+precluded
 precursor
 precursors
 predated
@@ -12160,7 +12160,6 @@ programmable
 programmed
 programmer
 programmers
-programmes
 programming
 programs
 progress
@@ -13452,6 +13451,7 @@ reworking
 rewrite
 rewriting
 rewritten
+rewrote
 rhapsody
 rhetoric
 rhetorical
@@ -14931,6 +14931,7 @@ spruce
 sprung
 spun
 spur
+spurious
 spurred
 spurs
 spy
@@ -17513,7 +17514,6 @@ wrong
 wrongdoing
 wrongful
 wrongly
-wrote
 wrought
 yacht
 yachts
