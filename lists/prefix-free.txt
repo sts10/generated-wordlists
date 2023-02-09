@@ -1477,7 +1477,6 @@ blurred
 blurring
 blurted
 blushed
-blvd
 boarded
 boarding
 boards
@@ -4104,7 +4103,7 @@ documented
 documenting
 documents
 dodge
-does
+doe
 dogmatic
 dogs
 doings

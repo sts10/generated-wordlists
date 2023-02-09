@@ -1792,7 +1792,6 @@ bluish
 blunt
 blur
 blurred
-blvd
 boa
 boar
 boarded
@@ -5022,7 +5021,6 @@ dodge
 dodger
 dodgers
 doe
-does
 dogma
 dole
 doll
@@ -6766,6 +6764,7 @@ franchise
 franchises
 frank
 frankfurter
+frankly
 franks
 frantic
 fraternal
@@ -7846,6 +7845,7 @@ humankind
 humanoid
 humans
 humble
+humerus
 humid
 humidity
 humiliated

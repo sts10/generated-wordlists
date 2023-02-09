@@ -2158,7 +2158,7 @@
 24664	documented
 24665	documents
 24666	dodge
-25111	does
+25111	doe
 25112	dogs
 25113	doing
 25114	dollars

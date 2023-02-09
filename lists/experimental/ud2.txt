@@ -2321,6 +2321,11 @@ avarice
 avaricious
 avatar
 avdp
+avenge
+avenged
+avenger
+avengers
+avenging
 avenue
 avenues
 average
@@ -3400,7 +3405,6 @@ bison
 bistro
 bites
 bitmap
-bitterer
 bitterest
 bitterly
 bitterness
@@ -3497,7 +3501,6 @@ blazed
 blazers
 blazes
 blazing
-bldg
 bleach
 bleached
 bleacher
@@ -3718,7 +3721,6 @@ bluster
 blustered
 blustering
 blustery
-blvd
 boa
 boar
 boarded
@@ -9752,7 +9754,6 @@ devices
 deviling
 devilish
 devilishly
-devilry
 devils
 devious
 deviousness
@@ -13622,7 +13623,6 @@ fetching
 feted
 fetishes
 fetishism
-fetishist
 fetishistic
 fettering
 fetters
@@ -16484,6 +16484,7 @@ harvester
 harvesters
 harvesting
 harvests
+has
 hasheesh
 hashes
 hashish
@@ -19104,7 +19105,6 @@ interjects
 interlace
 interlaced
 interlacing
-interlard
 interlarding
 interleave
 interleaved
@@ -22405,7 +22405,6 @@ misbehave
 misbehaved
 misbehaving
 misbehavior
-misc
 miscalculate
 miscalculated
 miscalculation
@@ -23311,7 +23310,6 @@ negligently
 negligible
 negligibly
 negotiation
-neighborhood
 neighboring
 neighborly
 neighed
@@ -23447,7 +23445,6 @@ nonphysical
 nonplused
 nonplusing
 nonplussed
-nonplussing
 nonpolitical
 nonproductive
 nonprofessional
@@ -27981,6 +27978,7 @@ rabbinical
 rabbis
 rabbiting
 rabbits
+rabble
 rabid
 rabies
 raccoon
@@ -28070,7 +28068,10 @@ rakishly
 rallied
 rallies
 rallying
+rambled
+rambler
 ramblers
+rambling
 rambunctious
 ramification
 ramifications
@@ -30177,10 +30178,12 @@ royally
 royals
 royalties
 royalty
+rubber
 rubberize
 rubberized
 rubberneck
 rubbernecking
+rubbers
 rubbish
 rubble
 rubdown
@@ -30685,7 +30688,6 @@ scary
 scathing
 scathingly
 scatological
-scatted
 scatter
 scatterbrained
 scattered
@@ -37635,7 +37637,6 @@ ungrudging
 unguarded
 ungulate
 ungulates
-unhand
 unhanding
 unhappier
 unhappiest
@@ -39479,7 +39480,6 @@ winnings
 winnowed
 winnowing
 winsomely
-winsomer
 wintered
 wintergreen
 winterier

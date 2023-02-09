@@ -1805,7 +1805,6 @@ blurring
 blurted
 blush
 blushed
-blvd
 boar
 boarded
 boarding
@@ -2056,6 +2055,7 @@ brothers
 brought
 brown
 browning
+brownish
 browns
 browse
 browser
@@ -5134,7 +5134,6 @@ documenting
 documents
 dodge
 doe
-does
 dog
 dogma
 dogmatic
@@ -10221,7 +10220,6 @@ mirrored
 mirroring
 mirrors
 mirth
-misc
 miscarriage
 miscellaneous
 mischief
@@ -12641,6 +12639,7 @@ raisins
 rallied
 rallies
 rallying
+rambling
 ramifications
 ramp
 rampant
@@ -13536,6 +13535,7 @@ rods
 roe
 rogue
 roles
+rolls
 roman
 romance
 romances

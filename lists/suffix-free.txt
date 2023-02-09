@@ -201,6 +201,7 @@ activist
 activists
 activities
 actress
+actresses
 actuality
 actualization
 actually
@@ -1714,7 +1715,6 @@ blurring
 blurted
 blush
 blushed
-blvd
 boar
 boarded
 boarding
@@ -4914,7 +4914,6 @@ documenting
 documents
 dodge
 doe
-does
 dog
 dogma
 dogmatic
@@ -6360,6 +6359,7 @@ flaws
 flax
 flea
 fledged
+fledgling
 flee
 fleeing
 fleet
@@ -9755,7 +9755,6 @@ mirror
 mirrored
 mirrors
 mirth
-misc
 miscarriage
 miscellaneous
 mischief
@@ -11232,7 +11231,6 @@ populist
 populous
 porcelain
 porch
-pore
 pork
 porosity
 porous
@@ -14156,6 +14154,7 @@ spontaneity
 spontaneous
 spontaneously
 sporadic
+spore
 spores
 spot
 spotlight
@@ -15764,6 +15763,7 @@ uncovering
 undated
 undefined
 undeniable
+undeniably
 undercover
 undercut
 underdeveloped

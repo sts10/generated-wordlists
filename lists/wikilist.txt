@@ -1673,6 +1673,7 @@ blanket
 blankets
 blasphemy
 blast
+blasters
 blasting
 blasts
 blaze
@@ -1733,7 +1734,6 @@ bluish
 blunt
 blur
 blurred
-blvd
 boa
 boar
 board
@@ -4748,7 +4748,6 @@ dodge
 dodger
 dodgers
 doe
-does
 dog
 dogma
 dogs
@@ -7508,6 +7507,7 @@ hints
 hip
 hipped
 hippie
+hippo
 hips
 hire
 hired
