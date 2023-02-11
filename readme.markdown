@@ -42,17 +42,17 @@ Assumed entropy per char  : 4.719 bits
 Above brute force line?   : false
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.500
+Mean edit distance        : 7.501
 Longest shared prefix     : 11
 Unique character prefix   : 12
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-imitation predicting vacuum regards unresponsive opportunity 
-assumed profession tangible pondered sprinkle equipped 
-hear brokerage replica challenges argument basal 
-courageous facet fit editorial applications yellow 
-sharks delusions immaculate clearing reproduction worry 
+shapes doped ventures damp scholars curves 
+flanks carnal muster dialogues casualties crib 
+sandwiches accepting pronoun blasted microcosm madame 
+diminution rotate propped entitled familiar sessions 
+receive prevailed refused rotating smokers ensures 
 ```
 </details>
 
@@ -80,11 +80,11 @@ Unique character prefix   : 8
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-state perfumes televise boast driver moot 
-slope caress flavors ravines cutbacks user 
-stimulus furlough inherent codes concept judicial 
-damper domes confirm workmen littered aspect 
-dislike cling fronting regard black drama
+windmill sizable rinsed bran marshy despot 
+alloys vexation wilder soured join outlets 
+byte puritans colonize shackled virtual frisk 
+centrist morality knitting meeting reigns guest 
+dulled masts cohesive vending puzzles bungalow 
 ```
 </details>
 
@@ -106,17 +106,17 @@ Assumed entropy per char  : 4.308 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.430
+Mean edit distance        : 7.431
 Longest shared prefix     : 10
 Unique character prefix   : 11
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-bulletin genetics doors persuasion photography initiation 
-oxford trustees elaboration sheath demanding sized 
-blues prostate multiple exodus satellites highest 
-lowering additive pilgrimage painfully rivalry machinery 
-pregnant conversely variety metro fond feast 
+flown annotated issues operative referred dismissal 
+electricity temporal diversified imitate single signs 
+toilet gown corrective trailer airport ventricular 
+periphery tensions duly lent alloys agony 
+mills instructors bodily compelling defects alienation 
 ```
 
 If you want a 7,776-word diceware list that is **not** uniquely decodable, there's [diceware-not-ud.txt](lists/diceware-not-ud.txt). Just be sure to use a character or space between words in your passphrases!
@@ -147,11 +147,11 @@ Unique character prefix   : 10
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-sentences fringe emerge black clinic output 
-streams sober motifs steal alpha mock 
-banks terminated selling captured bowl breach 
-ethics straw combines purity mechanical alongside 
-strings simulation oriental poem imminent foliage 
+fifth melancholy ounces vast slept separated 
+mobility games anonymous vertical ambitions autonomy 
+destined picking leave lawyers knights alarm 
+lifelong quietly chief diagonal leaf sadness 
+assessing jazz wishing fighting painter executing 
 ```
 </details>
 
@@ -160,16 +160,16 @@ strings simulation oriental poem imminent foliage
 
 **[prefix-free.txt](lists/prefix-free.txt)** is a long list free of prefix words.
 ```text
-List length               : 14489 words
+List length               : 14485 words
 Mean word length          : 8.22 characters
 Length of shortest word   : 3 characters (ads)
 Length of longest word    : 15 characters (vulnerabilities)
 Free of prefix words?     : true
 Free of suffix words?     : false
 Uniquely decodable?       : true
-Entropy per word          : 13.823 bits
+Entropy per word          : 13.822 bits
 Efficiency per character  : 1.681 bits
-Assumed entropy per char  : 4.608 bits
+Assumed entropy per char  : 4.607 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
@@ -179,11 +179,11 @@ Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-occupies loops labyrinth pew builders morality 
-brilliantly locales tidings prodigious envious stamina 
-violence packaged fractured whispers formaldehyde acclaimed 
-disappointed born certify invasions percussion welsh 
-banquet genres unauthorized dying conducive intensified 
+stagnation controllers skepticism requesting interpreters axons 
+pollen mounds joined prevalent crust rewarded 
+raced vaccines televised refined affected clicked 
+drafts sedative reborn summarizing dissertation indeed 
+sausage wielded bookstores smeared excuses footwear 
 ```
 </details>
 
@@ -191,7 +191,7 @@ banquet genres unauthorized dying conducive intensified
 <summary><h3>Suffix Free: A long list free of suffix words</h3></summary>
 
 **[suffix-free.txt](lists/suffix-free.txt)** is a long list that is uniquely decodable (it is free of suffix words). I think this would be a good one to use as a wordlist for [the KeePassXC password manager](https://keepassxc.org/), however use at your own risk. A 7-word passphrase from this list provides about 98 bits of entropy, compared to the EFF long list (KeePassXC's default list), from which a 7-word passphrase provides about 90.5 bits.
-```text
+```
 List length               : 16750 words
 Mean word length          : 8.02 characters
 Length of shortest word   : 3 characters (add)
@@ -211,11 +211,11 @@ Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-pathological uncle mummy obliged sullen pupil 
-caregivers constrain chat unclean gentry differs 
-shrubs actress concomitant indictment fox swiftly 
-radon egalitarian trio discriminated princely closes 
-teamwork supplanted afar chauffeur strengthen doped 
+spaghetti aspirin teams roadside dominating moose 
+spirited incorrect renown hepatic excavated badly 
+phage homeland annoying programmer shivered primaries 
+duties intertwined modesty insurrection transistor refinements 
+deliverance extracting relieved austere imagine allegation 
 ```
 
 </details>
@@ -257,7 +257,7 @@ glucose ithaca baptized obesity superego aircraft
 <summary><h3>Wikilist: A word list based on word frequency from Wikipedia</h3></summary>
 
 **[wikilist.txt](lists/wikilist.txt)** is based on [word frequency from English-language Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/) rather than Google Ngram data. (Thanks to [Aaron Toponce](https://fosstodon.org/@atoponce) for pointing me to this list.)
-```text
+```
 List length               : 17576 words
 Mean word length          : 7.31 characters
 Length of shortest word   : 3 characters (ace)
@@ -277,11 +277,11 @@ Unique character prefix   : 11
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-hermitage however lid prematurely tribute tied 
-snack womb connector income instruct estuaries 
-central buildup pull middle malignant art 
-tinged dubbed ubiquitous invasion premieres electrified 
-mice review senses generals mixture wettest 
+coupe autograph thrust groves hermitage asserts 
+investor reputation contempt happy chaplain vans 
+exponential turbine epistle comparable equatorial communes 
+robust incoming justified mandate evicted quitting 
+encryption cheated enlistment associates closer experienced
 ```
 </details>
 
@@ -291,7 +291,7 @@ mice review senses generals mixture wettest
 <summary><h3>UD1: A 17k-word, uniquely decodable word list</h3></summary>
 
 **[ud1.txt](lists/experimental/ud1.txt)** is a long, uniquely decodable list, based on Google Ngram data. It was made uniquely decodable [via a process I created](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html) and thus I mark it as **EXPERIMENTAL**. Use with caution.
-```text
+```
 List length               : 17576 words
 Mean word length          : 8.00 characters
 Length of shortest word   : 3 characters (add)
@@ -305,17 +305,17 @@ Assumed entropy per char  : 4.700 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 7.932
+Mean edit distance        : 7.933
 Longest shared prefix     : 14
 Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-postmaster venerable enslavement wishes centralization supplements 
-cropped cleared accurately tint condominium queer 
-abuses unemployment flourish aversion fractures pastry 
-phosphorus grizzly latest canvas turmoil aborigines 
-resurgence explicit initiates lawn recipe terminals 
+platelets designation ministries theoretically revenge felony 
+risks landlord rotates brain shipment rafters 
+yellow gear contends dimensionless suspended uncertainties 
+delegations suspected enraged suite occasional circumference 
+obsessive assimilate localities rover cerebellum decks 
 ```
 </details>
 
@@ -323,7 +323,7 @@ resurgence explicit initiates lawn recipe terminals
 <summary><h3>UD Diceware: A diceware list that is uniquely decodable</h3></summary>
 
 **[diceware-ud.txt](lists/experimental/diceware-ud.txt)** is a uniquely decodable list for use with diceware. The words are based on Google Ngram data. It was made uniquely decodable [via a process I created](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html) and thus I mark it as **EXPERIMENTAL**. Use with caution.
-```text
+```
 List length               : 7776 words
 Mean word length          : 7.06 characters
 Length of shortest word   : 3 characters (add)
@@ -337,17 +337,17 @@ Assumed entropy per char  : 4.308 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 6.956
+Mean edit distance        : 6.957
 Longest shared prefix     : 9
 Unique character prefix   : 10
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-desires magic registers plaintiff pastor scripts 
-acres stiff smaller patron borders arid 
-herd saturation meet shaped hearings decide 
-dense pursuing sober stay sacrifices conceptual 
-films allegedly ranges solid rats arrival 
+toolbar stations injected matters reaches rock 
+office clean surface marines food overnight 
+lexical meet avoid decoration thanked paint 
+responding within doctoral shift security hardy 
+wolf washed protest sheer virtues splitting 
 ```
 </details>
 
@@ -355,7 +355,7 @@ films allegedly ranges solid rats arrival
 <summary><h3>UD2: A 40,000-word, uniquely decodable word list</h3></summary>
 
 **[ud2.txt](lists/experimental/ud2.txt)** is a uniquely decodable list, based on Google Ngram data and [Niceware](https://github.com/diracdeltas/niceware) v. 4.0 list. It is free of some common homophones and British spellings of certain words. It was made uniquely decodable [via a process I created](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html) and thus I mark it as **EXPERIMENTAL**. Use with caution.
-```text
+```
 List length               : 40000 words
 Mean word length          : 8.56 characters
 Length of shortest word   : 3 characters (add)
@@ -375,11 +375,11 @@ Unique character prefix   : 18
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-militant encryption ligature watchmaker instituting pectoral 
-heartless soapbox narrowly restate fireflies occupants 
-cornflakes violation bugler leaven performing overexposed 
-pecan enlargements fulfils accrues wreaths pulpit 
-expounds sundaes brisker husk inheritor hogan 
+blindfolded bossy peacemaker defter prefigured item 
+algorithm opaquest unrivalled deregulated ambience mules 
+topple relevantly compilers payload conditionals columbine 
+comedy conversationally littleness credential sputter kangaroos 
+strontium amputate skidding yeast heavies weirdest 
 ```
 </details>
 
@@ -387,7 +387,7 @@ expounds sundaes brisker husk inheritor hogan
 <summary><h3>UDWiki: A uniquely-decodable list from Wikipedia word frequency data</h3></summary>
 
 **[ud_wikilist.txt](lists/experimental/ud_wikilist.txt)** is a uniquely decodable list, based on [Wikipedia word frequency data](https://github.com/IlyaSemenov/wikipedia-word-frequency/). It was made uniquely decodable [via a process I created](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html) and thus I mark it as **EXPERIMENTAL**. Use with caution.
-```text
+```
 List length               : 17576 words
 Mean word length          : 7.93 characters
 Length of shortest word   : 3 characters (add)
@@ -407,11 +407,11 @@ Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-knights landscapes potable protect infect backstage 
-inefficient clues removable anticipating coarse autoimmune 
-generators roles cassettes tub therapeutics canonized 
-anatomical fraternities jeep inclined plasma photos 
-foods dossier cutters symphonies southward shrunk
+exit jokes rainier masquerade renewed gurney 
+moths reversal temptation relented exported echoes 
+correcting precursor inferred debates baseline curators 
+registry assuming conceptions scrub faithfully scant 
+simplicity fingers qualitative siren thoughts gardener
 ```
 </details>
 
