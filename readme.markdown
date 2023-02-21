@@ -290,7 +290,7 @@ encryption cheated enlistment associates closer experienced
 <details>
 <summary><h3>UD1: A 17k-word, uniquely decodable word list</h3></summary>
 
-**[ud1.txt](lists/experimental/ud1.txt)** is a long, uniquely decodable list, based on Google Ngram data. It was made uniquely decodable [via a process I created](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html) and thus I mark it as **EXPERIMENTAL**. Use with caution.
+**[ud1.txt](lists/experimental/ud1.txt)** is a long, uniquely decodable list, based on Google Ngram data. It was made uniquely decodable [via a process I created](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html) and thus I mark it as **EXPERIMENTAL**. Use with caution. As an aid to help you choose words randomly from this list, see the [cardware list](lists/experimental/cardware.txt).
 ```
 List length               : 17576 words
 Mean word length          : 8.00 characters
