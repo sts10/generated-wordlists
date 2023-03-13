@@ -1107,7 +1107,6 @@ cherries
 chests
 chewed
 chewing
-chi
 chickens
 chicks
 chided
@@ -4453,7 +4452,6 @@ opinions
 opposed
 opposes
 opposing
-opt
 opted
 opting
 optional
@@ -4903,7 +4901,6 @@ poisoned
 poisons
 poked
 poking
-pol
 polemics
 poles
 policies

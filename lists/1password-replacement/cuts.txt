@@ -502,6 +502,7 @@ bagasse
 bagful
 baghdad
 bagnio
+bah
 bahamas
 bahamian
 bahrain
@@ -828,6 +829,7 @@ blurb
 blustery
 boastful
 boatload
+bob
 bobbin
 bobble
 bobcat
@@ -1994,6 +1996,7 @@ disabuse
 disallow
 disbar
 disburse
+disc
 discoid
 discolor
 discus
@@ -3695,6 +3698,7 @@ kazoo
 kebab
 kedge
 kegler
+ken
 kennels
 keno
 kent
@@ -3873,6 +3877,7 @@ layette
 layup
 lazar
 laze
+lea
 leadsman
 leadsmen
 leafage
@@ -4229,6 +4234,7 @@ medicate
 medico
 medulla
 meed
+meg
 megaton
 mekong
 mel
@@ -6762,6 +6768,7 @@ thulium
 thurs
 thusly
 thwack
+thy
 tiara
 tibet
 tibetan
@@ -6828,6 +6835,7 @@ toilworn
 tokyo
 toledo
 tollgate
+tom
 tomboy
 tommy
 tomtit
