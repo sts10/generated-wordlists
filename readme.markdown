@@ -467,7 +467,15 @@ As a brief example, if a list has "boy", "hood", and "boyhood" on it, users who 
 
 Some of the lists in this repository are uniquely decodable, while others are not. The lists marked "experimental" are so marked because I used a method adapted from [the Sardinas–Patterson algorithm](https://en.wikipedia.org/wiki/Sardinas%E2%80%93Patterson_algorithm) to make them uniquely decodable that I have named "Schlinkert pruning." You can learn more about uniquely decodable codes and Schlinkert pruning from [this blog post](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html). Use at your own risk!
 
-Other lists in this repo were made uniquely decodable by more established methods, namely removing all [prefix words](https://en.wikipedia.org/wiki/Prefix_code) or removing all suffix words.
+Other lists in this repository were made uniquely decodable by more established methods, namely removing all [prefix words](https://en.wikipedia.org/wiki/Prefix_code) or removing all suffix words.
+
+## Using these word lists with KeePassXC 
+
+[KeePassXC](https://keepassxc.org), a password manager, allows users to use any word list they want. 
+
+To do this, click on the dice icon to open the password generator, then click over to the "Passphrase" tab, then click to + button to choose a word list file. Be sure to **only use a uniquely decodable list with KeePassXC** like "Suffix Free" list or the UD1 list.
+
+![Screenshot showing how to change the word list that KeePassXC uses](img/keepassxc-use.png)
 
 ## Tools and resources I used to generate these word lists
 
