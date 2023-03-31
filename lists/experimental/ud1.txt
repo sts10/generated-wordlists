@@ -651,7 +651,6 @@ amusing
 anaerobic
 anaesthesia
 anaesthetic
-analgesia
 analgesic
 analgesics
 analog
@@ -10614,6 +10613,7 @@ obstinate
 obstruct
 obstructed
 obstruction
+obstructions
 obstructive
 obtain
 obtainable
