@@ -2857,6 +2857,7 @@ classed
 classes
 classic
 classical
+classically
 classics
 classified
 classify
@@ -4741,9 +4742,7 @@ diamond
 diamonds
 diaphragm
 diaries
-diarrhoea
 diary
-diastolic
 dice
 dichotomy
 dictate
@@ -12971,6 +12970,7 @@ rain
 rainbow
 rained
 rainfall
+rainforest
 raining
 rains
 rainy

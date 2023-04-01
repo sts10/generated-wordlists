@@ -160,7 +160,7 @@ assessing jazz wishing fighting painter executing
 
 **[prefix-free.txt](lists/prefix-free.txt)** is a long list free of prefix words.
 ```text
-List length               : 14485 words
+List length               : 14481 words
 Mean word length          : 8.22 characters
 Length of shortest word   : 3 characters (ads)
 Length of longest word    : 15 characters (vulnerabilities)
@@ -179,11 +179,11 @@ Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-stagnation controllers skepticism requesting interpreters axons 
-pollen mounds joined prevalent crust rewarded 
-raced vaccines televised refined affected clicked 
-drafts sedative reborn summarizing dissertation indeed 
-sausage wielded bookstores smeared excuses footwear 
+asterisk organic strengthening randomized emotions fastened 
+joys emphases tad somehow reversible planes 
+realty screened dough parsing drawers meaningfully 
+middle dignitaries petite lighter attorneys arbitrarily 
+flourished finished routing dishes coughing penetrating 
 ```
 </details>
 

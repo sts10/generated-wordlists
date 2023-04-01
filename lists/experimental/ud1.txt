@@ -4699,9 +4699,7 @@ diamond
 diamonds
 diaphragm
 diaries
-diarrhoea
 diary
-diastolic
 dice
 diced
 dichotomy
@@ -9524,6 +9522,7 @@ liquidity
 liquids
 liquor
 lire
+lisp
 listen
 listened
 listener
@@ -16130,6 +16129,7 @@ tossing
 tot
 total
 totaled
+totaling
 totalitarian
 totalitarianism
 totality

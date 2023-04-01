@@ -9839,9 +9839,7 @@ diaphragm
 diaphragms
 diaries
 diarists
-diarrhoea
 diary
-diastolic
 diatribe
 diatribes
 dibbling
@@ -37637,6 +37635,7 @@ ungrudging
 unguarded
 ungulate
 ungulates
+unhand
 unhanding
 unhappier
 unhappiest
@@ -39480,6 +39479,7 @@ winnings
 winnowed
 winnowing
 winsomely
+winsomer
 wintered
 wintergreen
 winterier

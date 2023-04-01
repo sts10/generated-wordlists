@@ -4493,8 +4493,6 @@ diameters
 diamond
 diamonds
 diaphragm
-diarrhoea
-diastolic
 dichotomy
 dictate
 dictated
@@ -13986,6 +13984,7 @@ soul
 souls
 sounded
 sounding
+soundly
 soundness
 sounds
 soup
@@ -14901,6 +14900,7 @@ symptomatic
 symptoms
 synagogue
 synagogues
+synapse
 synapses
 sync
 synchronization
