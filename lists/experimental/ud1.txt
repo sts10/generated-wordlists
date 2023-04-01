@@ -651,8 +651,6 @@ amusing
 anaerobic
 anaesthesia
 anaesthetic
-analgesic
-analgesics
 analog
 analogies
 analogous
@@ -6615,6 +6613,7 @@ fixture
 fixtures
 flag
 flags
+flagship
 flair
 flake
 flakes
@@ -14187,6 +14186,7 @@ shillings
 shimmering
 shin
 shines
+shingles
 shining
 shiny
 shipbuilding

@@ -611,8 +611,6 @@ amusement
 amusing
 anaerobic
 anaesthesia
-analgesic
-analgesics
 analog
 analogies
 analogous
@@ -6069,6 +6067,7 @@ famine
 famously
 fan
 fanatical
+fanaticism
 fancied
 fanciful
 fang
@@ -7730,6 +7729,7 @@ idleness
 idol
 idolatry
 idols
+idyllic
 igneous
 ignited
 ignition
@@ -8373,7 +8373,6 @@ intensive
 intensively
 intent
 intention
-intentional
 intentionally
 intentions
 intently
@@ -9306,6 +9305,7 @@ malignant
 malnutrition
 malpractice
 malt
+maltreatment
 mama
 mamma
 mammal
@@ -10387,6 +10387,7 @@ outward
 outwardly
 outwards
 outweigh
+outweighed
 ovarian
 ovaries
 ovary
@@ -15536,7 +15537,6 @@ treasury
 treaties
 treatise
 treatises
-treatment
 treatments
 treaty
 tree
@@ -15871,6 +15871,7 @@ unilaterally
 unimportant
 unintelligible
 unintended
+unintentional
 uninterrupted
 unions
 unique
@@ -16450,7 +16451,6 @@ weekend
 weekends
 weekly
 weeks
-weighed
 weighing
 weighs
 weighted

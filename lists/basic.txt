@@ -651,8 +651,6 @@ amusement
 amusing
 anaerobic
 anaesthesia
-analgesic
-analgesics
 analog
 analogies
 analogous
@@ -6831,6 +6829,7 @@ following
 follows
 folly
 fond
+fondly
 fondness
 font
 fonts
@@ -15957,6 +15956,7 @@ summit
 summon
 summoned
 summons
+sumptuous
 sums
 sun
 sundry

@@ -1192,8 +1192,6 @@ anaesthetized
 anaesthetizing
 anagram
 anagrams
-analgesic
-analgesics
 analog
 analogies
 analogous
@@ -3404,6 +3402,7 @@ bison
 bistro
 bites
 bitmap
+bitterer
 bitterest
 bitterly
 bitterness
@@ -9753,6 +9752,7 @@ devices
 deviling
 devilish
 devilishly
+devilry
 devils
 devious
 deviousness
