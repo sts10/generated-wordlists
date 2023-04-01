@@ -611,7 +611,6 @@ amusement
 amusing
 anaerobic
 anaesthesia
-analgesia
 analgesic
 analgesics
 analog
@@ -13354,6 +13353,7 @@ senses
 sensibilities
 sensibility
 sensible
+sensibly
 sensing
 sensitivities
 sensitivity

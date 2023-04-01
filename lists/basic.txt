@@ -651,7 +651,6 @@ amusement
 amusing
 anaerobic
 anaesthesia
-analgesia
 analgesic
 analgesics
 analog
@@ -1138,6 +1137,7 @@ astonished
 astonishing
 astonishment
 astounding
+astral
 astray
 astrology
 astronauts
