@@ -3043,7 +3043,6 @@ cold
 colder
 coldly
 coldness
-colitis
 collaborate
 collaborated
 collage
@@ -3071,7 +3070,6 @@ collegiate
 collier
 collision
 collisions
-colloid
 colloquial
 collusion
 cologne
@@ -4203,6 +4201,7 @@ dared
 daring
 dark
 darkened
+darkening
 darker
 darkest
 darkly
@@ -5082,6 +5081,7 @@ disturbed
 disturbing
 ditch
 ditches
+diuretic
 diuretics
 diurnal
 dive
@@ -5421,6 +5421,7 @@ eating
 eats
 ebb
 eccentric
+eccentricity
 echo
 echoed
 echoes
@@ -5682,7 +5683,6 @@ enacting
 enactment
 enamel
 encapsulated
-encephalitis
 enchanted
 encircled
 enclave
@@ -9915,7 +9915,6 @@ macroscopic
 mad
 madam
 madame
-mademoiselle
 madness
 magazine
 magazines
@@ -13979,6 +13978,7 @@ rooting
 roots
 rope
 ropes
+rosary
 rose
 rosemary
 roses
@@ -14822,6 +14822,7 @@ silicate
 silicon
 silicone
 silk
+silky
 sill
 silly
 silt
@@ -16579,7 +16580,6 @@ thunder
 thwart
 thwarted
 thyme
-thymus
 thyroid
 thyself
 tibia

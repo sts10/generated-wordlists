@@ -1147,7 +1147,6 @@ amphibian
 amphibians
 amphibious
 amphitheater
-amphitheatre
 amplest
 amplification
 amplifications
@@ -2940,6 +2939,7 @@ bedecked
 bedecking
 bedevil
 bedeviled
+bedeviling
 bedevilled
 bedevilling
 bedfellows
@@ -3516,6 +3516,7 @@ bleed
 bleeding
 bleeds
 bleep
+bleeping
 blemish
 blemished
 blemishes
@@ -4913,6 +4914,7 @@ capacitance
 capacities
 capacitor
 capacitors
+caparison
 capers
 capillaries
 capillary
@@ -6410,7 +6412,6 @@ coldness
 coleslaw
 colic
 coliseum
-colitis
 collaborate
 collaborated
 collaborates
@@ -6463,7 +6464,6 @@ collisions
 collocated
 collocation
 collocations
-colloid
 colloids
 colloquia
 colloquial
@@ -9749,7 +9749,6 @@ deviation
 deviations
 device
 devices
-deviling
 devilish
 devilishly
 devilry
@@ -11222,13 +11221,11 @@ dubbing
 dubious
 dubiously
 dubs
-ducal
 ducat
 ducats
 duchess
 duchesses
 duchies
-duchy
 duck
 ducking
 duckling
@@ -11912,7 +11909,6 @@ encapsulating
 encapsulation
 encased
 encasing
-encephalitis
 enchanted
 enchanter
 enchanting
@@ -13620,6 +13616,7 @@ fetching
 feted
 fetishes
 fetishism
+fetishist
 fetishistic
 fettering
 fetters
@@ -19102,6 +19099,7 @@ interjects
 interlace
 interlaced
 interlacing
+interlard
 interlarding
 interleave
 interleaved
@@ -21234,7 +21232,6 @@ madden
 maddened
 maddening
 maddeningly
-mademoiselle
 madhouse
 madly
 madmen
@@ -22131,6 +22128,7 @@ metropolitan
 mettlesome
 mewing
 mewl
+mewled
 mezzanine
 miaowed
 mica
@@ -23443,6 +23441,7 @@ nonphysical
 nonplused
 nonplusing
 nonplussed
+nonplussing
 nonpolitical
 nonproductive
 nonprofessional
@@ -30456,6 +30455,7 @@ sanded
 sander
 sanders
 sandier
+sandiest
 sanding
 sandman
 sandpaper
@@ -30686,6 +30686,7 @@ scary
 scathing
 scathingly
 scatological
+scatted
 scatter
 scatterbrained
 scattered
@@ -35991,7 +35992,6 @@ thwarted
 thwarting
 thwarts
 thyme
-thymus
 thyroid
 thyself
 tiara

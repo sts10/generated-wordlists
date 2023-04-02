@@ -607,7 +607,6 @@ amphibian
 amphibians
 amphibious
 amphitheater
-amphitheatre
 amplification
 amplified
 amplifier
@@ -1732,6 +1731,7 @@ blasted
 blasters
 blasting
 blasts
+blatant
 blaze
 blazers
 blazing
@@ -2179,7 +2179,6 @@ busy
 butch
 butcher
 butler
-butte
 butter
 butterflies
 butterfly
@@ -2239,6 +2238,7 @@ calendar
 calendars
 calf
 caliber
+calibrated
 calibration
 caliph
 caliphate
@@ -2401,6 +2401,7 @@ carrying
 cart
 cartel
 cartilage
+cartographer
 cartography
 cartoon
 cartoonist
@@ -4512,6 +4513,7 @@ desire
 desired
 desires
 desk
+desks
 desktop
 desolate
 despair
@@ -5195,9 +5197,7 @@ dub
 dubbed
 dubbing
 dubious
-ducal
 duchess
-duchy
 duck
 ducks
 dude

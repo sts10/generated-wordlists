@@ -2574,6 +2574,7 @@ chronicle
 chronicler
 chronicles
 chronological
+chronologically
 chronology
 chuck
 chuckle
@@ -2833,7 +2834,6 @@ cold
 colder
 coldly
 coldness
-colitis
 collaborate
 collaborated
 collaborating
@@ -2863,7 +2863,6 @@ collegiate
 collier
 collision
 collisions
-colloid
 colloquial
 collusion
 cologne
@@ -5385,7 +5384,6 @@ enacting
 enactment
 enamel
 encapsulated
-encephalitis
 enchanted
 encircled
 enclave
@@ -5484,6 +5482,7 @@ enlarged
 enlargement
 enlarging
 enlightened
+enlightening
 enlightenment
 enlist
 enlisted
@@ -7350,6 +7349,7 @@ heartbeat
 heartfelt
 hearth
 heartily
+heartland
 hearts
 hearty
 heathen
@@ -8888,6 +8888,7 @@ launch
 launched
 launches
 launching
+laundering
 laundry
 laurel
 lava
@@ -9240,7 +9241,6 @@ macroscopic
 mad
 madam
 madame
-mademoiselle
 madness
 magazine
 magazines
@@ -9716,6 +9716,7 @@ mills
 mime
 mimic
 minced
+mindedness
 mindful
 mineral
 minerals
@@ -15251,7 +15252,6 @@ thunder
 thwart
 thwarted
 thyme
-thymus
 thyroid
 thyself
 tibia
@@ -15808,6 +15808,7 @@ underwater
 underwear
 underwent
 underworld
+underwriters
 underwriting
 undesirable
 undeveloped
@@ -16690,7 +16691,6 @@ wrinkles
 wrist
 wrists
 writ
-writers
 writes
 writings
 wrong

@@ -2127,7 +2127,6 @@ busy
 butch
 butcher
 butler
-butte
 butter
 butterflies
 butterfly
@@ -3399,6 +3398,7 @@ contact
 contacted
 contacting
 contacts
+contagious
 contain
 contained
 container
@@ -4931,9 +4931,7 @@ dub
 dubbed
 dubbing
 dubious
-ducal
 duchess
-duchy
 duck
 ducks
 duct
@@ -7051,6 +7049,7 @@ greens
 greet
 greeted
 greeting
+greetings
 grenade
 grenades
 grenadier
@@ -14642,6 +14641,7 @@ soon
 sooner
 sophomore
 soprano
+sopranos
 sorcerer
 sorcery
 sore

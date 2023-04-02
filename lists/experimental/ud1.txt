@@ -1211,6 +1211,7 @@ atypical
 auburn
 auction
 auctions
+audacity
 audible
 audience
 audiences
@@ -2984,7 +2985,6 @@ cold
 colder
 coldly
 coldness
-colitis
 collaborate
 collaborated
 collaborating
@@ -3014,7 +3014,6 @@ collegiate
 collier
 collision
 collisions
-colloid
 colloquial
 collusion
 cologne
@@ -4053,6 +4052,7 @@ curative
 curator
 curb
 cures
+curie
 curiosity
 curious
 curiously
@@ -5638,7 +5638,6 @@ enactment
 enamel
 encapsulated
 encapsulation
-encephalitis
 enchanted
 encircled
 enclave
@@ -6999,6 +6998,7 @@ fruitful
 fruition
 fruitless
 fruits
+frustrate
 frustrated
 frustrating
 frustration
@@ -9679,7 +9679,6 @@ macroscopic
 mad
 madam
 madame
-mademoiselle
 madness
 magazine
 magazines
@@ -10080,6 +10079,7 @@ met
 meta
 metabolic
 metabolism
+metabolized
 metal
 metallic
 metallurgical
@@ -11901,6 +11901,7 @@ preaching
 preamble
 precarious
 precaution
+precautionary
 precautions
 precede
 preceded
@@ -16013,7 +16014,6 @@ thunder
 thwart
 thwarted
 thyme
-thymus
 thyroid
 thyself
 tibia
