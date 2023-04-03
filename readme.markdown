@@ -2,6 +2,8 @@
 
 A repository for word lists I've generated. Some lists are based on [Google Ngram data](https://github.com/sts10/common_word_list_maker), while others are based on [word frequency data from (English) Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/).
 
+**If you're looking for more polished wordlists**, I suggest you look at [Orchard Street Wordlists](https://github.com/sts10/orchard-street-wordlists).
+
 ## About the word lists
 
 Detailed information about most of the lists in this repository is available below. The main differences are in list length, whether they're uniquely decodable, and whether they have corresponding dice roll values in them.
