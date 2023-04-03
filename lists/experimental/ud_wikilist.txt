@@ -3796,7 +3796,6 @@ costly
 costs
 costume
 costumes
-cote
 cottage
 cottages
 cotton
@@ -4921,6 +4920,7 @@ dissolution
 dissolve
 dissolved
 dissolving
+dissuade
 distance
 distanced
 distances

@@ -2613,7 +2613,6 @@ circumstances
 circumstantial
 circumvent
 circus
-cirrhosis
 citadel
 citations
 cites
@@ -3624,7 +3623,6 @@ costs
 costume
 costumes
 cot
-cote
 cottage
 cottages
 cotton
@@ -14028,6 +14026,7 @@ spared
 sparing
 spark
 sparked
+sparkle
 sparkling
 sparks
 sparrow
@@ -15997,6 +15996,7 @@ upgrade
 upgraded
 upgrading
 upheaval
+upheavals
 upheld
 uphill
 uphold

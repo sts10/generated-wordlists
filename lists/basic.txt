@@ -2808,7 +2808,6 @@ circumcision
 circumstance
 circumvent
 circus
-cirrhosis
 citadel
 citation
 citations
@@ -3827,7 +3826,6 @@ costs
 costume
 costumes
 cot
-cote
 cottage
 cottages
 cotton
@@ -13809,6 +13807,7 @@ revisited
 revival
 revive
 revived
+reviving
 revocation
 revoke
 revoked
@@ -17034,6 +17033,7 @@ tumbled
 tumbling
 tumor
 tumors
+tumult
 tuna
 tundra
 tune

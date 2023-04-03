@@ -2227,7 +2227,6 @@ circumstances
 circumstantial
 circumvent
 circus
-cirrhosis
 citadel
 citations
 cited
@@ -3061,7 +3060,6 @@ costing
 costly
 costs
 costumes
-cote
 cottages
 cotton
 couched

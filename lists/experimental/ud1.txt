@@ -2756,7 +2756,6 @@ circumstances
 circumstantial
 circumvent
 circus
-cirrhosis
 citadel
 citations
 cites
@@ -3804,7 +3803,6 @@ costs
 costume
 costumes
 cot
-cote
 cottage
 cottages
 cotton
@@ -4880,6 +4878,7 @@ discontinuities
 discontinuity
 discontinuous
 discord
+discordant
 discount
 discounted
 discounting
@@ -7091,6 +7090,7 @@ game
 games
 gaming
 gamma
+gamut
 gang
 gangs
 gap

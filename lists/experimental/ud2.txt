@@ -5932,7 +5932,6 @@ circumvention
 circumvents
 circus
 circuses
-cirrhosis
 cistern
 cisterns
 citadel
@@ -7787,7 +7786,6 @@ costume
 costumed
 costumes
 costuming
-cote
 coterie
 cotes
 cotillion
@@ -23305,6 +23303,7 @@ negligently
 negligible
 negligibly
 negotiation
+neighbor
 neighborhood
 neighboring
 neighborly
@@ -24274,6 +24273,7 @@ overawing
 overbalance
 overbalanced
 overbalancing
+overbear
 overbearing
 overbite
 overblown
@@ -30999,6 +30999,7 @@ seamanship
 seamed
 seamier
 seamiest
+seaming
 seamless
 seams
 seamstress
@@ -31127,7 +31128,6 @@ seekers
 seeking
 seeks
 seemed
-seeming
 seemingly
 seemlier
 seems
