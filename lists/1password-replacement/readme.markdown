@@ -4,7 +4,7 @@ This repository contains a proposed replacement word list for the password manag
 
 I am publishing this list in hopes that AgileBits, the company that owns 1Password, wants to adopt it for 1Password's passphrase generator. 
 
-Of course nothing is stopping others from using this list for other purposes, assuming they adhere to the attached LICENSE.
+Of course nothing is stopping others from using this list for other purposes, assuming they adhere to the relevant licensing (see parent directory's README file for more).
 
 ## Attributes of the new list
 
@@ -99,6 +99,6 @@ Also, I make no guarantees about the security of passphrases generated with word
 
 ## On licensing/usage
 
-The Google Books Ngram data compilation I used to construct the new word list "is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)" ([source](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)). This project has no association with Agile Bits/1Password or Google, nor, to my knowledge, does either company endorse this project. 
+This project has no association with Agile Bits/1Password or Google, nor, to my knowledge, does either entity endorse this project. 
 
 See parent directory's README for more licensing information.
