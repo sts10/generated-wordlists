@@ -493,17 +493,17 @@ While I've attempted to remove offensive words from these lists, since I haven't
 
 Also, I make no guarantees about the security of passphrases generated from these lists, nor the promised amount of entropy, which is theoretical. Please check their safety yourself before using in situations that require secure passphrases. And the method of choosing words from these lists must be sufficiently random to ensure promised security.
 
-## On licensing/usage
-
-This project and its word lists are licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/). See LICENSE file for more information.
-
-The words for some of these generated word lists come from Google Books Ngram data. This data compilation "is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)" ([source](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)). This project has no association with Google, nor does Google endorse this project. [More information available at the original project's repo](https://github.com/sts10/common_word_list_maker).
-
-I'll note here that at least one list in this project was derived from [this Wikipedia word frequency project](https://github.com/IlyaSemenov/wikipedia-word-frequency/), which uses the MIT license. I offer this list under the same license as the other word lists in this project.
-
 ## Related projects
 
 In a separate project, I made some [word lists optimized for inputting into smart TVs](https://github.com/sts10/remote-words).
+
+## On licensing/usage
+
+The words contained in these word lists are taken from two sources: [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html) and [Wikipedia](https://www.wikipedia.org/), via [a Wikipedia word frequency project](https://github.com/IlyaSemenov/wikipedia-word-frequency/).
+
+This project has no association with either Google, Wikipedia, or the creators of the Wikipedia frequency project cited above. Neither Google, Wikipedia, nor the creators of the Wikipedia word frequency project cited above endorses this project.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 ## Requests? Suggestions? 
 
