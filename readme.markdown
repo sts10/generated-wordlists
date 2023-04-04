@@ -1,8 +1,8 @@
 # Generated word lists
 
-A repository for word lists I've generated. Some lists are based on [Google Ngram data](https://github.com/sts10/common_word_list_maker), while others are based on [word frequency data from (English) Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/).
+A repository for word lists I've generated. Most are proof-of-concept or experimental. Some lists are based on [Google Ngram data](https://github.com/sts10/common_word_list_maker), while others are based on [word frequency data from (English) Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/).
 
-**If you're looking for more polished wordlists**, I suggest you look at [Orchard Street Wordlists](https://github.com/sts10/orchard-street-wordlists).
+If you're looking for **more polished wordlists**, I suggest you look at [Orchard Street Wordlists](https://github.com/sts10/orchard-street-wordlists).
 
 ## About the word lists
 
@@ -12,6 +12,7 @@ Following [the BIPS 0039 spec](https://github.com/bitcoin/bips/blob/master/bip-0
 
 ### Just give me a word list
 
+* If you're feeling a little overwhelmed by choice here, just head over to [Orchard Street Wordlists](https://github.com/sts10/orchard-street-wordlists).
 * If you just want **a plain, long word list**, I'd point you to [basic.txt](lists/basic.txt) or [the 1Password replacement list](lists/1password-replacement/readme.markdown) I made.
 * If you want to **[use dice](https://www.eff.org/dice) to create your passphrases**, I'd suggest [diceware-suffix-free.txt](lists/diceware-suffix-free.txt).
 * If you're **feeling adventurous**, I'd point you to [UD1](lists/experimental/ud1.txt) or [UDWiki](lists/experimental/ud_wikilist.txt); or if you're going to be using with dice, [diceware-ud](lists/experimental/diceware-ud.txt).
