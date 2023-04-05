@@ -51,11 +51,11 @@ Unique character prefix   : 12
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-shapes doped ventures damp scholars curves 
-flanks carnal muster dialogues casualties crib 
-sandwiches accepting pronoun blasted microcosm madame 
-diminution rotate propped entitled familiar sessions 
-receive prevailed refused rotating smokers ensures 
+shapes doped ventures damp scholars curves
+flanks carnal muster dialogues casualties crib
+sandwiches accepting pronoun blasted microcosm madame
+diminution rotate propped entitled familiar sessions
+receive prevailed refused rotating smokers ensures
 ```
 </details>
 
@@ -83,11 +83,11 @@ Unique character prefix   : 8
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-windmill sizable rinsed bran marshy despot 
-alloys vexation wilder soured join outlets 
-byte puritans colonize shackled virtual frisk 
-centrist morality knitting meeting reigns guest 
-dulled masts cohesive vending puzzles bungalow 
+windmill sizable rinsed bran marshy despot
+alloys vexation wilder soured join outlets
+byte puritans colonize shackled virtual frisk
+centrist morality knitting meeting reigns guest
+dulled masts cohesive vending puzzles bungalow
 ```
 </details>
 
@@ -115,11 +115,11 @@ Unique character prefix   : 11
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-flown annotated issues operative referred dismissal 
-electricity temporal diversified imitate single signs 
-toilet gown corrective trailer airport ventricular 
-periphery tensions duly lent alloys agony 
-mills instructors bodily compelling defects alienation 
+flown annotated issues operative referred dismissal
+electricity temporal diversified imitate single signs
+toilet gown corrective trailer airport ventricular
+periphery tensions duly lent alloys agony
+mills instructors bodily compelling defects alienation
 ```
 
 If you want a 7,776-word diceware list that is **not** uniquely decodable, there's [diceware-not-ud.txt](lists/diceware-not-ud.txt). Just be sure to use a character or space between words in your passphrases!
@@ -150,11 +150,11 @@ Unique character prefix   : 10
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-fifth melancholy ounces vast slept separated 
-mobility games anonymous vertical ambitions autonomy 
-destined picking leave lawyers knights alarm 
-lifelong quietly chief diagonal leaf sadness 
-assessing jazz wishing fighting painter executing 
+fifth melancholy ounces vast slept separated
+mobility games anonymous vertical ambitions autonomy
+destined picking leave lawyers knights alarm
+lifelong quietly chief diagonal leaf sadness
+assessing jazz wishing fighting painter executing
 ```
 </details>
 
@@ -182,11 +182,11 @@ Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-asterisk organic strengthening randomized emotions fastened 
-joys emphases tad somehow reversible planes 
-realty screened dough parsing drawers meaningfully 
-middle dignitaries petite lighter attorneys arbitrarily 
-flourished finished routing dishes coughing penetrating 
+asterisk organic strengthening randomized emotions fastened
+joys emphases tad somehow reversible planes
+realty screened dough parsing drawers meaningfully
+middle dignitaries petite lighter attorneys arbitrarily
+flourished finished routing dishes coughing penetrating
 ```
 </details>
 
@@ -214,11 +214,11 @@ Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-spaghetti aspirin teams roadside dominating moose 
-spirited incorrect renown hepatic excavated badly 
-phage homeland annoying programmer shivered primaries 
-duties intertwined modesty insurrection transistor refinements 
-deliverance extracting relieved austere imagine allegation 
+spaghetti aspirin teams roadside dominating moose
+spirited incorrect renown hepatic excavated badly
+phage homeland annoying programmer shivered primaries
+duties intertwined modesty insurrection transistor refinements
+deliverance extracting relieved austere imagine allegation
 ```
 
 </details>
@@ -248,11 +248,11 @@ Unique character prefix   : 3
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-popcorn wisconsin charcoal citadel pavilion cylindrical 
-hitchcock tavistock wasteland ridiculous evolutionary dyspnea 
-sleepless mcmahon knoxville justinian tennyson haphazard 
-cutaneous september appetites awareness lobbyists eritrea 
-glucose ithaca baptized obesity superego aircraft 
+popcorn wisconsin charcoal citadel pavilion cylindrical
+hitchcock tavistock wasteland ridiculous evolutionary dyspnea
+sleepless mcmahon knoxville justinian tennyson haphazard
+cutaneous september appetites awareness lobbyists eritrea
+glucose ithaca baptized obesity superego aircraft
 ```
 </details>
 -->
@@ -280,10 +280,10 @@ Unique character prefix   : 11
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-coupe autograph thrust groves hermitage asserts 
-investor reputation contempt happy chaplain vans 
-exponential turbine epistle comparable equatorial communes 
-robust incoming justified mandate evicted quitting 
+coupe autograph thrust groves hermitage asserts
+investor reputation contempt happy chaplain vans
+exponential turbine epistle comparable equatorial communes
+robust incoming justified mandate evicted quitting
 encryption cheated enlistment associates closer experienced
 ```
 </details>
@@ -314,11 +314,11 @@ Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-platelets designation ministries theoretically revenge felony 
-risks landlord rotates brain shipment rafters 
-yellow gear contends dimensionless suspended uncertainties 
-delegations suspected enraged suite occasional circumference 
-obsessive assimilate localities rover cerebellum decks 
+platelets designation ministries theoretically revenge felony
+risks landlord rotates brain shipment rafters
+yellow gear contends dimensionless suspended uncertainties
+delegations suspected enraged suite occasional circumference
+obsessive assimilate localities rover cerebellum decks
 ```
 </details>
 
@@ -346,11 +346,11 @@ Unique character prefix   : 10
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-toolbar stations injected matters reaches rock 
-office clean surface marines food overnight 
-lexical meet avoid decoration thanked paint 
-responding within doctoral shift security hardy 
-wolf washed protest sheer virtues splitting 
+toolbar stations injected matters reaches rock
+office clean surface marines food overnight
+lexical meet avoid decoration thanked paint
+responding within doctoral shift security hardy
+wolf washed protest sheer virtues splitting
 ```
 </details>
 
@@ -378,11 +378,11 @@ Unique character prefix   : 18
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-blindfolded bossy peacemaker defter prefigured item 
-algorithm opaquest unrivalled deregulated ambience mules 
-topple relevantly compilers payload conditionals columbine 
-comedy conversationally littleness credential sputter kangaroos 
-strontium amputate skidding yeast heavies weirdest 
+blindfolded bossy peacemaker defter prefigured item
+algorithm opaquest unrivalled deregulated ambience mules
+topple relevantly compilers payload conditionals columbine
+comedy conversationally littleness credential sputter kangaroos
+strontium amputate skidding yeast heavies weirdest
 ```
 </details>
 
@@ -410,37 +410,37 @@ Unique character prefix   : 15
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-exit jokes rainier masquerade renewed gurney 
-moths reversal temptation relented exported echoes 
-correcting precursor inferred debates baseline curators 
-registry assuming conceptions scrub faithfully scant 
+exit jokes rainier masquerade renewed gurney
+moths reversal temptation relented exported echoes
+correcting precursor inferred debates baseline curators
+registry assuming conceptions scrub faithfully scant
 simplicity fingers qualitative siren thoughts gardener
 ```
 </details>
 
 ## Methodology
 
-For the lists based on [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html), I [scraped](https://github.com/sts10/common_word_list_maker) the 2012 dataset and made [a list of the most frequently appearing 100,000 words between 1975 and 2012](https://github.com/sts10/common_word_list_maker/blob/main/word_list_raw.txt). 
+For the lists based on [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html), I [scraped](https://github.com/sts10/common_word_list_maker) the 2012 dataset and made [a list of the most frequently appearing 100,000 words between 1975 and 2012](https://github.com/sts10/common_word_list_maker/blob/main/word_list_raw.txt).
 
-Other lists in this repo use this [word frequency data from Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/) as an initial input/corpus. 
+Other lists in this repo use this [word frequency data from Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/) as an initial input/corpus.
 
 In all cases, I then used [a separate tool I wrote called Tidy](https://github.com/sts10/tidy) to cut these long lists down into various sizes to create the word lists included in this repo.
 
-### Assumed use-cases of passphrases 
+### Assumed use-cases of passphrases
 
-Let's consider _**when**_ a user might want to use a passphrase rather than a password like `96W8vaCHCR':XXj,xhJ6`. I based my work around three use-cases (loosely ranked by importance/priority): 
+Let's consider _**when**_ a user might want to use a passphrase rather than a password like `96W8vaCHCR':XXj,xhJ6`. I based my work around three use-cases (loosely ranked by importance/priority):
 
 1. When creating a master password for a password manager or an encrypted drive that the user will have to memorize.
 2. When creating an account where they'll enter the password in a situation where they can not auto-fill or copy it from a password manager (for example: a smart TV or computers where they don't have access to their password database). I think of this as a case where the user needs to hold their password in their minds for a few seconds.
 3. When creating an account they anticipate they may have to read the password over a voice channel.
 
-For the first use-case, I wanted to make a list that prioritized words that were "story-able". By "story-able", I mean words that most users will be able to construct a story with. Inspired by [the "Password Strength" xkcd comic](https://xkcd.com/936/?correct=horse&battery=staple), I contend that users memorize passphrases by creating a little story for themselves. 
+For the first use-case, I wanted to make a list that prioritized words that were "story-able". By "story-able", I mean words that most users will be able to construct a story with. Inspired by [the "Password Strength" xkcd comic](https://xkcd.com/936/?correct=horse&battery=staple), I contend that users memorize passphrases by creating a little story for themselves.
 
 ![Correct horse battery stapler comic](https://imgs.xkcd.com/comics/password_strength.png)
 
 This guided my choice to use Google Books data -- these are words that literally make up the stories of English-speaking people. Whether certain parts of speech, like nouns, some balanced mix of parts of speech, or other categorizations of words, like singular nouns, are generally more "story-able" than others is a question to explore further.
 
-While this "story-ability" will help with assumption #2, I argue that words that are good for holding in your mind temporarily are words that are what I'd call "mentally pronounceable" (shout-out to [Reddit user out0focus for crystallizing this for me](https://www.reddit.com/r/1Password/comments/ur4otq/comment/i8x040c/?utm_source=reddit&utm_medium=web2x&context=3)), by which I simply mean that you can hold them in your mind as a _word_ rather than a collection of letters. I think how easy a word is to spell is closely related to this -- perhaps "mental pronounceable" is the ease of "taking in" a word, and spell-ability is the ease of (re-)producing it (entering it into the interface). 
+While this "story-ability" will help with assumption #2, I argue that words that are good for holding in your mind temporarily are words that are what I'd call "mentally pronounceable" (shout-out to [Reddit user out0focus for crystallizing this for me](https://www.reddit.com/r/1Password/comments/ur4otq/comment/i8x040c/?utm_source=reddit&utm_medium=web2x&context=3)), by which I simply mean that you can hold them in your mind as a _word_ rather than a collection of letters. I think how easy a word is to spell is closely related to this -- perhaps "mental pronounceable" is the ease of "taking in" a word, and spell-ability is the ease of (re-)producing it (entering it into the interface).
 
 Re: assumption #3, while I didn't optimize my lists for (phonetically) pronounceable words, I think that the methodology I used (striving to use "common" words) works toward this goal.
 
@@ -456,7 +456,7 @@ If a word in a passphrase is very uncommon, it may even be auto-corrected by som
 
 ### Are lists containing similar words, such as plurals, a problem (either for security or usability)?
 
-Some of these lists contains very similar words, such as "tabs" and "tab" and/or "suggested", "suggesting", and "suggestions". I don't think this affects entropy-per-word calculations. 
+Some of these lists contains very similar words, such as "tabs" and "tab" and/or "suggested", "suggesting", and "suggestions". I don't think this affects entropy-per-word calculations.
 
 But I could see how it would be awkward to get two similar words in the same randomly generated passphrase. However, I _think_ the chances of this are pretty small. If we assumed a hypothetical 18,000 word list that was 9,000 words and their plurals, I think the odds of getting at least one "awkward double" in a 4-word passphrase is `1/9000 + 2/9000 + 3/9000 - 11/9000**2 + 6/9000**3`, which is a really small number. (Thanks to [bwbug](https://github.com/bwbug) for [checking my math](https://github.com/sts10/generated-wordlists/issues/1)!)
 
@@ -466,15 +466,15 @@ I'll also note that this issue is similar to the risk of getting the same exact 
 
 If a word list is "uniquely decodable" that means that words from the list can be combined with a delimiter (e.g. "unwovenpreviousslanderpopcorngreedilyepiphany").
 
-As a brief example, if a list has "boy", "hood", and "boyhood" on it, users who specified they wanted two words worth of randomness (entropy) might end up with "boyhood", which an attacker guessing single words would try. Removing the word "boy", which makes the remaining list uniquely decodable, prevents this possibility from occurring. 
+As a brief example, if a list has "boy", "hood", and "boyhood" on it, users who specified they wanted two words worth of randomness (entropy) might end up with "boyhood", which an attacker guessing single words would try. Removing the word "boy", which makes the remaining list uniquely decodable, prevents this possibility from occurring.
 
 Some of the lists in this repository are uniquely decodable, while others are not. The lists marked "experimental" are so marked because I used a method adapted from [the Sardinas–Patterson algorithm](https://en.wikipedia.org/wiki/Sardinas%E2%80%93Patterson_algorithm) to make them uniquely decodable that I have named "Schlinkert pruning." You can learn more about uniquely decodable codes and Schlinkert pruning from [this blog post](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html). Use at your own risk!
 
 Other lists in this repository were made uniquely decodable by more established methods, namely removing all [prefix words](https://en.wikipedia.org/wiki/Prefix_code) or removing all suffix words.
 
-## Using these word lists with KeePassXC 
+## Using these word lists with KeePassXC
 
-[KeePassXC](https://keepassxc.org), a password manager, allows users to use any word list they want. 
+[KeePassXC](https://keepassxc.org), a password manager, allows users to use any word list they want.
 
 To do this, click on the dice icon to open the password generator, then click over to the "Passphrase" tab, then click to + button to choose a word list file. Be sure to **only use a uniquely decodable list with KeePassXC** like "Suffix Free" list or the UD1 list.
 
@@ -505,6 +505,6 @@ This project has no association with Google, Wikipedia, or the creators of the W
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
 
-## Requests? Suggestions? 
+## Requests? Suggestions?
 
 Happy to make word lists given reasonable parameters! Just create an Issue.
