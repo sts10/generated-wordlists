@@ -2,13 +2,13 @@
 
 This repository contains a proposed replacement word list for the password manager 1Password. I, Sam Schlinkert, created this new word list, primarily by [scraping publicly available Google Books Ngram data](https://github.com/sts10/common_word_list_maker) and then doing additional edits.
 
-I am publishing this list in hopes that AgileBits, the company that owns 1Password, wants to adopt it for 1Password's passphrase generator. 
+I am publishing this list in hopes that AgileBits, the company that owns 1Password, wants to adopt it for 1Password's passphrase generator.
 
 Of course nothing is stopping others from using this list for other purposes, assuming they adhere to the relevant licensing (see parent directory's README file for more).
 
 ## Attributes of the new list
 
-This new word list has the same minimum and maximum word length as the list 1Password was using in 2021 (3 and 8). My understanding is the list 1Password currently uses is 18,176 words long. This list has 18,197 words, ensuring that each word gives slightly more entropy than the current list. 
+This new word list has the same minimum and maximum word length as the list 1Password was using in 2021 (3 and 8). My understanding is the list 1Password currently uses is 18,176 words long. This list has 18,197 words, ensuring that each word gives slightly more entropy than the current list.
 
 ```
 List length               : 18197 words
@@ -40,7 +40,7 @@ ham-cataract-thus-pithy-pushcart-piggy
 convex-bump-styled-salesmen-iniquity-troupe
 ```
 
-From this new list: 
+From this new list:
 
 ```
 analyst-ensign-eggplant-singing-evenings-weekdays
@@ -56,21 +56,52 @@ This new list is based on [Google Books Ngram data](https://storage.googleapis.c
 
 Thank you to the users who replied to [a Reddit post about this list](https://www.reddit.com/r/1Password/comments/ur4otq/proposed_new_word_list/) for helping me think through these notes further than I had.
 
-### Assumed use-cases of passphrases 
+## Alternate replacement
 
-Let's consider _**when**_ a password manager user might want to use a passphrase rather than a password like `96W8vaCHCR':XXj,xhJ6`. I based my work around three use-cases (loosely ranked by importance/priority): 
+`alternate-replacement.txt` is a more informal option for replacing the 1Password word list. It has 18,250 words on it and the longest word is 10 characters rather than 8. The words are sourced from both Google Books Ngram data and Wikipedia word frequency data. See parent directory README for more information on word sourcing/licensing.
+
+```txt
+List length               : 18250 words
+Mean word length          : 7.10 characters
+Length of shortest word   : 3 characters (ace)
+Length of longest word    : 10 characters (zoological)
+Free of prefix words?     : false
+Free of suffix words?     : false
+Uniquely decodable?       : false
+Entropy per word          : 14.156 bits
+Efficiency per character  : 1.994 bits
+Assumed entropy per char  : 4.719 bits
+Above brute force line?   : false
+Above Shannon line?       : false
+Shortest edit distance    : 1
+Mean edit distance        : 7.011
+Longest shared prefix     : 9
+Unique character prefix   : 10
+
+Pseudorandomly generated sample passphrases
+-------------------------------------------
+blockade signatory tribute starter roaring silicone
+filling extracted lose olive buyers flap
+hostility metrics aspects creditor medial kidney
+upright punished alarmed pools bile clarifying
+hang jagged nebula protons sediments extracted
+```
+
+### Assumed use-cases of passphrases
+
+Let's consider _**when**_ a password manager user might want to use a passphrase rather than a password like `96W8vaCHCR':XXj,xhJ6`. I based my work around three use-cases (loosely ranked by importance/priority):
 
 1. When creating a master password that the user will have to memorize and type frequently.
 2. When creating an account where they'll enter the password in a situation where they can not auto-fill or copy it from a 1Password app (for example: a smart TV or computers where they don't have 1Password installed). I think of this as a case where the user needs to hold their password in their minds for a few seconds.
 3. When creating an account they anticipate they may have to read the password over a voice channel.
 
-For the first use-case, I wanted to make a list that prioritized words that were "story-able". By "story-able", I mean words that most users will be able to construct a story with. Inspired by [the "Password Strength" xkcd comic](https://xkcd.com/936/?correct=horse&battery=staple), I think users memorize passphrases by creating a little story for themselves. 
+For the first use-case, I wanted to make a list that prioritized words that were "story-able". By "story-able", I mean words that most users will be able to construct a story with. Inspired by [the "Password Strength" xkcd comic](https://xkcd.com/936/?correct=horse&battery=staple), I think users memorize passphrases by creating a little story for themselves.
 
 ![Correct horse battery stapler comic](https://imgs.xkcd.com/comics/password_strength.png)
 
 This guided my choice to use Google Books data -- these are words that literally make up the stories of English-speaking people. Whether certain parts of speech, like nouns, some balanced mix of parts of speech, or other categorizations of words, like singular nouns, are generally more "story-able" than others is a question to explore further.
 
-While this "story-ability" will help with assumption #2, I argue that words that are good for holding in your mind temporarily are words that are what I'd call "mentally pronounceable" (shout-out to [Reddit user out0focus for crystallizing this for me](https://www.reddit.com/r/1Password/comments/ur4otq/comment/i8x040c/?utm_source=reddit&utm_medium=web2x&context=3)), by which I simply mean that you can hold them in your mind as a _word_ rather than a collection of letters. I think how easy a word is to spell is closely related to this -- perhaps "mental pronounceable" is the ease of "taking in" a word, and spell-ability is the ease of (re-)producing it (entering it into the interface). To make this more concrete, imagine carrying `entendre goyim ormolu waggish` (four words I'm cutting from the 1Password list) vs. `doubling striker adverbs guided` (four words I'm adding). 
+While this "story-ability" will help with assumption #2, I argue that words that are good for holding in your mind temporarily are words that are what I'd call "mentally pronounceable" (shout-out to [Reddit user out0focus for crystallizing this for me](https://www.reddit.com/r/1Password/comments/ur4otq/comment/i8x040c/?utm_source=reddit&utm_medium=web2x&context=3)), by which I simply mean that you can hold them in your mind as a _word_ rather than a collection of letters. I think how easy a word is to spell is closely related to this -- perhaps "mental pronounceable" is the ease of "taking in" a word, and spell-ability is the ease of (re-)producing it (entering it into the interface). To make this more concrete, imagine carrying `entendre goyim ormolu waggish` (four words I'm cutting from the 1Password list) vs. `doubling striker adverbs guided` (four words I'm adding).
 
 Re: assumption #3, while I didn't optimize my list for (phonetically) pronounceable words, I think that the methodology I used (striving to use "common" words) works toward this goal.
 
@@ -93,12 +124,12 @@ If a word in a passphrase is very uncommon, it may even be auto-corrected by som
 
 ## Disclaimers
 
-While I've attempted to remove offensive or inappropriate words from this list, I can't guarantee I've caught all of them. 
+While I've attempted to remove offensive or inappropriate words from this list, I can't guarantee I've caught all of them.
 
 Also, I make no guarantees about the security of passphrases generated with words from this list. Please check its safety yourself before using in situations that require secure passphrases.
 
 ## On licensing/usage
 
-This project has no association with Agile Bits/1Password or Google, nor, to my knowledge, does either entity endorse this project. 
+This project has no association with Agile Bits/1Password or Google, nor, to my knowledge, does either entity endorse this project.
 
 See parent directory's README for more licensing information.
