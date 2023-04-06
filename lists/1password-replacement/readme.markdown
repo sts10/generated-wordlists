@@ -62,29 +62,20 @@ Thank you to the users who replied to [a Reddit post about this list](https://ww
 
 ```txt
 List length               : 18250 words
-Mean word length          : 7.10 characters
+Mean word length          : 7.12 characters
 Length of shortest word   : 3 characters (ace)
 Length of longest word    : 10 characters (zoological)
-Free of prefix words?     : false
-Free of suffix words?     : false
-Uniquely decodable?       : false
 Entropy per word          : 14.156 bits
-Efficiency per character  : 1.994 bits
+Efficiency per character  : 1.989 bits
 Assumed entropy per char  : 4.719 bits
-Above brute force line?   : false
-Above Shannon line?       : false
-Shortest edit distance    : 1
-Mean edit distance        : 7.011
-Longest shared prefix     : 9
-Unique character prefix   : 10
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-blockade signatory tribute starter roaring silicone
-filling extracted lose olive buyers flap
-hostility metrics aspects creditor medial kidney
-upright punished alarmed pools bile clarifying
-hang jagged nebula protons sediments extracted
+south morocco occupies minors kangaroos badge
+adoptive shrinking enrolled fragile cater sweater
+vary proverb forwarding hills staffing freshness
+theorized sees framework solvents asks properly
+font tiles blurred rebellions achieve poverty
 ```
 
 ### Assumed use-cases of passphrases
