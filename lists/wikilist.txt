@@ -287,8 +287,6 @@ adviser
 advisers
 advises
 advising
-advisor
-advisors
 advisory
 advocacy
 advocate
@@ -300,8 +298,6 @@ aerial
 aerobic
 aerodynamic
 aeronautics
-aesthetic
-aesthetics
 afar
 affair
 affairs
@@ -495,6 +491,7 @@ almanac
 almighty
 almond
 almost
+alms
 alone
 along
 alongside
@@ -615,6 +612,7 @@ ancient
 ancillary
 and
 android
+anecdote
 anecdotes
 anemia
 anesthesia
@@ -631,6 +629,7 @@ angry
 angular
 animal
 animals
+animate
 animated
 animation
 animations
@@ -1057,6 +1056,7 @@ atonement
 atop
 atrium
 atrocities
+atrophy
 attach
 attached
 attaching
@@ -1837,6 +1837,7 @@ botanical
 botanist
 botanists
 botany
+bother
 bothered
 bottle
 bottled
@@ -1997,6 +1998,7 @@ broke
 broken
 broker
 brokerage
+brokered
 brokers
 bromide
 broncos
@@ -2112,7 +2114,6 @@ bursts
 bury
 burying
 bus
-buses
 bush
 bushes
 busiest
@@ -2224,8 +2225,6 @@ canals
 canary
 cancel
 canceled
-cancelled
-cancelling
 cancer
 cancers
 candidacy
@@ -2391,8 +2390,6 @@ casualty
 cat
 catalog
 catalogs
-catalogued
-catalogues
 catalysis
 catalyst
 catalysts
@@ -2542,6 +2539,7 @@ champions
 champs
 chance
 chancel
+chancellery
 chancellor
 chancery
 chances
@@ -2796,6 +2794,7 @@ cleansing
 cleanup
 clear
 clearance
+clearances
 cleared
 clearer
 clearing
@@ -2904,6 +2903,7 @@ cobra
 cockpit
 cocoa
 coconut
+cocoon
 cod
 coda
 code
@@ -3304,6 +3304,7 @@ conical
 conifer
 coniferous
 conjecture
+conjectured
 conjugate
 conjugation
 conjunction
@@ -3515,6 +3516,7 @@ cookies
 cooking
 cooks
 cool
+coolant
 cooled
 cooler
 cooling
@@ -3611,15 +3613,12 @@ cougar
 cougars
 cough
 council
-councillor
-councillors
 councilman
 councilor
 councilors
 councils
 counsel
 counseling
-counsellor
 counselor
 counselors
 count
@@ -4153,6 +4152,7 @@ delegations
 delete
 deleted
 deletion
+deli
 deliberate
 delicacy
 delicate
@@ -4411,7 +4411,6 @@ dial
 dialect
 dialects
 dialog
-dialogues
 diameter
 diameters
 diamond
@@ -4571,7 +4570,6 @@ discredited
 discrepancy
 discrete
 discretion
-discs
 discuss
 discussed
 discusses
@@ -4618,6 +4616,7 @@ dispersal
 disperse
 dispersed
 dispersion
+displace
 displaced
 displacing
 display
@@ -5464,7 +5463,6 @@ epics
 epidemic
 epidemics
 epilepsy
-epilogue
 episcopal
 episcopate
 episode
@@ -6252,6 +6250,7 @@ flamenco
 flames
 flaming
 flamingo
+flammable
 flank
 flanked
 flanking
@@ -6353,7 +6352,6 @@ focus
 focused
 focuses
 focusing
-focussed
 fodder
 foe
 foes
@@ -6747,7 +6745,6 @@ garrisons
 garter
 gas
 gaseous
-gases
 gasoline
 gastric
 gate
@@ -6759,8 +6756,6 @@ gathered
 gathering
 gatherings
 gathers
-gauge
-gauges
 gauntlet
 gave
 gay
@@ -6877,7 +6872,6 @@ glad
 gladiator
 gladiators
 glamorous
-glamour
 glance
 gland
 glands
@@ -7055,7 +7049,6 @@ grenades
 grenadier
 grew
 greyhound
-greyish
 grid
 grids
 grief
@@ -8191,6 +8184,7 @@ insulting
 insults
 insurance
 insured
+insurers
 insurgency
 insurgent
 insurgents
@@ -8616,6 +8610,7 @@ knock
 knocked
 knocking
 knockout
+knockouts
 knocks
 knoll
 knot
@@ -8881,10 +8876,10 @@ leukemia
 levee
 level
 leveled
-levelled
 levels
 lever
 leverage
+leveraged
 levied
 levy
 lexical
@@ -8911,7 +8906,6 @@ librarians
 libraries
 library
 libretto
-licences
 license
 licensed
 licensee
@@ -8959,6 +8953,7 @@ likeness
 likes
 likewise
 liking
+lilac
 lily
 limb
 limbo
@@ -9184,6 +9179,7 @@ luck
 lucky
 lucrative
 luggage
+lukewarm
 lullaby
 lumber
 luminosity
@@ -9836,7 +9832,6 @@ mode
 model
 modeled
 modeling
-modelled
 models
 modem
 moderate
@@ -9902,7 +9897,6 @@ monochrome
 monogram
 monograph
 monographs
-monologues
 monopolies
 monopoly
 monorail
@@ -10025,6 +10019,7 @@ multiplayer
 multiple
 multiplex
 multiplied
+multiplier
 multiply
 multiplying
 multitude
@@ -10134,6 +10129,7 @@ native
 natives
 nativity
 natural
+naturalism
 naturalist
 naturalized
 naturally
@@ -11116,6 +11112,7 @@ peanuts
 pear
 pearl
 pearls
+pears
 peas
 peasant
 peasantry
@@ -11643,6 +11640,7 @@ populist
 populous
 porcelain
 porch
+porches
 porcupine
 pore
 pores
@@ -11899,6 +11897,7 @@ prevention
 preventive
 prevents
 preview
+previewed
 previews
 previous
 previously
@@ -12058,7 +12057,6 @@ projectors
 projects
 proletarian
 prolific
-prologue
 prolonged
 prom
 promenade
@@ -12162,7 +12160,6 @@ protestants
 protested
 protesters
 protesting
-protestors
 protests
 protocol
 protocols
@@ -12777,6 +12774,7 @@ refueling
 refuge
 refugee
 refugees
+refund
 refurbished
 refusal
 refuse
@@ -12950,7 +12948,6 @@ remnant
 remnants
 remodeled
 remodeling
-remodelled
 remorse
 remote
 remotely
@@ -13021,6 +13018,7 @@ repeating
 repeats
 repel
 repelled
+repentance
 repertoire
 repertory
 repetition
@@ -13496,6 +13494,7 @@ rotational
 rotations
 rotor
 rotten
+rotting
 rotunda
 rouge
 rough
@@ -13583,8 +13582,6 @@ sabbatical
 saber
 sable
 sabotage
-sabre
-sabres
 sack
 sacked
 sacking
@@ -13706,7 +13703,6 @@ saves
 saving
 savings
 savior
-saviour
 saw
 sawmill
 sawmills
@@ -13718,6 +13714,7 @@ say
 saying
 sayings
 says
+scaffold
 scalar
 scale
 scaled
@@ -13859,6 +13856,7 @@ searching
 searchlight
 sears
 seas
+seashore
 seaside
 season
 seasonal
@@ -14135,6 +14133,7 @@ sharp
 sharply
 shattered
 shaved
+sheaf
 shear
 shearer
 shearing
@@ -14147,7 +14146,6 @@ sheep
 sheer
 sheet
 sheets
-sheikh
 shelf
 shell
 shelled
@@ -14260,6 +14258,7 @@ shrink
 shrinking
 shrub
 shrubs
+shrunk
 shuffle
 shun
 shut
@@ -14300,8 +14299,6 @@ sign
 signal
 signaled
 signaling
-signalled
-signalling
 signals
 signatories
 signatory
@@ -14436,6 +14433,7 @@ skirmish
 skirmishes
 skirt
 skirts
+skis
 skull
 skulls
 sky
@@ -15921,6 +15919,7 @@ thirteenth
 thirties
 thirty
 thistle
+thong
 thorn
 thorns
 thorough
@@ -15947,6 +15946,7 @@ thrice
 thrill
 thrilled
 thriller
+thrillers
 thrilling
 thrive
 thrived
@@ -16712,6 +16712,7 @@ urge
 urged
 urgency
 urgent
+urgently
 urges
 urging
 urn
@@ -17100,6 +17101,7 @@ wand
 wander
 wanderers
 wandering
+wanders
 waned
 waning
 wanted
@@ -17435,7 +17437,6 @@ woodpecker
 woods
 woodwork
 wool
-woolly
 word
 wording
 words
@@ -17471,7 +17472,6 @@ worsened
 worsening
 worship
 worshiped
-worshipped
 worshippers
 worst
 worth

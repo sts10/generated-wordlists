@@ -340,8 +340,6 @@ adviser
 advisers
 advises
 advising
-advisor
-advisors
 advisory
 advocacy
 advocate
@@ -352,8 +350,6 @@ aerial
 aerobic
 aeronautics
 aerosol
-aesthetic
-aesthetics
 afar
 affair
 affairs
@@ -641,6 +637,7 @@ ample
 amplified
 amplifier
 amplifiers
+amplify
 amplitude
 amplitudes
 amply
@@ -650,11 +647,9 @@ amused
 amusement
 amusing
 anaerobic
-anaesthesia
 analog
 analogies
 analogous
-analogues
 analogy
 analysis
 analyst
@@ -1059,6 +1054,7 @@ asphalt
 aspiration
 aspirations
 aspire
+aspired
 aspirin
 aspiring
 assassin
@@ -1400,6 +1396,7 @@ banana
 bananas
 band
 bandage
+bandages
 banded
 bandits
 bands
@@ -2045,6 +2042,7 @@ brig
 brigade
 brigades
 bright
+brightened
 brighter
 brightest
 brightly
@@ -2209,7 +2207,6 @@ bursts
 bury
 burying
 bus
-buses
 bush
 bushes
 business
@@ -2313,8 +2310,6 @@ canals
 canary
 cancel
 canceled
-cancellation
-cancelled
 cancer
 cancers
 candid
@@ -2464,8 +2459,6 @@ cat
 catalog
 cataloging
 catalogs
-catalogues
-cataloguing
 catalysis
 catalyst
 catalysts
@@ -2662,6 +2655,7 @@ chaste
 chastity
 chat
 chatter
+chattering
 chatting
 chauffeur
 cheap
@@ -3096,6 +3090,7 @@ comb
 combat
 combatants
 combating
+combed
 combination
 combinations
 combine
@@ -3834,11 +3829,9 @@ couched
 cough
 coughing
 council
-councillors
 councils
 counsel
 counseling
-counsellor
 counselor
 counselors
 counsels
@@ -4731,7 +4724,6 @@ dialectic
 dialects
 dialed
 dialog
-dialogues
 dialysis
 diameter
 diameters
@@ -4926,7 +4918,6 @@ discrete
 discretion
 discriminant
 discriminate
-discs
 discursive
 discuss
 discussed
@@ -5090,6 +5081,7 @@ divergent
 divers
 diverse
 diversified
+diversify
 diversion
 diversity
 divert
@@ -5757,6 +5749,7 @@ engines
 engraved
 engraving
 engravings
+engrossed
 engulfed
 enhance
 enhanced
@@ -5865,7 +5858,6 @@ epidermal
 epidermis
 epilepsy
 epileptic
-epilogue
 episcopal
 episode
 episodes
@@ -5916,6 +5908,7 @@ erroneous
 erroneously
 error
 errors
+erstwhile
 erupted
 eruption
 eruptions
@@ -6281,6 +6274,7 @@ extracted
 extracting
 extraction
 extracts
+extradition
 extraneous
 extravagance
 extravagant
@@ -6385,6 +6379,7 @@ famine
 famous
 famously
 fan
+fanatical
 fancied
 fanciful
 fancy
@@ -6693,6 +6688,7 @@ flapping
 flaps
 flare
 flared
+flares
 flash
 flashed
 flashes
@@ -6799,7 +6795,6 @@ focus
 focused
 focuses
 focusing
-focussed
 fodder
 foe
 foes
@@ -7109,7 +7104,6 @@ fulfill
 fulfilled
 fulfilling
 fulfillment
-fulfilment
 full
 fuller
 fullest
@@ -7211,7 +7205,6 @@ garnish
 garrison
 gas
 gaseous
-gases
 gasoline
 gasp
 gasped
@@ -7226,8 +7219,6 @@ gathered
 gathering
 gatherings
 gathers
-gauge
-gauges
 gaunt
 gauze
 gave
@@ -7350,7 +7341,6 @@ glaciers
 glad
 gladly
 glamorous
-glamour
 glance
 glanced
 glances
@@ -7685,6 +7675,7 @@ hamburger
 hamlet
 hammer
 hammered
+hamper
 hampered
 hand
 handbook
@@ -7701,6 +7692,7 @@ handlers
 handles
 handling
 hands
+handshake
 handsome
 handwriting
 handwritten
@@ -9490,6 +9482,7 @@ leaving
 lecture
 lectured
 lecturer
+lecturers
 lectures
 lecturing
 led
@@ -9596,7 +9589,6 @@ librarians
 libraries
 library
 lice
-licences
 license
 licensed
 licensee
@@ -9706,6 +9698,7 @@ listing
 listings
 lists
 lit
+lite
 liter
 literacy
 literal
@@ -10269,6 +10262,7 @@ memorial
 memorials
 memories
 memorize
+memorized
 memory
 memos
 men
@@ -10340,6 +10334,7 @@ meters
 methane
 methanol
 method
+methodical
 methodology
 methods
 meticulous
@@ -10458,6 +10453,7 @@ miracle
 miracles
 miraculous
 miraculously
+mirage
 mirror
 mirrored
 mirrors
@@ -10528,7 +10524,6 @@ mode
 model
 modeled
 modeling
-modelled
 models
 modem
 modems
@@ -11006,6 +11001,7 @@ oppressive
 opted
 optic
 optical
+optically
 optics
 optimal
 optimism
@@ -11186,6 +11182,7 @@ overnight
 overpowering
 override
 overriding
+overruled
 overrun
 overseas
 oversee
@@ -11689,9 +11686,11 @@ pertaining
 pertains
 pertinent
 perturbation
+perturbed
 pervades
 pervasive
 perverse
+perverted
 pesos
 pessimism
 pessimistic
@@ -11705,6 +11704,7 @@ peter
 peters
 petite
 petition
+petitioned
 petitioner
 petitioners
 petitions
@@ -12220,6 +12220,7 @@ practices
 practicing
 practitioner
 pragmatic
+pragmatics
 pragmatism
 prairie
 prairies
@@ -12301,6 +12302,7 @@ preferred
 preferring
 prefers
 prefix
+prefixes
 pregnancies
 pregnancy
 pregnant
@@ -12570,7 +12572,6 @@ projects
 proletarian
 proletariat
 prolific
-prologue
 prolong
 prolonged
 prom
@@ -12945,6 +12946,7 @@ radiology
 radios
 radiotherapy
 radius
+radon
 raft
 rag
 rage
@@ -13425,6 +13427,7 @@ religions
 religious
 religiously
 relinquish
+relinquished
 relish
 relocated
 relocation
@@ -14200,7 +14203,6 @@ saves
 saving
 savings
 savior
-saviour
 savvy
 saw
 sawyer
@@ -14645,7 +14647,6 @@ sheep
 sheer
 sheet
 sheets
-sheikh
 shelf
 shell
 shellfish
@@ -14755,6 +14756,7 @@ shrub
 shrubs
 shrug
 shrugged
+shrunk
 shudder
 shuddered
 shuffle
@@ -14796,8 +14798,6 @@ sign
 signal
 signaled
 signaling
-signalled
-signalling
 signals
 signature
 signatures
@@ -16815,7 +16815,6 @@ tram
 trampled
 trance
 tranquil
-tranquillity
 transaction
 transactions
 transcend
@@ -17192,6 +17191,7 @@ undisputed
 undisturbed
 undivided
 undo
+undocumented
 undone
 undoubtedly
 undue
@@ -17302,6 +17302,7 @@ unravel
 unreal
 unrealistic
 unreasonable
+unreasonably
 unrecognized
 unrelated
 unreliable
@@ -18150,7 +18151,6 @@ worse
 worsened
 worsening
 worship
-worshipped
 worshippers
 worst
 worth

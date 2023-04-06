@@ -203,7 +203,6 @@ adapter
 adapting
 adaptive
 add
-added
 addicted
 addiction
 addictive
@@ -319,8 +318,6 @@ adviser
 advisers
 advises
 advising
-advisor
-advisors
 advisory
 advocacy
 advocate
@@ -333,9 +330,6 @@ aerodynamic
 aerodynamics
 aeronautical
 aeronautics
-aesthetic
-aesthetically
-aesthetics
 afar
 affair
 affairs
@@ -464,6 +458,7 @@ algorithm
 algorithmic
 algorithms
 alias
+aliases
 alibi
 alien
 alienated
@@ -592,7 +587,6 @@ amid
 amidships
 amidst
 amino
-amity
 ammonia
 ammunition
 amnesia
@@ -619,7 +613,6 @@ amusing
 anaerobic
 analog
 analogous
-analogues
 analogy
 analysis
 analyst
@@ -803,6 +796,7 @@ applause
 apples
 appliance
 appliances
+applicability
 applicable
 applicant
 applicants
@@ -863,9 +857,6 @@ arboretum
 arc
 arcade
 arcades
-archaeological
-archaeologist
-archaeologists
 archaic
 archangel
 archbishop
@@ -979,6 +970,7 @@ ascended
 ascending
 ascension
 ascent
+ascents
 ascertain
 ascetic
 ascribed
@@ -1340,6 +1332,7 @@ bamboo
 banana
 bananas
 banded
+banding
 bandit
 bandits
 bands
@@ -1435,6 +1428,7 @@ basket
 basketball
 baskets
 bass
+basses
 bassist
 bassoon
 bastion
@@ -1542,6 +1536,7 @@ behalf
 behave
 behaved
 behaves
+behaving
 behavior
 behavioral
 beheaded
@@ -1599,7 +1594,6 @@ benzene
 bequeathed
 bequest
 beret
-berg
 berries
 berth
 berths
@@ -1711,6 +1705,7 @@ black
 blackberry
 blackbird
 blackish
+blacklist
 blackmail
 blackout
 blacksmith
@@ -2192,6 +2187,7 @@ buying
 buyout
 buys
 buzz
+buzzard
 byes
 bypass
 bypassed
@@ -2225,6 +2221,7 @@ cages
 cairn
 cake
 cakes
+calamity
 calcium
 calculate
 calculated
@@ -2277,9 +2274,6 @@ canals
 canary
 cancel
 canceled
-cancellation
-cancelled
-cancelling
 cancer
 cancers
 candid
@@ -2436,8 +2430,6 @@ casualties
 casualty
 catalog
 catalogs
-catalogued
-catalogues
 catalysis
 catalyst
 catalysts
@@ -2445,6 +2437,7 @@ catalytic
 catalyzed
 catalyzes
 catapult
+cataract
 catastrophe
 catastrophic
 catch
@@ -2846,6 +2839,7 @@ clay
 clean
 cleaned
 cleaner
+cleaners
 cleaning
 cleansing
 cleanup
@@ -2926,6 +2920,7 @@ clowns
 clubhouse
 clue
 clues
+clumps
 clumsy
 cluster
 clustered
@@ -3009,6 +3004,7 @@ collapsed
 collapses
 collapsing
 collar
+collars
 collateral
 colleague
 colleagues
@@ -3420,6 +3416,7 @@ conifers
 conjecture
 conjectured
 conjugate
+conjugated
 conjugation
 conjunction
 connect
@@ -3668,6 +3665,7 @@ conversions
 convert
 converted
 converter
+converters
 convertible
 converting
 converts
@@ -3805,15 +3803,12 @@ cougar
 cougars
 cough
 council
-councillor
-councillors
 councilman
 councilor
 councilors
 councils
 counsel
 counseling
-counsellor
 counselor
 counselors
 countdown
@@ -4257,6 +4252,7 @@ dedication
 deduced
 deducted
 deduction
+deductions
 deeds
 deeming
 deep
@@ -4621,7 +4617,6 @@ diagrams
 dialect
 dialects
 dialog
-dialogues
 dialysis
 diameter
 diameters
@@ -4813,7 +4808,6 @@ discriminate
 discriminated
 discrimination
 discriminatory
-discs
 discuss
 discussed
 discusses
@@ -5351,6 +5345,7 @@ eggs
 ego
 eigenvalues
 eighteen
+eighteens
 eighteenth
 eighth
 eighties
@@ -5359,6 +5354,7 @@ elaborate
 elaborated
 elaborately
 elaboration
+elapsed
 elastic
 elasticity
 elbow
@@ -5717,7 +5713,6 @@ epidemic
 epidemics
 epidemiology
 epilepsy
-epilogue
 episcopal
 episcopate
 episode
@@ -6130,7 +6125,6 @@ extremists
 extremities
 extremity
 eye
-eyed
 eyesight
 eyewitness
 fable
@@ -6306,6 +6300,7 @@ fellow
 fellows
 fellowship
 fellowships
+fells
 felony
 female
 females
@@ -6586,7 +6581,6 @@ focus
 focused
 focuses
 focusing
-focussed
 fodder
 foe
 foes
@@ -6706,6 +6700,7 @@ forthcoming
 fortification
 fortifications
 fortified
+fortitude
 fortnight
 fortress
 fortresses
@@ -6717,6 +6712,7 @@ forums
 forwarded
 forwards
 fossil
+fossilized
 fossils
 foster
 fostered
@@ -6924,6 +6920,7 @@ gamble
 gambler
 gambling
 game
+gamecocks
 gamer
 games
 gaming
@@ -6956,18 +6953,16 @@ garrisons
 garter
 gas
 gaseous
-gases
 gasoline
 gastric
 gates
 gateway
+gateways
 gather
 gathered
 gathering
 gatherings
 gathers
-gauge
-gauges
 gauntlet
 gave
 gay
@@ -7089,7 +7084,6 @@ glad
 gladiator
 gladiators
 glamorous
-glamour
 glance
 gland
 glands
@@ -7267,7 +7261,6 @@ grenadier
 grew
 greyhound
 greyhounds
-greyish
 grid
 grids
 grief
@@ -7496,6 +7489,7 @@ harvesting
 harvests
 hash
 hashtag
+haste
 hastily
 hasty
 hatch
@@ -7512,7 +7506,6 @@ haunted
 haunting
 haven
 havens
-having
 havoc
 hawk
 hawker
@@ -7672,6 +7665,7 @@ hikers
 hiking
 hilarious
 hillside
+hillsides
 hilltop
 hilly
 hinder
@@ -7909,6 +7903,7 @@ hypothesis
 hypothesized
 hypothetical
 hysteria
+iceberg
 icebreaker
 icons
 idea
@@ -8808,14 +8803,15 @@ jolly
 josh
 journal
 journalism
-journalist
 journalistic
 journalists
 journals
 journey
+journeyed
 journeyman
 journeys
 joyful
+joystick
 jubilee
 judge
 judged
@@ -8931,6 +8927,7 @@ kites
 kitten
 kitty
 kiwi
+knack
 knee
 kneeling
 knees
@@ -9010,7 +9007,6 @@ language
 languages
 lantern
 lanterns
-lapsed
 laptop
 laptops
 largely
@@ -9154,10 +9150,10 @@ leukemia
 levee
 level
 leveled
-levelled
 levels
 leverage
 leveraged
+leviathan
 levied
 levy
 lexical
@@ -9181,7 +9177,6 @@ librarians
 libraries
 library
 libretto
-licences
 license
 licensee
 licenses
@@ -9250,6 +9245,7 @@ linking
 links
 lipid
 lipids
+lipstick
 liquid
 liquidated
 liquidation
@@ -10067,6 +10063,7 @@ molten
 molybdenum
 mom
 moment
+momentarily
 moments
 momentum
 monarch
@@ -10093,7 +10090,6 @@ monogram
 monograph
 monographs
 monolithic
-monologues
 monopolies
 monopoly
 monorail
@@ -10166,6 +10162,7 @@ motocross
 motor
 motorcycle
 motorcycles
+motoring
 motorists
 motorized
 motors
@@ -10209,6 +10206,7 @@ multiplayer
 multiple
 multiples
 multiplex
+multiplexed
 multiplication
 multiplicity
 multiplied
@@ -10494,6 +10492,7 @@ nonprofit
 nonsense
 nonstop
 nonviolent
+nonzero
 noodle
 noodles
 noon
@@ -11017,6 +11016,7 @@ packets
 packing
 packs
 pad
+padded
 paddle
 paddock
 padre
@@ -11469,6 +11469,7 @@ photographic
 photographing
 photographs
 photography
+photojournalist
 photon
 photons
 photos
@@ -11519,6 +11520,7 @@ pilasters
 piles
 pilgrim
 pilgrimage
+pilgrimages
 pilgrims
 pillow
 pilot
@@ -11739,6 +11741,7 @@ polygamy
 polygon
 polygonal
 polygons
+polyhedron
 polymer
 polymerization
 polymers
@@ -11856,7 +11859,6 @@ powdered
 powerful
 powerhouse
 powerless
-powers
 practically
 practice
 practiced
@@ -12190,7 +12192,6 @@ proletarian
 proletariat
 proliferation
 prolific
-prologue
 prolonged
 prom
 promenade
@@ -12288,6 +12289,7 @@ protections
 protective
 protector
 protectorate
+protectors
 protects
 protein
 proteins
@@ -12297,7 +12299,6 @@ protestants
 protested
 protesters
 protesting
-protestors
 protests
 protocol
 protocols
@@ -12567,6 +12568,7 @@ radios
 radium
 radius
 raffles
+rafters
 rags
 ragtime
 raided
@@ -12783,6 +12785,7 @@ recount
 recounted
 recounting
 recounts
+recourse
 recover
 recovered
 recoveries
@@ -13073,7 +13076,6 @@ remnant
 remnants
 remodeled
 remodeling
-remodelled
 remorse
 remote
 remotely
@@ -13228,6 +13230,7 @@ rescheduled
 rescinded
 rescue
 rescued
+rescuers
 rescues
 rescuing
 research
@@ -13308,6 +13311,7 @@ restoration
 restorations
 restore
 restored
+restores
 restoring
 restrain
 restrained
@@ -13341,6 +13345,7 @@ resurrection
 retail
 retailer
 retailers
+retailing
 retain
 retained
 retaining
@@ -13650,8 +13655,6 @@ rye
 sabbatical
 saber
 sabotage
-sabre
-sabres
 sack
 sacked
 sacking
@@ -13776,7 +13779,6 @@ saves
 saving
 savings
 savior
-saviour
 sawmill
 sawmills
 sawyer
@@ -14208,7 +14210,6 @@ sheer
 sheet
 sheets
 sheik
-sheikh
 shelf
 shell
 shelled
@@ -14321,6 +14322,7 @@ shrub
 shrubs
 shrunk
 shun
+shunned
 shunting
 shut
 shutdown
@@ -14353,8 +14355,6 @@ sigma
 signal
 signaled
 signaling
-signalled
-signalling
 signals
 signatories
 signatory
@@ -14571,6 +14571,7 @@ smashed
 smashing
 smear
 smell
+smells
 smelter
 smelting
 smile
@@ -15163,7 +15164,6 @@ stopping
 stops
 storage
 storefront
-stores
 stork
 stormed
 storming
@@ -15359,6 +15359,7 @@ substituted
 substitutes
 substituting
 substitution
+substitutions
 substrate
 subsumed
 subsystem
@@ -15400,6 +15401,7 @@ suffix
 suffixes
 suffragan
 suffrage
+suffragette
 suffragist
 suffused
 sugar
@@ -15474,6 +15476,7 @@ supermarket
 supermarkets
 supernatural
 supernova
+superpowers
 superseded
 supersonic
 superstar
@@ -15806,7 +15809,6 @@ tedious
 teenage
 teenager
 teenagers
-teens
 teeth
 telecasts
 telegram
@@ -16115,6 +16117,7 @@ topological
 topology
 toppled
 torch
+tormented
 torn
 tornado
 tornadoes
@@ -16442,7 +16445,6 @@ tunic
 tuning
 tunnel
 tunneling
-tunnelling
 tunnels
 turban
 turbine
@@ -17038,6 +17040,7 @@ visitors
 visits
 vista
 visualization
+visualize
 visually
 visuals
 vital
@@ -17448,7 +17451,6 @@ woods
 woodwork
 wool
 woolen
-woolly
 wording
 worker
 workflow
@@ -17479,7 +17481,6 @@ worsening
 worship
 worshiped
 worshipful
-worshipped
 worshippers
 worst
 worth
@@ -17557,7 +17558,6 @@ zeal
 zebra
 zenith
 zeppelin
-zero
 zeros
 zeta
 zinc

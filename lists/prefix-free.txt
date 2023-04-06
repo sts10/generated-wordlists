@@ -283,7 +283,6 @@ advised
 advisers
 advises
 advising
-advisors
 advisory
 advocacy
 advocated
@@ -295,8 +294,6 @@ aerobic
 aerodynamic
 aeronautics
 aerosol
-aesthetically
-aesthetics
 afar
 affairs
 affected
@@ -533,11 +530,8 @@ amused
 amusement
 amusing
 anaerobic
-anaesthesia
-anaesthetic
 analogies
 analogous
-analogues
 analogy
 analysis
 analysts
@@ -759,8 +753,6 @@ arbitration
 arbitrators
 arbor
 arcade
-archaeological
-archaeologists
 archaic
 archbishop
 arched
@@ -1753,7 +1745,6 @@ burrows
 bursting
 bursts
 burying
-buses
 bushels
 bushes
 bushy
@@ -1830,8 +1821,6 @@ campuses
 canals
 canary
 canceled
-cancellation
-cancelled
 cancers
 candidacy
 candidates
@@ -1943,8 +1932,6 @@ casualties
 casualty
 cataloging
 catalogs
-catalogues
-cataloguing
 catalysis
 catalysts
 catalytic
@@ -3065,10 +3052,8 @@ cotton
 couched
 coughed
 coughing
-councillors
 councils
 counseling
-counsellor
 counselors
 counsels
 counted
@@ -3763,7 +3748,7 @@ diagrams
 dialectic
 dialects
 dialed
-dialogues
+dialog
 dialysis
 diameters
 diamonds
@@ -3927,7 +3912,6 @@ discriminated
 discriminating
 discrimination
 discriminatory
-discs
 discursive
 discussed
 discusses
@@ -4673,7 +4657,6 @@ epidermal
 epidermis
 epilepsy
 epileptic
-epilogue
 episcopal
 episodes
 episodic
@@ -5396,7 +5379,6 @@ focal
 focused
 focuses
 focusing
-focussed
 fodder
 foes
 fog
@@ -5635,7 +5617,6 @@ fulfilled
 fulfilling
 fulfillment
 fulfills
-fulfilment
 fuller
 fullest
 fullness
@@ -5719,7 +5700,6 @@ garnet
 garnish
 garrison
 gaseous
-gases
 gasoline
 gasped
 gasping
@@ -5730,7 +5710,6 @@ gateway
 gathered
 gatherings
 gathers
-gauges
 gaunt
 gauze
 gave
@@ -5823,7 +5802,6 @@ glacial
 glaciers
 gladly
 glamorous
-glamour
 glanced
 glances
 glancing
@@ -7628,7 +7606,6 @@ leukemia
 leukocytes
 leveled
 leveling
-levelled
 levels
 leverage
 levers
@@ -7657,7 +7634,6 @@ liberty
 librarians
 libraries
 library
-licences
 licensed
 licensee
 licenses
@@ -8383,7 +8359,6 @@ mocking
 modal
 modeled
 modeling
-modelled
 models
 modems
 moderately
@@ -10007,7 +9982,7 @@ proletarian
 proletariat
 proliferation
 prolific
-prologue
+prolog
 prolongation
 prolonged
 prominence
@@ -11284,7 +11259,6 @@ saved
 saves
 savings
 savior
-saviour
 savvy
 sawyer
 sayings
@@ -11628,7 +11602,6 @@ sheen
 sheep
 sheer
 sheets
-sheikh
 shelf
 shellfish
 shells
@@ -11742,8 +11715,6 @@ sights
 sigma
 signaled
 signaling
-signalled
-signalling
 signals
 signatures
 signed
@@ -13284,7 +13255,6 @@ trajectory
 trampled
 trance
 tranquility
-tranquillity
 transactions
 transatlantic
 transcended
@@ -14394,7 +14364,6 @@ worries
 worrying
 worsened
 worsening
-worshipped
 worshippers
 worst
 worthless

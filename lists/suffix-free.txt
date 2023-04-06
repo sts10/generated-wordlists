@@ -342,8 +342,6 @@ adviser
 advisers
 advises
 advising
-advisor
-advisors
 advisory
 advocacy
 advocate
@@ -353,8 +351,6 @@ advocating
 aerial
 aeronautics
 aerosol
-aesthetic
-aesthetics
 afar
 affair
 affairs
@@ -595,6 +591,7 @@ amortization
 amounted
 amounting
 amounts
+amour
 amphibians
 amplification
 amplified
@@ -610,11 +607,9 @@ amused
 amusement
 amusing
 anaerobic
-anaesthesia
 analog
 analogies
 analogous
-analogues
 analogy
 analyst
 analysts
@@ -638,6 +633,7 @@ ancestry
 anchor
 anchorage
 anchored
+anchoring
 anchors
 ancient
 ancients
@@ -789,6 +785,7 @@ appealed
 appealing
 appeals
 appearances
+appease
 appellant
 appellate
 appended
@@ -864,9 +861,6 @@ arbitrator
 arbitrators
 arc
 arcade
-archaeological
-archaeologist
-archaeologists
 archaic
 archbishop
 archetypal
@@ -1116,6 +1110,7 @@ attends
 attention
 attentions
 attentive
+attentively
 attenuated
 attenuation
 attest
@@ -1399,6 +1394,7 @@ battalions
 batter
 battered
 batteries
+battering
 battery
 batting
 battle
@@ -1568,6 +1564,7 @@ biceps
 bicycle
 bicycles
 bidder
+biennial
 bifurcation
 big
 bigger
@@ -1756,6 +1753,7 @@ bonus
 bonuses
 booked
 booking
+bookkeeping
 booklet
 bookstore
 boom
@@ -2025,6 +2023,7 @@ bumps
 bun
 bunch
 bundle
+bundled
 bundles
 bungalow
 bunk
@@ -2152,8 +2151,6 @@ canals
 canary
 cancel
 canceled
-cancellation
-cancelled
 cancer
 cancers
 candid
@@ -2285,8 +2282,6 @@ cat
 catalog
 cataloging
 catalogs
-catalogues
-cataloguing
 catalysis
 catalyst
 catalysts
@@ -2942,6 +2937,7 @@ commission
 commissioned
 commissioner
 commissioners
+commissioning
 commissions
 commit
 commitment
@@ -3632,11 +3628,9 @@ cough
 coughed
 coughing
 council
-councillors
 councils
 counsel
 counseling
-counsellor
 counselor
 counselors
 counsels
@@ -3812,6 +3806,7 @@ cruiser
 cruisers
 cruises
 cruising
+crumbled
 crumbling
 crumbs
 crumpled
@@ -4196,6 +4191,7 @@ delivering
 delivers
 delivery
 delta
+deluge
 delusion
 delusions
 demand
@@ -4206,6 +4202,7 @@ demarcation
 demeanor
 dementia
 demise
+demo
 democracies
 democracy
 democrat
@@ -4424,6 +4421,7 @@ deterministic
 deterred
 deterrence
 deterrent
+detour
 detract
 detriment
 detrimental
@@ -4483,7 +4481,6 @@ dialectic
 dialects
 dialed
 dialog
-dialogues
 dialysis
 diameter
 diameters
@@ -4692,7 +4689,6 @@ discriminated
 discriminating
 discrimination
 discriminatory
-discs
 discursive
 discuss
 discussed
@@ -4776,6 +4772,7 @@ disputes
 disqualified
 disregard
 disregarded
+disregarding
 disrespect
 disrupt
 disrupted
@@ -5569,7 +5566,6 @@ epidermal
 epidermis
 epilepsy
 epileptic
-epilogue
 episcopal
 episode
 episodes
@@ -6427,7 +6423,6 @@ focus
 focused
 focuses
 focusing
-focussed
 fodder
 foe
 foes
@@ -6697,7 +6692,6 @@ fulfill
 fulfilling
 fulfillment
 fulfills
-fulfilment
 full
 fuller
 fullest
@@ -6793,7 +6787,6 @@ garnish
 garrison
 gas
 gaseous
-gases
 gasoline
 gasp
 gasped
@@ -6805,8 +6798,6 @@ gathered
 gathering
 gatherings
 gathers
-gauge
-gauges
 gaunt
 gauze
 gave
@@ -6853,6 +6844,7 @@ genitalia
 genius
 genocide
 genome
+genomes
 genre
 genres
 gentile
@@ -6917,7 +6909,6 @@ glaciers
 glad
 gladly
 glamorous
-glamour
 glance
 glanced
 glances
@@ -7271,6 +7262,7 @@ harmless
 harmonic
 harmonics
 harmonious
+harmonization
 harmony
 harness
 harry
@@ -7622,6 +7614,7 @@ humane
 humanism
 humanist
 humanistic
+humanists
 humanitarian
 humanities
 humanity
@@ -7664,6 +7657,7 @@ husbandry
 husbands
 hush
 hushed
+husky
 huts
 hybrid
 hybrids
@@ -7745,6 +7739,7 @@ illnesses
 illogical
 illuminate
 illuminated
+illuminates
 illuminating
 illumination
 illusion
@@ -8497,6 +8492,7 @@ introductions
 introductory
 introspection
 intruder
+intruders
 intrusion
 intrusions
 intrusive
@@ -9025,7 +9021,6 @@ librarian
 librarians
 libraries
 library
-licences
 license
 licensed
 licensee
@@ -9558,7 +9553,6 @@ melodrama
 melody
 melt
 melted
-melting
 melts
 membership
 memberships
@@ -9749,6 +9743,7 @@ miraculously
 mirage
 mirror
 mirrored
+mirroring
 mirrors
 mirth
 miscarriage
@@ -9813,7 +9808,6 @@ modal
 mode
 model
 modeled
-modelled
 models
 modem
 modems
@@ -11666,7 +11660,6 @@ proletariat
 proliferation
 prolific
 prolog
-prologue
 prolong
 prolonged
 prom
@@ -11693,6 +11686,7 @@ prone
 pronoun
 pronounce
 pronounced
+pronouncement
 pronouncements
 pronouns
 pronunciation
@@ -12168,6 +12162,7 @@ recess
 recesses
 recession
 recessive
+recharge
 recipe
 recipes
 recipient
@@ -12334,7 +12329,6 @@ refuted
 regain
 regained
 regal
-regarding
 regardless
 regards
 regency
@@ -13095,7 +13089,6 @@ saves
 saving
 savings
 savior
-saviour
 savvy
 saw
 sawyer
@@ -13175,6 +13168,7 @@ scoring
 scorn
 scotch
 scout
+scouting
 scouts
 scramble
 scrambled
@@ -13273,6 +13267,7 @@ seduction
 seductive
 seed
 seeded
+seeding
 seedling
 seedlings
 seeds
@@ -13355,6 +13350,7 @@ sensibly
 sensing
 sensitivities
 sensitivity
+sensitization
 sensor
 sensors
 sensory
@@ -13494,7 +13490,6 @@ sheds
 sheen
 sheep
 sheer
-sheikh
 shelf
 shell
 shellfish
@@ -13523,6 +13518,7 @@ shiny
 shipbuilding
 shipment
 shipments
+shipped
 shipping
 shirt
 shirts
@@ -13630,8 +13626,6 @@ sigma
 signal
 signaled
 signaling
-signalled
-signalling
 signals
 signature
 signatures
@@ -13839,6 +13833,7 @@ smell
 smelled
 smelling
 smells
+smelting
 smile
 smiled
 smiles
@@ -14068,6 +14063,7 @@ specify
 specifying
 specimen
 specimens
+speck
 spectacle
 spectacles
 spectacular
@@ -14164,6 +14160,7 @@ spotting
 spouse
 spouses
 sprang
+sprawled
 sprawling
 spray
 sprayed
@@ -14435,6 +14432,7 @@ strawberry
 streak
 streaked
 streaks
+streamed
 streaming
 streams
 street
@@ -14951,6 +14949,7 @@ tailored
 tainted
 takeoff
 takeover
+takers
 talent
 talented
 talents
@@ -15362,6 +15361,7 @@ totalitarianism
 totality
 totally
 totals
+totem
 touch
 touches
 touching
@@ -15435,7 +15435,6 @@ tram
 trampled
 tranquil
 tranquility
-tranquillity
 transaction
 transactions
 transatlantic
@@ -15910,6 +15909,7 @@ unlucky
 unmarked
 unmarried
 unmistakable
+unmistakably
 unnamed
 unnatural
 unnecessarily
@@ -16553,6 +16553,7 @@ willingly
 willow
 wills
 wilt
+winced
 winding
 window
 windows
@@ -16662,7 +16663,6 @@ worse
 worsened
 worsening
 worship
-worshipped
 worshippers
 worst
 worth

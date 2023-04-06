@@ -353,8 +353,6 @@ adviser
 advisers
 advises
 advising
-advisor
-advisors
 advisory
 advocacy
 advocate
@@ -366,8 +364,6 @@ aerial
 aerodynamic
 aeronautics
 aerosol
-aesthetically
-aesthetics
 afar
 affair
 affairs
@@ -649,12 +645,9 @@ amused
 amusement
 amusing
 anaerobic
-anaesthesia
-anaesthetic
 analog
 analogies
 analogous
-analogues
 analogy
 analysis
 analyst
@@ -922,9 +915,6 @@ arbitrator
 arbitrators
 arc
 arcade
-archaeological
-archaeologist
-archaeologists
 archaic
 archbishop
 archer
@@ -1220,6 +1210,7 @@ audiovisual
 audit
 audited
 auditing
+audition
 auditor
 auditorium
 auditors
@@ -2260,8 +2251,6 @@ canals
 canary
 cancel
 canceled
-cancellation
-cancelled
 cancer
 cancers
 candid
@@ -2406,8 +2395,6 @@ cat
 catalog
 cataloging
 catalogs
-catalogues
-cataloguing
 catalysis
 catalyst
 catalysts
@@ -3025,6 +3012,7 @@ colonists
 colonization
 colonized
 colony
+coloration
 colorful
 coloring
 colorless
@@ -3286,6 +3274,7 @@ conception
 conceptions
 concepts
 conceptual
+conceptualize
 conceptualized
 conceptually
 concern
@@ -3812,12 +3801,9 @@ cough
 coughed
 coughing
 council
-councillor
-councillors
 councils
 counsel
 counseling
-counsellor
 counselor
 counselors
 counsels
@@ -3929,6 +3915,7 @@ creek
 creeks
 creep
 creeping
+cremation
 creole
 crept
 crescent
@@ -4225,7 +4212,6 @@ decentralized
 deception
 deceptive
 decide
-decided
 decidedly
 decides
 deciding
@@ -4298,6 +4284,7 @@ defeated
 defeating
 defeats
 defect
+defection
 defective
 defects
 defend
@@ -4689,7 +4676,6 @@ dialectic
 dialects
 dialed
 dialog
-dialogues
 dialysis
 diameter
 diameters
@@ -4907,7 +4893,6 @@ discriminated
 discriminating
 discrimination
 discriminatory
-discs
 discursive
 discuss
 discussed
@@ -5635,6 +5620,7 @@ enacted
 enacting
 enactment
 enamel
+encampment
 encapsulated
 encapsulation
 enchanted
@@ -5829,7 +5815,6 @@ epidermal
 epidermis
 epilepsy
 epileptic
-epilogue
 episcopal
 episode
 episodes
@@ -6415,6 +6400,7 @@ feasible
 feast
 feasts
 feather
+feathered
 feathers
 feature
 featured
@@ -6732,7 +6718,6 @@ focus
 focused
 focuses
 focusing
-focussed
 fodder
 foe
 foes
@@ -6815,6 +6800,7 @@ forestry
 forests
 forever
 foreword
+forfeit
 forfeited
 forfeiture
 forge
@@ -7013,7 +6999,6 @@ fulfill
 fulfilling
 fulfillment
 fulfills
-fulfilment
 full
 fuller
 fullest
@@ -7114,7 +7099,6 @@ garnish
 garrison
 gas
 gaseous
-gases
 gasoline
 gasp
 gasped
@@ -7128,8 +7112,6 @@ gathered
 gathering
 gatherings
 gathers
-gauge
-gauges
 gaunt
 gauze
 gave
@@ -7245,7 +7227,6 @@ glaciers
 glad
 gladly
 glamorous
-glamour
 glance
 glanced
 glances
@@ -7284,6 +7265,7 @@ gloom
 gloomy
 glories
 glorified
+glorify
 glorious
 glory
 gloss
@@ -7433,6 +7415,7 @@ greet
 greeted
 greeting
 greetings
+grenades
 grew
 grid
 grids
@@ -7545,6 +7528,7 @@ habitual
 habitually
 hacienda
 hacker
+hacking
 haggard
 hail
 hailed
@@ -7637,7 +7621,6 @@ hastened
 hastily
 hasty
 hatch
-hatched
 hatching
 hate
 hated
@@ -8063,6 +8046,7 @@ hypotheses
 hypothesis
 hypothesized
 hypothetical
+hysterectomy
 hysteria
 hysterical
 iceberg
@@ -8321,6 +8305,7 @@ incidents
 incipient
 incised
 incision
+incisions
 inclination
 inclinations
 incline
@@ -9426,7 +9411,6 @@ leukocytes
 level
 leveled
 leveling
-levelled
 levels
 leverage
 levers
@@ -9454,7 +9438,6 @@ librarian
 librarians
 libraries
 library
-licences
 license
 licensed
 licensee
@@ -9938,6 +9921,7 @@ maxims
 maximum
 maybe
 mayo
+mayonnaise
 mayor
 mayors
 maze
@@ -10284,7 +10268,6 @@ modal
 mode
 model
 modeled
-modelled
 models
 modem
 modems
@@ -10581,6 +10564,7 @@ obliquely
 obliterated
 oblivion
 oblivious
+oblong
 obnoxious
 obscene
 obscenity
@@ -10936,6 +10920,7 @@ overseeing
 overseer
 overshadowed
 oversight
+oversized
 overtaken
 overthrow
 overthrown
@@ -11030,6 +11015,7 @@ panoramic
 pantheon
 panther
 panting
+pantry
 pants
 pap
 papa
@@ -11163,6 +11149,7 @@ patches
 patchwork
 patent
 patented
+patently
 patents
 paternal
 paternalism
@@ -11370,6 +11357,7 @@ perpetuate
 perpetuated
 perpetuating
 perplexed
+perplexing
 persecuted
 persecution
 perseverance
@@ -11382,6 +11370,7 @@ persisting
 persists
 persona
 personage
+personages
 personalities
 personality
 personalized
@@ -11742,6 +11731,7 @@ polls
 pollutant
 pollutants
 polluted
+polluting
 pollution
 polo
 polyester
@@ -12242,7 +12232,6 @@ proletariat
 proliferation
 prolific
 prolog
-prologue
 prolong
 prolongation
 prolonged
@@ -12331,6 +12320,7 @@ prosecutions
 prosecutor
 prosecutors
 prospect
+prospecting
 prospective
 prospects
 prospectus
@@ -13367,6 +13357,7 @@ retina
 retinal
 retire
 retired
+retirees
 retirement
 retiring
 retorted
@@ -13523,6 +13514,7 @@ robots
 robust
 robustness
 rocked
+rocker
 rocket
 rockets
 rocking
@@ -13620,6 +13612,7 @@ ruthless
 rye
 sabotage
 sack
+sacked
 sacks
 sacrament
 sacramental
@@ -13743,7 +13736,6 @@ saves
 saving
 savings
 savior
-saviour
 savvy
 sawyer
 saying
@@ -14162,7 +14154,6 @@ sheds
 sheen
 sheep
 sheer
-sheikh
 shelf
 shell
 shellfish
@@ -14304,8 +14295,6 @@ sigma
 signal
 signaled
 signaling
-signalled
-signalling
 signals
 signature
 signatures
@@ -14406,7 +14395,6 @@ sixty
 sizable
 size
 sizeable
-sized
 sizes
 sizing
 skating
@@ -14462,6 +14450,7 @@ slaughter
 slaughtered
 slavery
 slaves
+slay
 sleek
 sleeping
 sleeps
@@ -14546,6 +14535,7 @@ smoothed
 smoother
 smoothing
 smoothly
+smuggled
 smuggling
 snack
 snacks
@@ -14626,7 +14616,6 @@ solemnly
 soles
 solicit
 solicitation
-solicited
 soliciting
 solicitor
 solicitors
@@ -14675,6 +14664,7 @@ sorely
 sores
 sorghum
 sorrow
+sorrowful
 sorrows
 sorry
 sought
@@ -14930,6 +14920,7 @@ staff
 staffed
 staffing
 staffs
+stag
 staged
 staggered
 staggering
@@ -15056,6 +15047,7 @@ stereotyping
 sterile
 sterility
 sterilization
+sterilized
 sterling
 sternly
 steroid
@@ -15071,6 +15063,7 @@ stiff
 stiffened
 stiffly
 stiffness
+stifle
 stifled
 stifling
 stigma
@@ -15505,6 +15498,7 @@ suppressing
 suppression
 supremacy
 supreme
+supremely
 surely
 surf
 surface
@@ -15692,7 +15686,6 @@ tactical
 tactics
 tactile
 tad
-tag
 tagged
 tags
 tailor
@@ -15896,6 +15889,7 @@ thankfully
 thanking
 thanks
 thanksgiving
+thatched
 thatcher
 thaw
 theater
@@ -15932,6 +15926,7 @@ thermally
 thermodynamic
 thermodynamics
 thermometer
+thesaurus
 theses
 thesis
 thick
@@ -16091,6 +16086,7 @@ tombs
 tome
 tomorrow
 tonal
+toned
 tong
 tongue
 tongues
@@ -16210,7 +16206,6 @@ tram
 trampled
 tranquil
 tranquility
-tranquillity
 transaction
 transactions
 transatlantic
@@ -16300,6 +16295,7 @@ traveling
 travels
 traverse
 traversed
+traversing
 treacherous
 treachery
 tread
@@ -16406,6 +16402,7 @@ trusts
 trustworthy
 truth
 truthful
+truthfully
 truths
 trying
 tsar
@@ -16459,6 +16456,7 @@ twenties
 twentieth
 twenty
 twice
+twig
 twigs
 twilight
 twin
@@ -16546,6 +16544,7 @@ uncover
 uncovered
 uncovering
 undated
+undecided
 undefined
 undeniable
 undeniably
@@ -16746,6 +16745,7 @@ unsettled
 unsettling
 unsigned
 unskilled
+unsolicited
 unsolved
 unspeakable
 unspecified
@@ -17019,6 +17019,7 @@ villages
 villain
 villains
 villas
+vindicated
 vindication
 vinegar
 vines
@@ -17227,6 +17228,7 @@ waving
 wavy
 wax
 waxed
+wayward
 weak
 weaken
 weakened
@@ -17359,7 +17361,6 @@ widows
 widths
 wield
 wielded
-wig
 wild
 wilder
 wilderness
@@ -17486,7 +17487,6 @@ worsen
 worsened
 worsening
 worship
-worshipped
 worshippers
 worst
 worth
