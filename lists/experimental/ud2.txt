@@ -15116,6 +15116,9 @@ gauchos
 gaudier
 gaudiest
 gaudy
+gauged
+gauges
+gauging
 gaunt
 gauntest
 gauntlet
@@ -15401,7 +15404,6 @@ glade
 gladiator
 gladiatorial
 gladiators
-gladiola
 gladioli
 gladiolus
 gladly
@@ -17375,7 +17377,6 @@ huntress
 huntsman
 huntsmen
 hurdle
-hurdler
 hurdles
 hurdling
 hurl
@@ -20149,7 +20150,6 @@ kookie
 kookiest
 kosher
 koshering
-kowtowed
 kroner
 kronor
 krypton
@@ -23385,7 +23385,6 @@ nitpicker
 nitpicking
 nitrate
 nitroglycerin
-nitroglycerine
 nix
 nixing
 noblest
@@ -27172,6 +27171,8 @@ prolific
 prolifically
 prolixity
 prolog
+prologue
+prologues
 prolong
 prolongation
 prolonged
@@ -27733,7 +27734,6 @@ pushing
 pushover
 pushy
 pusillanimous
-pussier
 pussyfooting
 pustules
 putative

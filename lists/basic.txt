@@ -3090,7 +3090,6 @@ comb
 combat
 combatants
 combating
-combed
 combination
 combinations
 combine
@@ -5908,7 +5907,6 @@ erroneous
 erroneously
 error
 errors
-erstwhile
 erupted
 eruption
 eruptions
@@ -7219,6 +7217,8 @@ gathered
 gathering
 gatherings
 gathers
+gauge
+gauges
 gaunt
 gauze
 gave
@@ -11690,7 +11690,6 @@ perturbed
 pervades
 pervasive
 perverse
-perverted
 pesos
 pessimism
 pessimistic
@@ -11704,7 +11703,6 @@ peter
 peters
 petite
 petition
-petitioned
 petitioner
 petitioners
 petitions
@@ -12191,6 +12189,7 @@ potentiality
 potentially
 potentials
 pots
+potter
 pottery
 pouch
 poultry
@@ -12572,6 +12571,7 @@ projects
 proletarian
 proletariat
 prolific
+prologue
 prolong
 prolonged
 prom

@@ -629,7 +629,6 @@ angry
 angular
 animal
 animals
-animate
 animated
 animation
 animations
@@ -6756,6 +6755,8 @@ gathered
 gathering
 gatherings
 gathers
+gauge
+gauges
 gauntlet
 gave
 gay
@@ -8610,7 +8611,6 @@ knock
 knocked
 knocking
 knockout
-knockouts
 knocks
 knoll
 knot
@@ -8879,7 +8879,6 @@ leveled
 levels
 lever
 leverage
-leveraged
 levied
 levy
 lexical
@@ -10019,7 +10018,6 @@ multiplayer
 multiple
 multiplex
 multiplied
-multiplier
 multiply
 multiplying
 multitude
@@ -11724,6 +11722,7 @@ potential
 potentially
 potentials
 pots
+potter
 potters
 pottery
 pouch
@@ -12057,6 +12056,7 @@ projectors
 projects
 proletarian
 prolific
+prologue
 prolonged
 prom
 promenade

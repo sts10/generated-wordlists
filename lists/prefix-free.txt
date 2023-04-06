@@ -5710,6 +5710,7 @@ gateway
 gathered
 gatherings
 gathers
+gauges
 gaunt
 gauze
 gave
@@ -9982,7 +9983,7 @@ proletarian
 proletariat
 proliferation
 prolific
-prolog
+prologue
 prolongation
 prolonged
 prominence

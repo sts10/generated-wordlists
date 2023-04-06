@@ -203,6 +203,7 @@ adapter
 adapting
 adaptive
 add
+added
 addicted
 addiction
 addictive
@@ -6712,7 +6713,6 @@ forums
 forwarded
 forwards
 fossil
-fossilized
 fossils
 foster
 fostered
@@ -6963,6 +6963,8 @@ gathered
 gathering
 gatherings
 gathers
+gauge
+gauges
 gauntlet
 gave
 gay
@@ -10063,7 +10065,6 @@ molten
 molybdenum
 mom
 moment
-momentarily
 moments
 momentum
 monarch
@@ -11016,7 +11017,6 @@ packets
 packing
 packs
 pad
-padded
 paddle
 paddock
 padre
@@ -11741,7 +11741,6 @@ polygamy
 polygon
 polygonal
 polygons
-polyhedron
 polymer
 polymerization
 polymers
@@ -11847,6 +11846,7 @@ potential
 potentially
 potentials
 potion
+potter
 potters
 pottery
 pouch
@@ -12192,6 +12192,7 @@ proletarian
 proletariat
 proliferation
 prolific
+prologue
 prolonged
 prom
 promenade
@@ -15359,7 +15360,6 @@ substituted
 substitutes
 substituting
 substitution
-substitutions
 substrate
 subsumed
 subsystem

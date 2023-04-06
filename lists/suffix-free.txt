@@ -2937,7 +2937,6 @@ commission
 commissioned
 commissioner
 commissioners
-commissioning
 commissions
 commit
 commitment
@@ -3806,7 +3805,6 @@ cruiser
 cruisers
 cruises
 cruising
-crumbled
 crumbling
 crumbs
 crumpled
@@ -6798,6 +6796,8 @@ gathered
 gathering
 gatherings
 gathers
+gauge
+gauges
 gaunt
 gauze
 gave
@@ -11288,6 +11288,7 @@ potentialities
 potentiality
 potentially
 potentials
+potter
 pottery
 pouch
 poultry
@@ -11660,6 +11661,7 @@ proletariat
 proliferation
 prolific
 prolog
+prologue
 prolong
 prolonged
 prom
@@ -13267,7 +13269,6 @@ seduction
 seductive
 seed
 seeded
-seeding
 seedling
 seedlings
 seeds
@@ -16553,7 +16554,6 @@ willingly
 willow
 wills
 wilt
-winced
 winding
 window
 windows

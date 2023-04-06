@@ -1210,7 +1210,6 @@ audiovisual
 audit
 audited
 auditing
-audition
 auditor
 auditorium
 auditors
@@ -7112,6 +7111,8 @@ gathered
 gathering
 gatherings
 gathers
+gauge
+gauges
 gaunt
 gauze
 gave
@@ -7415,7 +7416,6 @@ greet
 greeted
 greeting
 greetings
-grenades
 grew
 grid
 grids
@@ -11849,6 +11849,7 @@ potentialities
 potentiality
 potentially
 potentials
+potter
 pottery
 pouch
 poultry
@@ -12232,6 +12233,7 @@ proletariat
 proliferation
 prolific
 prolog
+prologue
 prolong
 prolongation
 prolonged
@@ -13612,7 +13614,6 @@ ruthless
 rye
 sabotage
 sack
-sacked
 sacks
 sacrament
 sacramental
@@ -14450,7 +14451,6 @@ slaughter
 slaughtered
 slavery
 slaves
-slay
 sleek
 sleeping
 sleeps
