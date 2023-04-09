@@ -49,8 +49,8 @@ Mean edit distance        : 7.501
 Longest shared prefix     : 11
 Unique character prefix   : 12
 
-Pseudorandomly generated sample passphrases
--------------------------------------------
+Word samples
+------------
 shapes doped ventures damp scholars curves
 flanks carnal muster dialogues casualties crib
 sandwiches accepting pronoun blasted microcosm madame
@@ -81,8 +81,8 @@ Mean edit distance        : 6.187
 Longest shared prefix     : 7
 Unique character prefix   : 8
 
-Pseudorandomly generated sample passphrases
--------------------------------------------
+Word samples
+------------
 windmill sizable rinsed bran marshy despot
 alloys vexation wilder soured join outlets
 byte puritans colonize shackled virtual frisk
@@ -113,8 +113,8 @@ Mean edit distance        : 7.431
 Longest shared prefix     : 10
 Unique character prefix   : 11
 
-Pseudorandomly generated sample passphrases
--------------------------------------------
+Word samples
+------------
 flown annotated issues operative referred dismissal
 electricity temporal diversified imitate single signs
 toilet gown corrective trailer airport ventricular
@@ -148,8 +148,8 @@ Mean edit distance        : 6.992
 Longest shared prefix     : 9
 Unique character prefix   : 10
 
-Pseudorandomly generated sample passphrases
--------------------------------------------
+Word samples
+------------
 fifth melancholy ounces vast slept separated
 mobility games anonymous vertical ambitions autonomy
 destined picking leave lawyers knights alarm
@@ -180,8 +180,8 @@ Mean edit distance        : 8.036
 Longest shared prefix     : 14
 Unique character prefix   : 15
 
-Pseudorandomly generated sample passphrases
--------------------------------------------
+Word samples
+------------
 asterisk organic strengthening randomized emotions fastened
 joys emphases tad somehow reversible planes
 realty screened dough parsing drawers meaningfully
@@ -212,8 +212,8 @@ Mean edit distance        : 7.946
 Longest shared prefix     : 14
 Unique character prefix   : 15
 
-Pseudorandomly generated sample passphrases
--------------------------------------------
+Word samples
+------------
 spaghetti aspirin teams roadside dominating moose
 spirited incorrect renown hepatic excavated badly
 phage homeland annoying programmer shivered primaries
@@ -246,8 +246,8 @@ Mean edit distance        : 8.046
 Longest shared prefix     : 2
 Unique character prefix   : 3
 
-Pseudorandomly generated sample passphrases
--------------------------------------------
+Word samples
+------------
 popcorn wisconsin charcoal citadel pavilion cylindrical
 hitchcock tavistock wasteland ridiculous evolutionary dyspnea
 sleepless mcmahon knoxville justinian tennyson haphazard
@@ -278,8 +278,8 @@ Mean edit distance        : 7.252
 Longest shared prefix     : 10
 Unique character prefix   : 11
 
-Pseudorandomly generated sample passphrases
--------------------------------------------
+Word samples
+------------
 coupe autograph thrust groves hermitage asserts
 investor reputation contempt happy chaplain vans
 exponential turbine epistle comparable equatorial communes
@@ -312,8 +312,8 @@ Mean edit distance        : 7.933
 Longest shared prefix     : 14
 Unique character prefix   : 15
 
-Pseudorandomly generated sample passphrases
--------------------------------------------
+Word samples
+------------
 platelets designation ministries theoretically revenge felony
 risks landlord rotates brain shipment rafters
 yellow gear contends dimensionless suspended uncertainties
@@ -344,8 +344,8 @@ Mean edit distance        : 6.957
 Longest shared prefix     : 9
 Unique character prefix   : 10
 
-Pseudorandomly generated sample passphrases
--------------------------------------------
+Word samples
+------------
 toolbar stations injected matters reaches rock
 office clean surface marines food overnight
 lexical meet avoid decoration thanked paint
@@ -376,8 +376,8 @@ Mean edit distance        : 8.375
 Longest shared prefix     : 17
 Unique character prefix   : 18
 
-Pseudorandomly generated sample passphrases
--------------------------------------------
+Word samples
+------------
 blindfolded bossy peacemaker defter prefigured item
 algorithm opaquest unrivalled deregulated ambience mules
 topple relevantly compilers payload conditionals columbine
@@ -408,8 +408,8 @@ Mean edit distance        : 7.864
 Longest shared prefix     : 14
 Unique character prefix   : 15
 
-Pseudorandomly generated sample passphrases
--------------------------------------------
+Word samples
+------------
 exit jokes rainier masquerade renewed gurney
 moths reversal temptation relented exported echoes
 correcting precursor inferred debates baseline curators
