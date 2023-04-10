@@ -244,7 +244,6 @@ adherents
 adhering
 adhesion
 adhesive
-adiabatic
 adipose
 adjacent
 adjective
@@ -2205,7 +2204,6 @@ carbohydrate
 carbohydrates
 carbonate
 carcinoma
-carcinomas
 cardboard
 cardiac
 cardinal
@@ -2294,7 +2292,6 @@ catch
 catcher
 catches
 catching
-catchment
 catechism
 categorical
 categorically
@@ -2937,6 +2934,7 @@ commission
 commissioned
 commissioner
 commissioners
+commissioning
 commissions
 commit
 commitment
@@ -3709,6 +3707,7 @@ crashes
 crashing
 crate
 crater
+crates
 craving
 crawl
 crawled
@@ -3805,6 +3804,7 @@ cruiser
 cruisers
 cruises
 cruising
+crumbled
 crumbling
 crumbs
 crumpled
@@ -5109,7 +5109,6 @@ dwellers
 dwelling
 dwellings
 dwells
-dwelt
 dye
 dyed
 dyer
@@ -9628,7 +9627,6 @@ metaphorically
 metaphors
 metaphysical
 metaphysics
-metastases
 metastasis
 meteorological
 methane
@@ -9851,7 +9849,6 @@ molecular
 molecule
 molecules
 molten
-molybdenum
 mom
 moment
 momentarily
@@ -13269,6 +13266,7 @@ seduction
 seductive
 seed
 seeded
+seeding
 seedling
 seedlings
 seeds
@@ -16467,6 +16465,7 @@ welded
 welding
 wellington
 welsh
+welt
 westerners
 westward
 wet
@@ -16554,6 +16553,7 @@ willingly
 willow
 wills
 wilt
+winced
 winding
 window
 windows

@@ -251,7 +251,6 @@ adhering
 adhesion
 adhesive
 adhesives
-adiabatic
 adipose
 adjacent
 adjective
@@ -1210,6 +1209,7 @@ audiovisual
 audit
 audited
 auditing
+audition
 auditor
 auditorium
 auditors
@@ -1875,6 +1875,7 @@ bothered
 bothering
 bottle
 bottled
+bottleneck
 bottles
 bottom
 bottoms
@@ -2314,7 +2315,6 @@ carbonate
 carcinogenic
 carcinogens
 carcinoma
-carcinomas
 cardboard
 cardiac
 cardinal
@@ -2406,7 +2406,6 @@ catch
 catcher
 catches
 catching
-catchment
 catechism
 categorical
 categorically
@@ -5334,7 +5333,6 @@ dwellers
 dwelling
 dwellings
 dwells
-dwelt
 dwindling
 dye
 dyed
@@ -7416,6 +7414,7 @@ greet
 greeted
 greeting
 greetings
+grenades
 grew
 grid
 grids
@@ -10077,7 +10076,6 @@ metaphorically
 metaphors
 metaphysical
 metaphysics
-metastases
 metastasis
 meteorological
 methane
@@ -10312,7 +10310,6 @@ molecular
 molecule
 molecules
 molten
-molybdenum
 mom
 moment
 momentarily
@@ -13614,6 +13611,7 @@ ruthless
 rye
 sabotage
 sack
+sacked
 sacks
 sacrament
 sacramental
@@ -14451,6 +14449,7 @@ slaughter
 slaughtered
 slavery
 slaves
+slay
 sleek
 sleeping
 sleeps
@@ -17284,6 +17283,7 @@ welded
 welding
 wellington
 welsh
+welt
 westerners
 westward
 wet

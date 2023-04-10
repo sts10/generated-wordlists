@@ -209,7 +209,6 @@ adherents
 adhering
 adhesion
 adhesives
-adiabatic
 adipose
 adjacent
 adjectives
@@ -1872,7 +1871,7 @@ carbohydrates
 carbonate
 carcinogenic
 carcinogens
-carcinomas
+carcinoma
 cardboard
 cardiac
 cardinals
@@ -1942,7 +1941,6 @@ catastrophic
 catcher
 catches
 catching
-catchment
 catechism
 categorically
 categories
@@ -4252,7 +4250,6 @@ dwarfs
 dwellers
 dwellings
 dwells
-dwelt
 dwindling
 dyed
 dyer
@@ -8197,7 +8194,6 @@ metaphorically
 metaphors
 metaphysical
 metaphysics
-metastases
 metastasis
 meteorological
 meteorology
@@ -8391,7 +8387,6 @@ molds
 molecular
 molecules
 molten
-molybdenum
 momentarily
 momentary
 momentous

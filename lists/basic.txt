@@ -248,7 +248,6 @@ adherents
 adhering
 adhesion
 adhesive
-adiabatic
 adipose
 adjacent
 adjective
@@ -2375,7 +2374,6 @@ carbohydrate
 carbon
 carbonate
 carcinoma
-carcinomas
 card
 cardboard
 cardiac
@@ -2471,7 +2469,6 @@ catch
 catcher
 catches
 catching
-catchment
 catechism
 categorical
 categories
@@ -3090,6 +3087,7 @@ comb
 combat
 combatants
 combating
+combed
 combination
 combinations
 combine
@@ -3826,6 +3824,7 @@ cotton
 couch
 couched
 cough
+coughed
 coughing
 council
 councils
@@ -5354,7 +5353,6 @@ dwellers
 dwelling
 dwellings
 dwells
-dwelt
 dye
 dyed
 dyer
@@ -5907,6 +5905,7 @@ erroneous
 erroneously
 error
 errors
+erstwhile
 erupted
 eruption
 eruptions
@@ -10327,7 +10326,6 @@ metaphorical
 metaphors
 metaphysical
 metaphysics
-metastases
 metastasis
 meter
 meters
@@ -10566,7 +10564,6 @@ molecular
 molecule
 molecules
 molten
-molybdenum
 mom
 moment
 momentarily
@@ -11690,6 +11687,7 @@ perturbed
 pervades
 pervasive
 perverse
+perverted
 pesos
 pessimism
 pessimistic
@@ -11703,6 +11701,7 @@ peter
 peters
 petite
 petition
+petitioned
 petitioner
 petitioners
 petitions
@@ -14956,6 +14955,7 @@ slang
 slant
 slap
 slapped
+slapping
 slash
 slate
 slaughter

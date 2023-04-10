@@ -216,7 +216,6 @@ adherents
 adhering
 adhesion
 adhesive
-adiabatic
 adipose
 adjacent
 adjective
@@ -1256,6 +1255,7 @@ axons
 aye
 azure
 babe
+babel
 babies
 baby
 bachelor
@@ -2388,7 +2388,6 @@ caravan
 carbon
 carbonate
 carcinoma
-carcinomas
 card
 cardboard
 cardiac
@@ -2487,7 +2486,6 @@ catch
 catcher
 catches
 catching
-catchment
 catchy
 catechism
 categories
@@ -5046,6 +5044,7 @@ drove
 drown
 drowned
 drowning
+drowsiness
 drug
 drugs
 drum
@@ -5114,7 +5113,6 @@ dwellers
 dwelling
 dwellings
 dwells
-dwelt
 dwindled
 dye
 dyed
@@ -9997,7 +9995,6 @@ metallurgy
 metals
 metaphor
 metaphors
-metastases
 metastasis
 meteor
 meteorite
@@ -10242,7 +10239,6 @@ molecules
 mollusk
 mollusks
 molten
-molybdenum
 mom
 moment
 momentary
@@ -11679,6 +11675,7 @@ photon
 photons
 photos
 phrase
+phrased
 phrases
 phrasing
 physical
@@ -15159,6 +15156,7 @@ souls
 sound
 sounded
 sounding
+soundness
 sounds
 soundtrack
 soup
@@ -16197,6 +16195,7 @@ talks
 tall
 taller
 tallest
+tallied
 tally
 tame
 tan
@@ -17137,6 +17136,7 @@ undivided
 undo
 undone
 undue
+undulating
 unduly
 unearthed
 uneasily

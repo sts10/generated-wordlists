@@ -2399,7 +2399,6 @@ catch
 catcher
 catches
 catching
-catchment
 catchphrase
 catchy
 catechism
@@ -8879,6 +8878,7 @@ leveled
 levels
 lever
 leverage
+leveraged
 levied
 levy
 lexical

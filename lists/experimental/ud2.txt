@@ -450,7 +450,6 @@ adhering
 adhesion
 adhesive
 adhesives
-adiabatic
 adieu
 adipose
 adjacent
@@ -4976,7 +4975,6 @@ carcinogen
 carcinogenic
 carcinogens
 carcinoma
-carcinomas
 carcinomata
 cardboard
 carded
@@ -5182,7 +5180,6 @@ catcalls
 catch
 catches
 catching
-catchment
 catchphrase
 catchword
 catchwords
@@ -11327,7 +11324,6 @@ dwellers
 dwelling
 dwellings
 dwells
-dwelt
 dwindle
 dwindled
 dwindles
@@ -15404,6 +15400,7 @@ glade
 gladiator
 gladiatorial
 gladiators
+gladiola
 gladioli
 gladiolus
 gladly
@@ -17377,6 +17374,7 @@ huntress
 huntsman
 huntsmen
 hurdle
+hurdler
 hurdles
 hurdling
 hurl
@@ -20150,6 +20148,7 @@ kookie
 kookiest
 kosher
 koshering
+kowtowed
 kroner
 kronor
 krypton
@@ -22071,7 +22070,6 @@ metaphorically
 metaphors
 metaphysical
 metaphysics
-metastases
 metastasis
 metastasize
 metastasized
@@ -22691,7 +22689,6 @@ mollycoddling
 molt
 molten
 molting
-molybdenum
 mom
 moment
 momentarily
@@ -23385,6 +23382,7 @@ nitpicker
 nitpicking
 nitrate
 nitroglycerin
+nitroglycerine
 nix
 nixing
 noblest
@@ -27734,6 +27732,7 @@ pushing
 pushover
 pushy
 pusillanimous
+pussier
 pussyfooting
 pustules
 putative
@@ -39173,6 +39172,7 @@ wellspring
 wellsprings
 welsh
 welshed
+welt
 welted
 welter
 welterweight
