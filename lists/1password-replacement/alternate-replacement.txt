@@ -556,6 +556,7 @@ ambitions
 ambitious
 ambivalent
 ambulance
+ambulances
 ambulatory
 ambush
 ambushed
@@ -718,6 +719,7 @@ antennae
 antennas
 anterior
 anthem
+anthems
 anthology
 antibiotic
 antibodies
@@ -1259,7 +1261,6 @@ babel
 babies
 baby
 bachelor
-bachelors
 back
 backbone
 backdrop
@@ -1605,7 +1606,6 @@ besieged
 best
 bestow
 bestowed
-bests
 bestseller
 bet
 beta
@@ -4646,6 +4646,7 @@ disagree
 disagreed
 disappear
 disappears
+disarray
 disaster
 disasters
 disastrous
@@ -5556,6 +5557,7 @@ entity
 entourage
 entrance
 entrances
+entrant
 entrants
 entrapment
 entrenched
@@ -5904,7 +5906,6 @@ explicit
 explicitly
 explode
 exploded
-explodes
 exploding
 exploit
 exploited
@@ -6222,6 +6223,7 @@ fetus
 feud
 feudal
 feudalism
+feuds
 fever
 feverish
 few
@@ -6926,6 +6928,7 @@ garnering
 garnet
 garnish
 garrison
+garrisoned
 garrisons
 gas
 gaseous
@@ -7126,7 +7129,6 @@ goals
 goaltender
 goat
 goats
-goblin
 god
 goddess
 goddesses
@@ -8209,6 +8211,7 @@ incidents
 incipient
 incised
 incision
+inciting
 incline
 inclined
 include
@@ -9145,7 +9148,6 @@ led
 ledge
 ledger
 lee
-leeward
 left
 leftist
 leg
@@ -9923,6 +9925,7 @@ members
 membership
 membrane
 membranes
+meme
 memo
 memoir
 memoirs
@@ -10091,6 +10094,7 @@ mineral
 minerals
 miners
 mines
+mingle
 mingled
 mingling
 mini
@@ -10166,7 +10170,6 @@ mites
 mitigate
 mitigation
 mitosis
-mitt
 mix
 mixed
 mixer
@@ -10442,7 +10445,6 @@ muster
 mustered
 mutant
 mutants
-mutated
 mutation
 mutations
 mute
@@ -10957,7 +10959,6 @@ oranges
 orator
 oratorio
 oratory
-orb
 orbit
 orbital
 orbitals
@@ -12644,6 +12645,7 @@ punishment
 punitive
 punk
 punt
+punts
 pup
 pupil
 pupils
@@ -13679,7 +13681,6 @@ reworked
 rewrite
 rewriting
 rewritten
-rhapsody
 rhetoric
 rhetorical
 rheumatic
@@ -13742,6 +13743,7 @@ rink
 rinse
 rinsed
 riot
+rioters
 rioting
 riots
 rip
@@ -14277,7 +14279,6 @@ secrete
 secreted
 secretion
 secretions
-secretive
 secretly
 secrets
 sect
@@ -14560,7 +14561,6 @@ sheet
 sheets
 shelf
 shell
-shelled
 shellfish
 shelling
 shells
@@ -14605,6 +14605,7 @@ shirts
 shiver
 shivered
 shivering
+shoal
 shoals
 shock
 shocked
@@ -15203,6 +15204,7 @@ spared
 sparing
 spark
 sparked
+sparking
 sparkling
 sparks
 sparrow
@@ -16051,7 +16053,6 @@ swallows
 swam
 swamp
 swamps
-swampy
 swan
 swans
 swap
@@ -16344,7 +16345,6 @@ tending
 tendon
 tendons
 tends
-tenement
 tenet
 tenets
 tennis
@@ -17134,9 +17134,9 @@ underworld
 undisputed
 undivided
 undo
+undoing
 undone
 undue
-undulating
 unduly
 unearthed
 uneasily
@@ -17726,6 +17726,7 @@ wander
 wandered
 wanderers
 wandering
+waned
 waning
 wanted
 wanting
@@ -17982,7 +17983,6 @@ wielded
 wife
 wig
 wight
-wiki
 wild
 wildcat
 wildcats
