@@ -1,25 +1,23 @@
 # Proposed new 1Password word list
 
-This repository contains a proposed replacement word list for the password manager 1Password. I, Sam Schlinkert, created this new word list, primarily by [scraping publicly available Google Books Ngram data](https://github.com/sts10/common_word_list_maker) and then doing additional edits.
-
-I am publishing this list in hopes that AgileBits, the company that owns 1Password, wants to adopt it for 1Password's passphrase generator.
-
-Of course nothing is stopping others from using this list for other purposes, assuming they adhere to the relevant licensing (see parent directory's README file for more).
+This repository contains a proposed replacement word list for the password manager 1Password. I, Sam Schlinkert, created this new word list, primarily by [scraping publicly available Google Books Ngram word frequency data](https://github.com/sts10/common_word_list_maker) and Wikipedia word data (thanks to [this project](https://github.com/IlyaSemenov/wikipedia-word-frequency/)), and then doing additional edits.
 
 ## Attributes of the new list
 
-This new word list has the same minimum and maximum word length as the list 1Password was using in 2021 (3 and 8). My understanding is the list 1Password currently uses is 18,176 words long. This list has 18,197 words, ensuring that each word gives slightly more entropy than the current list.
+I'm not 100% which wordlist the 1Password app uses currently, but there is [a wordlist in this public GitHub repository](https://github.com/1Password/spg/blob/master/testdata/agwordlist.txt). The list contains 18,325 words, ranging between 3 and 8 characters. (I've seen other versions of the list that are slightly shorter.)
 
-```
-List length               : 18197 words
-Mean word length          : 6.36 characters
+My replacement list is this same length -- 18,325 words -- but includes words up to 10 characters long.
+
+```text
+List length               : 18325 words
+Mean word length          : 7.12 characters
 Length of shortest word   : 3 characters (ace)
-Length of longest word    : 8 characters (zucchini)
+Length of longest word    : 10 characters (zoological)
 Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : false
-Entropy per word          : 14.151 bits
-Efficiency per character  : 2.226 bits
+Entropy per word          : 14.162 bits
+Efficiency per character  : 1.990 bits
 ```
 
 ## Which words were removed? Which were added?
@@ -30,9 +28,9 @@ Some of the words on the current 1Password list but not on the new list include:
 
 ## Comparing 5 random passphrases from each list
 
-From the old list (using 1Password's online password generator):
+From 1Password's current list (using 1Password's online password generator):
 
-```
+```text
 guilt-triune-illumine-gail-jonquil-habacuc
 blat-natality-deerskin-bedstead-purblind-tenon
 mimi-dub-eugenics-bien-populism-squid
@@ -42,41 +40,19 @@ convex-bump-styled-salesmen-iniquity-troupe
 
 From this new list:
 
-```
-analyst-ensign-eggplant-singing-evenings-weekdays
-meridian-itemized-prove-suffix-welt-skyward
-quandary-layering-annexes-lard-aerial-clutter
-earned-gospels-rushing-cinnamon-pressed-alerts
-mishap-ruled-racism-samples-interim-flooding
+```text
+affects-motorcycle-arroyo-kettle-vehicle-licenses
+victim-patents-baptized-tomatoes-crow-hexagonal
+restore-sword-context-volcano-gambling-saves
+replaced-omnibus-confluence-laymen-engage-nations
+aim-handicaps-wash-caught-parent-socialists
 ```
 
 ## Methodology
 
-This new list is based on [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html). [I used](https://github.com/sts10/common_word_list_maker) the 2012 dataset to compile a list of the most frequently appearing words between 1975 and 2012. Then, using [a separate tool I wrote](https://github.com/sts10/tidy), I cut this list down, removing "rare" or strange words, profane words, and words shorter than 3 characters and longer than 8 characters until it was just longer than the current 1Password list.
+My replacement new list uses frequently used words [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html) and Wikipedia. 
 
 Thank you to the users who replied to [a Reddit post about this list](https://www.reddit.com/r/1Password/comments/ur4otq/proposed_new_word_list/) for helping me think through these notes further than I had.
-
-## Alternate replacement
-
-`alternate-replacement.txt` is a more informal option for replacing the 1Password word list. It has 18,250 words on it and the longest word is 10 characters rather than 8. The words are sourced from both Google Books Ngram data and Wikipedia word frequency data. See parent directory README for more information on word sourcing/licensing.
-
-```txt
-List length               : 18250 words
-Mean word length          : 7.12 characters
-Length of shortest word   : 3 characters (ace)
-Length of longest word    : 10 characters (zoological)
-Entropy per word          : 14.156 bits
-Efficiency per character  : 1.989 bits
-Assumed entropy per char  : 4.719 bits
-
-Pseudorandomly generated sample passphrases
--------------------------------------------
-south morocco occupies minors kangaroos badge
-adoptive shrinking enrolled fragile cater sweater
-vary proverb forwarding hills staffing freshness
-theorized sees framework solvents asks properly
-font tiles blurred rebellions achieve poverty
-```
 
 ### Assumed use-cases of passphrases
 
@@ -121,6 +97,6 @@ Also, I make no guarantees about the security of passphrases generated with word
 
 ## On licensing/usage
 
-This project has no association with Agile Bits/1Password or Google, nor, to my knowledge, does either entity endorse this project.
+This project has no association with 1Password or Google, nor, to my knowledge, does either entity endorse this project.
 
 See parent directory's README for more licensing information.
