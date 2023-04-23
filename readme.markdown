@@ -62,32 +62,32 @@ receive prevailed refused rotating smokers ensures
 <details>
 <summary><h3>Proposed New 1Password Word List</h3></summary>
 
-**[1password-replacement.txt](lists/1password-replacement/1password-replacement.txt)**: A suggested replacement for [1Password](https://1password.com/)'s word list, based on common words in Google Ngram data. It has the same minimum and maximum word length as [the list 1Password was using in 2021](https://1password.com/txt/agwordlist.txt), plus adds 32 extra words. You can view lists of the words I added and removed from the 2021 1Password list in `lists/1password-replacement/` directory. See [the list's own README for more information](lists/1password-replacement/readme.markdown) on this list.
+**[1password-replacement.txt](lists/1password-replacement/1password-replacement.txt)**: A suggested replacement for [1Password](https://1password.com/)'s word list. You can view lists of the words I added and removed from [a recent version of the 1Password word list](https://github.com/1Password/spg/blob/master/testdata/agwordlist.txt) in `lists/1password-replacement/` directory. See [the list's own README for more information](lists/1password-replacement/readme.markdown) on this list.
 ```text
-List length               : 18208 words
-Mean word length          : 6.36 characters
+List length               : 18325 words
+Mean word length          : 7.12 characters
 Length of shortest word   : 3 characters (ace)
-Length of longest word    : 8 characters (zucchini)
+Length of longest word    : 10 characters (zoological)
 Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : false
-Entropy per word          : 14.152 bits
-Efficiency per character  : 2.227 bits
-Assumed entropy per char  : 4.717 bits
+Entropy per word          : 14.162 bits
+Efficiency per character  : 1.990 bits
+Assumed entropy per char  : 4.721 bits
 Above brute force line?   : false
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 6.187
-Longest shared prefix     : 7
-Unique character prefix   : 8
+Mean edit distance        : 7.020
+Longest shared prefix     : 9
+Unique character prefix   : 10
 
 Word samples
 ------------
-windmill sizable rinsed bran marshy despot
-alloys vexation wilder soured join outlets
-byte puritans colonize shackled virtual frisk
-centrist morality knitting meeting reigns guest
-dulled masts cohesive vending puzzles bungalow
+embracing mingle customs silences wholeness host
+grinning defeat voodoo spin kitten audiences
+sizeable warren dispatches relief managing bottled
+offering genera ousted spherical sanctions expressway
+motivate operative receding circus triangular pleases
 ```
 </details>
 
