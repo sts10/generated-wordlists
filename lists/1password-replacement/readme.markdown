@@ -4,7 +4,8 @@ This repository contains a proposed replacement word list for the password manag
 
 ## Attributes of the new list
 
-I'm not 100% which wordlist the 1Password app uses currently, but there is [a wordlist in this public GitHub repository](https://github.com/1Password/spg/blob/master/testdata/agwordlist.txt). The list contains 18,325 words, ranging between 3 and 8 characters. (I've seen other versions of the list that are slightly shorter.)
+
+I'm not 100% which wordlist the 1Password app uses currently, but there is [a wordlist in this public GitHub repository](https://github.com/1Password/spg/blob/master/testdata/agwordlist.txt). The list contains 18,325 words, ranging between 3 and 8 characters. (I've seen other versions of the list that are slightly shorter, like [this 18,176-word one](https://1password.com/txt/agwordlist.txt).)
 
 My replacement list is this same length -- 18,325 words -- but includes words up to 10 characters long.
 
