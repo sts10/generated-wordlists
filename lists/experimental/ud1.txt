@@ -1875,7 +1875,6 @@ bothered
 bothering
 bottle
 bottled
-bottleneck
 bottles
 bottom
 bottoms
@@ -15568,6 +15567,7 @@ sustains
 sustenance
 suture
 sutures
+swallow
 swallowed
 swallowing
 swallows

@@ -190,7 +190,6 @@ activists
 activities
 actress
 actresses
-actuality
 actually
 acute
 adamant
@@ -15590,6 +15589,7 @@ sustaining
 suture
 sutures
 swain
+swallow
 swallowed
 swallowing
 swallows

@@ -491,7 +491,6 @@ almanac
 almighty
 almond
 almost
-alms
 alone
 along
 alongside
@@ -7525,6 +7524,7 @@ holders
 holding
 holdings
 holds
+hole
 holes
 holiday
 holidays
@@ -15511,6 +15511,7 @@ sustained
 sustaining
 suture
 swain
+swallow
 swallowed
 swallows
 swam
@@ -15995,7 +15996,6 @@ tiling
 till
 tilt
 tilted
-tilting
 timber
 timbers
 timed

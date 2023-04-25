@@ -4409,7 +4409,6 @@ hokum
 holdout
 holdover
 holdup
-hole
 holland
 holler
 hollo
@@ -6595,6 +6594,7 @@ outskirt
 outsmart
 outstay
 outstrip
+outwards
 outwear
 outwit
 outwork
@@ -8783,7 +8783,6 @@ swage
 swagger
 swahili
 swain
-swallow
 swami
 swank
 swanky

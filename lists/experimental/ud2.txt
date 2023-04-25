@@ -34954,6 +34954,7 @@ swaggered
 swaggering
 swagging
 swags
+swallow
 swallowed
 swallowing
 swallows
@@ -39330,7 +39331,6 @@ whizz
 who
 whoa
 whoever
-whole
 wholehearted
 wholeheartedly
 wholeness

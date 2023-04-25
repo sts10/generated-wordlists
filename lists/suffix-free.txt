@@ -3707,7 +3707,6 @@ crashes
 crashing
 crate
 crater
-crates
 craving
 crawl
 crawled
@@ -14829,6 +14828,7 @@ sustains
 sustenance
 suture
 sutures
+swallow
 swallowed
 swallowing
 swallows

@@ -3824,7 +3824,6 @@ cotton
 couch
 couched
 cough
-coughed
 coughing
 council
 councils
@@ -8014,6 +8013,7 @@ holders
 holding
 holdings
 holds
+hole
 holes
 holiday
 holidays
@@ -14955,7 +14955,6 @@ slang
 slant
 slap
 slapped
-slapping
 slash
 slate
 slaughter
@@ -16090,6 +16089,7 @@ sustains
 sustenance
 suture
 sutures
+swallow
 swallowed
 swallowing
 swallows
