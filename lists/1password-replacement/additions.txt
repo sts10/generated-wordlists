@@ -702,6 +702,7 @@ authorizes
 authors
 authorship
 autocratic
+autograph
 autoimmune
 automated
 automatic
@@ -1571,6 +1572,7 @@ claimed
 claiming
 claims
 clamped
+clams
 clans
 clapped
 clapping
@@ -1738,7 +1740,6 @@ comedians
 comedic
 comedies
 comer
-comes
 comets
 comforted
 comforting
@@ -4151,6 +4152,7 @@ going
 goldsmith
 golfer
 goodbye
+gophers
 gospels
 governance
 governed
@@ -7241,6 +7243,7 @@ pumping
 pumps
 punched
 punches
+punching
 punctuated
 punishable
 punished
@@ -8619,6 +8622,7 @@ smoker
 smokers
 smoking
 smoothed
+smoother
 smoothing
 smoothly
 smuggled
@@ -9761,6 +9765,7 @@ unaffected
 unanimity
 unanimous
 unanswered
+unattended
 unbalanced
 unbearable
 unbounded
@@ -9974,6 +9979,7 @@ venerable
 venerated
 veneration
 vengeance
+ventilator
 ventricle
 ventricles
 vents
@@ -10038,6 +10044,7 @@ violations
 violently
 violinist
 violins
+vipers
 virginity
 virgins
 virtually

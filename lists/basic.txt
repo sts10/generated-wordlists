@@ -413,6 +413,7 @@ aggressive
 aggressively
 aggrieved
 agile
+agility
 aging
 agitated
 agitation
@@ -741,7 +742,6 @@ anon
 anonymity
 anonymous
 anorexia
-another
 answer
 answered
 answering
@@ -2288,7 +2288,6 @@ calorie
 calories
 calves
 cam
-came
 camel
 camels
 camera
@@ -2570,6 +2569,7 @@ certificate
 certificates
 certified
 certify
+cesarean
 cessation
 chain
 chained
@@ -3096,11 +3096,9 @@ combines
 combining
 combs
 combustion
-come
 comedies
 comedy
 comer
-comes
 comet
 comets
 comfort
@@ -3464,6 +3462,7 @@ conjugate
 conjugated
 conjugation
 conjunction
+conjure
 connect
 connected
 connecting
@@ -3824,6 +3823,7 @@ cotton
 couch
 couched
 cough
+coughed
 coughing
 council
 councils
@@ -4660,6 +4660,7 @@ determined
 determines
 determining
 determinism
+deterred
 deterrence
 deterrent
 detriment
@@ -5406,6 +5407,7 @@ eaten
 eating
 eats
 ebb
+ebony
 eccentric
 eccentricity
 echo
@@ -7903,7 +7905,6 @@ herbs
 herd
 herder
 herds
-here
 hereafter
 hereby
 hereditary
@@ -7934,6 +7935,7 @@ heterosexual
 heuristic
 heuristics
 hexagonal
+heyday
 hicks
 hid
 hidden
@@ -9905,6 +9907,7 @@ macroscopic
 mad
 madam
 madame
+made
 madness
 magazine
 magazines
@@ -9924,6 +9927,7 @@ magnificent
 magnified
 magnitude
 magnitudes
+magnum
 mahatma
 mahogany
 maid
@@ -10698,7 +10702,6 @@ moves
 movie
 movies
 moving
-much
 mucous
 mucus
 mud
@@ -10940,10 +10943,8 @@ omitted
 omitting
 omnibus
 omnipotent
-once
 oncology
 oneness
-ones
 oneself
 ongoing
 onion
@@ -10951,7 +10952,6 @@ onions
 online
 onset
 onslaught
-onto
 onward
 onwards
 opacity
@@ -14955,6 +14955,7 @@ slang
 slant
 slap
 slapped
+slapping
 slash
 slate
 slaughter
@@ -15471,6 +15472,7 @@ standby
 standing
 standpoint
 stands
+standstill
 stanza
 stanzas
 staple
@@ -15875,6 +15877,7 @@ suburban
 suburbs
 subversion
 subversive
+subvert
 subway
 succeed
 succeeded
@@ -17989,7 +17992,6 @@ wholesale
 wholesalers
 wholesome
 wholly
-whose
 wicked
 wickedness
 wide
@@ -18073,8 +18075,6 @@ withered
 withheld
 withhold
 withholding
-within
-without
 withstand
 witness
 witnessed
@@ -18113,6 +18113,7 @@ worded
 wording
 words
 wore
+work
 workable
 workbook
 worked
@@ -18213,7 +18214,6 @@ yelling
 yellow
 yellowish
 yen
-yes
 yesterday
 yet
 yield

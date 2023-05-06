@@ -491,6 +491,7 @@ almanac
 almighty
 almond
 almost
+alms
 alone
 along
 alongside
@@ -661,7 +662,6 @@ anomaly
 anonymity
 anonymous
 anonymously
-another
 answer
 answered
 answering
@@ -1055,6 +1055,7 @@ atonement
 atop
 atrium
 atrocities
+atrophy
 attach
 attached
 attaching
@@ -1834,6 +1835,7 @@ botanical
 botanist
 botanists
 botany
+bother
 bothered
 bottle
 bottled
@@ -2159,6 +2161,7 @@ cad
 cadence
 cadet
 cadets
+cadmium
 cadre
 cadres
 cafeteria
@@ -2192,7 +2195,6 @@ calls
 calm
 calypso
 cam
-came
 camel
 camels
 cameo
@@ -2450,6 +2452,7 @@ celebrated
 celebrates
 celebrating
 celebration
+celebratory
 celebrities
 celebrity
 celestial
@@ -3006,14 +3009,12 @@ combining
 combo
 combs
 combustion
-come
 comeback
 comedian
 comedians
 comedic
 comedies
 comedy
-comes
 comet
 comets
 comfort
@@ -7057,6 +7058,7 @@ grind
 grinding
 grip
 gripping
+grips
 grist
 grit
 gritty
@@ -7423,7 +7425,6 @@ herbs
 herd
 herding
 herds
-here
 hereditary
 heresy
 heritage
@@ -9213,6 +9214,7 @@ mad
 madam
 madame
 madden
+made
 madness
 madrasa
 maestro
@@ -10001,7 +10003,6 @@ moves
 movie
 movies
 moving
-much
 mud
 muddy
 mulberry
@@ -10371,6 +10372,7 @@ numeric
 numerical
 numerically
 numerous
+numismatic
 nun
 nuns
 nurse
@@ -10522,9 +10524,7 @@ omission
 omitted
 omitting
 omnibus
-once
 oncology
-ones
 oneself
 ongoing
 onion
@@ -10533,7 +10533,6 @@ online
 onset
 onshore
 onslaught
-onto
 onward
 onwards
 opal
@@ -11244,6 +11243,7 @@ persuading
 persuasion
 persuasive
 pertaining
+pertinent
 pervasive
 pesos
 pest
@@ -13300,6 +13300,7 @@ revolutions
 revolve
 revolved
 revolver
+revolvers
 revolves
 revolving
 reward
@@ -13634,6 +13635,7 @@ salons
 saloon
 salsa
 salt
+salted
 salts
 saltwater
 salty
@@ -15996,6 +15998,7 @@ tiling
 till
 tilt
 tilted
+tilting
 timber
 timbers
 timed
@@ -17311,7 +17314,6 @@ whole
 wholesale
 wholly
 whorl
-whose
 wick
 wicked
 wicket
@@ -17401,8 +17403,6 @@ withdrew
 withers
 withheld
 withholding
-within
-without
 withstand
 witness
 witnessed
@@ -17441,6 +17441,7 @@ word
 wording
 words
 wore
+work
 worked
 worker
 workers
@@ -17533,7 +17534,6 @@ yeast
 yellow
 yellowish
 yen
-yes
 yesterday
 yet
 yew

@@ -190,6 +190,7 @@ activists
 activities
 actress
 actresses
+actuality
 actually
 acute
 adamant
@@ -696,7 +697,6 @@ anomaly
 anonymity
 anonymous
 anonymously
-another
 answer
 answering
 answers
@@ -780,7 +780,6 @@ appeal
 appealed
 appealing
 appeals
-appear
 appearance
 appearances
 appearing
@@ -3515,6 +3514,7 @@ constructing
 constructive
 constructor
 constructs
+construed
 consul
 consular
 consulate
@@ -4141,6 +4141,7 @@ dart
 darts
 dash
 dashboard
+dashed
 data
 database
 databases
@@ -6172,7 +6173,6 @@ fairgrounds
 fairies
 fairness
 fairy
-faithful
 faithfully
 faiths
 fake
@@ -6501,6 +6501,7 @@ flavored
 flavors
 flaw
 flawed
+flawless
 flaws
 flax
 flea
@@ -8077,6 +8078,7 @@ impulses
 impurities
 inability
 inaccessible
+inaccuracies
 inaccurate
 inactive
 inactivity
@@ -8907,6 +8909,7 @@ kingdoms
 kingfisher
 kingpin
 kingship
+kinks
 kinship
 kinsman
 kiosk
@@ -9044,7 +9047,6 @@ laurel
 lava
 lavender
 lavish
-lawless
 lawmakers
 lawn
 lawns
@@ -10184,7 +10186,6 @@ movements
 mover
 movie
 movies
-much
 mucus
 mud
 muddy
@@ -10714,7 +10715,6 @@ omission
 omitted
 omitting
 omnibus
-once
 oncology
 oneself
 ongoing
@@ -10724,7 +10724,6 @@ online
 onset
 onshore
 onslaught
-onto
 onward
 onwards
 opal
@@ -11039,6 +11038,7 @@ paleontology
 paler
 palette
 palisades
+pall
 palladium
 palm
 palms
@@ -12664,6 +12664,7 @@ realm
 realms
 realty
 reaper
+reappear
 reappeared
 reappears
 reappointed
@@ -15159,7 +15160,6 @@ stopping
 stops
 storage
 storefront
-stories
 stork
 stormed
 storming
@@ -15569,6 +15569,7 @@ survivor
 survivors
 susceptibility
 susceptible
+sushi
 suspect
 suspected
 suspecting
@@ -15957,6 +15958,7 @@ thickness
 thief
 thieves
 thigh
+thin
 things
 think
 thinker
@@ -16619,6 +16621,7 @@ unexpectedly
 unexplained
 unfair
 unfairly
+unfaithful
 unfamiliar
 unfavorable
 unfinished
@@ -17333,7 +17336,6 @@ whole
 wholesale
 wholly
 whorl
-whose
 wick
 wicked
 wicket
@@ -17413,8 +17415,6 @@ withdrew
 withers
 withheld
 withholding
-within
-without
 withstand
 witnessed
 witnesses
