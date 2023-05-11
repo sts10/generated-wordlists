@@ -3934,7 +3934,6 @@ crisp
 criteria
 criterion
 critic
-critical
 critically
 criticisms
 criticize
@@ -7064,6 +7063,7 @@ galley
 gallon
 gallons
 gallop
+galloping
 gallows
 gamble
 gambler
@@ -7755,7 +7755,6 @@ heredity
 heresy
 heretical
 heretics
-heretofore
 heritage
 hermit
 hermitage
@@ -10384,6 +10383,7 @@ morphological
 morphology
 mortals
 mortar
+mortars
 mortgage
 mortgages
 mosaic
@@ -16544,6 +16544,7 @@ unconventional
 uncover
 uncovered
 uncovering
+uncritical
 undated
 undecided
 undefined
@@ -17310,7 +17311,6 @@ whence
 whenever
 whereabouts
 whereas
-whereby
 wherefore
 wherein
 whereupon

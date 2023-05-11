@@ -6237,14 +6237,12 @@ herder
 herding
 herds
 hereafter
-hereby
 hereditary
 heredity
 herein
 heresy
 heretical
 heretics
-heretofore
 heritage
 hermitage
 hernia
@@ -14209,7 +14207,6 @@ whence
 whenever
 whereabouts
 whereas
-whereby
 wherefore
 wherein
 whereupon

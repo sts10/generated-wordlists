@@ -1676,6 +1676,7 @@ cham
 chambray
 chamfer
 chamois
+chancel
 chancre
 chancy
 chanson
@@ -4337,6 +4338,7 @@ hercules
 herdsman
 herdsmen
 here
+hereby
 hereof
 hereon
 heretic
@@ -10058,6 +10060,7 @@ whelp
 when
 where
 whereat
+whereby
 whereof
 whereon
 whereto

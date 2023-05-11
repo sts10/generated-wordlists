@@ -7406,7 +7406,6 @@ heredity
 heresy
 heretical
 heretics
-heretofore
 heritage
 hermit
 hernia
@@ -9781,6 +9780,7 @@ misunderstood
 misuse
 mites
 mitigate
+mitigated
 mitigating
 mitigation
 mitosis
@@ -12105,6 +12105,7 @@ realizes
 realizing
 realm
 realms
+realty
 reap
 reappear
 reappeared
@@ -16491,7 +16492,6 @@ whence
 whenever
 whereabouts
 whereas
-whereby
 wherefore
 wherein
 whereupon

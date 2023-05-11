@@ -1261,6 +1261,7 @@ axles
 ayatollah
 azure
 babe
+babel
 babies
 baby
 baccalaureate
@@ -2578,7 +2579,6 @@ championship
 championships
 champs
 chance
-chancel
 chancellery
 chancellor
 chancery
@@ -17048,6 +17048,7 @@ vital
 vitality
 vitamin
 vitamins
+viticulture
 vivid
 vividly
 vocabulary
@@ -17310,7 +17311,6 @@ whence
 whenever
 whereabouts
 whereas
-whereby
 wherein
 whereupon
 wherever

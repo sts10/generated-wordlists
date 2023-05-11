@@ -5438,7 +5438,6 @@ champions
 championship
 championships
 chanced
-chancel
 chancellery
 chancellor
 chancellors
@@ -5998,6 +5997,7 @@ classicist
 classicists
 classics
 classier
+classiest
 classifiable
 classification
 classifications
@@ -16774,8 +16774,6 @@ heresy
 heretic
 heretical
 heretics
-hereto
-heretofore
 heritage
 heritages
 hermaphrodite
@@ -22520,6 +22518,7 @@ missing
 missionaries
 missionary
 missives
+misspell
 misspelled
 misspelling
 misspellings
@@ -23390,6 +23389,7 @@ nobody
 nocturnal
 nodal
 nodding
+nodular
 nodule
 noggin
 noise
@@ -25360,6 +25360,7 @@ peritonitis
 periwinkle
 perjure
 perjured
+perjuring
 perjury
 perk
 perked
@@ -35780,7 +35781,6 @@ therapists
 thereabout
 thereabouts
 thereafter
-thereby
 therefore
 therefrom
 therein
@@ -37376,6 +37376,7 @@ underestimating
 underexpose
 underexposed
 underfed
+underfeed
 underfeeding
 underflow
 underfoot
@@ -39239,7 +39240,6 @@ whence
 whenever
 whereabouts
 whereas
-whereby
 wherefore
 wherein
 wheresoever

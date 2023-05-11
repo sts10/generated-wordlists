@@ -976,6 +976,7 @@ blanks
 blasphemy
 blasted
 blasting
+blasts
 blazed
 blazers
 blazing
@@ -3058,6 +3059,7 @@ efficiency
 efficient
 efforts
 eggs
+eigenvalue
 eighteenth
 eighties
 ejected
@@ -4442,7 +4444,6 @@ hereafter
 hereditary
 heretical
 heretics
-heretofore
 hermitage
 hesitated
 hesitation
@@ -8383,6 +8384,7 @@ sharks
 sharpened
 sharper
 sharply
+sharpness
 shattered
 shattering
 shaved
@@ -10298,6 +10300,7 @@ witnessing
 wits
 wizards
 woe
+woes
 wolverine
 wolverines
 womanhood

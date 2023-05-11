@@ -3041,6 +3041,7 @@ collapsed
 collapses
 collapsing
 collar
+collars
 collateral
 colleague
 colleagues
@@ -4261,6 +4262,7 @@ decade
 decadence
 decades
 decay
+decayed
 decaying
 decays
 deceased
@@ -4620,6 +4622,7 @@ desserts
 destination
 destinations
 destined
+destinies
 destiny
 destitute
 destroy
@@ -7906,14 +7909,12 @@ herd
 herder
 herds
 hereafter
-hereby
 hereditary
 heredity
 herein
 heresy
 heretical
 heretics
-heretofore
 heritage
 hermit
 hernia
@@ -17957,7 +17958,6 @@ whence
 whenever
 whereabouts
 whereas
-whereby
 wherefore
 wherein
 whereupon
