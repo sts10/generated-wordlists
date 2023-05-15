@@ -629,6 +629,7 @@ angry
 angular
 animal
 animals
+animate
 animated
 animation
 animations
@@ -6802,6 +6803,7 @@ genome
 genomes
 genre
 genres
+gent
 gentile
 gentle
 gentleman
@@ -9414,7 +9416,6 @@ marshy
 mart
 martial
 martian
-martin
 martini
 martins
 martyr
@@ -16762,7 +16763,6 @@ vacuum
 vague
 vaguely
 vain
-vale
 valentine
 valet
 valiant

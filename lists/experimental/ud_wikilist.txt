@@ -2236,6 +2236,7 @@ calendar
 calendars
 calf
 caliber
+calibrated
 calibration
 caliph
 caliphate
@@ -7064,6 +7065,7 @@ gigs
 gilded
 gill
 gills
+gimme
 gimmick
 ginger
 girder
@@ -9598,7 +9600,6 @@ marshes
 marshy
 martial
 martian
-martin
 martini
 martins
 martyr
@@ -16832,7 +16833,6 @@ vacuum
 vague
 vaguely
 vain
-vale
 valentine
 valet
 valiant

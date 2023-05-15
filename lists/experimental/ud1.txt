@@ -6833,6 +6833,7 @@ formulated
 formulating
 formulation
 formulations
+forsake
 forsaken
 forte
 forthcoming
@@ -9845,7 +9846,6 @@ marsh
 marshal
 marshes
 martial
-martin
 martini
 martyr
 martyrdom
@@ -10079,6 +10079,7 @@ metaphysical
 metaphysics
 metastasis
 meteorological
+meteorology
 methane
 methanol
 method
@@ -16858,7 +16859,6 @@ vaguely
 vagueness
 vain
 vainly
-vale
 valentine
 valet
 valiant

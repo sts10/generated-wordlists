@@ -261,6 +261,7 @@ adjusted
 adjusting
 adjustment
 adjustments
+adjusts
 admin
 administer
 administered
@@ -8408,6 +8409,7 @@ impotent
 impoverished
 impractical
 imprecise
+impregnated
 impress
 impressed
 impression
@@ -10100,7 +10102,6 @@ marshal
 marshes
 mart
 martial
-martin
 martyr
 martyrdom
 martyrs
@@ -17444,7 +17445,6 @@ vague
 vaguely
 vagueness
 vain
-vale
 valentine
 valiant
 valid
