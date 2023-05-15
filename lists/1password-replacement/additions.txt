@@ -5423,6 +5423,7 @@ loading
 loads
 loaned
 loans
+loanwords
 lobbied
 lobbying
 lobes
@@ -8789,6 +8790,7 @@ spirits
 spiritual
 spitting
 splashed
+splicing
 splits
 splitting
 spoiled

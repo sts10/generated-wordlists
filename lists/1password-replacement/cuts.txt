@@ -5668,6 +5668,7 @@ marque
 marquis
 marquise
 marten
+martin
 martinet
 marx
 mary
@@ -9705,6 +9706,7 @@ vagrant
 vagrom
 vail
 valance
+vale
 valence
 valency
 valet
