@@ -2931,6 +2931,7 @@ bedlam
 bedpan
 bedraggle
 bedraggled
+bedraggling
 bedridden
 bedrock
 bedroom
@@ -3817,7 +3818,6 @@ boogie
 bookcase
 bookcases
 bookends
-bookie
 bookies
 booking
 bookings
@@ -21625,7 +21625,6 @@ marsupial
 marsupials
 martian
 martians
-martin
 martinet
 martini
 martinis
@@ -21633,6 +21632,7 @@ martins
 martyr
 martyrdom
 martyred
+martyring
 martyrs
 marvel
 marveled
@@ -26975,6 +26975,7 @@ privateer
 privateers
 privately
 privates
+privatest
 privatization
 privatizations
 privatize
@@ -38303,7 +38304,6 @@ vainer
 vainglorious
 vainglory
 vainly
-vale
 valedictorian
 valedictory
 valences
