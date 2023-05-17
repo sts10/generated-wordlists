@@ -1020,6 +1020,7 @@ boarding
 boards
 boardwalk
 boasted
+boasting
 boasts
 boats
 bobcats
@@ -1082,7 +1083,6 @@ bounded
 bounding
 boundless
 bounds
-bourgeois
 bouts
 bowed
 bowing
@@ -1323,7 +1323,6 @@ captured
 captures
 capturing
 carbonate
-carcinoma
 cardboard
 cardinals
 cards
@@ -1492,7 +1491,6 @@ cheerfully
 cheering
 cheers
 chefs
-chem
 chemically
 chemicals
 chemistry
@@ -1925,6 +1923,7 @@ confining
 confirmed
 confirming
 confirms
+conflicted
 conflicts
 confluence
 conformed
@@ -3437,6 +3436,7 @@ excursion
 excursions
 excused
 excuses
+exec
 executable
 executes
 executing
@@ -7343,6 +7343,7 @@ radically
 radiology
 radios
 raffles
+rafters
 raged
 raging
 rags
@@ -8393,6 +8394,7 @@ shearing
 shedding
 sheds
 sheets
+shelled
 shellfish
 shelling
 shells

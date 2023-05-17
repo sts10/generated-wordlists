@@ -654,7 +654,6 @@ anymore
 anyone
 anything
 anytime
-anyway
 anywhere
 aorta
 apartheid
@@ -1870,7 +1869,6 @@ carbohydrates
 carbonate
 carcinogenic
 carcinogens
-carcinoma
 cardboard
 cardiac
 cardinals

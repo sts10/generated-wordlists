@@ -418,7 +418,6 @@ agility
 aging
 agitated
 agitation
-ago
 agonizing
 agony
 agrarian
@@ -797,7 +796,6 @@ anymore
 anyone
 anything
 anytime
-anyway
 anywhere
 aorta
 apart
@@ -1761,11 +1759,13 @@ blank
 blanket
 blankets
 blanks
+blasphemy
 blast
 blasted
 blasting
 blatant
 blaze
+blazed
 blazing
 bleak
 bled
@@ -1936,7 +1936,6 @@ bounds
 bounty
 bouquet
 bourbon
-bourgeois
 bourgeoisie
 bout
 bouts
@@ -2373,7 +2372,6 @@ caravan
 carbohydrate
 carbon
 carbonate
-carcinoma
 card
 cardboard
 cardiac
@@ -2678,7 +2676,6 @@ cheering
 cheers
 cheese
 chef
-chem
 chemical
 chemically
 chemicals
@@ -4985,6 +4982,7 @@ display
 displayed
 displaying
 displays
+displeased
 displeasure
 disposable
 disposal
@@ -5488,7 +5486,6 @@ eighteenth
 eighth
 eighties
 eighty
-either
 ejected
 ejection
 elaborate
@@ -6397,6 +6394,7 @@ fared
 fares
 farewell
 farm
+farmed
 farmer
 farmers
 farmhouse
@@ -8066,6 +8064,7 @@ hopelessly
 hopelessness
 hopes
 hoping
+hopped
 hopper
 hopping
 hops
@@ -9100,6 +9099,7 @@ jade
 jagged
 jaguar
 jail
+jailed
 jails
 jam
 jammed
@@ -9478,7 +9478,6 @@ lease
 leased
 leases
 leasing
-least
 leather
 leave
 leaves
@@ -15999,6 +15998,7 @@ supervisors
 supervisory
 supine
 supper
+supplanted
 supplement
 supplemental
 supplemented
@@ -17099,6 +17099,7 @@ typical
 typically
 typified
 typing
+tyrannical
 tyranny
 tyrant
 ubiquitous
@@ -17985,7 +17986,6 @@ whistling
 white
 whiteness
 whither
-whoever
 whole
 wholeness
 wholesale

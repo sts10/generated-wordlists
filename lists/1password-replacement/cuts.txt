@@ -170,6 +170,7 @@ agleam
 aglitter
 aglow
 agnostic
+ago
 agog
 agone
 agonize
@@ -399,6 +400,7 @@ antrum
 anvil
 any
 anyplace
+anyway
 anyways
 anywise
 apace
@@ -976,7 +978,6 @@ billy
 binaural
 bindery
 bing
-binge
 binnacle
 biograph
 biolog
@@ -1979,7 +1980,6 @@ comely
 comfit
 comfy
 comity
-commend
 commode
 commoner
 compeer
@@ -2941,6 +2941,7 @@ egyptian
 eider
 eidolon
 einstein
+either
 eject
 elan
 elapse
@@ -3944,7 +3945,6 @@ gnash
 gnat
 gnaw
 gneiss
-gnome
 gnostic
 goad
 goalie
@@ -4425,7 +4425,6 @@ holt
 homburg
 homebody
 homebred
-homely
 homeroom
 homesick
 homespun
@@ -5257,6 +5256,7 @@ leal
 leant
 leapfrog
 lear
+least
 leathern
 leaven
 leavings
@@ -6191,6 +6191,7 @@ negus
 nehemiah
 neigh
 neil
+neither
 nell
 nelson
 neology
@@ -10103,6 +10104,7 @@ whizzing
 who
 whoa
 whodunit
+whoever
 whom
 whomever
 whomso

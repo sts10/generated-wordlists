@@ -427,7 +427,6 @@ agile
 agility
 agitated
 agitation
-ago
 agonizing
 agony
 agrarian
@@ -793,7 +792,6 @@ anymore
 anyone
 anything
 anytime
-anyway
 anywhere
 aorta
 apart
@@ -1605,6 +1603,7 @@ bequeathed
 bequest
 bereaved
 bereavement
+bereft
 berth
 beset
 beside
@@ -1893,7 +1892,6 @@ bounds
 bounty
 bouquet
 bourbon
-bourgeois
 bourgeoisie
 bout
 bouts
@@ -2313,7 +2311,6 @@ carbon
 carbonate
 carcinogenic
 carcinogens
-carcinoma
 cardboard
 cardiac
 cardinal
@@ -2608,7 +2605,6 @@ cheers
 cheese
 cheeses
 chef
-chem
 chemical
 chemically
 chemicals
@@ -5153,6 +5149,7 @@ doom
 doomed
 doorstep
 doorway
+doorways
 dope
 doped
 doping
@@ -5436,7 +5433,6 @@ eighteen
 eighteenth
 eighth
 eighties
-either
 elaborate
 elaborated
 elaborately
@@ -6689,6 +6685,7 @@ fluctuate
 fluctuating
 fluctuation
 fluctuations
+flue
 fluency
 fluid
 fluidity
@@ -7951,6 +7948,7 @@ housewife
 housewives
 housework
 housing
+hover
 hovered
 hovering
 however
@@ -8863,6 +8861,7 @@ intractable
 intranet
 intravenous
 intravenously
+intricacies
 intricate
 intrigue
 intrigued
@@ -9340,7 +9339,6 @@ learning
 learns
 learnt
 leash
-least
 leather
 leave
 leaves
@@ -10951,6 +10949,7 @@ oysters
 ozone
 pacemaker
 pacific
+pacifist
 package
 packaged
 packages
@@ -11006,6 +11005,7 @@ pancreatic
 pane
 panel
 panels
+panes
 pang
 panic
 panicked
@@ -11782,6 +11782,7 @@ populous
 porcelain
 porch
 pork
+pornographic
 porosity
 porous
 portable
@@ -17338,7 +17339,6 @@ white
 whiteness
 whither
 whiting
-whoever
 whole
 wholeness
 wholesale
