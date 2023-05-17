@@ -4982,7 +4982,6 @@ display
 displayed
 displaying
 displays
-displeased
 displeasure
 disposable
 disposal
@@ -5486,6 +5485,7 @@ eighteenth
 eighth
 eighties
 eighty
+either
 ejected
 ejection
 elaborate
@@ -6394,7 +6394,6 @@ fared
 fares
 farewell
 farm
-farmed
 farmer
 farmers
 farmhouse
@@ -9099,7 +9098,6 @@ jade
 jagged
 jaguar
 jail
-jailed
 jails
 jam
 jammed
@@ -9478,6 +9476,7 @@ lease
 leased
 leases
 leasing
+least
 leather
 leave
 leaves
@@ -17986,6 +17985,7 @@ whistling
 white
 whiteness
 whither
+whoever
 whole
 wholeness
 wholesale

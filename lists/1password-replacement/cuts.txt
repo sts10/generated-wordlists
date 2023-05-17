@@ -978,6 +978,7 @@ billy
 binaural
 bindery
 bing
+binge
 binnacle
 biograph
 biolog
@@ -2941,7 +2942,6 @@ egyptian
 eider
 eidolon
 einstein
-either
 eject
 elan
 elapse
@@ -4425,6 +4425,7 @@ holt
 homburg
 homebody
 homebred
+homely
 homeroom
 homesick
 homespun
@@ -5256,7 +5257,6 @@ leal
 leant
 leapfrog
 lear
-least
 leathern
 leaven
 leavings
@@ -6191,7 +6191,6 @@ negus
 nehemiah
 neigh
 neil
-neither
 nell
 nelson
 neology
@@ -10104,7 +10103,6 @@ whizzing
 who
 whoa
 whodunit
-whoever
 whom
 whomever
 whomso

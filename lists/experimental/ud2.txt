@@ -3942,7 +3942,6 @@ bounty
 bouquet
 bouquets
 bourbon
-bourgeois
 bourgeoisie
 boutique
 boutiques
@@ -4974,7 +4973,6 @@ carcasses
 carcinogen
 carcinogenic
 carcinogens
-carcinoma
 carcinomata
 cardboard
 carded
@@ -5609,7 +5607,6 @@ cheesing
 cheesy
 cheetahs
 chef
-chem
 chemical
 chemically
 chemicals
@@ -7071,6 +7068,7 @@ confusion
 confusions
 conga
 congaed
+congaing
 congeal
 congealed
 congealing
@@ -19959,6 +19957,7 @@ keying
 keynote
 keynoted
 keynoting
+keypunch
 keystone
 keystroke
 keystrokes
@@ -25804,6 +25803,7 @@ pinholes
 pinioned
 pinioning
 pink
+pinked
 pinker
 pinking
 pinkish
@@ -27602,7 +27602,6 @@ pumping
 pumpkin
 pumpkins
 pumps
-punch
 punched
 punches
 punchier
@@ -39588,6 +39587,7 @@ womanized
 womanizer
 womanizing
 womankind
+womanlier
 womanliest
 womanlike
 womanliness

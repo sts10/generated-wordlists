@@ -360,7 +360,6 @@ aging
 agitated
 agitation
 agnostic
-ago
 agony
 agrarian
 agree
@@ -707,7 +706,6 @@ anybody
 anymore
 anyone
 anything
-anyway
 anywhere
 apart
 apartheid
@@ -1858,7 +1856,6 @@ bounded
 bounds
 bounty
 bourbon
-bourgeois
 bourgeoisie
 bout
 boutique
@@ -2303,7 +2300,6 @@ caravan
 carbine
 carbon
 carbonate
-carcinoma
 card
 cardboard
 cardiac
@@ -2619,7 +2615,6 @@ cheeses
 cheetah
 chef
 chefs
-chem
 chemical
 chemically
 chemicals
@@ -2705,6 +2700,7 @@ cider
 cigar
 cigarette
 cigarettes
+cigars
 cilia
 cinema
 cinemas
@@ -5275,6 +5271,7 @@ emu
 emulate
 emulated
 emulation
+emus
 enable
 enabled
 enables
@@ -10774,6 +10771,7 @@ overlooking
 overlooks
 overlord
 overly
+overlying
 overnight
 overpass
 overran
@@ -14402,6 +14400,7 @@ sizes
 skate
 skater
 skaters
+skates
 skating
 skeletal
 skeleton
@@ -14929,6 +14928,7 @@ stake
 stakes
 stalemate
 stalk
+stalker
 stalking
 stalks
 stall
