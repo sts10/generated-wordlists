@@ -42,11 +42,11 @@ convex-bump-styled-salesmen-iniquity-troupe
 From this new list:
 
 ```text
-affects-motorcycle-arroyo-kettle-vehicle-licenses
-victim-patents-baptized-tomatoes-crow-hexagonal
-restore-sword-context-volcano-gambling-saves
-replaced-omnibus-confluence-laymen-engage-nations
-aim-handicaps-wash-caught-parent-socialists
+hunt-annuities-lots-diaries-pertains-male
+gave-flask-buy-hoped-idealized-roller
+converted-roofing-purged-riddle-pans-participle
+flattered-apostolic-provide-devolution-plenty-lain
+together-rivals-puma-loneliness-reserve-clusters
 ```
 
 ## Methodology
