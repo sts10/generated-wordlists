@@ -3882,7 +3882,6 @@ downright
 downstairs
 downstream
 downtown
-downturn
 downwards
 dowry
 dozens
@@ -4659,6 +4658,7 @@ extermination
 externally
 extinction
 extinguished
+extortion
 extracted
 extracting
 extraction
@@ -4993,7 +4993,7 @@ fleeing
 flees
 fleeting
 fleets
-fleshy
+flesh
 flew
 flexibility
 flexible
@@ -5822,6 +5822,7 @@ helps
 hemispheres
 hemoglobin
 hemorrhage
+hemp
 henceforth
 hens
 hepatic
@@ -6375,7 +6376,6 @@ infections
 infectious
 inferences
 inferiority
-inferno
 inferred
 infertility
 infested
@@ -7053,7 +7053,6 @@ leaving
 lectured
 lecturer
 lectures
-lecturing
 ledger
 lee
 leftist
@@ -8094,7 +8093,7 @@ neurological
 neurology
 neurons
 neutrality
-neutrons
+neutron
 nevertheless
 newborn
 newcomers
@@ -8208,6 +8207,7 @@ oaths
 oats
 obedience
 obedient
+obelisk
 obese
 obesity
 obeyed
@@ -9725,7 +9725,6 @@ puzzling
 pyramidal
 pyramids
 python
-quadrangle
 quadrant
 quadratic
 quadruple
@@ -10404,6 +10403,7 @@ resulting
 results
 resumed
 resumes
+resumption
 resurgence
 resurrected
 resurrection
@@ -11598,6 +11598,7 @@ sprayed
 spraying
 spreading
 spreadsheet
+spree
 springing
 springs
 sprinkled
@@ -11621,6 +11622,7 @@ squid
 squire
 squirrel
 stabbed
+stabbing
 stability
 stabilization
 stabilized
@@ -11655,7 +11657,7 @@ stalled
 stallion
 stalls
 stamens
-stampede
+stamped
 stamps
 stance
 standardization
@@ -12027,7 +12029,6 @@ sunshine
 superb
 superficially
 superfluous
-superhuman
 superimposed
 superintendent
 superiority
@@ -13694,7 +13695,6 @@ youngsters
 youthful
 youths
 zealous
-zebra
 zenith
 zeppelin
 zeros

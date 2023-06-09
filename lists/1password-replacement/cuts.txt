@@ -2893,6 +2893,7 @@ earthy
 earwig
 easel
 easter
+easterly
 eater
 eave
 eben
@@ -3945,6 +3946,7 @@ gnash
 gnat
 gnaw
 gneiss
+gnome
 gnostic
 goad
 goalie
@@ -3956,6 +3958,7 @@ gobbet
 gobble
 gobbler
 goblet
+goblin
 godchild
 godhead
 godhood

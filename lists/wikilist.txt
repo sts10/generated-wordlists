@@ -1054,7 +1054,6 @@ atonement
 atop
 atrium
 atrocities
-atrophy
 attach
 attached
 attaching
@@ -1351,6 +1350,7 @@ barred
 barrel
 barrels
 barren
+barricades
 barrier
 barriers
 barring
@@ -1420,6 +1420,7 @@ beach
 beaches
 beacon
 beacons
+bead
 beads
 beagle
 beak
@@ -1834,7 +1835,6 @@ botanical
 botanist
 botanists
 botany
-bother
 bothered
 bottle
 bottled
@@ -1979,6 +1979,7 @@ bring
 bringing
 brings
 brink
+bristles
 brittle
 broad
 broadband
@@ -2531,7 +2532,6 @@ champagne
 champion
 championed
 champions
-champs
 chance
 chancellery
 chancellor
@@ -2600,7 +2600,6 @@ cheating
 check
 checked
 checking
-checklist
 checkpoint
 checkpoints
 checks
@@ -2700,7 +2699,6 @@ cider
 cigar
 cigarette
 cigarettes
-cigars
 cilia
 cinema
 cinemas
@@ -4606,6 +4604,7 @@ dispersal
 disperse
 dispersed
 dispersion
+displace
 displaced
 displacing
 display
@@ -5862,7 +5861,6 @@ face
 faced
 facelift
 faces
-facet
 facets
 facial
 facilitate
@@ -6042,6 +6040,7 @@ felt
 female
 females
 feminine
+femininity
 feminism
 feminist
 feminists
@@ -6608,6 +6607,7 @@ frost
 frozen
 fruit
 fruitful
+fruiting
 fruition
 fruits
 frustrated
@@ -7057,7 +7057,6 @@ grind
 grinding
 grip
 gripping
-grips
 grist
 grit
 gritty
@@ -7160,7 +7159,6 @@ gymnasium
 gymnast
 gymnastics
 gymnasts
-gypsies
 gypsum
 gypsy
 habit
@@ -7722,6 +7720,7 @@ hypotheses
 hypothesis
 hysteria
 ice
+icebreaker
 icon
 icons
 icy
@@ -8401,6 +8400,7 @@ jackpot
 jacks
 jade
 jag
+jagged
 jaguar
 jaguars
 jail
@@ -8813,6 +8813,7 @@ leeward
 left
 leftist
 leg
+legacies
 legacy
 legal
 legality
@@ -9723,7 +9724,7 @@ millions
 mills
 mime
 mimic
-mimicry
+mimicking
 mimics
 mind
 minds
@@ -10771,7 +10772,6 @@ overlooking
 overlooks
 overlord
 overly
-overlying
 overnight
 overpass
 overran
@@ -11072,6 +11072,7 @@ patterned
 patterns
 patty
 pause
+paused
 pave
 paved
 pavement
@@ -11243,7 +11244,6 @@ persuading
 persuasion
 persuasive
 pertaining
-pertinent
 pervasive
 pesos
 pest
@@ -11614,7 +11614,6 @@ poorer
 poorest
 poorly
 pop
-popcorn
 pope
 popes
 poplar
@@ -12490,6 +12489,7 @@ rapids
 rapper
 rappers
 rapping
+raps
 rare
 rarely
 rarer
@@ -13221,6 +13221,7 @@ retelling
 retention
 retina
 retinal
+retinue
 retire
 retired
 retirement
@@ -13300,7 +13301,6 @@ revolutions
 revolve
 revolved
 revolver
-revolvers
 revolves
 revolving
 reward
@@ -13794,6 +13794,7 @@ scouted
 scouting
 scouts
 scramble
+scrambled
 scrap
 scrapped
 scrapping
@@ -14132,7 +14133,6 @@ sharp
 sharply
 shattered
 shaved
-sheaf
 shear
 shearer
 shearing
@@ -14257,6 +14257,7 @@ shrink
 shrinking
 shrub
 shrubs
+shrunk
 shuffle
 shun
 shut
@@ -14400,7 +14401,6 @@ sizes
 skate
 skater
 skaters
-skates
 skating
 skeletal
 skeleton
@@ -14681,6 +14681,7 @@ sovereign
 sovereignty
 soviet
 soviets
+sow
 soy
 soybean
 spa
@@ -14928,7 +14929,6 @@ stake
 stakes
 stalemate
 stalk
-stalker
 stalking
 stalks
 stall
@@ -15094,7 +15094,6 @@ stitches
 stochastic
 stock
 stocked
-stocking
 stockings
 stocks
 stoke
@@ -17301,6 +17300,7 @@ while
 whilst
 whip
 whipped
+whirlwind
 whiskey
 whistle
 whistler

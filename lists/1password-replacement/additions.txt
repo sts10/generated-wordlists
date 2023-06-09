@@ -976,7 +976,6 @@ blanks
 blasphemy
 blasted
 blasting
-blasts
 blazed
 blazers
 blazing
@@ -1923,6 +1922,7 @@ confining
 confirmed
 confirming
 confirms
+conflicted
 conflicts
 confluence
 conformed
@@ -2422,6 +2422,7 @@ defeated
 defeating
 defeats
 defected
+defection
 defective
 defects
 defendant
@@ -3504,7 +3505,6 @@ explaining
 explains
 explicitly
 exploded
-explodes
 exploding
 exploited
 exploiting
@@ -7342,6 +7342,7 @@ radically
 radiology
 radios
 raffles
+rafters
 raged
 raging
 rags
@@ -7494,7 +7495,6 @@ recounted
 recounting
 recounts
 recovered
-recoveries
 recovering
 recovers
 recreated
@@ -7931,6 +7931,7 @@ rewriting
 rewritten
 rhetorical
 rheumatic
+rhinoceros
 rhinos
 rhymes
 rhythmic
@@ -9680,6 +9681,7 @@ trembled
 trembling
 tremendous
 trenches
+trending
 trends
 trials
 triangles
@@ -10036,6 +10038,7 @@ vigilante
 vigorously
 villagers
 villages
+villainous
 villains
 villas
 vines

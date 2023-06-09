@@ -433,7 +433,6 @@ akin
 alarm
 alarmed
 alarms
-alas
 albatross
 albeit
 album
@@ -779,6 +778,7 @@ appeal
 appealed
 appealing
 appeals
+appear
 appearance
 appearances
 appearing
@@ -1453,6 +1453,7 @@ batting
 battle
 battled
 battlefield
+battleground
 battles
 battleship
 battleships
@@ -1584,6 +1585,7 @@ benefit
 benefited
 benefiting
 benefits
+benefitted
 benevolent
 benign
 bent
@@ -2235,7 +2237,6 @@ calendar
 calendars
 calf
 caliber
-calibrated
 calibration
 caliph
 caliphate
@@ -3282,6 +3283,7 @@ conception
 conceptions
 concepts
 conceptual
+conceptualized
 conceptually
 concern
 concerned
@@ -3512,7 +3514,6 @@ constructing
 constructive
 constructor
 constructs
-construed
 consul
 consular
 consulate
@@ -3650,6 +3651,7 @@ converged
 convergence
 convergent
 converges
+converging
 conversation
 conversational
 conversations
@@ -3852,6 +3854,7 @@ covert
 coveted
 cow
 coward
+cowardly
 cowboy
 cowboys
 coworkers
@@ -4011,7 +4014,6 @@ cub
 cube
 cubes
 cubic
-cubism
 cubs
 cucumber
 cuff
@@ -4077,6 +4079,7 @@ custom
 customary
 customer
 customers
+customization
 customized
 customs
 cutoff
@@ -5642,6 +5645,7 @@ ensembles
 enshrined
 ensign
 enslaved
+enslavement
 ensued
 ensues
 ensuing
@@ -6339,7 +6343,6 @@ fever
 few
 fewer
 fewest
-fiasco
 fiat
 fiber
 fiberglass
@@ -6996,7 +6999,6 @@ generators
 generic
 generosity
 generous
-generously
 genes
 genesis
 genetic
@@ -7063,7 +7065,6 @@ gigs
 gilded
 gill
 gills
-gimme
 gimmick
 ginger
 girder
@@ -7257,6 +7258,7 @@ grenadier
 grenadiers
 grew
 greyhound
+greyhounds
 grid
 grids
 grief
@@ -7718,7 +7720,6 @@ homeland
 homeless
 homelessness
 homemade
-homeowner
 homeowners
 homer
 homes
@@ -8764,6 +8765,7 @@ jaw
 jaws
 jays
 jazz
+jazzy
 jealous
 jealousy
 jeans
@@ -8809,7 +8811,6 @@ journeyed
 journeyman
 journeys
 joyful
-joystick
 jubilee
 judge
 judged
@@ -9152,7 +9153,6 @@ leveled
 levels
 leverage
 leveraged
-leviathan
 levied
 levy
 lexical
@@ -9431,6 +9431,7 @@ magneto
 magnets
 magnificent
 magnitude
+magnitudes
 magnolia
 magnum
 magpies
@@ -9833,7 +9834,6 @@ metaphysical
 metaphysics
 meteor
 meteorite
-meteorites
 meteorological
 meteorologist
 meteorology
@@ -10062,6 +10062,7 @@ mollusks
 molten
 mom
 moment
+momentarily
 moments
 momentum
 monarch
@@ -10975,6 +10976,7 @@ overtook
 overture
 overturn
 overturned
+overturning
 overview
 overweight
 overwhelmed
@@ -11038,7 +11040,6 @@ paleontology
 paler
 palette
 palisades
-pall
 palladium
 palm
 palms
@@ -11601,6 +11602,7 @@ plastic
 plasticity
 plastics
 plateau
+plateaus
 platform
 platforms
 plating
@@ -12664,7 +12666,6 @@ realm
 realms
 realty
 reaper
-reappear
 reappeared
 reappears
 reappointed
@@ -13874,6 +13875,7 @@ scrap
 scrapped
 scrapping
 scratch
+scratched
 scream
 screaming
 screams
@@ -14405,7 +14407,6 @@ simultaneously
 since
 sincere
 sincerity
-sinful
 singer
 singers
 singing
@@ -14608,7 +14609,6 @@ snowfall
 snowy
 soaked
 soap
-soaps
 soaring
 sober
 soccer
@@ -15218,6 +15218,7 @@ stressful
 stressing
 stretch
 stretched
+stretcher
 stretches
 stretching
 stricken
@@ -16090,7 +16091,6 @@ tolerant
 tolerate
 tolerated
 tolls
-tomahawk
 tomato
 tomatoes
 tomb
@@ -16379,7 +16379,6 @@ troll
 trolley
 trolls
 trombone
-trombonist
 troop
 trooper
 troopers
@@ -16431,6 +16430,7 @@ tubular
 tucker
 tufts
 tug
+tugs
 tulip
 tumor
 tumors
@@ -17353,6 +17353,7 @@ widowed
 widower
 widows
 wielded
+wielding
 wig
 wight
 wiki
@@ -17452,7 +17453,6 @@ wool
 woolen
 wording
 worker
-workflow
 workforce
 workhouse
 workings

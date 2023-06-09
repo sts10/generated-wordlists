@@ -1903,6 +1903,7 @@ brick
 bricks
 bride
 bridegroom
+bridgehead
 bridges
 bridging
 brief
@@ -2289,7 +2290,6 @@ catalyst
 catalysts
 catalytic
 catalyzed
-catalyzes
 cataract
 catastrophe
 catastrophic
@@ -3556,6 +3556,7 @@ corner
 corners
 cornerstone
 cornice
+corolla
 corollary
 corona
 coronary
@@ -4874,7 +4875,6 @@ doorway
 doped
 doping
 dormant
-dormitories
 dormitory
 dorsal
 dosage
@@ -8141,7 +8141,6 @@ installations
 installed
 installing
 installment
-installments
 instance
 instances
 instant
@@ -10094,6 +10093,7 @@ nuclei
 nucleus
 nude
 nudity
+nuggets
 null
 number
 numbering
@@ -11695,7 +11695,6 @@ prohibits
 project
 projected
 projectile
-projectiles
 projecting
 projection
 projections
@@ -13434,6 +13433,7 @@ separation
 separations
 separatist
 sepsis
+septa
 septic
 septum
 sequel
@@ -15727,7 +15727,6 @@ ultraviolet
 umbilical
 umbrella
 umpire
-umpires
 unable
 unacceptable
 unaffected
@@ -16467,6 +16466,7 @@ westwards
 wet
 wetland
 wetlands
+wettest
 wetting
 whale
 whalers
