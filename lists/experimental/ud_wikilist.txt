@@ -1935,7 +1935,6 @@ bracken
 bracket
 brackets
 brackish
-bracts
 braid
 braille
 brain
@@ -14609,6 +14608,7 @@ snowfall
 snowy
 soaked
 soap
+soaps
 soaring
 sober
 soccer

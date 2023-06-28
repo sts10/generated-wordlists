@@ -1840,7 +1840,6 @@ boyfriend
 boyhood
 bracket
 brackets
-bracts
 braille
 brain
 brains
@@ -11237,6 +11236,7 @@ polyester
 polyethylene
 polygon
 polymer
+polymeric
 polymerization
 polymers
 polynomial
