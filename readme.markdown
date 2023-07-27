@@ -2,7 +2,7 @@
 
 A repository for word lists I've generated. Most are proof-of-concept or experimental. Some lists are based on [Google Ngram data](https://github.com/sts10/common_word_list_maker), others are based on [word frequency data from (English) Wikipedia](https://github.com/IlyaSemenov/wikipedia-word-frequency/), and some are based on a mix of both sources.
 
-If you're looking for **more polished wordlists**, you should consider my [Orchard Street Wordlists](https://github.com/sts10/orchard-street-wordlists).
+**If you're looking for more usable, polished wordlists, you should consider my [Orchard Street Wordlists](https://github.com/sts10/orchard-street-wordlists).**
 
 ## About the word lists
 
