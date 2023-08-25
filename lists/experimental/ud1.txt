@@ -3532,7 +3532,6 @@ consuming
 consummate
 consummation
 consumption
-cont
 contact
 contacted
 contacting
@@ -13245,7 +13244,6 @@ reproducible
 reproducing
 reproduction
 reproductive
-reptile
 reptiles
 republic
 republican
@@ -13583,6 +13581,8 @@ rods
 roe
 rogue
 roles
+roller
+rollers
 rolls
 roman
 romance
