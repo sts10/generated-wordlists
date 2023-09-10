@@ -2599,6 +2599,7 @@ cheating
 check
 checked
 checking
+checklist
 checkpoint
 checkpoints
 checks
@@ -8377,7 +8378,6 @@ isolation
 isomorphic
 isotope
 isotopes
-issuance
 issue
 issued
 issues

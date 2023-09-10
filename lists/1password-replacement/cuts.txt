@@ -978,7 +978,6 @@ billy
 binaural
 bindery
 bing
-binge
 binnacle
 biograph
 biolog
@@ -4814,6 +4813,7 @@ isobar
 isomer
 isotrop
 israel
+issuance
 issuant
 istanbul
 isthmi

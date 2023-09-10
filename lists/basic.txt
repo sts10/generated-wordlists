@@ -6393,6 +6393,7 @@ fared
 fares
 farewell
 farm
+farmed
 farmer
 farmers
 farmhouse
@@ -9074,7 +9075,6 @@ isotope
 isotopes
 isotopic
 isotropic
-issuance
 issue
 issued
 issues

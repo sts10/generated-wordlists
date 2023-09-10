@@ -3079,7 +3079,6 @@ comprehension
 comprehensive
 compress
 compressed
-compression
 compressor
 comprise
 comprised
@@ -4029,6 +4028,7 @@ decommissioned
 decommissioning
 decomposed
 decomposition
+decompression
 deconstruction
 decor
 decorate
@@ -8464,7 +8464,6 @@ isotope
 isotopes
 isotopic
 isotropic
-issuance
 issuing
 isthmus
 italics
@@ -15158,6 +15157,7 @@ textures
 thank
 thanked
 thankful
+thanking
 thanks
 thanksgiving
 thatcher

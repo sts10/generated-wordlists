@@ -8877,7 +8877,6 @@ isotope
 isotopes
 isotopic
 isotropic
-issuance
 issuing
 isthmus
 italics
@@ -13244,6 +13243,7 @@ reproducible
 reproducing
 reproduction
 reproductive
+reptile
 reptiles
 republic
 republican

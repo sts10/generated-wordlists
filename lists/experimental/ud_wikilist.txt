@@ -8719,7 +8719,6 @@ isomorphic
 isotope
 isotopes
 isotopic
-issuance
 issuing
 isthmus
 italic
@@ -9833,6 +9832,7 @@ metaphysical
 metaphysics
 meteor
 meteorite
+meteorites
 meteorological
 meteorologist
 meteorology

@@ -19527,7 +19527,6 @@ isomorphic
 isosceles
 isotopic
 isotropic
-issuance
 isthmus
 italic
 italicized
@@ -39810,6 +39809,7 @@ wrongdoers
 wrongdoing
 wrongdoings
 wronged
+wronger
 wrongful
 wrongfully
 wrongfulness
