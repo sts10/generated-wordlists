@@ -8116,7 +8116,6 @@ criminals
 criminologist
 criminologists
 criminology
-crimped
 crimson
 cringe
 cringed
@@ -16684,6 +16683,7 @@ heiress
 heiresses
 heirloom
 heirlooms
+heisted
 helicopter
 helicopters
 heliotrope
@@ -27267,7 +27267,6 @@ prophetic
 prophetically
 prophets
 prophylactic
-prophylaxis
 propinquity
 propitiate
 propitiated
@@ -30890,6 +30889,7 @@ scribbles
 scribbling
 scrimmage
 scrimp
+scrimped
 scrimping
 scrimshaw
 scripting
