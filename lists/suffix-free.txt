@@ -1391,6 +1391,7 @@ bathe
 bathed
 bathing
 bathroom
+bathrooms
 baths
 baton
 bats
@@ -11753,7 +11754,6 @@ prophet
 prophetic
 prophets
 prophylactic
-prophylaxis
 proponent
 proponents
 proportion

@@ -58,6 +58,7 @@ abundance
 abundant
 abundantly
 abused
+abusers
 abuses
 abusing
 abusive
@@ -12315,7 +12316,6 @@ prophet
 prophetic
 prophets
 prophylactic
-prophylaxis
 proponent
 proponents
 proportion

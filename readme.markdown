@@ -159,34 +159,34 @@ assessing jazz wishing fighting painter executing
 </details>
 
 <details>
-<summary><h3>Prefix Free: A 14k list free of prefix words</h3></summary>
+<summary><h3>Prefix Free: A long list free of prefix words</h3></summary>
 
 **[prefix-free.txt](lists/prefix-free.txt)** is a long list free of prefix words.
 ```text
-List length               : 14481 words
-Mean word length          : 8.22 characters
+List length               : 16750 words
+Mean word length          : 8.27 characters
 Length of shortest word   : 3 characters (ads)
 Length of longest word    : 15 characters (vulnerabilities)
 Free of prefix words?     : true
 Free of suffix words?     : false
 Uniquely decodable?       : true
-Entropy per word          : 13.822 bits
-Efficiency per character  : 1.681 bits
-Assumed entropy per char  : 4.607 bits
+Entropy per word          : 14.032 bits
+Efficiency per character  : 1.696 bits
+Assumed entropy per char  : 4.677 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 8.036
+Mean edit distance        : 8.076
 Longest shared prefix     : 14
 Unique character prefix   : 15
 
 Word samples
 ------------
-asterisk organic strengthening randomized emotions fastened
-joys emphases tad somehow reversible planes
-realty screened dough parsing drawers meaningfully
-middle dignitaries petite lighter attorneys arbitrarily
-flourished finished routing dishes coughing penetrating
+speechless butcher sneaking foreword vices bulimia
+hexagonal volunteered cemeteries accounts steeplechase median
+grips patents entitled stories boxing scooter
+stark offsetting hinterland variegated influencing company
+farmers deviance magnum magnetic noteworthy stringent
 ```
 </details>
 
