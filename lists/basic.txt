@@ -7934,6 +7934,7 @@ hesitation
 heterosexual
 heuristic
 heuristics
+hew
 hexagonal
 heyday
 hicks
@@ -13254,7 +13255,6 @@ reference
 referenced
 references
 referendum
-referent
 referential
 referral
 referrals

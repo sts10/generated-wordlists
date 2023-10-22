@@ -5970,7 +5970,6 @@ moor
 mooring
 moorland
 moot
-mop
 mope
 moppet
 moraine
@@ -7566,6 +7565,7 @@ redound
 reefer
 reek
 refect
+referent
 refill
 refit
 reforest
