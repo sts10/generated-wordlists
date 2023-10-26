@@ -163,16 +163,16 @@ assessing jazz wishing fighting painter executing
 
 **[prefix-free.txt](lists/prefix-free.txt)** is a long list free of prefix words.
 ```text
-List length               : 16750 words
-Mean word length          : 8.27 characters
+List length               : 16384 words
+Mean word length          : 8.26 characters
 Length of shortest word   : 3 characters (ads)
 Length of longest word    : 15 characters (vulnerabilities)
 Free of prefix words?     : true
 Free of suffix words?     : false
 Uniquely decodable?       : true
-Entropy per word          : 14.032 bits
-Efficiency per character  : 1.696 bits
-Assumed entropy per char  : 4.677 bits
+Entropy per word          : 14.000 bits
+Efficiency per character  : 1.694 bits
+Assumed entropy per char  : 4.667 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
@@ -182,11 +182,11 @@ Unique character prefix   : 15
 
 Word samples
 ------------
-speechless butcher sneaking foreword vices bulimia
-hexagonal volunteered cemeteries accounts steeplechase median
-grips patents entitled stories boxing scooter
-stark offsetting hinterland variegated influencing company
-farmers deviance magnum magnetic noteworthy stringent
+ordering pearls redistricting lorry perspectives above
+steadfast reliant rattled alcoholism borrowing executes
+anthems puzzling fanned dryness woodlands begotten
+coronation segmented limp workforce guts wicker
+liquids corresponded raising chasm morocco biofeedback
 ```
 </details>
 
@@ -195,16 +195,16 @@ farmers deviance magnum magnetic noteworthy stringent
 
 **[suffix-free.txt](lists/suffix-free.txt)** is a long list that is uniquely decodable (it is free of suffix words). I think this would be a good one to use as a wordlist for [the KeePassXC password manager](https://keepassxc.org/), however use at your own risk. A 7-word passphrase from this list provides about 98 bits of entropy, compared to the EFF long list (KeePassXC's default list), from which a 7-word passphrase provides about 90.5 bits.
 ```
-List length               : 16750 words
-Mean word length          : 8.02 characters
+List length               : 16384 words
+Mean word length          : 7.99 characters
 Length of shortest word   : 3 characters (add)
-Length of longest word    : 15 characters (vulnerabilities)
+Length of longest word    : 15 characters (troubleshooting)
 Free of prefix words?     : false
 Free of suffix words?     : true
 Uniquely decodable?       : true
-Entropy per word          : 14.032 bits
-Efficiency per character  : 1.750 bits
-Assumed entropy per char  : 4.677 bits
+Entropy per word          : 14.000 bits
+Efficiency per character  : 1.751 bits
+Assumed entropy per char  : 4.667 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
@@ -214,11 +214,11 @@ Unique character prefix   : 15
 
 Word samples
 ------------
-spaghetti aspirin teams roadside dominating moose
-spirited incorrect renown hepatic excavated badly
-phage homeland annoying programmer shivered primaries
-duties intertwined modesty insurrection transistor refinements
-deliverance extracting relieved austere imagine allegation
+transported citizens punches privileged bytes dimensionless
+window reputation embarked retreated adequately cartilage
+sanction unbeaten dreamed suggestive planting magazine
+converse assassinated omnibus hostages sandwiches constructions
+fuels robotic compensating useless daylight athletic
 ```
 
 </details>
