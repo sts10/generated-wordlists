@@ -31,6 +31,9 @@ abolishing
 abolitionists
 aboriginal
 aborigines
+aborted
+abortions
+abortive
 abound
 above
 abrasion
@@ -698,7 +701,6 @@ antisocial
 antithesis
 antithetical
 antitrust
-antiviral
 antiwar
 ants
 anxieties
@@ -806,7 +808,6 @@ aquaculture
 aquarium
 aquatics
 aqueduct
-aqueous
 aquifer
 arable
 arbiter
@@ -1542,7 +1543,6 @@ bisexual
 bishopric
 bishops
 bison
-bitcoin
 bites
 biting
 bitmap
@@ -1662,7 +1662,7 @@ bombarded
 bombardier
 bombardment
 bombed
-bomber
+bombers
 bombings
 bombs
 bonded
@@ -3573,6 +3573,7 @@ crystals
 cubes
 cubic
 cubs
+cuckoo
 cucumber
 cues
 cuffs
@@ -3682,7 +3683,7 @@ dandy
 dangerously
 dangers
 dangling
-daredevil
+dared
 dares
 daring
 darkened
@@ -4566,10 +4567,8 @@ downhill
 downing
 downloadable
 downloaded
-downloading
 downloads
 downright
-downsizing
 downstairs
 downstream
 downtown
@@ -5186,6 +5185,7 @@ erected
 erecting
 eroded
 erosion
+erotic
 errands
 erratic
 erred
@@ -6230,6 +6230,7 @@ funds
 funerals
 fungal
 fungi
+fungus
 funky
 funnel
 funny
@@ -6275,7 +6276,6 @@ galley
 gallons
 galloping
 gallows
-galvanized
 gambit
 gamblers
 gambling
@@ -6789,7 +6789,6 @@ harpsichord
 harrow
 harry
 harshly
-harshness
 hart
 harvested
 harvester
@@ -7234,6 +7233,7 @@ ideologies
 ideology
 idioms
 idiosyncratic
+idiot
 idleness
 idly
 idolatry
@@ -7268,7 +7268,6 @@ illustrations
 illustrative
 illustrator
 illustrious
-imaged
 imagery
 images
 imaginable
@@ -7696,6 +7695,7 @@ inquiry
 inquisition
 inquisitive
 inroads
+insane
 insanity
 insatiable
 inscribed
@@ -8377,7 +8377,6 @@ ledger
 lees
 leeward
 leftist
-leftover
 legacies
 legacy
 legality
@@ -9647,7 +9646,6 @@ nicknames
 nicotine
 niece
 nightclubs
-nightfall
 nightingale
 nightlife
 nightly
@@ -10676,7 +10674,6 @@ ping
 pink
 pinnacle
 pinned
-pinning
 pinpoint
 pins
 pinto
@@ -12908,6 +12905,8 @@ seafood
 sealed
 sealing
 seals
+seaman
+seamen
 seamless
 seams
 seaplane
@@ -13540,6 +13539,7 @@ sneaking
 sneaks
 sniffed
 sniffing
+sniper
 snooker
 snoop
 snoring
@@ -13925,7 +13925,6 @@ stared
 stares
 staring
 stark
-starlight
 starred
 starring
 stars
@@ -14071,7 +14070,6 @@ storyteller
 stout
 stoves
 straightened
-straightening
 straightforward
 strained
 straining
@@ -15637,6 +15635,7 @@ urgently
 urges
 urging
 uric
+urine
 urn
 usability
 usable
@@ -15651,6 +15650,7 @@ using
 usually
 utensils
 uterine
+uterus
 utilitarianism
 utilities
 utility

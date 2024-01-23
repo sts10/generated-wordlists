@@ -27,6 +27,11 @@ abolition
 abolitionist
 aboriginal
 aborigines
+abort
+aborted
+abortion
+abortions
+abortive
 above
 abrasive
 abridged
@@ -53,6 +58,7 @@ abstracts
 absurd
 abundance
 abundant
+abuse
 abused
 abuses
 abusing
@@ -204,6 +210,7 @@ adapting
 adaptive
 add
 added
+addict
 addicted
 addiction
 addictive
@@ -573,7 +580,6 @@ ambulance
 ambulances
 ambush
 ambushed
-amen
 amend
 amended
 amending
@@ -794,7 +800,6 @@ applause
 apples
 appliance
 appliances
-applicability
 applicable
 applicant
 applicants
@@ -845,7 +850,6 @@ aquarium
 aquatic
 aquatics
 aqueduct
-aqueous
 aquifer
 arbitrarily
 arbitrary
@@ -1261,7 +1265,6 @@ axles
 ayatollah
 azure
 babe
-babel
 babies
 baby
 baccalaureate
@@ -1585,7 +1588,6 @@ benefit
 benefited
 benefiting
 benefits
-benefitted
 benevolent
 benign
 bent
@@ -1828,6 +1830,8 @@ bombardier
 bombardment
 bombed
 bomber
+bombers
+bombing
 bombings
 bombs
 bonanza
@@ -2188,7 +2192,6 @@ buying
 buyout
 buys
 buzz
-buzzard
 byes
 bypass
 bypassed
@@ -2795,6 +2798,7 @@ civilizations
 civilized
 claimant
 claimants
+claims
 clam
 clamp
 clams
@@ -3650,7 +3654,6 @@ converged
 convergence
 convergent
 converges
-converging
 conversation
 conversational
 conversations
@@ -4014,6 +4017,7 @@ cube
 cubes
 cubic
 cubs
+cuckoo
 cucumber
 cuff
 cuisine
@@ -4141,7 +4145,6 @@ dart
 darts
 dash
 dashboard
-dashed
 data
 database
 databases
@@ -5351,7 +5354,6 @@ elaborate
 elaborated
 elaborately
 elaboration
-elapsed
 elastic
 elasticity
 elbow
@@ -5749,11 +5751,13 @@ eradicate
 eradication
 erase
 erased
+erect
 erected
 erecting
 erode
 eroded
 erosion
+erotic
 erratic
 erroneous
 erroneously
@@ -5771,6 +5775,7 @@ escaped
 escapes
 escaping
 escarpment
+escort
 escorted
 escorting
 escorts
@@ -5813,6 +5818,7 @@ ether
 ethereal
 ethic
 ethics
+ethnic
 ethnically
 ethnicity
 ethnology
@@ -5823,7 +5829,6 @@ eucalyptus
 eugenics
 eulogy
 eunuch
-eunuchs
 euphoria
 eureka
 euro
@@ -6081,7 +6086,6 @@ expressions
 expressive
 expressly
 expressway
-expressways
 expulsion
 exquisite
 extant
@@ -6124,6 +6128,7 @@ extremists
 extremities
 extremity
 eye
+eyed
 eyesight
 eyewitness
 fable
@@ -6174,6 +6179,7 @@ fairgrounds
 fairies
 fairness
 fairy
+faithful
 faithfully
 faiths
 fake
@@ -6863,6 +6869,7 @@ funeral
 funerals
 fungal
 fungi
+fungus
 funicular
 funk
 funky
@@ -7002,7 +7009,6 @@ genes
 genesis
 genetic
 genetically
-geneticist
 genetics
 genie
 genitalia
@@ -7257,7 +7263,6 @@ grenadier
 grenadiers
 grew
 greyhound
-greyhounds
 grid
 grids
 grief
@@ -7926,6 +7931,7 @@ ideologies
 ideology
 idiom
 idiosyncratic
+idiot
 idle
 idol
 idols
@@ -8356,6 +8362,7 @@ inquirer
 inquiries
 inquiry
 inquisition
+insane
 insanity
 inscribed
 inscription
@@ -8805,7 +8812,6 @@ journalistic
 journalists
 journals
 journey
-journeyed
 journeyman
 journeys
 joyful
@@ -8925,7 +8931,6 @@ kites
 kitten
 kitty
 kiwi
-knack
 knee
 kneeling
 knees
@@ -9006,6 +9011,7 @@ language
 languages
 lantern
 lanterns
+lapsed
 laptop
 laptops
 largely
@@ -9832,11 +9838,9 @@ metaphysical
 metaphysics
 meteor
 meteorite
-meteorites
 meteorological
 meteorologist
 meteorology
-metering
 methane
 methanol
 method
@@ -11601,7 +11605,6 @@ plastic
 plasticity
 plastics
 plateau
-plateaus
 platform
 platforms
 plating
@@ -11734,7 +11737,6 @@ polygamy
 polygon
 polygonal
 polygons
-polyhedron
 polymer
 polymerization
 polymers
@@ -11854,6 +11856,7 @@ powdered
 powerful
 powerhouse
 powerless
+powers
 practically
 practice
 practiced
@@ -12116,7 +12119,6 @@ processors
 proclaim
 proclaimed
 proclaiming
-proclaims
 proclamation
 proctor
 procure
@@ -13735,7 +13737,6 @@ sandstone
 sandwich
 sandwiches
 sandy
-sane
 sang
 sanitary
 sanitation
@@ -13917,6 +13918,8 @@ sealed
 sealing
 seals
 seam
+seaman
+seamen
 seamless
 seams
 seaplane
@@ -14444,7 +14447,6 @@ size
 sizeable
 sizes
 skate
-skateboard
 skateboarding
 skated
 skater
@@ -14597,6 +14599,7 @@ snaps
 snare
 sneak
 sneaks
+sniper
 snipers
 snooker
 snoop
@@ -14608,7 +14611,6 @@ snowfall
 snowy
 soaked
 soap
-soaps
 soaring
 sober
 soccer
@@ -15218,7 +15220,6 @@ stressful
 stressing
 stretch
 stretched
-stretcher
 stretches
 stretching
 stricken
@@ -15286,6 +15287,7 @@ stunned
 stunning
 stunt
 stunts
+stupid
 sturdy
 sturgeon
 styled
@@ -15473,7 +15475,6 @@ supermarket
 supermarkets
 supernatural
 supernova
-superpowers
 superseded
 supersonic
 superstar
@@ -15721,7 +15722,6 @@ talent
 talented
 talents
 tales
-talisman
 taller
 tallest
 tallied
@@ -16131,6 +16131,7 @@ torsion
 torso
 tort
 tortoise
+torture
 tortured
 torus
 toss
@@ -16622,7 +16623,6 @@ unexpectedly
 unexplained
 unfair
 unfairly
-unfaithful
 unfamiliar
 unfavorable
 unfinished
@@ -16796,6 +16796,7 @@ urea
 urgently
 urges
 urging
+urine
 useful
 usefulness
 useless
@@ -16805,6 +16806,7 @@ ushered
 usurped
 utensils
 uterine
+uterus
 utilitarian
 utilities
 utility
@@ -17048,7 +17050,6 @@ vital
 vitality
 vitamin
 vitamins
-viticulture
 vivid
 vividly
 vocabulary
@@ -17353,7 +17354,6 @@ widowed
 widower
 widows
 wielded
-wielding
 wig
 wight
 wiki

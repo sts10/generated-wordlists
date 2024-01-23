@@ -26,6 +26,8 @@ abolition
 abolitionist
 aboriginal
 aborigines
+abortion
+abortions
 abound
 above
 abroad
@@ -52,6 +54,7 @@ absurdity
 abundance
 abundant
 abundantly
+abuse
 abused
 abuses
 abusive
@@ -203,6 +206,7 @@ adapter
 adapting
 adaptive
 add
+addict
 addicted
 addiction
 addictive
@@ -541,7 +545,6 @@ ambulance
 ambulatory
 ambush
 ambushed
-amen
 amenable
 amend
 amended
@@ -632,7 +635,6 @@ animation
 animations
 animator
 anime
-animosity
 ankle
 ankles
 annals
@@ -814,7 +816,6 @@ aquarium
 aquatic
 aquatics
 aqueduct
-aqueous
 aquifer
 arbitrarily
 arbitrary
@@ -1128,7 +1129,6 @@ aunts
 aura
 auspices
 austere
-austerity
 authentic
 authentication
 authenticity
@@ -1716,6 +1716,8 @@ bombardier
 bombardment
 bombed
 bomber
+bombers
+bombing
 bombings
 bombs
 bond
@@ -1787,7 +1789,6 @@ bourgeoisie
 boutique
 bovine
 bowed
-bower
 bowing
 bowl
 bowled
@@ -4484,7 +4485,6 @@ discarded
 discern
 discerned
 discernible
-discerning
 discharge
 discharged
 discharges
@@ -5115,7 +5115,6 @@ embraces
 embracing
 embroidered
 embroidery
-embroiled
 embryo
 embryonic
 embryos
@@ -5396,9 +5395,11 @@ eradicate
 eradication
 erase
 erased
+erect
 erected
 eroded
 erosion
+erotic
 err
 erratic
 erroneous
@@ -5410,13 +5411,13 @@ eruption
 eruptions
 erythrocytes
 escalated
-escalating
 escalation
 escape
 escaped
 escapes
 escaping
 escarpment
+escort
 escorted
 escorting
 escorts
@@ -5454,6 +5455,7 @@ eternally
 eternity
 ethic
 ethics
+ethnic
 ethnically
 ethnicity
 ethos
@@ -6020,7 +6022,6 @@ filthy
 finale
 finalist
 finalists
-finality
 finalized
 finally
 finance
@@ -6472,6 +6473,7 @@ funeral
 funerals
 fungal
 fungi
+fungus
 funk
 funky
 funnel
@@ -7447,6 +7449,7 @@ ideologies
 ideology
 idiom
 idiosyncratic
+idiot
 idle
 idol
 idolatry
@@ -7794,7 +7797,6 @@ inferiority
 inferred
 infertility
 infested
-infiltrate
 infiltration
 infinite
 infinitely
@@ -7908,6 +7910,7 @@ inquiries
 inquiring
 inquiry
 inquisition
+insane
 insanity
 inscribed
 inscription
@@ -9720,7 +9723,6 @@ nativity
 naturalist
 naturalized
 naturally
-nausea
 naval
 navigable
 navigate
@@ -9777,7 +9779,6 @@ networking
 networks
 neurological
 neurology
-neuron
 neurons
 neutral
 neutrality
@@ -9935,7 +9936,6 @@ oblivion
 oblivious
 oblong
 obscene
-obscenity
 obscure
 obscured
 obscurity
@@ -10296,7 +10296,6 @@ packs
 pad
 padded
 paddle
-padre
 padres
 pads
 pagan
@@ -10936,7 +10935,6 @@ pluralism
 pluralistic
 plurality
 plywood
-pneumatic
 pneumonia
 pocket
 pockets
@@ -11627,7 +11625,6 @@ psychologist
 psychologists
 psychology
 psychosis
-psychosomatic
 psychotherapy
 psychotic
 pub
@@ -12834,7 +12831,6 @@ sandstone
 sandwich
 sandwiches
 sandy
-sane
 sang
 sanitary
 sanitation
@@ -12987,6 +12983,7 @@ sculptors
 sculptural
 sculpture
 sculptures
+sea
 seaboard
 seafood
 seal
@@ -12994,6 +12991,8 @@ sealed
 sealing
 seals
 seam
+seaman
+seamen
 seams
 seaplane
 sears
@@ -13372,7 +13371,6 @@ shut
 shutdown
 shutout
 shutter
-shutters
 shutting
 shuttle
 shy
@@ -13623,6 +13621,7 @@ snapshot
 snatched
 sneak
 sniffed
+sniper
 snooker
 snout
 snow
@@ -14249,6 +14248,7 @@ stunned
 stunning
 stunt
 stunts
+stupid
 stupidity
 sturdy
 sturgeon
@@ -14323,7 +14323,6 @@ subsystem
 subsystems
 subtitled
 subtle
-subtlety
 subtly
 subtract
 subtracted
@@ -15038,6 +15037,7 @@ torque
 torrent
 torso
 torts
+torture
 tortured
 toss
 tossed
@@ -15192,7 +15192,6 @@ transplants
 transport
 transportation
 transported
-transporter
 transporting
 transports
 transposition
@@ -15665,6 +15664,7 @@ urged
 urgently
 urges
 urging
+urine
 usable
 useful
 usefully
@@ -15675,6 +15675,7 @@ usher
 ushered
 utensils
 uterine
+uterus
 utilitarian
 utilitarianism
 utilities
@@ -16314,7 +16315,6 @@ wrestlers
 wrestling
 wretched
 wrinkled
-wrinkles
 wrist
 wrists
 writ

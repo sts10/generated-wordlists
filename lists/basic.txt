@@ -31,6 +31,10 @@ abolition
 abolitionist
 aboriginal
 aborigines
+aborted
+abortion
+abortions
+abortive
 abound
 above
 abrasion
@@ -63,6 +67,7 @@ absurdity
 abundance
 abundant
 abundantly
+abuse
 abused
 abusers
 abuses
@@ -221,6 +226,7 @@ adapting
 adaptive
 add
 added
+addict
 addicted
 addiction
 addictive
@@ -261,7 +267,6 @@ adjusted
 adjusting
 adjustment
 adjustments
-adjusts
 admin
 administer
 administered
@@ -414,7 +419,6 @@ aggressive
 aggressively
 aggrieved
 agile
-agility
 aging
 agitated
 agitation
@@ -900,7 +904,6 @@ aptly
 aquaculture
 aquarium
 aquatic
-aqueous
 aquifer
 arable
 arbitrarily
@@ -1759,13 +1762,11 @@ blank
 blanket
 blankets
 blanks
-blasphemy
 blast
 blasted
 blasting
 blatant
 blaze
-blazed
 blazing
 bleak
 bled
@@ -1863,6 +1864,8 @@ bomb
 bombardment
 bombed
 bomber
+bombers
+bombing
 bombs
 bond
 bonded
@@ -2568,7 +2571,6 @@ certificate
 certificates
 certified
 certify
-cesarean
 cessation
 chain
 chained
@@ -3039,7 +3041,6 @@ collapsed
 collapses
 collapsing
 collar
-collars
 collateral
 colleague
 colleagues
@@ -4259,7 +4260,6 @@ decade
 decadence
 decades
 decay
-decayed
 decaying
 decays
 deceased
@@ -4619,7 +4619,6 @@ desserts
 destination
 destinations
 destined
-destinies
 destiny
 destitute
 destroy
@@ -4660,7 +4659,6 @@ determined
 determines
 determining
 determinism
-deterred
 deterrence
 deterrent
 detriment
@@ -4981,7 +4979,6 @@ display
 displayed
 displaying
 displays
-displeased
 displeasure
 disposable
 disposal
@@ -5408,7 +5405,6 @@ eaten
 eating
 eats
 ebb
-ebony
 eccentric
 eccentricity
 echo
@@ -5896,10 +5892,12 @@ eradication
 eras
 erase
 erased
+erect
 erected
 erode
 eroded
 erosion
+erotic
 err
 errand
 erratic
@@ -5920,6 +5918,7 @@ escape
 escaped
 escapes
 escaping
+escort
 escorted
 esophagus
 esoteric
@@ -5962,6 +5961,7 @@ ethic
 ethical
 ethically
 ethics
+ethnic
 ethnically
 ethnicity
 ethnology
@@ -6394,7 +6394,6 @@ fared
 fares
 farewell
 farm
-farmed
 farmer
 farmers
 farmhouse
@@ -7127,6 +7126,7 @@ funeral
 funerals
 fungal
 fungi
+fungus
 funk
 funnel
 funny
@@ -7934,9 +7934,7 @@ hesitation
 heterosexual
 heuristic
 heuristics
-hew
 hexagonal
-heyday
 hicks
 hid
 hidden
@@ -8065,7 +8063,6 @@ hopelessly
 hopelessness
 hopes
 hoping
-hopped
 hopper
 hopping
 hops
@@ -8249,6 +8246,7 @@ ideologies
 ideology
 idiom
 idioms
+idiot
 idle
 idleness
 idly
@@ -8409,7 +8407,6 @@ impotent
 impoverished
 impractical
 imprecise
-impregnated
 impress
 impressed
 impression
@@ -8733,6 +8730,7 @@ inquiries
 inquiring
 inquiry
 inquisition
+insane
 insanity
 insatiable
 inscribed
@@ -9099,7 +9097,6 @@ jade
 jagged
 jaguar
 jail
-jailed
 jails
 jam
 jammed
@@ -14334,6 +14331,8 @@ sealed
 sealing
 seals
 seam
+seaman
+seamen
 seamless
 seams
 search
@@ -15472,7 +15471,6 @@ standby
 standing
 standpoint
 stands
-standstill
 stanza
 stanzas
 staple
@@ -15784,6 +15782,7 @@ stump
 stung
 stunned
 stunning
+stupid
 stupidity
 sturdy
 stuttering
@@ -15997,7 +15996,6 @@ supervisors
 supervisory
 supine
 supper
-supplanted
 supplement
 supplemental
 supplemented
@@ -16718,6 +16716,7 @@ torso
 tort
 tortoise
 torts
+torture
 tortured
 toss
 tossed
@@ -17098,7 +17097,6 @@ typical
 typically
 typified
 typing
-tyrannical
 tyranny
 tyrant
 ubiquitous
@@ -17395,6 +17393,7 @@ urgent
 urgently
 urges
 urging
+urine
 urn
 usability
 usable
@@ -17414,6 +17413,7 @@ usual
 usually
 utensils
 uterine
+uterus
 utilitarian
 utilities
 utility

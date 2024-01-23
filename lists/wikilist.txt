@@ -26,6 +26,10 @@ abolishing
 abolition
 aboriginal
 aborigines
+aborted
+abortion
+abortions
+abortive
 above
 abrasive
 abridged
@@ -50,6 +54,7 @@ abstracts
 absurd
 abundance
 abundant
+abuse
 abused
 abuses
 abusing
@@ -187,6 +192,7 @@ adapting
 adaptive
 add
 added
+addict
 addicted
 addiction
 addictive
@@ -795,7 +801,6 @@ aquarium
 aquatic
 aquatics
 aqueduct
-aqueous
 aquifer
 arable
 arbitrarily
@@ -1774,6 +1779,8 @@ bombardier
 bombardment
 bombed
 bomber
+bombers
+bombing
 bombings
 bombs
 bond
@@ -1978,7 +1985,6 @@ bring
 bringing
 brings
 brink
-bristles
 brittle
 broad
 broadband
@@ -2599,7 +2605,6 @@ cheating
 check
 checked
 checking
-checklist
 checkpoint
 checkpoints
 checks
@@ -3824,6 +3829,7 @@ cube
 cubes
 cubic
 cubs
+cuckoo
 cue
 cues
 cuisine
@@ -4604,7 +4610,6 @@ dispersal
 disperse
 dispersed
 dispersion
-displace
 displaced
 displacing
 display
@@ -5232,7 +5237,6 @@ emissions
 emit
 emits
 emitted
-emitting
 emo
 emotion
 emotional
@@ -5491,11 +5495,13 @@ eradication
 eras
 erase
 erased
+erect
 erected
 erecting
 erode
 eroded
 erosion
+erotic
 erratic
 erroneous
 erroneously
@@ -5513,6 +5519,7 @@ escaped
 escapes
 escaping
 escarpment
+escort
 escorted
 escorting
 escorts
@@ -5555,6 +5562,7 @@ ether
 ethic
 ethical
 ethics
+ethnic
 ethnically
 ethnicity
 ethos
@@ -6040,7 +6048,6 @@ felt
 female
 females
 feminine
-femininity
 feminism
 feminist
 feminists
@@ -6240,7 +6247,6 @@ flamenco
 flames
 flaming
 flamingo
-flammable
 flank
 flanked
 flanking
@@ -6350,7 +6356,6 @@ foil
 foiled
 fold
 folded
-folder
 folding
 folds
 foliage
@@ -6645,6 +6650,7 @@ funeral
 funerals
 fungal
 fungi
+fungus
 funk
 funky
 funnel
@@ -6851,7 +6857,6 @@ gills
 gimmick
 gin
 ginger
-girder
 girl
 girlfriend
 girls
@@ -7562,7 +7567,6 @@ honoring
 honors
 hood
 hooded
-hoods
 hooked
 hooks
 hoop
@@ -7743,6 +7747,7 @@ ideological
 ideologies
 ideology
 idiom
+idiot
 idle
 idol
 idols
@@ -8106,6 +8111,7 @@ inquirer
 inquiries
 inquiry
 inquisition
+insane
 insanity
 inscribed
 inscription
@@ -8399,7 +8405,6 @@ jackpot
 jacks
 jade
 jag
-jagged
 jaguar
 jaguars
 jail
@@ -8407,7 +8412,6 @@ jailed
 jails
 jam
 jamboree
-jammed
 jamming
 jams
 japan
@@ -9723,8 +9727,6 @@ millions
 mills
 mime
 mimic
-mimicking
-mimicry
 mimics
 mind
 minds
@@ -11869,7 +11871,6 @@ prestigious
 presumably
 presumed
 presumption
-presumptive
 pretend
 pretended
 pretender
@@ -12489,7 +12490,6 @@ rapids
 rapper
 rappers
 rapping
-raps
 rare
 rarely
 rarer
@@ -13603,7 +13603,6 @@ safely
 safer
 safety
 saffron
-sag
 saga
 sage
 sages
@@ -13635,7 +13634,6 @@ salons
 saloon
 salsa
 salt
-salted
 salts
 saltwater
 salty
@@ -13794,7 +13792,6 @@ scouted
 scouting
 scouts
 scramble
-scrambled
 scrap
 scrapped
 scrapping
@@ -13845,6 +13842,8 @@ sealed
 sealing
 seals
 seam
+seaman
+seamen
 seamless
 seams
 seaplane
@@ -14547,6 +14546,7 @@ snaps
 snare
 sneak
 sneaks
+sniper
 snooker
 snoop
 snout
@@ -14681,7 +14681,6 @@ sovereign
 sovereignty
 soviet
 soviets
-sow
 soy
 soybean
 spa
@@ -15245,6 +15244,7 @@ stunned
 stunning
 stunt
 stunts
+stupid
 sturdy
 sturgeon
 style
@@ -15388,7 +15388,6 @@ sums
 sun
 sunflower
 sung
-sunglasses
 sunk
 sunken
 sunlight
@@ -16098,6 +16097,7 @@ torsion
 torso
 tort
 tortoise
+torture
 tortured
 toss
 tossed
@@ -16605,7 +16605,6 @@ unity
 universal
 universally
 universe
-universes
 university
 unjust
 unknowingly
@@ -16719,6 +16718,7 @@ urgent
 urgently
 urges
 urging
+urine
 urn
 usable
 usage
@@ -16735,6 +16735,7 @@ usual
 usually
 utensils
 uterine
+uterus
 utilitarian
 utilities
 utility
@@ -17300,7 +17301,6 @@ while
 whilst
 whip
 whipped
-whirlwind
 whiskey
 whistle
 whistler

@@ -437,6 +437,7 @@ aquacade
 aqualung
 aquaria
 aquarius
+aqueous
 aquiline
 arabia
 arabian
@@ -6515,7 +6516,6 @@ orangery
 orangy
 orate
 oration
-orb
 ordain
 ordinand
 ordinate
