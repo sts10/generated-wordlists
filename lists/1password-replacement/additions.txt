@@ -14,6 +14,9 @@ abolishing
 abolition
 aboriginal
 aborigines
+aborted
+abortions
+abortive
 abridged
 abruptly
 absences
@@ -702,7 +705,6 @@ authorizes
 authors
 authorship
 autocratic
-autograph
 autoimmune
 automated
 automatic
@@ -742,7 +744,6 @@ axioms
 axles
 axons
 babies
-bachelors
 backed
 backers
 background
@@ -1020,7 +1021,6 @@ boarding
 boards
 boardwalk
 boasted
-boasting
 boasts
 boats
 bobcats
@@ -1038,6 +1038,8 @@ bolts
 bombarded
 bombardier
 bombed
+bombers
+bombing
 bombings
 bombs
 bonded
@@ -1570,7 +1572,6 @@ claimed
 claiming
 claims
 clamped
-clams
 clans
 clapped
 clapping
@@ -1922,7 +1923,6 @@ confining
 confirmed
 confirming
 confirms
-conflicted
 conflicts
 confluence
 conformed
@@ -3057,7 +3057,6 @@ efficiency
 efficient
 efforts
 eggs
-eigenvalue
 eighteenth
 eighties
 ejected
@@ -3435,7 +3434,6 @@ excursion
 excursions
 excused
 excuses
-exec
 executable
 executes
 executing
@@ -4623,6 +4621,7 @@ identifies
 identities
 ideologies
 idioms
+idiot
 idleness
 idols
 ignited
@@ -5976,7 +5975,6 @@ musicians
 mustangs
 mustered
 mutants
-mutated
 mutations
 mutilated
 mutilation
@@ -7341,7 +7339,6 @@ radically
 radiology
 radios
 raffles
-rafters
 raged
 raging
 rags
@@ -8384,7 +8381,6 @@ sharks
 sharpened
 sharper
 sharply
-sharpness
 shattered
 shattering
 shaved
@@ -8625,7 +8621,6 @@ smoker
 smokers
 smoking
 smoothed
-smoother
 smoothing
 smoothly
 smuggled
@@ -8637,6 +8632,7 @@ snapped
 snapping
 snatched
 sniffed
+sniper
 snooker
 snorted
 soaked
@@ -8790,7 +8786,6 @@ spirits
 spiritual
 spitting
 splashed
-splicing
 splits
 splitting
 spoiled
@@ -9984,7 +9979,6 @@ venerable
 venerated
 veneration
 vengeance
-ventilator
 ventricle
 ventricles
 vents
@@ -10037,7 +10031,6 @@ vigilante
 vigorously
 villagers
 villages
-villainous
 villains
 villas
 vines
@@ -10091,6 +10084,7 @@ voluminous
 voluntary
 volunteer
 volunteers
+vomit
 vomiting
 voted
 voter
@@ -10264,7 +10258,6 @@ widows
 widths
 wielded
 wig
-wiki
 wildcats
 wilder
 wilderness
@@ -10304,7 +10297,6 @@ witnessing
 wits
 wizards
 woe
-woes
 wolverine
 wolverines
 womanhood

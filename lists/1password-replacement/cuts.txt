@@ -35,7 +35,6 @@ abnegate
 aboil
 aborning
 abort
-abortion
 about
 abrade
 abreact
@@ -48,7 +47,6 @@ absentee
 absinthe
 absolve
 abstruse
-abuse
 abut
 abutment
 abuttals
@@ -94,7 +92,6 @@ addend
 addenda
 addendum
 adder
-addict
 addle
 adduce
 aden
@@ -978,6 +975,7 @@ billy
 binaural
 bindery
 bing
+binge
 binnacle
 biograph
 biolog
@@ -1364,6 +1362,7 @@ busily
 buskin
 buss
 bustard
+bustle
 busybody
 but
 butane
@@ -1950,6 +1949,7 @@ coliform
 collagen
 collard
 collate
+colleen
 collet
 collide
 collie
@@ -1980,6 +1980,7 @@ comely
 comfit
 comfy
 comity
+commend
 commode
 commoner
 compeer
@@ -2244,7 +2245,6 @@ cuba
 cuban
 cubicle
 cubit
-cuckoo
 cuddle
 cuddly
 cudgel
@@ -3100,7 +3100,6 @@ equine
 equinox
 equipage
 erasure
-erect
 erelong
 eremite
 ergo
@@ -3108,7 +3107,6 @@ eric
 ermine
 eros
 erosible
-erotic
 erotica
 errancy
 errant
@@ -3126,7 +3124,6 @@ escapee
 escapism
 escheat
 eschew
-escort
 escrow
 escudo
 esdras
@@ -3152,7 +3149,6 @@ etch
 ethanol
 ethereal
 ethiopia
-ethnic
 ethnolog
 etholog
 ethyl
@@ -3695,7 +3691,6 @@ fumigate
 functor
 funerary
 funereal
-fungus
 furbelow
 furbish
 furl
@@ -4427,6 +4422,7 @@ holt
 homburg
 homebody
 homebred
+homely
 homeroom
 homesick
 homespun
@@ -4737,7 +4733,6 @@ innovate
 innuendo
 inroad
 inrush
-insane
 inscribe
 inseam
 inshore
@@ -5970,6 +5965,7 @@ moor
 mooring
 moorland
 moot
+mop
 mope
 moppet
 moraine
@@ -6519,6 +6515,7 @@ orangery
 orangy
 orate
 oration
+orb
 ordain
 ordinand
 ordinate
@@ -7263,6 +7260,7 @@ proffer
 profuse
 prolate
 prolix
+prolog
 prong
 pronged
 pronto
@@ -8008,8 +8006,6 @@ seagoing
 seagull
 seahorse
 sealskin
-seaman
-seamen
 seamy
 seance
 seaquake
@@ -8682,7 +8678,6 @@ stultify
 stun
 stunk
 stupefy
-stupid
 stupor
 stutter
 stygian
@@ -9240,7 +9235,6 @@ torrid
 torsi
 tortilla
 tortuous
-torture
 torus
 tory
 tote
@@ -9676,7 +9670,6 @@ uric
 urinal
 urinary
 urinate
-urine
 urolog
 ursine
 uruguay
@@ -9691,7 +9684,6 @@ usury
 utah
 utensil
 uteri
-uterus
 utile
 uvula
 uvulae
