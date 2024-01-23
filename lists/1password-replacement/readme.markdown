@@ -4,10 +4,9 @@ This repository contains a proposed replacement word list for the password manag
 
 ## Attributes of the new list
 
-
 I'm not 100% which wordlist the 1Password app uses currently, but there is [a wordlist in this public GitHub repository](https://github.com/1Password/spg/blob/master/testdata/agwordlist.txt). The list contains 18,325 words, ranging between 3 and 8 characters. (I've seen other versions of the list that are slightly shorter, like [this 18,176-word one](https://1password.com/txt/agwordlist.txt).)
 
-My replacement list is this same length -- 18,325 words -- but includes words up to 10 characters long.
+My proposed replacement list is this same length -- 18,325 words -- but includes words up to 10 characters long.
 
 ```text
 List length               : 18325 words
@@ -18,7 +17,8 @@ Free of prefix words?     : false
 Free of suffix words?     : false
 Uniquely decodable?       : false
 Entropy per word          : 14.162 bits
-Efficiency per character  : 1.990 bits
+Efficiency per character  : 1.989 bits
+Mean edit distance        : 7.020
 ```
 
 ## Which words were removed? Which were added?
@@ -51,7 +51,7 @@ together-rivals-puma-loneliness-reserve-clusters
 
 ## Methodology
 
-My replacement new list uses frequently used words [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html) and Wikipedia. 
+My replacement new list uses frequently used words [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html) and Wikipedia (found via [this project](https://github.com/sts10/wla)). 
 
 Thank you to the users who replied to [a Reddit post about this list](https://www.reddit.com/r/1Password/comments/ur4otq/proposed_new_word_list/) for helping me think through these notes further than I had.
 
@@ -88,7 +88,9 @@ If a word in a passphrase is very uncommon, it may even be auto-corrected by som
 ## Tools and resources I used to generate these word lists
 
 - [Common Word List Maker](https://github.com/sts10/common_word_list_maker): Scrapes Google Books Ngram data to create a long word list of frequently appearing words
-- [Tidy](https://github.com/sts10/tidy): A command-line utility for editing word lists
+- [Wikipedia Frequent Word Scraper](https://github.com/IlyaSemenov/wikipedia-word-frequency/): To get a list of words frequently appearing on Wikipedia
+- [Tidy](https://github.com/sts10/tidy): A command-line utility for editing word lists that I wrote
+- [Word List Analyzer](https://github.com/sts10/wla): A tool I wrote to analyze word lists (rather than edit them)
 
 ## Disclaimers
 
