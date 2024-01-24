@@ -76,9 +76,15 @@ aboriginal
 aboriginals
 aborigine
 aborigines
+abort
+aborted
 aborting
+abortion
 abortionist
 abortionists
+abortions
+abortive
+aborts
 abound
 abounded
 abounding
@@ -154,6 +160,7 @@ absurdity
 absurdly
 abundances
 abundantly
+abuse
 abused
 abuser
 abusers
@@ -418,6 +425,7 @@ adaptors
 adapts
 add
 addendum
+addict
 addicted
 addicting
 addiction
@@ -1678,7 +1686,6 @@ aquatics
 aquavit
 aqueduct
 aqueducts
-aqueous
 aquiculture
 aquifer
 arabesque
@@ -2931,7 +2938,6 @@ bedlam
 bedpan
 bedraggle
 bedraggled
-bedraggling
 bedridden
 bedrock
 bedroom
@@ -3791,6 +3797,7 @@ bombast
 bombastic
 bombed
 bomber
+bombers
 bombings
 bombs
 bombshell
@@ -5522,7 +5529,10 @@ chassis
 chastely
 chastened
 chastening
+chastise
+chastised
 chastisement
+chastises
 chastising
 chastity
 chats
@@ -5993,7 +6003,6 @@ classicist
 classicists
 classics
 classier
-classiest
 classifiable
 classification
 classifications
@@ -7067,7 +7076,6 @@ confusion
 confusions
 conga
 congaed
-congaing
 congeal
 congealed
 congealing
@@ -8116,6 +8124,7 @@ criminals
 criminologist
 criminologists
 criminology
+crimped
 crimson
 cringe
 cringed
@@ -8127,6 +8136,7 @@ crinkliest
 crinkling
 crinkly
 crinoline
+cripple
 crippled
 cripples
 crippling
@@ -8329,6 +8339,7 @@ cubs
 cuckold
 cuckolded
 cuckolding
+cuckoo
 cuckoos
 cucumber
 cucumbers
@@ -11540,7 +11551,6 @@ egotistic
 egotistical
 egregious
 egregiously
-eigenvalue
 eigenvalues
 eighteen
 eighteenth
@@ -12375,6 +12385,7 @@ erases
 erasing
 erasure
 erasures
+erect
 erected
 erectile
 erecting
@@ -12390,6 +12401,7 @@ eroding
 erogenous
 erosion
 erosive
+erotic
 erotica
 erotically
 eroticism
@@ -12441,6 +12453,7 @@ eschew
 eschewed
 eschewing
 eschews
+escort
 escorted
 escorting
 escorts
@@ -12496,6 +12509,7 @@ ethereal
 ethic
 ethically
 ethics
+ethnic
 ethnically
 ethnicity
 ethnics
@@ -12833,7 +12847,6 @@ exonerated
 exonerating
 exoneration
 exorbitant
-exorbitantly
 exorcism
 exorcisms
 exorcist
@@ -14084,7 +14097,6 @@ florae
 floral
 floras
 florid
-floridly
 florist
 florists
 floss
@@ -14847,6 +14859,7 @@ fungi
 fungicidal
 fungicide
 fungicides
+fungus
 funicular
 funk
 funked
@@ -15395,7 +15408,6 @@ glade
 gladiator
 gladiatorial
 gladiators
-gladiola
 gladioli
 gladiolus
 gladly
@@ -16235,7 +16247,6 @@ hairstyle
 hairstyles
 hairstylist
 hairy
-halest
 halfhearted
 halfheartedly
 halfpenny
@@ -16683,7 +16694,6 @@ heiress
 heiresses
 heirloom
 heirlooms
-heisted
 helicopter
 helicopters
 heliotrope
@@ -17368,7 +17378,6 @@ huntress
 huntsman
 huntsmen
 hurdle
-hurdler
 hurdles
 hurdling
 hurl
@@ -17564,8 +17573,8 @@ idioms
 idiosyncrasies
 idiosyncrasy
 idiosyncratic
+idiot
 idiotic
-idiots
 idleness
 idler
 idlers
@@ -17730,7 +17739,6 @@ immunized
 immunizing
 immunology
 immured
-immuring
 immutability
 immutable
 impact
@@ -18757,6 +18765,7 @@ inquisitiveness
 inquisitor
 inquisitors
 inroads
+insane
 insanely
 insaner
 insanity
@@ -19954,7 +19963,6 @@ keying
 keynote
 keynoted
 keynoting
-keypunch
 keystone
 keystroke
 keystrokes
@@ -20142,7 +20150,6 @@ kookie
 kookiest
 kosher
 koshering
-kowtowed
 kroner
 kronor
 krypton
@@ -21628,7 +21635,6 @@ martins
 martyr
 martyrdom
 martyred
-martyring
 martyrs
 marvel
 marveled
@@ -22514,7 +22520,6 @@ missing
 missionaries
 missionary
 missives
-misspell
 misspelled
 misspelling
 misspellings
@@ -23328,7 +23333,6 @@ neutrino
 neutron
 never
 newcomer
-newfangled
 newly
 newscaster
 newsier
@@ -23377,7 +23381,6 @@ nitpicker
 nitpicking
 nitrate
 nitroglycerin
-nitroglycerine
 nix
 nixing
 noblest
@@ -23385,7 +23388,6 @@ nobody
 nocturnal
 nodal
 nodding
-nodular
 nodule
 noggin
 noise
@@ -25094,7 +25096,6 @@ peaked
 peanut
 peanuts
 pearl
-pearled
 pearliest
 pearls
 pearly
@@ -25356,7 +25357,6 @@ peritonitis
 periwinkle
 perjure
 perjured
-perjuring
 perjury
 perk
 perked
@@ -25800,7 +25800,6 @@ pinholes
 pinioned
 pinioning
 pink
-pinked
 pinker
 pinking
 pinkish
@@ -25876,6 +25875,7 @@ pivoting
 pivots
 pixel
 pixels
+pixie
 pizazz
 pizza
 pizzas
@@ -26972,7 +26972,6 @@ privateer
 privateers
 privately
 privates
-privatest
 privatization
 privatizations
 privatize
@@ -27328,7 +27327,6 @@ prosecutors
 proselyte
 proselytes
 proselytize
-proselytized
 proselytizing
 prosier
 prosody
@@ -27599,6 +27597,7 @@ pumping
 pumpkin
 pumpkins
 pumps
+punch
 punched
 punches
 punchier
@@ -27627,7 +27626,6 @@ punishing
 punishment
 punishments
 punitive
-punk
 punks
 punning
 puns
@@ -27730,7 +27728,6 @@ pushing
 pushover
 pushy
 pusillanimous
-pussier
 pussyfooting
 pustules
 putative
@@ -29974,7 +29971,6 @@ ripens
 riper
 riposted
 riposting
-ripple
 riser
 risers
 riskier
@@ -30453,7 +30449,6 @@ sandwiched
 sandwiches
 sandwiching
 sandy
-sane
 sanguinary
 sanguine
 sanitarium
@@ -30889,7 +30884,6 @@ scribbles
 scribbling
 scrimmage
 scrimp
-scrimped
 scrimping
 scrimshaw
 scripting
@@ -30981,6 +30975,7 @@ sealer
 sealers
 seals
 sealskin
+seaman
 seamanship
 seamed
 seamier
@@ -32630,6 +32625,7 @@ sniffle
 sniffled
 sniffling
 sniffs
+sniper
 snipers
 snipes
 sniping
@@ -32906,6 +32902,7 @@ soothingly
 soothsayer
 soothsayers
 sootiest
+sooty
 sop
 sophist
 sophisticate
@@ -33033,6 +33030,7 @@ spangled
 spangles
 spaniel
 spaniels
+spank
 spanked
 spanking
 spanned
@@ -33451,6 +33449,7 @@ spud
 spuds
 spumed
 spumone
+spunk
 spunkiest
 spur
 spurious
@@ -33515,7 +33514,6 @@ squawking
 squaws
 squeak
 squeaked
-squeakier
 squeakiest
 squeaking
 squeaks
@@ -34295,6 +34293,7 @@ stupefy
 stupefying
 stupendous
 stupendously
+stupid
 stupidest
 stupidity
 stupidly
@@ -35306,6 +35305,7 @@ taming
 tamper
 tampered
 tampering
+tampon
 tampons
 tandem
 tangent
@@ -36283,10 +36283,10 @@ tortoises
 tortoiseshell
 tortuous
 tortuously
+torture
 tortured
 torturer
 torturers
-tortures
 torturing
 torus
 toss
@@ -37375,7 +37375,6 @@ underestimating
 underexpose
 underexposed
 underfed
-underfeed
 underfeeding
 underflow
 underfoot
@@ -38241,6 +38240,7 @@ usury
 utensil
 utensils
 uterine
+uterus
 utilitarian
 utilitarianism
 utilitarians
@@ -38715,6 +38715,7 @@ vividness
 vivified
 viviparous
 vivisection
+vixen
 vocabularies
 vocabulary
 vocal
@@ -38761,6 +38762,7 @@ volunteering
 volunteers
 voluptuous
 voluptuousness
+vomit
 vomited
 vomiting
 vomits
@@ -39586,7 +39588,6 @@ womanized
 womanizer
 womanizing
 womankind
-womanlier
 womanliest
 womanlike
 womanliness
@@ -39809,7 +39810,6 @@ wrongdoers
 wrongdoing
 wrongdoings
 wronged
-wronger
 wrongful
 wrongfully
 wrongfulness
