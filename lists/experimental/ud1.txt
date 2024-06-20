@@ -10120,6 +10120,7 @@ mixes
 mixing
 mixture
 mixtures
+moan
 moaned
 moat
 mob
@@ -11459,7 +11460,6 @@ pesticide
 pesticides
 pests
 petals
-peters
 petitioned
 petitioner
 petitioners
@@ -11666,7 +11666,6 @@ playing
 playlist
 playoff
 playoffs
-plays
 playwright
 playwrights
 plaza
@@ -13899,6 +13898,7 @@ screened
 screening
 screenings
 screenplay
+screenplays
 screens
 screenwriter
 screw

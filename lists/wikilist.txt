@@ -6247,6 +6247,7 @@ flamenco
 flames
 flaming
 flamingo
+flammable
 flank
 flanked
 flanking
@@ -11255,8 +11256,6 @@ pests
 pet
 petal
 petals
-peter
-peters
 petite
 petition
 petitioned
@@ -13603,6 +13602,7 @@ safely
 safer
 safety
 saffron
+sag
 saga
 sage
 sages
