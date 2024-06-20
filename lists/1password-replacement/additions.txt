@@ -6622,7 +6622,6 @@ pesticide
 pesticides
 pests
 petals
-peters
 petitioned
 petitioner
 petitions
@@ -8621,6 +8620,7 @@ smoker
 smokers
 smoking
 smoothed
+smoother
 smoothing
 smoothly
 smuggled

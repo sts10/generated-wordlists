@@ -1363,7 +1363,6 @@ busily
 buskin
 buss
 bustard
-bustle
 busybody
 but
 butane
@@ -6898,6 +6897,7 @@ petal
 petaled
 petalled
 petard
+peter
 petiole
 petit
 petrel

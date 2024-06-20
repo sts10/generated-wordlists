@@ -8377,6 +8377,7 @@ ledger
 lees
 leeward
 leftist
+leftover
 legacies
 legacy
 legality
@@ -10564,7 +10565,6 @@ pessimistic
 pesticides
 pests
 petals
-peters
 petite
 petitioned
 petitioners

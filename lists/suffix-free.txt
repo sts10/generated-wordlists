@@ -9936,6 +9936,7 @@ oblivion
 oblivious
 oblong
 obscene
+obscenity
 obscure
 obscured
 obscurity
@@ -10697,7 +10698,6 @@ pesticide
 pesticides
 pests
 petals
-peters
 petitioned
 petitioner
 petitioners
