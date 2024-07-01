@@ -6546,7 +6546,6 @@ comic
 comical
 comically
 comics
-comm
 comma
 command
 commandant
@@ -37705,6 +37704,7 @@ uninviting
 unionization
 unionize
 unionized
+unique
 uniquely
 uniqueness
 uniquer

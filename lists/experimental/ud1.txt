@@ -2140,6 +2140,7 @@ bunk
 bunker
 bunkers
 bunny
+buoyancy
 burden
 burdened
 burdens
@@ -3049,7 +3050,6 @@ comforting
 comforts
 comic
 comics
-comm
 comma
 command
 commandant

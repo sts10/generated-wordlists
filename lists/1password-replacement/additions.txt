@@ -705,6 +705,7 @@ authorizes
 authors
 authorship
 autocratic
+autograph
 autoimmune
 automated
 automatic
@@ -1744,7 +1745,6 @@ comforted
 comforting
 comforts
 comics
-comm
 commandant
 commanded
 commander

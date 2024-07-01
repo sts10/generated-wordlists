@@ -1129,6 +1129,7 @@ aunts
 aura
 auspices
 austere
+austerity
 authentic
 authentication
 authenticity
@@ -2840,7 +2841,6 @@ comforting
 comforts
 comic
 comics
-comm
 comma
 command
 commandant
