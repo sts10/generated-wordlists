@@ -25841,6 +25841,7 @@ pistol
 pistols
 piston
 pistons
+pita
 pitch
 pitchblende
 pitched
@@ -27166,7 +27167,6 @@ proliferating
 prolific
 prolifically
 prolixity
-prolog
 prologue
 prologues
 prolong
