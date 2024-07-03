@@ -705,7 +705,6 @@ authorizes
 authors
 authorship
 autocratic
-autograph
 autoimmune
 automated
 automatic
@@ -5186,6 +5185,7 @@ knees
 knighted
 knighthood
 knights
+knob
 knocked
 knocking
 knocks
@@ -6615,6 +6615,7 @@ pertinent
 perturbed
 pervades
 pervasive
+perversion
 perverted
 pesos
 pessimism
@@ -7335,6 +7336,7 @@ radiating
 radiation
 radicalism
 radically
+radicals
 radiology
 radios
 raffles
@@ -8620,7 +8622,6 @@ smoker
 smokers
 smoking
 smoothed
-smoother
 smoothing
 smoothly
 smuggled

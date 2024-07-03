@@ -154,10 +154,9 @@ acidic
 acidity
 acids
 acknowledged
-acknowledgement
 acknowledges
 acknowledging
-acknowledgments
+acknowledgment
 acne
 acorn
 acoustical
@@ -4981,7 +4980,6 @@ enchanted
 enchanting
 enchantment
 encircled
-encirclement
 enclaves
 enclosed
 enclosing
@@ -5511,7 +5509,6 @@ extremities
 extremity
 extrinsic
 extrusion
-exuberance
 exuberant
 eyebrows
 eyed
@@ -8205,6 +8202,7 @@ knighthood
 knights
 knitting
 knives
+knob
 knocked
 knocking
 knockout
@@ -8235,6 +8233,7 @@ lacked
 lacking
 lacks
 lacrosse
+lactate
 lactation
 lactic
 lactose
@@ -8377,7 +8376,6 @@ ledger
 lees
 leeward
 leftist
-leftover
 legacies
 legacy
 legality
@@ -9053,6 +9051,7 @@ menial
 meningitis
 menopause
 menstrual
+menstruation
 mentality
 mentally
 mentioned
@@ -10558,6 +10557,7 @@ pervaded
 pervades
 pervasive
 perverse
+perversion
 perverted
 pesos
 pessimism
@@ -11648,6 +11648,7 @@ radiation
 radiator
 radicalism
 radically
+radicals
 radioactive
 radioactivity
 radiology
@@ -12105,7 +12106,7 @@ remained
 remaining
 remains
 remake
-remanded
+remand
 remarkable
 remarkably
 remarked
@@ -13542,7 +13543,6 @@ sniffing
 sniper
 snooker
 snoop
-snoring
 snorted
 snout
 snowboarding

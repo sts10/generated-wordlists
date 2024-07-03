@@ -419,7 +419,6 @@ aggressive
 aggressively
 aggrieved
 agile
-agility
 aging
 agitated
 agitation
@@ -2572,7 +2571,6 @@ certificate
 certificates
 certified
 certify
-cesarean
 cessation
 chain
 chained
@@ -3463,7 +3461,6 @@ conjugate
 conjugated
 conjugation
 conjunction
-conjure
 connect
 connected
 connecting
@@ -5406,7 +5403,6 @@ eaten
 eating
 eats
 ebb
-ebony
 eccentric
 eccentricity
 echo
@@ -9281,6 +9277,7 @@ knights
 knit
 knitting
 knives
+knob
 knock
 knocked
 knocking
@@ -9315,6 +9312,7 @@ lack
 lacked
 lacking
 lacks
+lactate
 lactation
 lactic
 lactose
@@ -9338,6 +9336,7 @@ lam
 lamb
 lambda
 lambs
+lame
 lament
 lamented
 laminated
@@ -9929,7 +9928,6 @@ magnificent
 magnified
 magnitude
 magnitudes
-magnum
 mahatma
 mahogany
 maid
@@ -10276,6 +10274,7 @@ mend
 meningitis
 menopause
 menstrual
+menstruation
 mental
 mentality
 mentally
@@ -11688,6 +11687,7 @@ perturbed
 pervades
 pervasive
 perverse
+perversion
 perverted
 pesos
 pessimism
@@ -12937,6 +12937,7 @@ radiator
 radical
 radicalism
 radically
+radicals
 radio
 radioactive
 radiology
@@ -15876,7 +15877,6 @@ suburban
 suburbs
 subversion
 subversive
-subvert
 subway
 succeed
 succeeded

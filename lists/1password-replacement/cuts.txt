@@ -1363,6 +1363,7 @@ busily
 buskin
 buss
 bustard
+bustle
 busybody
 but
 butane
@@ -5136,7 +5137,6 @@ lackey
 laconic
 lacquer
 lacrimal
-lactate
 lacteal
 lacuna
 lacunae
@@ -5159,7 +5159,6 @@ lakeside
 lambaste
 lambent
 lambskin
-lame
 lamella
 lamellae
 lamia
@@ -6515,6 +6514,7 @@ orangery
 orangy
 orate
 oration
+orb
 ordain
 ordinand
 ordinate
@@ -6600,6 +6600,7 @@ outskirt
 outsmart
 outstay
 outstrip
+outwards
 outwear
 outwit
 outwork

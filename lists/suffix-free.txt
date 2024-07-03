@@ -158,11 +158,8 @@ acidity
 acids
 acknowledge
 acknowledged
-acknowledgement
 acknowledges
 acknowledging
-acknowledgment
-acknowledgments
 acoustic
 acquaintance
 acquaintances
@@ -1129,7 +1126,6 @@ aunts
 aura
 auspices
 austere
-austerity
 authentic
 authentication
 authenticity
@@ -8474,6 +8470,7 @@ knights
 knit
 knitting
 knives
+knob
 knock
 knocked
 knocking
@@ -8502,6 +8499,7 @@ lacked
 lacking
 lacks
 lacrosse
+lactate
 lactation
 lactose
 laden
@@ -9240,6 +9238,7 @@ menacing
 meningitis
 menopause
 menstrual
+menstruation
 mentality
 mention
 mentioning
@@ -11798,6 +11797,7 @@ radiant
 radiating
 radical
 radicalism
+radicals
 radio
 radioactive
 radioactivity
