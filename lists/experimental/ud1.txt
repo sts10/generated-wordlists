@@ -169,11 +169,8 @@ acidity
 acids
 acknowledge
 acknowledged
-acknowledgement
 acknowledges
 acknowledging
-acknowledgment
-acknowledgments
 acne
 acorn
 acoustic
@@ -2140,7 +2137,6 @@ bunk
 bunker
 bunkers
 bunny
-buoyancy
 burden
 burdened
 burdens
@@ -3937,6 +3933,7 @@ criterion
 critic
 critical
 critically
+criticism
 criticisms
 criticize
 criticized
@@ -5754,6 +5751,7 @@ epidemiology
 epidermal
 epidermis
 epilepsy
+epilogue
 episcopal
 episode
 episodes
@@ -9080,6 +9078,7 @@ knights
 knit
 knitting
 knives
+knob
 knock
 knocked
 knocking
@@ -9110,6 +9109,7 @@ lacked
 lacking
 lacks
 lacrosse
+lactate
 lactation
 lactose
 lacy
@@ -9125,7 +9125,6 @@ lambda
 lambs
 lament
 lamented
-laminated
 lamps
 lancers
 lancet
@@ -9908,6 +9907,7 @@ menacing
 meningitis
 menopause
 menstrual
+menstruation
 mentality
 mentally
 mention
@@ -10120,7 +10120,6 @@ mixes
 mixing
 mixture
 mixtures
-moan
 moaned
 moat
 mob
@@ -11666,6 +11665,7 @@ playing
 playlist
 playoff
 playoffs
+plays
 playwright
 playwrights
 plaza
@@ -12630,6 +12630,7 @@ radiating
 radical
 radicalism
 radically
+radicals
 radio
 radioactive
 radioactivity
@@ -13246,7 +13247,6 @@ reproductive
 reptiles
 republic
 republican
-republicanism
 republicans
 republics
 republished
@@ -13898,7 +13898,6 @@ screened
 screening
 screenings
 screenplay
-screenplays
 screens
 screenwriter
 screw
@@ -17270,6 +17269,7 @@ welcoming
 weld
 welded
 welding
+welfare
 wellington
 welsh
 welt

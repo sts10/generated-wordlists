@@ -162,7 +162,6 @@ acidity
 acids
 acknowledge
 acknowledged
-acknowledgement
 acknowledges
 acknowledging
 acme
@@ -557,7 +556,6 @@ alum
 aluminum
 alumni
 always
-amalgam
 amalgamated
 amalgamation
 amassed
@@ -3948,6 +3946,7 @@ criterion
 critic
 critical
 critically
+criticism
 criticisms
 criticize
 criticized
@@ -5713,6 +5712,7 @@ epidemic
 epidemics
 epidemiology
 epilepsy
+epilogue
 episcopal
 episcopate
 episode
@@ -8084,7 +8084,6 @@ impulses
 impurities
 inability
 inaccessible
-inaccuracies
 inaccurate
 inactive
 inactivity
@@ -8770,7 +8769,6 @@ jaw
 jaws
 jays
 jazz
-jazzy
 jealous
 jealousy
 jeans
@@ -8942,6 +8940,7 @@ knighthood
 knights
 knitting
 knives
+knob
 knock
 knocked
 knocking
@@ -12556,6 +12555,7 @@ radiation
 radiator
 radical
 radically
+radicals
 radio
 radioactive
 radioactivity
@@ -15219,7 +15219,6 @@ stressful
 stressing
 stretch
 stretched
-stretcher
 stretches
 stretching
 stricken
@@ -17274,6 +17273,7 @@ welcoming
 weld
 welded
 welding
+welfare
 wellington
 wells
 welsh

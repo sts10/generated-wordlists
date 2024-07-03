@@ -3091,7 +3091,6 @@ epicycle
 epigram
 epigraph
 epilog
-epilogue
 epiphany
 epochs
 equable
@@ -10028,7 +10027,6 @@ weevil
 weft
 weir
 weirdo
-welfare
 welkin
 well
 wellborn

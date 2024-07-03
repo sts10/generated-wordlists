@@ -324,12 +324,8 @@ acidifying
 acidity
 acidly
 acknowledge
-acknowledgement
-acknowledgements
 acknowledges
 acknowledging
-acknowledgment
-acknowledgments
 acme
 acne
 acolytes
@@ -3678,7 +3674,6 @@ blueprints
 bluer
 blues
 bluest
-bluestocking
 bluff
 bluffer
 bluffest
@@ -4148,7 +4143,6 @@ bridgehead
 bridges
 bridgework
 bridles
-bridling
 briefcase
 briefcases
 briefer
@@ -8157,6 +8151,7 @@ crisscrossing
 criteria
 criterion
 critic
+criticism
 criticisms
 criticize
 criticized
@@ -11166,7 +11161,6 @@ drowsy
 drubbing
 drudge
 drudgery
-drudging
 drug
 drugged
 drugging
@@ -12305,6 +12299,7 @@ epigrams
 epilepsy
 epileptic
 epileptics
+epilogue
 episcopacy
 episcopal
 episcopate
@@ -14346,7 +14341,6 @@ forceps
 forcible
 forcibly
 forearm
-forearmed
 forearms
 forebears
 foreboding
@@ -17480,7 +17474,6 @@ hyphen
 hyphenate
 hyphenated
 hyphenation
-hyphened
 hyphens
 hypnosis
 hypnotic
@@ -20187,6 +20180,7 @@ lacquered
 lacquering
 lacquers
 lacrosse
+lactate
 lactated
 lactating
 lactation
@@ -21022,6 +21016,7 @@ loosened
 looseness
 loosening
 loosens
+looser
 looses
 loot
 looted
@@ -21426,6 +21421,7 @@ manes
 maneuver
 maneuverability
 maneuverable
+maneuvering
 maneuvers
 manfully
 manga
@@ -21965,7 +21961,9 @@ menopausal
 menopause
 menorah
 menstrual
+menstruate
 menstruating
+menstruation
 mentalities
 mentality
 menthol
@@ -24170,7 +24168,6 @@ outlook
 outlooks
 outlying
 outmaneuvered
-outmaneuvering
 outmoded
 outnumber
 outnumbered
@@ -25486,6 +25483,7 @@ pervading
 pervasive
 perverse
 perversely
+perversion
 perversions
 perversity
 pervert
@@ -27998,6 +27996,7 @@ radiators
 radical
 radicalism
 radically
+radicals
 radio
 radioactive
 radioactivity
@@ -28258,6 +28257,7 @@ rear
 reared
 rearing
 rearmament
+rearmed
 rearmost
 rearrangements
 rearranges
@@ -31731,7 +31731,6 @@ shove
 shoved
 shovel
 shoveled
-shovelful
 shoveling
 shovels
 shoves
@@ -32942,7 +32941,6 @@ sortie
 sortied
 sortieing
 sorties
-soubriquet
 soughing
 soulful
 soulless
@@ -34678,6 +34676,7 @@ sunburnt
 sundaes
 sundered
 sundering
+sundial
 sundown
 sundries
 sundry
@@ -39169,6 +39168,7 @@ welder
 welders
 welding
 welds
+welfare
 wellington
 wellspring
 wellsprings

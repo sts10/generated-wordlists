@@ -3820,7 +3820,6 @@ cotton
 couch
 couched
 cough
-coughed
 coughing
 council
 councils
@@ -3978,6 +3977,7 @@ criterion
 critic
 critical
 critically
+criticism
 criticisms
 criticize
 criticized
@@ -5851,6 +5851,7 @@ epidermal
 epidermis
 epilepsy
 epileptic
+epilogue
 episcopal
 episode
 episodes
@@ -11700,7 +11701,6 @@ pet
 petals
 petite
 petition
-petitioned
 petitioner
 petitioners
 petitions
@@ -14955,7 +14955,6 @@ slang
 slant
 slap
 slapped
-slapping
 slash
 slate
 slaughter
@@ -17927,6 +17926,7 @@ welcoming
 weld
 welded
 welding
+welfare
 wellington
 wells
 welsh

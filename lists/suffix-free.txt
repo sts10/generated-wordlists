@@ -3664,6 +3664,7 @@ criterion
 critic
 critical
 critically
+criticism
 criticisms
 criticize
 criticized
@@ -4861,7 +4862,6 @@ driveway
 driving
 drone
 drones
-droplet
 droplets
 dropped
 dropping
@@ -5360,6 +5360,7 @@ epidemiology
 epidermal
 epidermis
 epilepsy
+epilogue
 episcopal
 episode
 episodes
@@ -7211,7 +7212,6 @@ hints
 hired
 hires
 hiring
-hiss
 hissed
 histamine
 histogram
@@ -9935,7 +9935,6 @@ oblivion
 oblivious
 oblong
 obscene
-obscenity
 obscure
 obscured
 obscurity
@@ -16096,6 +16095,7 @@ welcoming
 weld
 welded
 welding
+welfare
 wellington
 welsh
 welt

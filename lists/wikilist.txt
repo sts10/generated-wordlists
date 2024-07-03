@@ -496,7 +496,6 @@ almanac
 almighty
 almond
 almost
-alms
 alone
 along
 alongside
@@ -1425,7 +1424,6 @@ beach
 beaches
 beacon
 beacons
-bead
 beads
 beagle
 beak
@@ -3762,6 +3760,7 @@ criterion
 critic
 critical
 critically
+criticism
 criticisms
 criticize
 criticized
@@ -5456,6 +5455,7 @@ epics
 epidemic
 epidemics
 epilepsy
+epilogue
 episcopal
 episcopate
 episode
@@ -6247,7 +6247,6 @@ flamenco
 flames
 flaming
 flamingo
-flammable
 flank
 flanked
 flanking
@@ -8605,6 +8604,7 @@ knighthood
 knights
 knitting
 knives
+knob
 knock
 knocked
 knocking
@@ -8655,6 +8655,7 @@ lakes
 lam
 lamb
 lambda
+lame
 lament
 lamented
 laments
@@ -10127,7 +10128,6 @@ native
 natives
 nativity
 natural
-naturalism
 naturalist
 naturalized
 naturally
@@ -12408,6 +12408,7 @@ radiation
 radiator
 radical
 radically
+radicals
 radio
 radioactive
 radiology
@@ -13504,7 +13505,6 @@ rounds
 rouse
 route
 routed
-router
 routes
 routine
 routinely
@@ -13602,7 +13602,6 @@ safely
 safer
 safety
 saffron
-sag
 saga
 sage
 sages
@@ -17255,6 +17254,7 @@ welcoming
 weld
 welded
 welding
+welfare
 wellington
 wells
 welsh
