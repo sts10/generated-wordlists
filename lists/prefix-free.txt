@@ -156,7 +156,6 @@ acids
 acknowledged
 acknowledges
 acknowledging
-acknowledgment
 acne
 acorn
 acoustical
@@ -5144,6 +5143,7 @@ epidermal
 epidermis
 epilepsy
 epileptic
+epilogue
 episcopal
 episcopate
 episodes
@@ -6907,7 +6907,6 @@ hemp
 henceforth
 henchmen
 hens
-hepatic
 hepatitis
 heralded
 heraldic
@@ -16089,6 +16088,7 @@ welcomes
 welcoming
 welded
 welding
+welfare
 wellington
 wells
 welsh
