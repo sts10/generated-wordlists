@@ -4862,6 +4862,7 @@ driveway
 driving
 drone
 drones
+droplet
 droplets
 dropped
 dropping
@@ -7136,7 +7137,6 @@ hemispheres
 hemoglobin
 hemorrhage
 henceforth
-hepatic
 hepatitis
 herald
 heraldic

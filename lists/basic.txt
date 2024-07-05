@@ -7895,7 +7895,6 @@ hen
 hence
 henceforth
 hens
-hepatic
 hepatitis
 herald
 heralded
@@ -11701,6 +11700,7 @@ pet
 petals
 petite
 petition
+petitioned
 petitioner
 petitioners
 petitions

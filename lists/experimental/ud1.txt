@@ -7668,7 +7668,6 @@ hemp
 henceforth
 henchmen
 hens
-hepatic
 hepatitis
 herald
 heralded
@@ -9125,6 +9124,7 @@ lambda
 lambs
 lament
 lamented
+laminated
 lamps
 lancers
 lancet

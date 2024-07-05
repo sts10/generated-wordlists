@@ -556,6 +556,7 @@ alum
 aluminum
 alumni
 always
+amalgam
 amalgamated
 amalgamation
 amassed
@@ -7599,7 +7600,6 @@ hemorrhage
 hemp
 henceforth
 henchmen
-hepatic
 hepatitis
 herald
 heralded
