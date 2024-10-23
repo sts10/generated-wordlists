@@ -100,6 +100,6 @@ Also, I make no guarantees about the security of passphrases generated with word
 
 ## On licensing/usage
 
-This project has no association with 1Password, Wikipedia, or Google, nor, to my knowledge, does either entity endorse this project.
+This project has no association with 1Password, Wikipedia, or Google, nor, to my knowledge, do any of these entities endorse this project.
 
 See parent directory's README for more licensing information.
