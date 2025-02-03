@@ -496,6 +496,7 @@ almanac
 almighty
 almond
 almost
+alms
 alone
 along
 alongside
@@ -7238,7 +7239,6 @@ hangars
 hanged
 hanging
 hangs
-hank
 happen
 happened
 happening

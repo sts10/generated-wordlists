@@ -16362,7 +16362,6 @@ hangover
 hangovers
 hanker
 hankering
-hankie
 haphazard
 haphazardly
 hapless
@@ -17474,6 +17473,7 @@ hyphen
 hyphenate
 hyphenated
 hyphenation
+hyphened
 hyphens
 hypnosis
 hypnotic
