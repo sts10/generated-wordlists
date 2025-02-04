@@ -163,7 +163,7 @@ assessing jazz wishing fighting painter executing
 
 **[prefix-free.txt](lists/prefix-free.txt)** is a long list free of prefix words.
 ```text
-List length               : 16384 words
+List length               : 16385 words
 Mean word length          : 8.26 characters
 Length of shortest word   : 3 characters (ads)
 Length of longest word    : 15 characters (vulnerabilities)
@@ -171,22 +171,22 @@ Free of prefix words?     : true
 Free of suffix words?     : false
 Uniquely decodable?       : true
 Entropy per word          : 14.000 bits
-Efficiency per character  : 1.694 bits
+Efficiency per character  : 1.695 bits
 Assumed entropy per char  : 4.667 bits
 Above brute force line?   : true
 Above Shannon line?       : false
 Shortest edit distance    : 1
-Mean edit distance        : 8.076
+Mean edit distance        : 8.063
 Longest shared prefix     : 14
 Unique character prefix   : 15
 
 Word samples
 ------------
-ordering pearls redistricting lorry perspectives above
-steadfast reliant rattled alcoholism borrowing executes
-anthems puzzling fanned dryness woodlands begotten
-coronation segmented limp workforce guts wicker
-liquids corresponded raising chasm morocco biofeedback
+tranquility tents creatively anywhere hoarse ruled
+stonewall creamy acclaimed protectors simulations peering
+steaming vanishing malignant maximizes exasperated nemesis
+chicks seaman circling oxen waxed prism
+defeating preexisting moot authored earlier rocky
 ```
 </details>
 

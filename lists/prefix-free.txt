@@ -4979,6 +4979,7 @@ enchanted
 enchanting
 enchantment
 encircled
+encirclement
 enclaves
 enclosed
 enclosing
@@ -5509,6 +5510,7 @@ extremities
 extremity
 extrinsic
 extrusion
+exuberance
 exuberant
 eyebrows
 eyed
@@ -6743,7 +6745,6 @@ hangars
 hanged
 hanging
 hangs
-hank
 haphazard
 happened
 happenings
@@ -12105,7 +12106,7 @@ remained
 remaining
 remains
 remake
-remand
+remanded
 remarkable
 remarkably
 remarked
