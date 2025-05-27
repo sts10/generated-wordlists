@@ -1727,7 +1727,6 @@ bird
 birds
 birth
 birthday
-birthplace
 births
 biscuit
 biscuits
@@ -9928,6 +9927,7 @@ magnificent
 magnified
 magnitude
 magnitudes
+magnum
 mahatma
 mahogany
 maid
@@ -11944,7 +11944,6 @@ pleading
 pleas
 pleasant
 pleasantly
-please
 pleased
 pleases
 pleasing
@@ -12105,7 +12104,6 @@ porch
 pore
 pores
 pork
-porosity
 porous
 port
 portable
@@ -14955,6 +14953,7 @@ slang
 slant
 slap
 slapped
+slapping
 slash
 slate
 slaughter
@@ -15876,6 +15875,7 @@ suburban
 suburbs
 subversion
 subversive
+subvert
 subway
 succeed
 succeeded

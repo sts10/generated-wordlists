@@ -1534,7 +1534,6 @@ bipolar
 birch
 birds
 birthday
-birthplace
 births
 biscuits
 bisexual
@@ -8376,6 +8375,7 @@ ledger
 lees
 leeward
 leftist
+leftover
 legacies
 legacy
 legality
@@ -10907,7 +10907,6 @@ porch
 pores
 pork
 pornographic
-porosity
 porous
 portable
 portage
@@ -13543,6 +13542,7 @@ sniffing
 sniper
 snooker
 snoop
+snoring
 snorted
 snout
 snowboarding
