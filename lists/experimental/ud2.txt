@@ -3368,7 +3368,6 @@ birthdays
 birthed
 birthing
 birthmark
-birthplace
 birthplaces
 birthrate
 birthrates
@@ -3674,6 +3673,7 @@ blueprints
 bluer
 blues
 bluest
+bluestocking
 bluff
 bluffer
 bluffest
@@ -26002,11 +26002,11 @@ pleaded
 pleader
 pleading
 pleads
+pleas
 pleasanter
 pleasantest
 pleasantries
 pleasantry
-please
 pleased
 pleases
 pleasing
@@ -26346,7 +26346,6 @@ pored
 pork
 pornographers
 pornographic
-porosity
 porous
 porphyry
 porpoises
@@ -32941,6 +32940,7 @@ sortie
 sortied
 sortieing
 sorties
+soubriquet
 soughing
 soulful
 soulless
