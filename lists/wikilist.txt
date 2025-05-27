@@ -1425,6 +1425,7 @@ beach
 beaches
 beacon
 beacons
+bead
 beads
 beagle
 beak
@@ -1635,7 +1636,6 @@ bird
 birds
 birth
 birthday
-birthplace
 births
 biscuit
 biscuits
@@ -11497,7 +11497,6 @@ pleading
 pleads
 pleas
 pleasant
-please
 pleased
 pleasing
 pleasure
@@ -13505,6 +13504,7 @@ rounds
 rouse
 route
 routed
+router
 routes
 routine
 routinely

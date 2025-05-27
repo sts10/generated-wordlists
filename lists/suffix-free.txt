@@ -1126,6 +1126,7 @@ aunts
 aura
 auspices
 austere
+austerity
 authentic
 authentication
 authenticity
@@ -1582,7 +1583,6 @@ birch
 bird
 birds
 birthday
-birthplace
 births
 biscuits
 bisexual
@@ -7212,6 +7212,7 @@ hints
 hired
 hires
 hiring
+hiss
 hissed
 histamine
 histogram
@@ -9935,6 +9936,7 @@ oblivion
 oblivious
 oblong
 obscene
+obscenity
 obscure
 obscured
 obscurity
@@ -10898,7 +10900,6 @@ pleaded
 pleading
 pleas
 pleasantly
-please
 pleased
 pleases
 pleasing
@@ -11033,7 +11034,6 @@ porch
 pore
 pork
 pornographic
-porosity
 porous
 portable
 portage
