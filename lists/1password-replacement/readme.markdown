@@ -4,10 +4,10 @@ This repository contains a proposed replacement word list for the password manag
 
 ## Attributes of the new list
 
-I'm not 100% which wordlist the 1Password app uses currently, but I think it's the list located at [https://1password.com/txt/AgileWords.txt](https://1password.com/txt/AgileWords.txt). 
+As of May 2025, I'm not 100% which word list the 1Password apps use currently, but I think it's the list located at [https://1password.com/txt/AgileWords.txt](https://1password.com/txt/AgileWords.txt). 
 <!-- there is [a wordlist in this public GitHub repository](https://github.com/1Password/spg/blob/master/testdata/agwordlist.txt). The list contains 18,325 words, ranging between 3 and 8 characters. (I've seen other versions of the list that are slightly shorter, like [this 18,176-word one](https://1password.com/txt/agwordlist.txt).) -->
 
-My proposed replacement list is a bit long -- 18,325 words -- but includes words up to 10 characters long.
+My proposed replacement list is a bit longer -- 18,325 words -- but includes words up to 10 characters long.
 
 ```text
 List length               : 18325 words
@@ -24,30 +24,28 @@ Mean edit distance        : 7.020
 
 ## Which words were removed? Which were added?
 
-You can see a list of exact cuts and additions in this directory/repo.
-
-Some of the words on the current 1Password list but not on the new list include: loch, avioinc, coquina, nodulose, vide, wold, quean.
+You can see a list of exact cuts and additions in this directory/repo. My proposed list cuts a lot of proper nouns/names from the list.
 
 ## Comparing 5 random passphrases from each list
 
-From 1Password's current list (using 1Password's online password generator):
+From 1Password's current list (using [1Password's online password generator](https://1password.com/password-generator)):
 
 ```text
-guilt-triune-illumine-gail-jonquil-habacuc
-blat-natality-deerskin-bedstead-purblind-tenon
-mimi-dub-eugenics-bien-populism-squid
-ham-cataract-thus-pithy-pushcart-piggy
-convex-bump-styled-salesmen-iniquity-troupe
+amateurs-beka-threat-listened-righty-rumored
+persia-flares-tabitha-grange-teddy-mush
+prone-rambo-framing-hooded-hiss-latex
+barks-beaut-proctor-mulder-scariest-bells
+barnett-jokers-joseph-runners-decker-identity
 ```
 
 From this new list:
 
 ```text
-hunt-annuities-lots-diaries-pertains-male
-gave-flask-buy-hoped-idealized-roller
-converted-roofing-purged-riddle-pans-participle
-flattered-apostolic-provide-devolution-plenty-lain
-together-rivals-puma-loneliness-reserve-clusters
+object-booked-greatest-officer-indemnity-elongation
+plead-chilly-recipes-eastbound-extremist-peaches
+charcoal-sarcastic-savages-shellfish-adoration-spores
+locating-swung-scandalous-batted-annotated-waxed
+propellant-scheme-buffet-librarians-watershed-hat
 ```
 
 ## Methodology
