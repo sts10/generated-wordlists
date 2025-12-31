@@ -8,7 +8,7 @@ A repository for word lists I've generated. Most are proof-of-concept or experim
 
 Detailed information about most of the lists in this repository is available below. The main differences are in list length, whether they're uniquely decodable, and whether they have corresponding dice roll values in them.
 
-Following [the BIPS 0039 spec](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki), all lists in this repository are Unicode normalized with [NFKD](https://www.unicode.org/glossary/#normalization_form_kd), though since they're all English lists this shouldn't matter much, if at all.
+Following [the BIPS-0039 spec](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki), all lists in this repository are Unicode normalized with [NFKD](https://www.unicode.org/glossary/#normalization_form_kd), though since they're all English lists this shouldn't matter much, if at all.
 
 ### Just give me a word list
 
